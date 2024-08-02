@@ -2,11 +2,9 @@ import csv
 import requests
 from datetime import datetime
 
-# Define the API key and the base URL
 api_key = "TcAsfbl78LnPadowZCoBIL25bFdTArErtcqSKt9J"
 base_url = "https://api.congress.gov/v3/bill"
 
-# Read the CSV file
 with open('non-environment.csv', 'r') as csvfile:
     reader = csv.DictReader(csvfile)
     # Print out the fieldnames for debugging purposes
@@ -26,6 +24,7 @@ else:
         introduced_date = row[introduced_date_column].strip()
         if introduced_date and datetime.strptime(introduced_date, "%Y-%m-%d") > datetime(2000, 1, 1):
             congress = row['congress'].strip()
+# why is this case sensitive
             bill_type = row['type'].strip().lower()
             bill_number = row['number'].strip()
 

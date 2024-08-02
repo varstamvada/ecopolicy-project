@@ -1,0 +1,111 @@
+{
+    "pagination": {
+        "count": 7
+    },
+    "request": {
+        "bioguideId": "c000767",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "626",
+            "congress": 103,
+            "introducedDate": "1994-06-15",
+            "latestAction": {
+                "actionDate": "1994-06-15",
+                "actionTime": "11:51:58",
+                "text": "On agreeing to the Coppersmith amendment (A001) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/626?format=json"
+        },
+        {
+            "amendmentNumber": "142",
+            "congress": 103,
+            "introducedDate": "1993-06-24",
+            "latestAction": {
+                "actionDate": "1993-06-24",
+                "actionTime": "17:41:06",
+                "text": "On agreeing to the Coppersmith amendment (A008) Agreed to by recorded vote: 272 - 146 (Roll no. 270). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/142?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-05-24",
+            "latestAction": {
+                "actionDate": "1994-06-06",
+                "text": "Referred to the Subcommittee on Water Resources and Environment."
+            },
+            "number": "4478",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "U.S. Colonias Water Pollution Control Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4478?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-05-24",
+            "latestAction": {
+                "actionDate": "1994-06-06",
+                "text": "Referred to the Subcommittee on Water Resources and Environment."
+            },
+            "number": "4479",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "U.S.-Mexico Border Water Pollution Control Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4479?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-04-19",
+            "latestAction": {
+                "actionDate": "1994-04-19",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4258",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Home Worker Tax Relief Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4258?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-11-22",
+            "latestAction": {
+                "actionDate": "1993-11-24",
+                "text": "Sponsor introductory remarks on measure. (CR E3063)"
+            },
+            "number": "3629",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Postal Service Fiscal Responsibility Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3629?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-06-09",
+            "latestAction": {
+                "actionDate": "1993-11-10",
+                "text": "Provisions Included in H.R.3400."
+            },
+            "number": "2365",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Breeder Reactor Termination Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2365?format=json"
+        }
+    ]
+}

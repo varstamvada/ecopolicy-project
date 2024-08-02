@@ -1,0 +1,129 @@
+{
+    "pagination": {
+        "count": 8
+    },
+    "request": {
+        "bioguideId": "m000212",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 107,
+            "introducedDate": "2001-10-04",
+            "latestAction": {
+                "actionDate": "2001-10-15",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3032",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XVIII of the Social Security Act to extend coverage of immunosuppressive drugs under the Medicare Program to cases of transplants not paid for under the program.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3032?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-05-11",
+            "latestAction": {
+                "actionDate": "2000-05-15",
+                "text": "Executive Comment Requested from Interior."
+            },
+            "number": "4436",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "George C. Marshall Memorial Plaza Study Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4436?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-10-19",
+            "latestAction": {
+                "actionDate": "1999-11-01",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "3107",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XVIII of the Social Security Act to extend coverage of immunosuppressive drugs under the Medicare Program to cases of transplants not paid for under the program.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3107?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-13",
+            "latestAction": {
+                "actionDate": "2000-10-04",
+                "text": "Sponsor introductory remarks on measure. (CR H8796)"
+            },
+            "number": "152",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Expressing the sense of Congress that urgent action is needed to limit the hardship endured by senior citizens when meeting their prescription drug needs.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/106/hconres/152?format=json"
+        },
+        {
+            "amendmentNumber": "25",
+            "congress": 104,
+            "introducedDate": "1995-01-27",
+            "latestAction": {
+                "actionDate": "1995-01-27",
+                "actionTime": "14:30:11",
+                "text": "On agreeing to the Mascara amendment (A016) Failed by recorded vote: 158 - 259 (Roll no. 55). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/25?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-04-05",
+            "latestAction": {
+                "actionDate": "1995-04-21",
+                "text": "Referred to the Subcommittee on Domestic and International Monetary Policy."
+            },
+            "number": "1406",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "George C. Marshall Commemorative Coin Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1406?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-03-29",
+            "latestAction": {
+                "actionDate": "1995-04-24",
+                "text": "For Further Action See H.J.Res.73."
+            },
+            "number": "82",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Proposing an amendment to the Constitution of the United States relating to the terms of office of Senators, Representatives, and the President and Vice President.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/104/hjres/82?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-01-27",
+            "latestAction": {
+                "actionDate": "1998-05-22",
+                "text": "Sponsor introductory remarks on measure. (CR H3758)"
+            },
+            "number": "203",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Requesting that the United States Postal Service issue a commemorative postage stamp honoring the 100th anniversary of the founding of the Veterans of Foreign Wars of the United States.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/105/hconres/203?format=json"
+        }
+    ]
+}

@@ -1,0 +1,649 @@
+{
+    "pagination": {
+        "count": 44
+    },
+    "request": {
+        "bioguideId": "h001052",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 118,
+            "introducedDate": "2024-07-12",
+            "latestAction": {
+                "actionDate": "2024-07-12",
+                "text": "Placed on the Union Calendar, Calendar No. 483."
+            },
+            "number": "9027",
+            "policyArea": {
+                "name": null
+            },
+            "title": "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2025",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9027?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-06-27",
+            "latestAction": {
+                "actionDate": "2023-09-28",
+                "actionTime": "23:30:16",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "4368",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2024",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/4368?format=json"
+        },
+        {
+            "amendmentNumber": "743",
+            "congress": 118,
+            "introducedDate": "2023-11-14",
+            "latestAction": {
+                "actionDate": "2023-11-14",
+                "actionTime": "14:23:33",
+                "text": "On agreeing to the Harris amendment (A019) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/hamdt/743?format=json"
+        },
+        {
+            "amendmentNumber": "744",
+            "congress": 118,
+            "introducedDate": "2023-11-14",
+            "latestAction": {
+                "actionDate": "2023-11-14",
+                "actionTime": "14:32:55",
+                "text": "On agreeing to the Harris amendment (A020) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/hamdt/744?format=json"
+        },
+        {
+            "amendmentNumber": "304",
+            "congress": 118,
+            "introducedDate": "2023-09-26",
+            "latestAction": {
+                "actionDate": "2023-09-26",
+                "actionTime": "21:33:12",
+                "text": "On agreeing to the Harris amendments (A001) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/hamdt/304?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-11-19",
+            "latestAction": {
+                "actionDate": "2021-11-22",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "6060",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Conscience Protection Act of 2021",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/6060?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-04-01",
+            "latestAction": {
+                "actionDate": "2019-04-02",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2014",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Conscience Protection Act of 2019",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/2014?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-12-11",
+            "latestAction": {
+                "actionDate": "2014-12-12",
+                "text": "Sponsor introductory remarks on measure. (CR E1807-1808)"
+            },
+            "number": "5872",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "American Solution for Simplifying the Estate Tax Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5872?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-12-09",
+            "latestAction": {
+                "actionDate": "2014-12-12",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "5820",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "YES to Cures Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5820?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-12-09",
+            "latestAction": {
+                "actionDate": "2014-12-12",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "5819",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Funding Scientists at the Peak Age of Discovery Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5819?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-03-13",
+            "latestAction": {
+                "actionDate": "2014-04-16",
+                "text": "Referred to the Subcommittee on Immigration and Border Security."
+            },
+            "number": "4238",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "To amend the Immigration and Nationality Act to provide for requirements for employers of H-2B nonimmigrants, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4238?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-12-05",
+            "latestAction": {
+                "actionDate": "2013-12-06",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3667",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XIX of the Social Security Act to increase by 10 percentage points the required State match for certain newly eligible individuals under the Medicaid program and to apply savings against sequestration reductions otherwise required, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3667?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-10-28",
+            "latestAction": {
+                "actionDate": "2013-10-28",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "3356",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Clean Campaign Contributions Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3356?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-10-23",
+            "latestAction": {
+                "actionDate": "2014-02-27",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3324",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Lacey Act Paperwork Reduction Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3324?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-07-24",
+            "latestAction": {
+                "actionDate": "2013-07-26",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2817",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Protect Patient Access to Quality Health Professionals Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2817?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-05-23",
+            "latestAction": {
+                "actionDate": "2013-06-14",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations."
+            },
+            "number": "2164",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Human Cloning Prohibition Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2164?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-03-14",
+            "latestAction": {
+                "actionDate": "2013-03-14",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "1184",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Small Business Deposit Relief Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/1184?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-02-05",
+            "latestAction": {
+                "actionDate": "2013-02-14",
+                "text": "Referred to the Subcommittee on Public Lands and Environmental Regulation."
+            },
+            "number": "513",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Harriet Tubman National Historical Parks Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/513?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-01-29",
+            "latestAction": {
+                "actionDate": "2013-01-29",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "436",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Government Neutrality in Contracting Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/436?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-01-22",
+            "latestAction": {
+                "actionDate": "2013-02-28",
+                "text": "Referred to the Subcommittee on the Constitution And Civil Justice."
+            },
+            "number": "22",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Proposing an amendment to the Constitution of the United States to limit the number of consecutive terms that a Member of Congress may serve.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/113/hjres/22?format=json"
+        },
+        {
+            "amendmentNumber": "1489",
+            "congress": 112,
+            "introducedDate": "2012-09-20",
+            "latestAction": {
+                "actionDate": "2012-09-20",
+                "actionTime": "19:26:06",
+                "text": "On agreeing to the Harris amendment (A007) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/1489?format=json"
+        },
+        {
+            "amendmentNumber": "1209",
+            "congress": 112,
+            "introducedDate": "2012-06-05",
+            "latestAction": {
+                "actionDate": "2012-06-05",
+                "actionTime": "20:41:29",
+                "text": "On agreeing to the Harris amendment (A040) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/1209?format=json"
+        },
+        {
+            "amendmentNumber": "1045",
+            "congress": 112,
+            "introducedDate": "2012-05-08",
+            "latestAction": {
+                "actionDate": "2012-05-08",
+                "actionTime": "18:33:23",
+                "text": "On agreeing to the Harris amendment (A012) Agreed to by recorded vote: 219 - 189 (Roll no. 209). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/1045?format=json"
+        },
+        {
+            "amendmentNumber": "675",
+            "congress": 112,
+            "introducedDate": "2011-07-14",
+            "latestAction": {
+                "actionDate": "2011-07-15",
+                "actionTime": "11:59:13",
+                "text": "On agreeing to the Harris amendment (A072) Agreed to by recorded vote: 236 - 185 (Roll no. 596). (consideration: CR H5102-5103)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/675?format=json"
+        },
+        {
+            "amendmentNumber": "600",
+            "congress": 112,
+            "introducedDate": "2011-07-11",
+            "latestAction": {
+                "actionDate": "2011-07-11",
+                "actionTime": "19:47:33",
+                "text": "On agreeing to the Harris amendment (A021) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/600?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-11-30",
+            "latestAction": {
+                "actionDate": "2012-12-07",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "6623",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Human Cloning Prohibition Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6623?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-26",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "4929",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend and modify the temporary suspension of duty on certain women's footwear.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/4929?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-26",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "4926",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend and modify the temporary suspension of duty on certain women's footwear.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/4926?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-26",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "4927",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend and modify the temporary suspension of duty on certain men's footwear.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/4927?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-26",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "4928",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend and modify the temporary suspension of duty on certain men's footwear.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/4928?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-02-09",
+            "latestAction": {
+                "actionDate": "2012-02-17",
+                "text": "Referred to the Subcommittee on National Parks, Forests and Public Lands."
+            },
+            "number": "4007",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Harriet Tubman National Historical Parks Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/4007?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-07-11",
+            "latestAction": {
+                "actionDate": "2012-02-09",
+                "text": "Placed on the Union Calendar, Calendar No. 271."
+            },
+            "number": "2484",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Harmful Algal Blooms and Hypoxia Research and Control Amendments Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2484?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-12-13",
+            "latestAction": {
+                "actionDate": "2018-12-13",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "7304",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "To authorize the Secretary of the Treasury to issue Border Wall Bonds, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/7304?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-02-02",
+            "latestAction": {
+                "actionDate": "2018-12-06",
+                "text": "Became Public Law No: 115-288."
+            },
+            "number": "4913",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "An act to designate the facility of the United States Postal Service located at 816 East Salisbury Parkway in Salisbury, Maryland, as the \"Sgt. Maj. Wardell B. Turner Post Office Building\"",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4913?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-07-25",
+            "latestAction": {
+                "actionDate": "2017-09-06",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations."
+            },
+            "number": "3391",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medical Marijuana Research Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/3391?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-03-02",
+            "latestAction": {
+                "actionDate": "2017-04-25",
+                "text": "Referred to the Subcommittee on Research and Technology."
+            },
+            "number": "1342",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "FILCCA of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/1342?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-02-03",
+            "latestAction": {
+                "actionDate": "2017-02-16",
+                "text": "Referred to the Subcommittee on Europe, Eurasia, and Emerging Threats."
+            },
+            "number": "88",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Calling on the Russian Federation to stop the violence in Ukraine, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/115/hres/88?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-12-07",
+            "latestAction": {
+                "actionDate": "2016-12-22",
+                "text": "Referred to the Subcommittee on Immigration and Border Security."
+            },
+            "number": "6468",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "FILCA of 2016",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/6468?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-06-21",
+            "latestAction": {
+                "actionDate": "2016-06-27",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations."
+            },
+            "number": "5549",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medical Marijuana Research Act of 2016",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5549?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-09-11",
+            "latestAction": {
+                "actionDate": "2015-10-05",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations."
+            },
+            "number": "3498",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Human Cloning Prohibition Act of 2105 [sic]",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3498?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-05-19",
+            "latestAction": {
+                "actionDate": "2015-05-22",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2447",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend the Public Health Service Act to provide for an NIH research strategic plan.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/2447?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-01-08",
+            "latestAction": {
+                "actionDate": "2015-01-09",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "221",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Obamacare Taxpayer Bailout Prevention Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/221?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-09-15",
+            "latestAction": {
+                "actionDate": "2015-09-15",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3508",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "American Solution for Simplifying the Estate Tax Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3508?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-05-19",
+            "latestAction": {
+                "actionDate": "2015-05-22",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2448",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend the Public Health Service Act to authorize a program of high-risk, high-reward research.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/2448?format=json"
+        }
+    ]
+}

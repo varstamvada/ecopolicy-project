@@ -1,0 +1,784 @@
+{
+    "pagination": {
+        "count": 53
+    },
+    "request": {
+        "bioguideId": "m000195",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "851",
+            "congress": 97,
+            "introducedDate": "1982-09-16",
+            "latestAction": {
+                "actionDate": "1982-09-16",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 152 - 243 (Record Vote No: 338). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/851?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-12-15",
+            "latestAction": {
+                "actionDate": "1982-12-15",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "7427",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Agricultural Export Subsidy Offset Act of 1982",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/7427?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-12-15",
+            "latestAction": {
+                "actionDate": "1982-12-21",
+                "text": "Referred to Subcommittee on Employment Opportunities."
+            },
+            "number": "7426",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Job Opportunity and Business Stimulation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/7426?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-08-03",
+            "latestAction": {
+                "actionDate": "1982-08-06",
+                "text": "Referred to Subcommittee on Public Assistance and Unemployment Compensation."
+            },
+            "number": "6917",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "A bill to amend the Federal-State Extended Unemployment Compensation Act of 1970 with respect to the conditions under which extended compensation is payable in any State.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6917?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-10-19",
+            "latestAction": {
+                "actionDate": "1984-03-29",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "4162",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Criminal Fine Collection Act of 1983",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4162?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-10-18",
+            "latestAction": {
+                "actionDate": "1983-10-18",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "4147",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow deductions for contributions to education savings accounts.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4147?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-06-28",
+            "latestAction": {
+                "actionDate": "1983-07-14",
+                "text": "Referred to Subcommittee on Public Assistance and Unemployment Compensation."
+            },
+            "number": "3432",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Health Care Coverage for Unemployed Workers Act of 1983",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/3432?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-04-28",
+            "latestAction": {
+                "actionDate": "1983-04-28",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "2830",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to exclude from the gross income of each individual up to $750 of interest.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/2830?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-02-24",
+            "latestAction": {
+                "actionDate": "1983-03-07",
+                "text": "Referred to Subcommittee on Department Operations, Research, and Foreign Agriculture."
+            },
+            "number": "1659",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Agricultural Export Subsidy Offset Act of 1983",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/1659?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-02-22",
+            "latestAction": {
+                "actionDate": "1984-08-10",
+                "text": "For Further Action See H.R.6163."
+            },
+            "number": "1579",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "A bill to amend title 28, United States Code, to alter the composition of the Northern District of Illinois.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/1579?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-01-03",
+            "latestAction": {
+                "actionDate": "1983-02-04",
+                "text": "Referred to Subcommittee on International Economic Policy and Trade."
+            },
+            "number": "222",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Agricultural Export Subsidy Offset Act of 1983",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/222?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-01-03",
+            "latestAction": {
+                "actionDate": "1983-03-17",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "116",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Job Opportunity and Business Stimulation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/116?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-05-09",
+            "latestAction": {
+                "actionDate": "1983-05-09",
+                "text": "Referred to House Committee on Government Operations."
+            },
+            "number": "262",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Small Business Participation Act of 1983",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/98/hjres/262?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-07-20",
+            "latestAction": {
+                "actionDate": "1983-08-02",
+                "text": "Referred to Subcommittee on Economic Stabilization."
+            },
+            "number": "278",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "A resolution expressing the sense of the House of Representatives that the President should establish a Productivity and Quality Award to be made to those businesses, workers, other individuals, and public sector organizations which make major contributions toward sustained improvement in productivity and quality performance.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/98/hres/278?format=json"
+        },
+        {
+            "amendmentNumber": "914",
+            "congress": 99,
+            "introducedDate": "1986-06-17",
+            "latestAction": {
+                "actionDate": "1986-06-17",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 204 - 208 (Record Vote No: 173). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/914?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-09-26",
+            "latestAction": {
+                "actionDate": "1985-10-01",
+                "text": "Referred to Subcommittee on Trade."
+            },
+            "number": "3438",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "National Security and Trade Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3438?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-02-25",
+            "latestAction": {
+                "actionDate": "1985-02-28",
+                "text": "Referred to Subcommittee on Health."
+            },
+            "number": "1254",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend the Social Security Act to permit widows and surviving divorced wives who remarry after age 50 to qualify for medicare.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/1254?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-01-24",
+            "latestAction": {
+                "actionDate": "1985-03-06",
+                "text": "Referred to Subcommittee on Civil and Constitutional Rights."
+            },
+            "number": "691",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Congressional and Judicial Equal Employment Opportunity Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/691?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-06-19",
+            "latestAction": {
+                "actionDate": "1986-07-02",
+                "text": "Became Public Law No: 99-352."
+            },
+            "number": "664",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution to designate July 3, 1986, as \"Let Freedom Ring Day\", and to request the President to issue a proclamation encouraging the people of the United States to ring bells on such day immediately following the relighting of the torch of the Statue of Liberty.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/99/hjres/664?format=json"
+        },
+        {
+            "amendmentNumber": "81",
+            "congress": 100,
+            "introducedDate": "1987-05-07",
+            "latestAction": {
+                "actionDate": "1987-05-07",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 124 - 294 (Record Vote No: 93). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/81?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-05-11",
+            "latestAction": {
+                "actionDate": "1988-08-10",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "4576",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Congressional and Judicial Equal Employment Opportunity Act of 1988",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4576?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-04-26",
+            "latestAction": {
+                "actionDate": "1988-05-25",
+                "text": "Referred to Subcommittee on Human Resources."
+            },
+            "number": "4463",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Cooperative Child Care Act for Responsible Efforts",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4463?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-03-23",
+            "latestAction": {
+                "actionDate": "1988-08-10",
+                "text": "Executive Comment Received From Commerce."
+            },
+            "number": "4240",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on certain glass bulbs until January 1, 1993.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4240?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-11-10",
+            "latestAction": {
+                "actionDate": "1987-11-30",
+                "text": "Referred to Subcommittee on Energy and Power."
+            },
+            "number": "3634",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to provide for the intrastate wheeling of electric power, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3634?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-03-17",
+            "latestAction": {
+                "actionDate": "1988-03-17",
+                "text": "Resolution Agreed to in House by Yea-Nay Vote: 381 - 0 (Record Vote No: 34)."
+            },
+            "number": "406",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A resolution raising a question of the privileges of the House.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/100/hres/406?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-08-04",
+            "latestAction": {
+                "actionDate": "1988-08-04",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "349",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A concurrent resolution commemorating the 130th anniversary of the Lincoln-Douglas debate and the rededication of the Lincoln-Douglas debate site.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/100/hconres/349?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-06-30",
+            "latestAction": {
+                "actionDate": "1987-07-20",
+                "text": "Referred to Subcommittee on Trade."
+            },
+            "number": "153",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A concurrent resolution expressing the sense of the Congress in opposition to the third country meat directive by the European Community requiring individual inspection and certification by the European Community of United States meat plants and urging the President to take strong countermeasures should the European Community deny United States meat imports because of the unfair application of the directive.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/100/hconres/153?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-05-08",
+            "latestAction": {
+                "actionDate": "1987-05-15",
+                "text": "Referred to Subcommittee on Legislation and National Security."
+            },
+            "number": "119",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A concurrent resolution establishing procedures for expedited consideration by the Congress of certain bills and joint resolutions submitted by the President.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/100/hconres/119?format=json"
+        },
+        {
+            "amendmentNumber": "814",
+            "congress": 101,
+            "introducedDate": "1990-10-03",
+            "latestAction": {
+                "actionDate": "1990-10-03",
+                "actionTime": "17:19:07",
+                "text": "On agreeing to the Martin (IL) amendment (A004) Agreed to by recorded vote: 415 - 3 (Roll no. 409). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/814?format=json"
+        },
+        {
+            "amendmentNumber": "715",
+            "congress": 101,
+            "introducedDate": "1990-09-12",
+            "latestAction": {
+                "actionDate": "1990-09-12",
+                "actionTime": "18:10:21",
+                "text": "By unanimous consent, the Martin (IL) amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/715?format=json"
+        },
+        {
+            "amendmentNumber": "389",
+            "congress": 101,
+            "introducedDate": "1990-03-28",
+            "latestAction": {
+                "actionDate": "1990-03-28",
+                "actionTime": "14:19:18",
+                "text": "On agreeing to the Martin (IL) amendment (A004) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/389?format=json"
+        },
+        {
+            "amendmentNumber": "87",
+            "congress": 101,
+            "introducedDate": "1989-06-28",
+            "latestAction": {
+                "actionDate": "1989-06-28",
+                "actionTime": "13:22:04",
+                "text": "On agreeing to the Martin (IL) amendment (A002) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/87?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-09-11",
+            "latestAction": {
+                "actionDate": "1990-09-14",
+                "text": "Referred to the Subcommittee on Legislation and National Security."
+            },
+            "number": "5585",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend part C of the Balanced Budget and Emergency Deficit Control Act of 1985 to include the pay of Members of Congress and high-level officers of the executive branch within the coverage of the Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5585?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-09-17",
+            "latestAction": {
+                "actionDate": "1990-10-02",
+                "text": "Referred to the Subcommittee on Crime."
+            },
+            "number": "5636",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "To amend title I of the Omnibus Crime Control and Safe Streets Act of 1968 to require as a condition of receiving formula grants that States have in effect a law requiring certain sex offenders to be tested, at the request and for the benefit of the victim, for the presence of the etiologic agent for acquired immune deficiency syndrome.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5636?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-06-27",
+            "latestAction": {
+                "actionDate": "1990-07-15",
+                "text": "Referred to the Subcommittee on Financial Institutions Supervision, Regulation and Insurance."
+            },
+            "number": "5180",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Depository Institutions' Civil and Criminal Enforcement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5180?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-02-28",
+            "latestAction": {
+                "actionDate": "1990-02-28",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4140",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Pollution Control Investment Tax Credit Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4140?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-02-07",
+            "latestAction": {
+                "actionDate": "1990-02-27",
+                "text": "Referred to the Subcommittee on Fisheries and Wildlife Conservation and the Environment."
+            },
+            "number": "3994",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Environmental Protection Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3994?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-10-12",
+            "latestAction": {
+                "actionDate": "1989-10-16",
+                "text": "Referred to the Subcommittee on Economic and Commercial Law."
+            },
+            "number": "3462",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To provide rules and procedures for the expeditious printing, enrollment, signing and presentation of legislation to the President, to define what types of adjournments prevent the return of legislation by the President, and to provide procedures for the reconsideration of vetoed measures.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3462?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-10-05",
+            "latestAction": {
+                "actionDate": "1989-10-12",
+                "text": "Referred to the Subcommittee on Administrative Law and Governmental Relations."
+            },
+            "number": "3427",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Phil Bollman.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3427?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-09-14",
+            "latestAction": {
+                "actionDate": "1989-11-13",
+                "text": "Referred to the Subcommittee on Employment Opportunities."
+            },
+            "number": "3276",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Congressional and Judicial Equal Employment Opportunity Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3276?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-09-06",
+            "latestAction": {
+                "actionDate": "1989-10-06",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "3220",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Drug Paraphernalia Control Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3220?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-07-11",
+            "latestAction": {
+                "actionDate": "1989-07-11",
+                "text": "Referred to the House Committee on Veterans' Affairs."
+            },
+            "number": "2856",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To exclude from amounts taken into account in determining annual income for purposes of certain programs administered by the Secretary of Veterans Affairs the amount of wages paid for certain service by workers temporarily employed by the Bureau of the Census in positions established for purposes relating to the 1990 decennial census.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2856?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-07-11",
+            "latestAction": {
+                "actionDate": "1989-07-18",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "2857",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To exclude from earnings taken into account in determining excess earnings for purposes of the earnings test under title II of the Social Security Act wages paid for certain service by workers temporarily employed by the Bureau of the Census in positions established for purposes relating to the 1990 decennial census.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2857?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-06-06",
+            "latestAction": {
+                "actionDate": "1990-02-27",
+                "text": "Referred to the Subcommittee on Fisheries and Wildlife Conservation and the Environment."
+            },
+            "number": "2561",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To require the Environmental Protection Agency to increase the number of criminal investigators in its Office of Criminal Investigations, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2561?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-09",
+            "latestAction": {
+                "actionDate": "1989-02-27",
+                "text": "Referred to the Subcommittee on Commerce, Consumer Protection and Competitiveness."
+            },
+            "number": "984",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Collision Damage Waiver Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/984?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-07",
+            "latestAction": {
+                "actionDate": "1989-02-21",
+                "text": "Referred to the Subcommittee on Surface Transportation."
+            },
+            "number": "899",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Agricultural Product Outdoor Advertising Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/899?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-10-25",
+            "latestAction": {
+                "actionDate": "1990-11-16",
+                "text": "Referred to the Subcommittee on Civil and Constitutional Rights."
+            },
+            "number": "684",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Proposing an amendment to the Constitution of the United States limiting the number of consecutive terms Members of the Senate and House may serve.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/684?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-06-28",
+            "latestAction": {
+                "actionDate": "1990-07-09",
+                "text": "Referred to the Subcommittee on Census and Population."
+            },
+            "number": "614",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "To designate the decade beginning January 1, 1990, as the \"Decade of the Child\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/614?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-03-15",
+            "latestAction": {
+                "actionDate": "1990-03-20",
+                "text": "Referred to the Subcommittee on Census and Population."
+            },
+            "number": "521",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Designating July 8 through 14, 1990, as \"National Agent Orange Sreening Awareness Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/521?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-06-22",
+            "latestAction": {
+                "actionDate": "1990-06-13",
+                "text": "See H.J.Res.350."
+            },
+            "number": "314",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Proposing an amendment to the Constitution relating to the flag of the United States.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/314?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-03-09",
+            "latestAction": {
+                "actionDate": "1989-03-09",
+                "text": "Referred to the House Committee on Rules."
+            },
+            "number": "106",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Committee Process Reforms of 1989",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/101/hres/106?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-03-22",
+            "latestAction": {
+                "actionDate": "1990-05-24",
+                "actionTime": "21:55:02",
+                "text": "Pursuant to the provisions of H. Res. 400, H. Res. 115 is laid on the table."
+            },
+            "number": "115",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To establish a Committee on Drug Abuse and Control and to abolish the Select Committee on Narcotics Abuse and Control.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/101/hres/115?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-07",
+            "latestAction": {
+                "actionDate": "1989-12-31",
+                "text": "Referred to the Subcommittee on the Legislative Process."
+            },
+            "number": "45",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Establishing procedures for expedited consideration by the Congress of certain bills and joint resolutions submitted by the President.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/101/hconres/45?format=json"
+        }
+    ]
+}

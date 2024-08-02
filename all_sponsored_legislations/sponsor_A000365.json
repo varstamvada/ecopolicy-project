@@ -1,0 +1,117 @@
+{
+    "pagination": {
+        "count": 7
+    },
+    "request": {
+        "bioguideId": "a000365",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 112,
+            "introducedDate": "2011-02-18",
+            "latestAction": {
+                "actionDate": "2011-02-24",
+                "text": "Referred to the Subcommittee on National Parks, Forests and Public Lands."
+            },
+            "number": "799",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Colonel Charles Young Home Study Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/799?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-01-20",
+            "latestAction": {
+                "actionDate": "2011-01-20",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "369",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Health Savings and Affordability Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/369?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-03-29",
+            "latestAction": {
+                "actionDate": "2012-03-30",
+                "text": "Referred to the Subcommittee on Energy and Power."
+            },
+            "number": "606",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Expressing the sense of the House of Representatives regarding the notice signed by the Administrator of the Environmental Protection Agency Lisa Jackson on March 27, 2012, entitled \"Standards of Performance for Greenhouse Gas Emissions for New Stationary Sources: Electric Utility Generating Units\".",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/606?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-12-20",
+            "latestAction": {
+                "actionDate": "2012-02-03",
+                "text": "Referred to the Subcommittee on Asia and the Pacific."
+            },
+            "number": "505",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of sympathy of the House of Representatives to those who perished or were displaced in the Philippines as a result of the December 16, 2011 flooding.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/505?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-09-22",
+            "latestAction": {
+                "actionDate": "2009-09-22",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3610",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Health Savings and Affordability Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/3610?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-05-07",
+            "latestAction": {
+                "actionDate": "2009-05-07",
+                "text": "Referred to the House Committee on Armed Services."
+            },
+            "number": "2315",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To prohibit the use of funds to transfer enemy combatants detained at Naval Station, Guantanamo Bay, Cuba, to facilities in Ohio or to construct facilities in Ohio for such enemy combatants.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2315?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-02",
+            "latestAction": {
+                "actionDate": "2009-04-02",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "1892",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To designate the facility of the United States Postal Service located at 102 North Main Street in Cedarville, Ohio, as the \"William 'Brent' Turner Post Office\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1892?format=json"
+        }
+    ]
+}

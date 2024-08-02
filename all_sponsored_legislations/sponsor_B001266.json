@@ -1,0 +1,810 @@
+{
+    "pagination": {
+        "count": 60
+    },
+    "request": {
+        "bioguideId": "b001266",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-05",
+            "latestAction": {
+                "actionDate": "2009-10-05",
+                "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S10117-10118; text as passed Senate: CR S10117-10118; text of measure as introduced: CR S10112-10113)"
+            },
+            "number": "301",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A resolution designating October 2, 2009, as \"World MRSA Day\".",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/111/sres/301?format=json"
+        },
+        {
+            "amendmentNumber": "4654",
+            "congress": 111,
+            "introducedDate": "2010-09-22",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/4654?format=json"
+        },
+        {
+            "amendmentNumber": "4442",
+            "congress": 111,
+            "introducedDate": "2010-06-30",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/4442?format=json"
+        },
+        {
+            "amendmentNumber": "4419",
+            "congress": 111,
+            "introducedDate": "2010-06-29",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/4419?format=json"
+        },
+        {
+            "amendmentNumber": "4103",
+            "congress": 111,
+            "introducedDate": "2010-05-18",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/4103?format=json"
+        },
+        {
+            "amendmentNumber": "4011",
+            "congress": 111,
+            "introducedDate": "2010-05-13",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/4011?format=json"
+        },
+        {
+            "amendmentNumber": "3414",
+            "congress": 111,
+            "introducedDate": "2010-03-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/3414?format=json"
+        },
+        {
+            "amendmentNumber": "3388",
+            "congress": 111,
+            "introducedDate": "2010-03-03",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/3388?format=json"
+        },
+        {
+            "amendmentNumber": "3237",
+            "congress": 111,
+            "introducedDate": "2009-12-15",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/3237?format=json"
+        },
+        {
+            "amendmentNumber": "2868",
+            "congress": 111,
+            "introducedDate": "2009-12-03",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/2868?format=json"
+        },
+        {
+            "amendmentNumber": "2865",
+            "congress": 111,
+            "introducedDate": "2009-12-03",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/2865?format=json"
+        },
+        {
+            "amendmentNumber": "1781",
+            "congress": 111,
+            "introducedDate": "2009-07-23",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/1781?format=json"
+        },
+        {
+            "amendmentNumber": "1734",
+            "congress": 111,
+            "introducedDate": "2009-07-22",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/1734?format=json"
+        },
+        {
+            "amendmentNumber": "1569",
+            "congress": 111,
+            "introducedDate": "2009-07-15",
+            "latestAction": {
+                "actionDate": "2009-07-22",
+                "text": "Amendment SA 1569 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/1569?format=json"
+        },
+        {
+            "amendmentNumber": "1482",
+            "congress": 111,
+            "introducedDate": "2009-07-13",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/1482?format=json"
+        },
+        {
+            "amendmentNumber": "1483",
+            "congress": 111,
+            "introducedDate": "2009-07-13",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/1483?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-09-29",
+            "latestAction": {
+                "actionDate": "2010-09-29",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "3891",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Diverse Teachers Recruitment Act of 2010",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/3891?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-09-29",
+            "latestAction": {
+                "actionDate": "2010-09-29",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "3886",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "A bill to authorize the establishment of a memorial in the District of Columbia to honor and commemorate the accomplishments of Mr. Benjamin Banneker.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/3886?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-12-10",
+            "latestAction": {
+                "actionDate": "2009-12-10",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "2866",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Juvenile Accountability Block Grants Program Reauthorization Act of 2009",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2866?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-12-07",
+            "latestAction": {
+                "actionDate": "2009-12-07",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2841",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "S Corporation Inventory Contribution Act of 2009",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2841?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-30",
+            "latestAction": {
+                "actionDate": "2009-10-30",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2561",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the temporary suspension of duty on 2-Methyl-4-chlorophenoxy-acetic acid, dimethylamine salt.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2561?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-30",
+            "latestAction": {
+                "actionDate": "2009-10-30",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2559",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the temporary suspension of duty on dichlorprop-p acid, dichlorprop-p dimethylamine salt, and dichlorprop-p 2-ethylhexyl ester.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2559?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-30",
+            "latestAction": {
+                "actionDate": "2009-10-30",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2560",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the temporary suspension of duty on 2-methyl-4-chlorophenoxyacetic acid.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2560?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-30",
+            "latestAction": {
+                "actionDate": "2009-10-30",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2557",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on metsulfuron-methyl.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2557?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-30",
+            "latestAction": {
+                "actionDate": "2009-10-30",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2562",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the temporary suspension of duty on MCPB Acid and MCPB Sodium Salt.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2562?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-30",
+            "latestAction": {
+                "actionDate": "2009-10-30",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2558",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the temporary suspension of duty on 2-ethylhexyl (4-chloro-2-methylphenoxy) acetate.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2558?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-30",
+            "latestAction": {
+                "actionDate": "2009-10-30",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2565",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the temporary suspension of duty on certain decorative plates, sculptures, and plaques.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2565?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-30",
+            "latestAction": {
+                "actionDate": "2009-10-30",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2563",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Imazapyr.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2563?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-30",
+            "latestAction": {
+                "actionDate": "2009-10-30",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2564",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the temporary suspension of duty on 4-(2,4-dichlorophenoxy) butyric acid and 4-(2,4-dichlorophenoxy) butyric acid, dimethylamine salt.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2564?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-30",
+            "latestAction": {
+                "actionDate": "2009-10-30",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2555",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the temporary suspension of duty on N-[[(4,6-dimethoxypyrimidin-2-yl)amino]carbonyl]-3-(ethylsulfonyl)-2-pyridinesulfonamide and application adjuvants.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2555?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-30",
+            "latestAction": {
+                "actionDate": "2009-10-30",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2556",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the temporary suspension of duty on 2-Methyl-4-methoxy-6-methylamino-1,3,5-triazine.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2556?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-30",
+            "latestAction": {
+                "actionDate": "2009-10-30",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2554",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the temporary suspension of duty on 2-amino-4-methoxy-6-methyl-1,3,5-triazine.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2554?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-30",
+            "latestAction": {
+                "actionDate": "2009-10-30",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2551",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Fluthiacet-methyl.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2551?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-30",
+            "latestAction": {
+                "actionDate": "2009-10-30",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2552",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the temporary suspension of duty on carbamic acid.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2552?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-30",
+            "latestAction": {
+                "actionDate": "2009-10-30",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2550",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on certain personalized jewelry.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2550?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-30",
+            "latestAction": {
+                "actionDate": "2009-10-30",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2549",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Mixtures of 1-[[bis(4-fluorophenyl)methylsiyl]methyl]-1H-1,2,4-triazole with xylene and inert application adjuvants.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2549?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-30",
+            "latestAction": {
+                "actionDate": "2009-10-30",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2553",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the temporary suspension of duty on 3-(Ethylsulfonyl)-2-pyridinesulfonamide.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2553?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-30",
+            "latestAction": {
+                "actionDate": "2009-10-30",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2547",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the temporary suspension of duty on triphenyltin hydroxide.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2547?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-30",
+            "latestAction": {
+                "actionDate": "2009-10-30",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2548",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the temporary suspension of duty on Bromoxynil Octonoate.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2548?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-30",
+            "latestAction": {
+                "actionDate": "2009-10-30",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2546",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the temporary suspension of duty on certain music boxes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2546?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-20",
+            "latestAction": {
+                "actionDate": "2010-05-19",
+                "text": "Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 111-645."
+            },
+            "number": "1802",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "United States Civil Rights Trail Special Resource Study Act of 2009",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/1802?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-09-23",
+            "latestAction": {
+                "actionDate": "2009-09-23",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "1695",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to authorize the award of a Congressional gold medal to the Montford Point Marines of World War II.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/1695?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-09-08",
+            "latestAction": {
+                "actionDate": "2009-09-08",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "1654",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Maria I. Benitez and Maria Guadalupe Lopez.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/1654?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-08-06",
+            "latestAction": {
+                "actionDate": "2010-08-05",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 528."
+            },
+            "number": "1629",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "New Philadelphia, Illinois, Study Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/1629?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-07-21",
+            "latestAction": {
+                "actionDate": "2009-07-21",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "1488",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "COBRA Coverage Extension Act of 2009",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/1488?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-07-16",
+            "latestAction": {
+                "actionDate": "2009-07-16",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "1463",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Everson Walls and Ron Springs Gift for Life Act of 2009",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/1463?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-06-25",
+            "latestAction": {
+                "actionDate": "2009-06-25",
+                "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "1386",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Office of Disability Coordination Act of 2009",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/1386?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-03-09",
+            "latestAction": {
+                "actionDate": "2009-03-09",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "549",
+            "policyArea": {
+                "name": null
+            },
+            "title": "A bill for the relief of Simeon Simeonov, Stela Simeonova, Stoyan Simeonov, and Vania Simeonova.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/549?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-03-09",
+            "latestAction": {
+                "actionDate": "2009-03-09",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "550",
+            "policyArea": {
+                "name": null
+            },
+            "title": "A bill for the relief of Francisca Lino.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/550?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-08-04",
+            "latestAction": {
+                "actionDate": "2010-08-04",
+                "text": "Referred to the Committee on the Judiciary. (text of measure as introduced: CR S6739)"
+            },
+            "number": "606",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A resolution designating August 29, 2010, as \"Railroad Retirement Day\".",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/111/sres/606?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-06-16",
+            "latestAction": {
+                "actionDate": "2010-06-16",
+                "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5046-5047; text as passed Senate: CR S5046-5047; text of measure as introduced: CR S4996)"
+            },
+            "number": "559",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A resolution observing the historical significance of Juneteenth Independence Day.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/111/sres/559?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-05-12",
+            "latestAction": {
+                "actionDate": "2010-05-12",
+                "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S3661-3662; text as passed Senate: S3661-3662; text of measure as introduced: CR S3647)"
+            },
+            "number": "522",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A resolution recognizing National Nurses Week.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/111/sres/522?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-04-29",
+            "latestAction": {
+                "actionDate": "2010-04-29",
+                "text": "Referred to the Committee on the Judiciary. (text of measure as introduced: CR S2813)"
+            },
+            "number": "509",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A resolution designating April 2010 as \"National STD Awareness Month\".",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/111/sres/509?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-01-21",
+            "latestAction": {
+                "actionDate": "2010-02-01",
+                "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S397-398)"
+            },
+            "number": "394",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "A resolution congratulating the Northwestern University Feinberg School of Medicine for its 150 years of commitment to advancing science and improving health.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/111/sres/394?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-27",
+            "latestAction": {
+                "actionDate": "2009-10-27",
+                "text": "Referred to the Committee on the Judiciary. (text of measure as introduced: CR S10786)"
+            },
+            "number": "323",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A resolution honoring Edward W. Brooke, III, former United States Senator for the Commonwealth of Massachusetts, on the occasion of his 90th birthday.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/111/sres/323?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-06-19",
+            "latestAction": {
+                "actionDate": "2009-06-19",
+                "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6856-6857; text as passed Senate: CR S6857; text of measure as introduced: CR S6850-6851)"
+            },
+            "number": "198",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A resolution observing the historical significance of Juneteenth Independence Day.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/111/sres/198?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-05-21",
+            "latestAction": {
+                "actionDate": "2009-05-21",
+                "text": "Referred to the Committee on the Judiciary. (text of measure as introduced: CR S5876)"
+            },
+            "number": "159",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A resolution recognizing the historical significance of Juneteenth Independence Day and expressing the sense of the Senate that history should be regarded as a means for understanding the past and solving the challenges of the future.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/111/sres/159?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-01-26",
+            "latestAction": {
+                "actionDate": "2010-03-26",
+                "text": "Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security."
+            },
+            "number": "49",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A concurrent resolution expressing the sense of Congress that a commemorative postage stamp should be issued to honor the life of Elijah Parish Lovejoy.",
+            "type": "SCONRES",
+            "url": "https://api.congress.gov/v3/bill/111/sconres/49?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-07-22",
+            "latestAction": {
+                "actionDate": "2009-09-08",
+                "text": "Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security."
+            },
+            "number": "34",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A concurrent resolution expressing the sense of Congress that a commemorative postage stamp should be issued to honor the crew of the USS Mason DE-529 who fought and served during World War II.",
+            "type": "SCONRES",
+            "url": "https://api.congress.gov/v3/bill/111/sconres/34?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-07-21",
+            "latestAction": {
+                "actionDate": "2009-09-08",
+                "text": "Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security."
+            },
+            "number": "33",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A concurrent resolution expressing the sense of Congress that a commemorative postage stamp should be issued to honor the crew of the USS Mason DE-529 who fought and served during World War II.",
+            "type": "SCONRES",
+            "url": "https://api.congress.gov/v3/bill/111/sconres/33?format=json"
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "pagination": {
+        "count": 8
+    },
+    "request": {
+        "bioguideId": "a000366",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "683",
+            "congress": 112,
+            "introducedDate": "2011-07-14",
+            "latestAction": {
+                "actionDate": "2011-07-15",
+                "actionTime": "12:09:39",
+                "text": "On agreeing to the Adams amendment (A080) Failed by recorded vote: 181 - 233 (Roll no. 598). (consideration: CR H5104)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/683?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-07-25",
+            "latestAction": {
+                "actionDate": "2012-09-12",
+                "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "6185",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Local Courthouse Safety Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6185?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-21",
+                "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 406."
+            },
+            "number": "4970",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Violence Against Women Reauthorization Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/4970?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-02-09",
+            "latestAction": {
+                "actionDate": "2012-03-29",
+                "text": "Referred to the Subcommittee on Health, Employment, Labor, and Pensions."
+            },
+            "number": "3991",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "KEEP Secure Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3991?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-07-30",
+            "latestAction": {
+                "actionDate": "2011-07-30",
+                "text": "Referred to the House Committee on Small Business."
+            },
+            "number": "2712",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Shuttle Workforce Revitalization Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2712?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-04-15",
+            "latestAction": {
+                "actionDate": "2011-07-11",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "1571",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Combating Dangerous Synthetic Stimulants Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1571?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-03-09",
+            "latestAction": {
+                "actionDate": "2011-03-21",
+                "text": "Referred to the Subcommittee on the Constitution."
+            },
+            "number": "973",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "To amend title 28, United States Code, to prevent the misuse of foreign law in Federal courts, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/973?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-03-22",
+            "latestAction": {
+                "actionDate": "2012-04-26",
+                "text": "Referred to the Subcommittee on Domestic Monetary Policy and Technology."
+            },
+            "number": "110",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Expressing the sense of Congress that the President should not interpret or construe the Defense Production Act of 1950 to authorize the President or any Federal department or agency to confiscate personal or private property, to force conscription into the Armed Forces on the American people, to force civilians to engage in labor against their will or without compensation, or to force private businesses to relinquish goods or services without compensation.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/112/hconres/110?format=json"
+        }
+    ]
+}

@@ -1,0 +1,3504 @@
+{
+    "pagination": {
+        "count": 319,
+        "next": "https://api.congress.gov/v3/member/W000647/sponsored-legislation?offset=250&limit=250&format=json"
+    },
+    "request": {
+        "bioguideId": "w000647",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "1125",
+            "congress": 102,
+            "introducedDate": "1991-09-13",
+            "latestAction": {
+                "actionDate": "1991-09-13",
+                "text": "Amendment SP 1125 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/samdt/1125?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-11-20",
+            "latestAction": {
+                "actionDate": "1987-12-10",
+                "text": "Committee on Banking, Housing, and Urban Affairs. Hearings held. Hearings printed: S.Hrg. 100-426."
+            },
+            "number": "1891",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Financial Services Oversight Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/100/s/1891?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-10-01",
+            "latestAction": {
+                "actionDate": "1980-10-01",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "8243",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to amend the Natural Gas Policy Act of 1978 to decontrol the wellhead price of natural gas produced from certain tight formations.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/8243?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-09-19",
+            "latestAction": {
+                "actionDate": "1980-09-19",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "8174",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to eliminate 1,000 of the positions within the Department of Energy associated with the administration of the Emergency Petroleum Allocation Act of 1973, effective at the expiration of that Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/8174?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-09-28",
+            "latestAction": {
+                "actionDate": "1979-09-28",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "5458",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A bill to amend the Social Security Act to change the calendar quarters during which a State's showing to the Secretary of Health, Education, and Welfare of satisfactory control over the utilization of certain services to aged individuals waives any reduction in the Federal medical assistance percentage to such State.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/5458?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-07-31",
+            "latestAction": {
+                "actionDate": "1979-07-31",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "5031",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Radial Tire Excise Tax Repeal Act of 1979",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/5031?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-06-27",
+            "latestAction": {
+                "actionDate": "1979-06-27",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "4648",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Utility Lifeline Act of 1979",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/4648?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-05-09",
+            "latestAction": {
+                "actionDate": "1980-09-18",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "4033",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of the Jefferson County Mental Health Center, Inc., and of certain current and former employees thereof.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/4033?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-10-01",
+            "latestAction": {
+                "actionDate": "1976-10-01",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "15857",
+            "policyArea": {
+                "name": "Lobbying"
+            },
+            "title": "A bill to prohibit the use of Federal funds for certain activities designed to support or defeat any legislation pending before the Congress or any State legislature or any legislation or legislative issue on the ballot in any State.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/15857?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-09-28",
+            "latestAction": {
+                "actionDate": "1976-09-28",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "15738",
+            "policyArea": {
+                "name": "Lobbying"
+            },
+            "title": "A bill to prohibit the use of Federal funds for certain activities designed to support or defeat any legislation pending before the Congress or any State legislature or any legislation or legislative issue on the ballot in any State.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/15738?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-09-20",
+            "latestAction": {
+                "actionDate": "1976-09-20",
+                "text": "Referred to House Committee on Public Works and Transportation."
+            },
+            "number": "15643",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "A bill to amend the Interstate Commerce Act, with respect to recovery of a reasonable attorney's fee in case of successful maintenance of an action for recovery of damages sustained in transportation of property.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/15643?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-08-25",
+            "latestAction": {
+                "actionDate": "1976-08-25",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "15268",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend the Communications Act of 1934 to provide just and reasonable rates, terms, and conditions for the use of certain rights-of-way by persons desiring to lease space for wire communication.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/15268?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-08-05",
+            "latestAction": {
+                "actionDate": "1976-08-05",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "15079",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veterans' Administration Review Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/15079?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-08-05",
+            "latestAction": {
+                "actionDate": "1976-08-05",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "15078",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veterans' Administration Review Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/15078?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-08-05",
+            "latestAction": {
+                "actionDate": "1976-08-05",
+                "text": "Referred to House Committee on House Administration."
+            },
+            "number": "15077",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Congressional General Election Campaign Financing Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/15077?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-06-22",
+            "latestAction": {
+                "actionDate": "1976-06-22",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "14501",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "New Natural Gas Deregulation Amendments",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/14501?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-06-07",
+            "latestAction": {
+                "actionDate": "1976-06-07",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "14228",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "New Natural Gas Deregulation Amendments",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/14228?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-05-27",
+            "latestAction": {
+                "actionDate": "1976-05-27",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "14046",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "New Natural Gas Deregulation Amendments",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/14046?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-05-25",
+            "latestAction": {
+                "actionDate": "1976-05-25",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "14016",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veterans' Administration Review Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/14016?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-04-30",
+            "latestAction": {
+                "actionDate": "1976-04-30",
+                "text": "Referred to House Committee on Interior and Insular Affairs."
+            },
+            "number": "13498",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Water Resources Planning and Research Assistance Amendments Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/13498?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-04-27",
+            "latestAction": {
+                "actionDate": "1976-04-27",
+                "text": "Referred to House Committee on Public Works and Transportation."
+            },
+            "number": "13353",
+            "policyArea": {
+                "name": "Legal fees"
+            },
+            "title": "A bill to amend the Interstate Commerce Act, with respect to recovery of a reasonable attorney's fee in case of successful maintenance of an action for recovery of damages sustained in transportation of property.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/13353?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-04-12",
+            "latestAction": {
+                "actionDate": "1976-04-12",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "13190",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "a bill to increase from 10 to 15 years the period during which veterans and certain wives and widows of veterans are eligible for educational assistance.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/13190?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-03-22",
+            "latestAction": {
+                "actionDate": "1976-03-22",
+                "text": "Referred to House Committee on House Administration."
+            },
+            "number": "12703",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Congressional General Election Campaign Financing Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/12703?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-03-11",
+            "latestAction": {
+                "actionDate": "1976-03-11",
+                "text": "Referred to House Committee on House Administration."
+            },
+            "number": "12492",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Congressional General Election Campaign Financing Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/12492?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-03-04",
+            "latestAction": {
+                "actionDate": "1976-03-04",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "12351",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of the Jefferson County Mental Health Center, Incorporated, and one hundred and three individuals.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/12351?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-02-26",
+            "latestAction": {
+                "actionDate": "1976-02-26",
+                "text": "Referred to House Committee on House Administration."
+            },
+            "number": "12123",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Congressional General Election Campaign Financing Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/12123?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-02-09",
+            "latestAction": {
+                "actionDate": "1976-02-09",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "11810",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Jefferson County Mental Health Center, Incorporated.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/11810?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-02-09",
+            "latestAction": {
+                "actionDate": "1976-02-09",
+                "text": "Referred to House Committee on Banking, Currency and Housing."
+            },
+            "number": "11805",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Energy Conservation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/11805?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-11-04",
+            "latestAction": {
+                "actionDate": "1975-11-04",
+                "text": "Referred to House Committee on Banking, Currency and Housing."
+            },
+            "number": "10559",
+            "policyArea": {
+                "name": "Power resources"
+            },
+            "title": "A bill to amend the Federal Nonnuclear Energy Research and Development Act to include loan guarantees for the construction of demonstration synthetic fuel plants.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/10559?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-10-01",
+            "latestAction": {
+                "actionDate": "1975-10-01",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "9956",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A bill to establish and to change the procedure for establishing the rates of compensation of Members of Congress.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/9956?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-09-08",
+            "latestAction": {
+                "actionDate": "1975-09-08",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "9455",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A bill to amend the Public Health Service Act to revise and extend the program under the National Heart and Lung Institute, to revise and extend the program of National Research Service Awards, and to establish a national program with respect to genetic diseases; and to require a study and report on the release of research information.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/9455?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-09-08",
+            "latestAction": {
+                "actionDate": "1975-09-08",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "9456",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Health Maintenance Organization Amendments",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/9456?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-07-18",
+            "latestAction": {
+                "actionDate": "1975-07-18",
+                "text": "Referred to House Committee on Interior and Insular Affairs."
+            },
+            "number": "8768",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Energy Information Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/8768?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-07-14",
+            "latestAction": {
+                "actionDate": "1975-07-14",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "8613",
+            "policyArea": {
+                "name": "Independent regulatory commissions"
+            },
+            "title": "Children's Fair Advertising Practices Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/8613?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-06-26",
+            "latestAction": {
+                "actionDate": "1975-06-26",
+                "text": "Referred to House Committee on Interior and Insular Affairs."
+            },
+            "number": "8360",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Rocky Mountain National Park Enlargement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/8360?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-06-25",
+            "latestAction": {
+                "actionDate": "1975-06-25",
+                "text": "Referred to House Committee on Interior and Insular Affairs."
+            },
+            "number": "8243",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Energy Information Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/8243?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-06-05",
+            "latestAction": {
+                "actionDate": "1975-06-05",
+                "text": "Referred to House Committee on Interior and Insular Affairs."
+            },
+            "number": "7683",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Energy Information Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/7683?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-05-19",
+            "latestAction": {
+                "actionDate": "1975-05-19",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "7115",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Eugene M. Osman, lieutenant colonel, United States Air Force (retired).",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/7115?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-02-27",
+            "latestAction": {
+                "actionDate": "1975-07-21",
+                "text": "Vetoed by President, H. Doc. 94-218."
+            },
+            "number": "4035",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to provide for more effective congressional review of administrative actions which exempt petroleum products from the Emergency Petroleum Allocation Act of 1973, or which result in a major increase in the price of domestic crude oil; and to provide for an interim extension of certain expiring energy authorities.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/4035?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-09-09",
+            "latestAction": {
+                "actionDate": "1976-09-09",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "1090",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A resolution designating the week of September 19 through September 25, 1976, as \"National Flower Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/94/hjres/1090?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-06-19",
+            "latestAction": {
+                "actionDate": "1975-06-19",
+                "text": "Referred to House Committee on Interior and Insular Affairs."
+            },
+            "number": "319",
+            "policyArea": {
+                "name": "Rivers"
+            },
+            "title": "Concurrent resolution calling for a fair and equitable allocation of restricted-use outdoor recreational resources.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/94/hconres/319?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-07-08",
+            "latestAction": {
+                "actionDate": "1975-07-08",
+                "text": "Referred to House Committee on Interior and Insular Affairs."
+            },
+            "number": "331",
+            "policyArea": {
+                "name": "Rivers"
+            },
+            "title": "Concurrent resolution calling for a fair and equitable allocation of restricted-use outdoor recreation resources.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/94/hconres/331?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-06-03",
+            "latestAction": {
+                "actionDate": "1975-06-03",
+                "text": "Referred to House Committee on Interior and Insular Affairs."
+            },
+            "number": "294",
+            "policyArea": {
+                "name": "Rivers"
+            },
+            "title": "Concurrent resolution calling a fair and equitable allocation of restricted use outdoor recreational resources.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/94/hconres/294?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-09-13",
+            "latestAction": {
+                "actionDate": "1978-09-13",
+                "text": "Referred to House Committee on Rules."
+            },
+            "number": "14073",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A bill to amend the Budget and Accounting Act, 1921, and the Congressional Budget Act of 1974, to require that the President's annual budget include an estimate of the Gross National Product for the ensuing fiscal year, to provide (through the congressional budget process) for a balanced budget with expenditures limited to a specified percentage of the Gross National Product, and to make other improvements in the congressional budget process.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/14073?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-08-17",
+            "latestAction": {
+                "actionDate": "1978-08-17",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "13944",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Utility Lifeline Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/13944?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-06-28",
+            "latestAction": {
+                "actionDate": "1978-06-28",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "13325",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "A bill to disregard, for purposes of certain taxes imposed by the Internal Revenue Code of 1954 with respect to employees, certain changes since 1975 in the treatment of individuals as employees.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/13325?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-04-11",
+            "latestAction": {
+                "actionDate": "1978-10-11",
+                "text": "Public Law 95-450."
+            },
+            "number": "12026",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "An Act to create the Indian Peaks Wilderness Area and the Arapaho National Recreation Area, to authorize the Secretary of the Interior to study the feasibility of revising the boundaries of the Rocky Mountain National Park, and to add certain lands to the Oregon Islands Wilderness.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/12026?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-11-08",
+            "latestAction": {
+                "actionDate": "1977-11-08",
+                "text": "Referred to House Committee on Interior and Insular Affairs."
+            },
+            "number": "10068",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to create the Indian Peaks Wilderness Area in the Arapaho and Roosevelt National Forests in Colorado and to authorize the Secretary of the Interior to study the feasibility of revising the boundaries of the Rocky Mountain National Park.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/10068?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-08-01",
+            "latestAction": {
+                "actionDate": "1977-08-01",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "8675",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to amend the Communications Act of 1934 to provide for the regulation of utility pole attachments.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/8675?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-07-20",
+            "latestAction": {
+                "actionDate": "1977-07-20",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "8447",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to prohibit the use of Federal funds for certain activities designed to support or defeat any legislation or legislative issue on the ballot in any State.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/8447?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-06-28",
+            "latestAction": {
+                "actionDate": "1977-06-28",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "8075",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to amend the Communications Act of 1934 to provide for the regulation of utility pole attachments.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/8075?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-05-25",
+            "latestAction": {
+                "actionDate": "1978-02-21",
+                "text": "Public Law 95-234."
+            },
+            "number": "7442",
+            "policyArea": {
+                "name": "Broadcasting"
+            },
+            "title": "A bill to amend the Communications Act of 1934 to provide for the regulation of utility pole attachments.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/7442?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-05-13",
+            "latestAction": {
+                "actionDate": "1977-05-13",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "7196",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "New Natural Gas Deregulation Amendments",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/7196?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-04-21",
+            "latestAction": {
+                "actionDate": "1977-04-21",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "6521",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veterans Administration Administrative Procedure and Judicial Review Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/6521?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-04-20",
+            "latestAction": {
+                "actionDate": "1977-04-20",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "6457",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to prohibit the use of Federal funds for certain activities designed to support or defeat any legislation or legislative issue on the ballot in any State.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/6457?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-04-06",
+            "latestAction": {
+                "actionDate": "1977-04-06",
+                "text": "Referred to House Committee on House Administration."
+            },
+            "number": "6175",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Universal Voter Registration Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/6175?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-04-06",
+            "latestAction": {
+                "actionDate": "1977-04-06",
+                "text": "Referred to House Committee on House Administration."
+            },
+            "number": "6174",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Universal Voter Registration Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/6174?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-29",
+            "latestAction": {
+                "actionDate": "1977-03-29",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "5711",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to prohibit the use of Federal funds for certain activities designed to support or defeat any legislation or legislative issue on the ballot in any State.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/5711?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-22",
+            "latestAction": {
+                "actionDate": "1977-03-22",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "5380",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veterans Administration Administrative Procedure and Judicial Review Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/5380?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-22",
+            "latestAction": {
+                "actionDate": "1977-03-22",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "5381",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veterans Administration Administrative Procedure and Judicial Review Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/5381?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-16",
+            "latestAction": {
+                "actionDate": "1977-03-16",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "5130",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "New Natural Gas Deregulation Amendments",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/5130?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-07",
+            "latestAction": {
+                "actionDate": "1977-03-07",
+                "text": "Referred to House Committee on Science and Technology."
+            },
+            "number": "4604",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Omnibus Energy Conservation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/4604?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-07",
+            "latestAction": {
+                "actionDate": "1977-03-07",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "4605",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to prohibit the use of Federal funds for certain activities designed to support or defeat any legislation or legislative issue on the ballot in any State.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/4605?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-02",
+            "latestAction": {
+                "actionDate": "1977-03-02",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "4395",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veterans Administration Administrative Procedure and Judicial Review Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/4395?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-02-23",
+            "latestAction": {
+                "actionDate": "1977-02-23",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "3997",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of the Jefferson County Mental Health Center.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/3997?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-02-16",
+            "latestAction": {
+                "actionDate": "1977-02-16",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "3609",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to prohibit the use of Federal funds for certain activities designed to support or defeat any legislation or legislative issue on the ballot in any State.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/3609?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-02-16",
+            "latestAction": {
+                "actionDate": "1977-02-16",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "3610",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to prohibit the use of Federal funds for certain activities designed to support or defeat any legislation or legislative issue on the ballot in any State.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/3610?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-01-31",
+            "latestAction": {
+                "actionDate": "1977-01-31",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "2751",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to prohibit the use of Federal funds for certain activities designed to support or defeat any legislation or legislative issue on the ballot in any State.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/2751?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-06-10",
+            "latestAction": {
+                "actionDate": "1977-06-10",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "512",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Joint resolution providing that competition is reaffirmed as the best means of serving American consumers' telecommunications needs.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/95/hjres/512?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-02-24",
+            "latestAction": {
+                "actionDate": "1977-02-24",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "285",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "A joint resolution providing that competition is reaffirmed as the best means of serving American consumers' telecommunications needs.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/95/hjres/285?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-08-17",
+            "latestAction": {
+                "actionDate": "1978-08-17",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "1331",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A resolution expressing the sense of the House of Representatives with respect to the need for a balanced budget and the steps which must be taken to achieve such a budget by 1981.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/95/hres/1331?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-06-20",
+            "latestAction": {
+                "actionDate": "1977-06-20",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "253",
+            "policyArea": {
+                "name": "Rivers"
+            },
+            "title": "Concurrent resolution to provide for a fair and equitable allocation of access to Federal rivers for white water travel.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/95/hconres/253?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-29",
+            "latestAction": {
+                "actionDate": "1977-03-29",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "181",
+            "policyArea": {
+                "name": "Rivers"
+            },
+            "title": "Concurrent resolution to provide for a fair and equitable allocation of access to Federal rivers for white water travel.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/95/hconres/181?format=json"
+        },
+        {
+            "amendmentNumber": "907",
+            "congress": 97,
+            "introducedDate": "1982-11-30",
+            "latestAction": {
+                "actionDate": "1982-11-30",
+                "text": "Amendment Withdrawn in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/907?format=json"
+        },
+        {
+            "amendmentNumber": "908",
+            "congress": 97,
+            "introducedDate": "1982-11-30",
+            "latestAction": {
+                "actionDate": "1982-11-30",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 109 - 293 (Record Vote No: 399). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/908?format=json"
+        },
+        {
+            "amendmentNumber": "861",
+            "congress": 97,
+            "introducedDate": "1982-09-23",
+            "latestAction": {
+                "actionDate": "1982-09-23",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/861?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-09-22",
+            "latestAction": {
+                "actionDate": "1982-09-23",
+                "text": "Ordered to be Reported (Amended)."
+            },
+            "number": "7168",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Telecommunications for the Disabled Act of 1982",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/7168?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-08-18",
+            "latestAction": {
+                "actionDate": "1982-08-20",
+                "text": "Referred to Subcommittee on Telecommunications, Consumer Protection and Finance."
+            },
+            "number": "7014",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "A bill to establish a Commission on Capital Markets to evaluate Federal and State regulation of financial and investment institutions and other financial intermediaries, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/7014?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-07-21",
+            "latestAction": {
+                "actionDate": "1982-08-17",
+                "text": "Referred to Subcommittee on Public Lands and National Parks."
+            },
+            "number": "6832",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill to provide for the conveyance of certain real property in Pitkin County, Colorado.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6832?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-05-05",
+            "latestAction": {
+                "actionDate": "1982-10-15",
+                "text": "Became Public Law No: 97-331."
+            },
+            "number": "6273",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Motor Vehicle Safety and Cost Savings Authorization Act of 1982",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6273?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-04-27",
+            "latestAction": {
+                "actionDate": "1982-05-18",
+                "text": "For Further Action See H.R.3239."
+            },
+            "number": "6162",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A bill to authorize appropriations for the National Telecommunications and Information Administration for fiscal years 1983 and 1984.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6162?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-04-22",
+            "latestAction": {
+                "actionDate": "1982-10-13",
+                "text": "Became Public Law No: 97-303."
+            },
+            "number": "6156",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "A bill to clarify the jurisdiction of the Securities and Exchange Commission and the definition of security, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6156?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-12-10",
+            "latestAction": {
+                "actionDate": "1982-07-20",
+                "text": "Committee Consideration and Mark-up Session Held."
+            },
+            "number": "5158",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Telecommunications Act of 1981",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/5158?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-11-17",
+            "latestAction": {
+                "actionDate": "1982-08-17",
+                "text": "For Further Action See H.R.3239."
+            },
+            "number": "5008",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Communications Technical Amendments Act of 1981",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/5008?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-11-06",
+            "latestAction": {
+                "actionDate": "1981-12-08",
+                "text": "Other Measure S.271 (Amended) Passed House in Lieu."
+            },
+            "number": "4927",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Record Carrier Competition Act of 1981",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4927?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-10-21",
+            "latestAction": {
+                "actionDate": "1981-11-06",
+                "text": "Clean Bill H.R.4927 Forwarded by Subcommittee to Full Committee in Lieu."
+            },
+            "number": "4801",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Record Carrier Competition Act of 1981",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4801?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-07-15",
+            "latestAction": {
+                "actionDate": "1981-10-14",
+                "text": "Received in the Senate, read twice, and referred to the Committee on Banking."
+            },
+            "number": "4145",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "A bill to amend the Securities Exchange Act of 1934 to provide uniform margin requirements in transactions involving the acquisition of securities of certain United States corporations by non-United States persons where such acquisition is financed by non-United States lenders, to specify a private right of action for violations of margin requirements, and for certain other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4145?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-06-26",
+            "latestAction": {
+                "actionDate": "1981-06-26",
+                "text": "For Further Action See H.R.4053."
+            },
+            "number": "4064",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to amend the Mineral Leasing Act of 1920 to permit certain ancillary leases to be issued in connection with oil shale leases, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4064?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-04-10",
+            "latestAction": {
+                "actionDate": "1982-09-13",
+                "text": "Became Public Law No: 97-259."
+            },
+            "number": "3239",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Communications Amendments Act of 1982",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/3239?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-04-10",
+            "latestAction": {
+                "actionDate": "1981-06-11",
+                "text": "Received in the Senate, read twice, and referred to the Committee on Commerce."
+            },
+            "number": "3240",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "A bill to authorize appropriations for fiscal year 1982 for the administration of the National Telecommunications and Information Administration.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/3240?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-04-10",
+            "latestAction": {
+                "actionDate": "1981-04-30",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3237",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Motor Vehicle Safety Amendments Act of 1981",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/3237?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-04-10",
+            "latestAction": {
+                "actionDate": "1981-11-04",
+                "text": "Indefinitely postponed by Senate by Voice Vote."
+            },
+            "number": "3238",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Public Broadcasting Amendments Act of 1981",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/3238?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-02-03",
+            "latestAction": {
+                "actionDate": "1982-09-23",
+                "text": "Placed on Senate Legislative Calendar under Regular Orders. Calendar No. 844."
+            },
+            "number": "1635",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of The Jefferson County Mental Health Center, Incorporated, and of certain current and former employees thereof.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/1635?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-02-02",
+            "latestAction": {
+                "actionDate": "1981-02-09",
+                "text": "Referred to Subcommittee on Fossil and Synthetic Fuels."
+            },
+            "number": "1542",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to eliminate one thousand of the positions within the Department of Energy associated with the administration of the Emergency Petroleum Allocation Act of 1973.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/1542?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-09-29",
+            "latestAction": {
+                "actionDate": "1982-09-29",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "616",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A joint resolution designating the week beginning October 17, 1982, as \"National Federal Retirees Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/97/hjres/616?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-10-01",
+            "latestAction": {
+                "actionDate": "1982-10-01",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "623",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "A joint resolution to designate the week of March 13, 1983, as National Children and Television Week.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/97/hjres/623?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-06-23",
+            "latestAction": {
+                "actionDate": "1982-12-21",
+                "text": "Resolution Agreed to in House (Amended) by Voice Vote."
+            },
+            "number": "514",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "A resolution commemorating July 1, 1982, which is the twenty-fifth anniversary of the beginning of the International Geophysical Year and reaffirming the commitment of the House of Representatives to international cooperation in the sciences.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/97/hres/514?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-12-08",
+            "latestAction": {
+                "actionDate": "1981-12-09",
+                "text": "Resolution Agreed to in House by Voice Vote."
+            },
+            "number": "286",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A resolution expressing the sense of the House of Representatives that the Congress associates itself fully and completely with the hunger strike protest by Andrei Sakharov and urges the Government of the Soviet Union to abide by its commitments and to permit Yelizaveta Alekseyeva to emigrate.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/97/hres/286?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-03-16",
+            "latestAction": {
+                "actionDate": "1982-03-31",
+                "text": "Referred to Subcommittee on Legislation and National Security."
+            },
+            "number": "291",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A concurrent resolution expressing the sense of the Congress that the President should submit a revised budget for the fiscal year ending September 30, 1983.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/97/hconres/291?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-12-16",
+            "latestAction": {
+                "actionDate": "1981-12-16",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "241",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A concurrent Resolution expressing the sense of the Congress with respect to the continued internal exile and treatment by the Government of the Soviet Union of Andrei Sakharov and his wife, Yelena Bonner.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/97/hconres/241?format=json"
+        },
+        {
+            "amendmentNumber": "657",
+            "congress": 98,
+            "introducedDate": "1984-04-04",
+            "latestAction": {
+                "actionDate": "1984-04-04",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 1 - 401 (Record Vote No: 66). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/657?format=json"
+        },
+        {
+            "amendmentNumber": "531",
+            "congress": 98,
+            "introducedDate": "1983-11-10",
+            "latestAction": {
+                "actionDate": "1983-11-10",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/531?format=json"
+        },
+        {
+            "amendmentNumber": "134",
+            "congress": 98,
+            "introducedDate": "1983-06-02",
+            "latestAction": {
+                "actionDate": "1983-06-02",
+                "text": "Amendment Passed in Committee of the Whole by Recorded Vote: 200 - 167 (Record Vote No: 147). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/134?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-09-17",
+            "latestAction": {
+                "actionDate": "1984-10-25",
+                "text": "Became Public Law No: 98-547."
+            },
+            "number": "6257",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Motor Vehicle Theft Law Enforcement Act of 1984",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/6257?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-08-02",
+            "latestAction": {
+                "actionDate": "1984-08-08",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "6076",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Motor Vehicle Safety Amendments of 1984",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/6076?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-06-28",
+            "latestAction": {
+                "actionDate": "1984-06-29",
+                "text": "Referred to Subcommittee on Health and the Environment."
+            },
+            "number": "5971",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Health Effects of Radiation Research Act of 1984",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5971?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-06-28",
+            "latestAction": {
+                "actionDate": "1984-06-29",
+                "text": "Referred to Subcommittee on Telecommunications, Consumer Protection and Finance."
+            },
+            "number": "5972",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "A bill to amend the Securities and Exchange Act of 1934.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5972?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-06-15",
+            "latestAction": {
+                "actionDate": "1984-07-26",
+                "text": "Forwarded by Subcommittee to Full Committee."
+            },
+            "number": "5881",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Financial Institutions Act of 1984",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5881?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-05-22",
+            "latestAction": {
+                "actionDate": "1984-08-02",
+                "text": "For Further Action See H.R.5693."
+            },
+            "number": "5694",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "A bill to amend the Securities Exchange Act of 1934 to prohibit acquisitions of corporate control except by means of tender offers for all outstanding shares, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5694?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-05-22",
+            "latestAction": {
+                "actionDate": "1984-09-17",
+                "text": "Placed on Union Calendar No: 579."
+            },
+            "number": "5693",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Tender Offer Reform Act of 1984",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5693?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-05-22",
+            "latestAction": {
+                "actionDate": "1984-08-02",
+                "text": "For Further Action See H.R.5693."
+            },
+            "number": "5695",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "A bill to permit shareholders and the Securities and Exchange Commission to seek injunctive relief from harmful defensive tactics by management in corporate takeover situations, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5695?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-05-22",
+            "latestAction": {
+                "actionDate": "1984-08-02",
+                "text": "For Further Action See H.R.5693."
+            },
+            "number": "5696",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Shareholder Communications Act of 1984",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5696?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-04-26",
+            "latestAction": {
+                "actionDate": "1984-10-05",
+                "text": "See S.607."
+            },
+            "number": "5541",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Public Broadcasting Amendments Act of 1984",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5541?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-04-12",
+            "latestAction": {
+                "actionDate": "1984-06-13",
+                "text": "For Further Action See H.R.5426."
+            },
+            "number": "5470",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Colorado Wilderness Act of 1984",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5470?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-04-12",
+            "latestAction": {
+                "actionDate": "1984-05-15",
+                "text": "Placed on Union Calendar No: 445."
+            },
+            "number": "5497",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "A bill to authorize appropriations for the National Telecommunications and Information Administration for fiscal years 1985 and 1986.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5497?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-04-03",
+            "latestAction": {
+                "actionDate": "1984-05-17",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "5342",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Capital Markets Commission and Moratorium Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5342?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-04-05",
+            "latestAction": {
+                "actionDate": "1984-05-15",
+                "text": "Reported to House (Amended) by House Committee on Energy and Commerce.  Report No: 98-746 (Part I)."
+            },
+            "number": "5391",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Telecommunications Employees' Protection Act of 1984",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5391?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-03-08",
+            "latestAction": {
+                "actionDate": "1984-03-30",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "5084",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Hazardous Air Pollutants Amendments Act of 1984",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5084?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-11-18",
+            "latestAction": {
+                "actionDate": "1983-11-18",
+                "text": "Referred to Subcommittee on Telecommunications, Consumer Protection and Finance."
+            },
+            "number": "4573",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend the Communications Act of 1934 to preserve the principles of the Federal Communications Commission's personal attack and political editorial rules, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4573?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-11-18",
+            "latestAction": {
+                "actionDate": "1984-02-23",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "4574",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Securities Law Technical Amendments Act of 1983",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4574?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-11-15",
+            "latestAction": {
+                "actionDate": "1984-02-24",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "4388",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to grant the consent of the Congress to the Rocky Mountain Low-Level Radioactive Waste Compact.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4388?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-11-03",
+            "latestAction": {
+                "actionDate": "1983-11-08",
+                "text": "See H.R.4102."
+            },
+            "number": "4295",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Universal Telephone Service Preservation Act of 1983",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4295?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-10-06",
+            "latestAction": {
+                "actionDate": "1984-10-01",
+                "text": "House Incorporated this Measure in S.66 as an Amendment."
+            },
+            "number": "4103",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Cable Franchise Policy and Communications Act of 1984",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4103?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-10-06",
+            "latestAction": {
+                "actionDate": "1983-11-15",
+                "text": "Received in the Senate, read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 570."
+            },
+            "number": "4102",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Universal Telephone Service Preservation Act of 1983",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4102?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-10-05",
+            "latestAction": {
+                "actionDate": "1983-10-06",
+                "text": "Referred to Subcommittee on Telecommunications, Consumer Protection and Finance."
+            },
+            "number": "4097",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Childrens Television Education Act of 1983",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4097?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-09-27",
+            "latestAction": {
+                "actionDate": "1984-09-18",
+                "text": "For Further Action See H.R.6257."
+            },
+            "number": "3999",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Motor Vehicle Theft Law Enforcement Act of 1983",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/3999?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-08-03",
+            "latestAction": {
+                "actionDate": "1984-08-15",
+                "text": "Placed on Union Calendar No: 552."
+            },
+            "number": "3750",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Computer Literacy Act of 1983",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/3750?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-07-21",
+            "latestAction": {
+                "actionDate": "1983-10-06",
+                "text": "Clean Bill H.R.4102 Forwarded by Subcommittee to Full Committee in Lieu."
+            },
+            "number": "3621",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Universal Telephone Service Preservation Act of 1983",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/3621?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-06-29",
+            "latestAction": {
+                "actionDate": "1983-07-15",
+                "text": "Referred to Subcommittee on Economic Stabilization."
+            },
+            "number": "3443",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "National Economic Cooperation Act of 1983",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/3443?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-06-22",
+            "latestAction": {
+                "actionDate": "1983-07-19",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3397",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A bill to establish a Commission on Capital Markets to evaluate the capital needs of the United States economy and the effects of Federal and State regulation of financial investment institutions and other financial intermediaries on capital formation and allocation and on economic activity, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/3397?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-05-09",
+            "latestAction": {
+                "actionDate": "1983-06-30",
+                "text": "See H.R.2755."
+            },
+            "number": "2952",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to authorize appropriations for the Federal Communications Commission for fiscal years 1984 and 1985.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/2952?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-05-09",
+            "latestAction": {
+                "actionDate": "1983-10-31",
+                "text": "For Further Action See H.R.2755."
+            },
+            "number": "2953",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "A bill to authorize supplemental appropriations for public broadcasting.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/2953?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-04-26",
+            "latestAction": {
+                "actionDate": "1983-12-08",
+                "text": "Became Public Law No: 98-214."
+            },
+            "number": "2755",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal Communications Commission Authorization Act of 1983",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/2755?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-04-26",
+            "latestAction": {
+                "actionDate": "1983-05-03",
+                "text": "Referred to Subcommittee on Telecommunications, Consumer Protection and Finance."
+            },
+            "number": "2754",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "A bill to amend the Foreign Corrupt Practices Act of 1977.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/2754?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-02-23",
+            "latestAction": {
+                "actionDate": "1983-03-11",
+                "text": "Referred to Subcommittee on Military Installations and Facilities."
+            },
+            "number": "1595",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Solar Energy National Security and Employment (SENSE) Act of 1983",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/1595?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-02-10",
+            "latestAction": {
+                "actionDate": "1983-05-19",
+                "text": "Received in the Senate and read twice and referred to the Committee on Banking."
+            },
+            "number": "1416",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to amend the Securities Exchange Act of 1934 to authorize appropriations for the Securities and Exchange Commission for fiscal years 1984 through 1986.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/1416?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-11-17",
+            "latestAction": {
+                "actionDate": "1984-03-12",
+                "text": "Received in the Senate and read twice and referred to the Committee on Judiciary."
+            },
+            "number": "434",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A joint resolution to designate March 16 of every year as \"Freedom of Information Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/98/hjres/434?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-11-18",
+            "latestAction": {
+                "actionDate": "1983-12-12",
+                "text": "Referred to Subcommittee on Census and Population."
+            },
+            "number": "440",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A joint resolution designating 1984 as \"The Year of the Grand Canyon\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/98/hjres/440?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-06-28",
+            "latestAction": {
+                "actionDate": "1984-07-24",
+                "text": "Resolution agreed to in Senate without amendment and with a preamble by Yea-Nay Vote. 93-0. Record Vote No: 190."
+            },
+            "number": "332",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A concurrent resolution expressing the sense of the Congress that the Union of Soviet Socialist Republics should provide the signatories of the Helsinki Final Act with specific information as to the whereabouts, health, and legal status of Andrei Sakharov and Yelena Bonner.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/98/hconres/332?format=json"
+        },
+        {
+            "amendmentNumber": "1171",
+            "congress": 99,
+            "introducedDate": "1986-08-15",
+            "latestAction": {
+                "actionDate": "1986-08-15",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/1171?format=json"
+        },
+        {
+            "amendmentNumber": "681",
+            "congress": 99,
+            "introducedDate": "1985-12-06",
+            "latestAction": {
+                "actionDate": "1985-12-06",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/681?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-06-18",
+            "latestAction": {
+                "actionDate": "1986-06-26",
+                "text": "Referred to Subcommittee on Health and the Environment."
+            },
+            "number": "5051",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Nuclear Winter Research Act of 1986",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5051?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-04-17",
+            "latestAction": {
+                "actionDate": "1986-07-16",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "4612",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Hazardous Materials Transportation Safety Amendments of 1986",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/4612?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-03-21",
+            "latestAction": {
+                "actionDate": "1986-08-05",
+                "text": "Committee on Agriculture requested executive comment from Agriculture Department."
+            },
+            "number": "4489",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "National Forest Ski Area Permit Act of 1986",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/4489?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-02-27",
+            "latestAction": {
+                "actionDate": "1986-06-23",
+                "text": "Executive Comment Received From Commerce."
+            },
+            "number": "4283",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on d-6-Methoxy-oc-methyl-2-naphthaleneacetic acid and its sodium salt.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/4283?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-09-18",
+            "latestAction": {
+                "actionDate": "1985-09-30",
+                "text": "Referred to Subcommittee on Postsecondary Education."
+            },
+            "number": "3326",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Education Technology Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3326?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-08-01",
+            "latestAction": {
+                "actionDate": "1985-10-28",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3216",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Children's Television Education Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3216?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-08-01",
+            "latestAction": {
+                "actionDate": "1985-08-01",
+                "text": "Referred to Subcommittee on Telecommunications, Consumer Protection and Finance."
+            },
+            "number": "3217",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Public Broadcasting Authorization Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3217?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-07-31",
+            "latestAction": {
+                "actionDate": "1986-05-09",
+                "text": "See H.R.4800."
+            },
+            "number": "3131",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Telecommunications Trade Act of 1986",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3131?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-06-06",
+            "latestAction": {
+                "actionDate": "1985-12-09",
+                "text": "House Incorporated this Measure (Amended) in H.R.3878 as an Amendment."
+            },
+            "number": "2702",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to grant the consent of the Congress to the Rocky Mountain Low-Level Radioactive Waste Compact.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2702?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-05-22",
+            "latestAction": {
+                "actionDate": "1985-06-19",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "2576",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Toxic Release Control Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2576?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-05-02",
+            "latestAction": {
+                "actionDate": "1985-05-09",
+                "text": "Referred to Subcommittee on Telecommunications, Consumer Protection and Finance."
+            },
+            "number": "2321",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "NTIA Authorization Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2321?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-04-25",
+            "latestAction": {
+                "actionDate": "1986-10-06",
+                "text": "Other Measure S.863 Passed House in Lieu."
+            },
+            "number": "2248",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Motor Vehicle Safety Authorization Act of 1986",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2248?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-04-02",
+            "latestAction": {
+                "actionDate": "1985-04-03",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "1867",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "NTIA Authorization Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/1867?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-03-20",
+            "latestAction": {
+                "actionDate": "1985-03-21",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "1604",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Securities Law Technical Amendments Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/1604?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-03-20",
+            "latestAction": {
+                "actionDate": "1985-12-28",
+                "text": "Became Public Law No: 99-222."
+            },
+            "number": "1603",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Shareholder Communications Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/1603?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-03-20",
+            "latestAction": {
+                "actionDate": "1985-07-24",
+                "text": "Received in the Senate and read twice and referred to the Committee on Banking."
+            },
+            "number": "1602",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend the Securities Exchange Act of 1934 to authorize appropriations for the Securities Exchange Commission for fiscal years 1986 through 1988.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/1602?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-02-26",
+            "latestAction": {
+                "actionDate": "1985-11-13",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "1287",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Radiation Research Reorganization Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/1287?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-01-03",
+            "latestAction": {
+                "actionDate": "1986-06-26",
+                "text": "Unfavorable Executive Comment Received From Agriculture."
+            },
+            "number": "34",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Colorado Wilderness Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/34?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-10-06",
+            "latestAction": {
+                "actionDate": "1986-10-27",
+                "text": "See S.J.Res.414."
+            },
+            "number": "745",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution designating March 16, 1987, as \"Freedom of Information Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/99/hjres/745?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-08-14",
+            "latestAction": {
+                "actionDate": "1986-10-06",
+                "text": "Became Public Law No: 99-444."
+            },
+            "number": "710",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution to designate the week beginning October 6, 1986, as \"National Children's Television Awareness Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/99/hjres/710?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-08-01",
+            "latestAction": {
+                "actionDate": "1986-03-14",
+                "text": "Became Public Law No: 99-257."
+            },
+            "number": "371",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution to designate March 16, 1986, as \"Freedom of Information Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/99/hjres/371?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-06-04",
+            "latestAction": {
+                "actionDate": "1985-06-04",
+                "text": "Referred to House Committee on Rules."
+            },
+            "number": "181",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A resolution to establish the Select Committee on Defense Procurement.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/99/hres/181?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-10-02",
+            "latestAction": {
+                "actionDate": "1986-10-16",
+                "text": "Resolution agreed to in Senate without amendment and with a preamble by Voice Vote."
+            },
+            "number": "404",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution expressing the sense of the Congress that the Soviet Union should immediately provide for the emigration of Naum Meiman and Inna Kitrosskaya-Meiman and for the resolution of all divided family and emigration cases.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/99/hconres/404?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-04-15",
+            "latestAction": {
+                "actionDate": "1986-04-25",
+                "text": "Referred to Subcommittee on Human Rights and International Organizations."
+            },
+            "number": "317",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution expressing the sense of the Congress that the Soviet Union should immediately provide for the release and safe passage of Naum Meiman and Inna Kitrosskaya-Meiman.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/99/hconres/317?format=json"
+        },
+        {
+            "amendmentNumber": "2948",
+            "congress": 100,
+            "introducedDate": "1988-09-09",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/samdt/2948?format=json"
+        },
+        {
+            "amendmentNumber": "2753",
+            "congress": 100,
+            "introducedDate": "1988-07-28",
+            "latestAction": {
+                "actionDate": "1988-07-28",
+                "text": "Referred to the Committee on Energy and Natural Resources. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/samdt/2753?format=json"
+        },
+        {
+            "amendmentNumber": "2660",
+            "congress": 100,
+            "introducedDate": "1988-07-25",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/samdt/2660?format=json"
+        },
+        {
+            "amendmentNumber": "2591",
+            "congress": 100,
+            "introducedDate": "1988-07-13",
+            "latestAction": {
+                "actionDate": "1988-07-13",
+                "text": "Amendment SP 2591 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/samdt/2591?format=json"
+        },
+        {
+            "amendmentNumber": "2030",
+            "congress": 100,
+            "introducedDate": "1988-05-12",
+            "latestAction": {
+                "actionDate": "1988-05-12",
+                "text": "Amendment SP 2030 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/samdt/2030?format=json"
+        },
+        {
+            "amendmentNumber": "1075",
+            "congress": 100,
+            "introducedDate": "1987-10-28",
+            "latestAction": {
+                "actionDate": "1987-10-28",
+                "text": "Amendment SP 1075 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/samdt/1075?format=json"
+        },
+        {
+            "amendmentNumber": "634",
+            "congress": 100,
+            "introducedDate": "1987-07-24",
+            "latestAction": {
+                "actionDate": "1987-07-24",
+                "text": "Amendment SP 634 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/samdt/634?format=json"
+        },
+        {
+            "amendmentNumber": "151",
+            "congress": 100,
+            "introducedDate": "1987-04-22",
+            "latestAction": {
+                "actionDate": "1987-04-22",
+                "text": "(See Leahy amendment no. 157). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/samdt/151?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-10-12",
+            "latestAction": {
+                "actionDate": "1988-10-13",
+                "text": "Referred to Subcommittee on Public Lands, National Parks."
+            },
+            "number": "2882",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to authorize a land exchange in South Dakota and Colorado.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/100/s/2882?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-08-10",
+            "latestAction": {
+                "actionDate": "1988-09-30",
+                "text": "Committee on Labor and Human Resources requested executive comment from OMB."
+            },
+            "number": "2717",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill extending permission for the President's Commission on White House Fellows to accept certain donations.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/100/s/2717?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-07-28",
+            "latestAction": {
+                "actionDate": "1988-09-20",
+                "text": "Committee on Energy and Natural Resources. Hearings held on titles XIV, XV, and XVI."
+            },
+            "number": "2667",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "National Energy Policy Act of 1988",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/100/s/2667?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-05-13",
+            "latestAction": {
+                "actionDate": "1988-05-13",
+                "text": "Read twice and referred to the Committee on Commerce."
+            },
+            "number": "2395",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Commercial Space Launch Act Amendments of 1988",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/100/s/2395?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-12-21",
+            "latestAction": {
+                "actionDate": "1988-11-05",
+                "text": "Became Public Law No: 100-616."
+            },
+            "number": "1991",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Uranium Mill Tailings Remedial Action Amendments of 1988",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/100/s/1991?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-07-24",
+            "latestAction": {
+                "actionDate": "1988-10-13",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "1549",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "A bill to increase the authorization ceiling for the Closed Basin Division, San Luis Valley Project, Colorado.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/100/s/1549?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-05-21",
+            "latestAction": {
+                "actionDate": "1987-05-21",
+                "text": "Read twice and referred to the Committee on Commerce."
+            },
+            "number": "1269",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Hazardous Materials Transportation Safety Amendments of 1987",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/100/s/1269?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-04-21",
+            "latestAction": {
+                "actionDate": "1988-11-07",
+                "text": "Became Public Law No: 100-634."
+            },
+            "number": "301",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution designating January 20, 1989, as \"National Skiing Day\".",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/100/sjres/301?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-05-29",
+            "latestAction": {
+                "actionDate": "1987-06-25",
+                "text": "Indefinitely postponed by Senate by Unanimous Consent."
+            },
+            "number": "145",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution designating the week beginning June 21, 1987, as \"National Outward Bound Week\".",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/100/sjres/145?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-05-29",
+            "latestAction": {
+                "actionDate": "1987-10-26",
+                "text": "Referred to Subcommittee on Census and Population."
+            },
+            "number": "144",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution designating the week beginning October 18, 1987, as \"Financial Independence Week\".",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/100/sjres/144?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-05-29",
+            "latestAction": {
+                "actionDate": "1987-12-11",
+                "text": "Became Public Law No: 100-189."
+            },
+            "number": "146",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution designating January 8, 1988, as \"National Skiing Day\".",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/100/sjres/146?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-03-03",
+            "latestAction": {
+                "actionDate": "1987-03-06",
+                "text": "Resolution agreed to in Senate without amendment and with a preamble by Voice Vote."
+            },
+            "number": "159",
+            "policyArea": {
+                "name": "Arts, Culture, Religion"
+            },
+            "title": "A resolution commending the purpose and organizers of the art exhibit, \"An American Vision:  Three Generations of Wyeth Art\", scheduled to open in the Soviet Union in March of 1987.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/100/sres/159?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-02-19",
+            "latestAction": {
+                "actionDate": "1987-05-15",
+                "text": "Committee on Foreign Relations requested executive comment from State Department."
+            },
+            "number": "19",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "A concurrent resolution urging the President to take immediate action to reduce the depletion of the ozone layer attributable to worldwide emissions of chloroflourocarbons.",
+            "type": "SCONRES",
+            "url": "https://api.congress.gov/v3/bill/100/sconres/19?format=json"
+        },
+        {
+            "amendmentNumber": "3177",
+            "congress": 101,
+            "introducedDate": "1990-10-26",
+            "latestAction": {
+                "actionDate": "1990-10-26",
+                "text": "Amendment SP 3177 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/3177?format=json"
+        },
+        {
+            "amendmentNumber": "3161",
+            "congress": 101,
+            "introducedDate": "1990-10-25",
+            "latestAction": {
+                "actionDate": "1990-10-25",
+                "text": "Amendment SP 3161 agreed to in Senate by Yea-Nay Vote. 73-22. Record Vote No: 313. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/3161?format=json"
+        },
+        {
+            "amendmentNumber": "3067",
+            "congress": 101,
+            "introducedDate": "1990-10-19",
+            "latestAction": {
+                "actionDate": "1990-10-23",
+                "text": "Proposed amendment SP 3067 by unanimous consent withdrawn in Senate. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/3067?format=json"
+        },
+        {
+            "amendmentNumber": "2958",
+            "congress": 101,
+            "introducedDate": "1990-10-12",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/2958?format=json"
+        },
+        {
+            "amendmentNumber": "2571",
+            "congress": 101,
+            "introducedDate": "1990-08-04",
+            "latestAction": {
+                "actionDate": "1990-08-04",
+                "text": "Amendment SP 2571 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/2571?format=json"
+        },
+        {
+            "amendmentNumber": "2514",
+            "congress": 101,
+            "introducedDate": "1990-08-03",
+            "latestAction": {
+                "actionDate": "1990-08-03",
+                "text": "Proposed amendment SP 2514 withdrawn in Senate. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/2514?format=json"
+        },
+        {
+            "amendmentNumber": "2313",
+            "congress": 101,
+            "introducedDate": "1990-07-19",
+            "latestAction": {
+                "actionDate": "1990-07-19",
+                "text": "Amendment SP 2313 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/2313?format=json"
+        },
+        {
+            "amendmentNumber": "2049",
+            "congress": 101,
+            "introducedDate": "1990-06-20",
+            "latestAction": {
+                "actionDate": "1990-06-20",
+                "text": "Amendment SP 2049 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/2049?format=json"
+        },
+        {
+            "amendmentNumber": "2003",
+            "congress": 101,
+            "introducedDate": "1990-06-07",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/2003?format=json"
+        },
+        {
+            "amendmentNumber": "1975",
+            "congress": 101,
+            "introducedDate": "1990-06-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/1975?format=json"
+        },
+        {
+            "amendmentNumber": "2116",
+            "congress": 101,
+            "introducedDate": "1990-07-11",
+            "latestAction": {
+                "actionDate": "1990-07-11",
+                "text": "Amendment SP 2116 agreed to in Senate by Yea-Nay Vote. 99-1. Record Vote No: 146. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/2116?format=json"
+        },
+        {
+            "amendmentNumber": "1943",
+            "congress": 101,
+            "introducedDate": "1990-06-05",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/1943?format=json"
+        },
+        {
+            "amendmentNumber": "2032",
+            "congress": 101,
+            "introducedDate": "1990-06-19",
+            "latestAction": {
+                "actionDate": "1990-06-19",
+                "text": "Amendment SP 2032 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/2032?format=json"
+        },
+        {
+            "amendmentNumber": "1922",
+            "congress": 101,
+            "introducedDate": "1990-06-05",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/1922?format=json"
+        },
+        {
+            "amendmentNumber": "1775",
+            "congress": 101,
+            "introducedDate": "1990-05-25",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/1775?format=json"
+        },
+        {
+            "amendmentNumber": "1776",
+            "congress": 101,
+            "introducedDate": "1990-05-25",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/1776?format=json"
+        },
+        {
+            "amendmentNumber": "1701",
+            "congress": 101,
+            "introducedDate": "1990-05-24",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/1701?format=json"
+        },
+        {
+            "amendmentNumber": "1700",
+            "congress": 101,
+            "introducedDate": "1990-05-24",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/1700?format=json"
+        },
+        {
+            "amendmentNumber": "1570",
+            "congress": 101,
+            "introducedDate": "1990-05-01",
+            "latestAction": {
+                "actionDate": "1990-05-01",
+                "text": "Amendment SP 1570 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/1570?format=json"
+        },
+        {
+            "amendmentNumber": "1554",
+            "congress": 101,
+            "introducedDate": "1990-04-30",
+            "latestAction": {
+                "actionDate": "1990-04-30",
+                "text": "SP 1554 ruled out of order by the chair. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/1554?format=json"
+        },
+        {
+            "amendmentNumber": "1446",
+            "congress": 101,
+            "introducedDate": "1990-04-03",
+            "latestAction": {
+                "actionDate": "1990-04-03",
+                "text": "Amendment SP 1446 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/1446?format=json"
+        },
+        {
+            "amendmentNumber": "1455",
+            "congress": 101,
+            "introducedDate": "1990-04-03",
+            "latestAction": {
+                "actionDate": "1990-04-03",
+                "text": "Amendment SP 1455 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/1455?format=json"
+        },
+        {
+            "amendmentNumber": "1382",
+            "congress": 101,
+            "introducedDate": "1990-03-27",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/1382?format=json"
+        },
+        {
+            "amendmentNumber": "1369",
+            "congress": 101,
+            "introducedDate": "1990-03-22",
+            "latestAction": {
+                "actionDate": "1990-03-22",
+                "text": "Amendment SP 1369 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/1369?format=json"
+        },
+        {
+            "amendmentNumber": "1310",
+            "congress": 101,
+            "introducedDate": "1990-03-07",
+            "latestAction": {
+                "actionDate": "1990-03-20",
+                "text": "Amendment SP 1310 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/1310?format=json"
+        },
+        {
+            "amendmentNumber": "1311",
+            "congress": 101,
+            "introducedDate": "1990-03-07",
+            "latestAction": {
+                "actionDate": "1990-03-20",
+                "text": "Amendment SP 1311 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/1311?format=json"
+        },
+        {
+            "amendmentNumber": "1313",
+            "congress": 101,
+            "introducedDate": "1990-03-07",
+            "latestAction": {
+                "actionDate": "1990-03-28",
+                "text": "Amendment SP 1313 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/1313?format=json"
+        },
+        {
+            "amendmentNumber": "1344",
+            "congress": 101,
+            "introducedDate": "1990-03-20",
+            "latestAction": {
+                "actionDate": "1990-03-20",
+                "text": "Motion to table SP 1344 agreed to in Senate by Yea-Nay Vote. 52-46. Record Vote No: 35. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/1344?format=json"
+        },
+        {
+            "amendmentNumber": "1312",
+            "congress": 101,
+            "introducedDate": "1990-03-07",
+            "latestAction": {
+                "actionDate": "1990-03-20",
+                "text": "Proposed amendment SP 1312 withdrawn in Senate. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/1312?format=json"
+        },
+        {
+            "amendmentNumber": "1138",
+            "congress": 101,
+            "introducedDate": "1989-11-15",
+            "latestAction": {
+                "actionDate": "1989-11-15",
+                "text": "Amendment SP 1138 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/1138?format=json"
+        },
+        {
+            "amendmentNumber": "1107",
+            "congress": 101,
+            "introducedDate": "1989-11-13",
+            "latestAction": {
+                "actionDate": "1989-11-13",
+                "text": "Referred to the Committee on Banking. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/1107?format=json"
+        },
+        {
+            "amendmentNumber": "916",
+            "congress": 101,
+            "introducedDate": "1989-10-03",
+            "latestAction": {
+                "actionDate": "1989-10-03",
+                "text": "Amendment SP 916 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/916?format=json"
+        },
+        {
+            "amendmentNumber": "754",
+            "congress": 101,
+            "introducedDate": "1989-09-15",
+            "latestAction": {
+                "actionDate": "1989-09-15",
+                "text": "Amendment SP 754 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/754?format=json"
+        },
+        {
+            "amendmentNumber": "313",
+            "congress": 101,
+            "introducedDate": "1989-07-19",
+            "latestAction": {
+                "actionDate": "1989-07-19",
+                "text": "Amendment SP 313 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/313?format=json"
+        },
+        {
+            "amendmentNumber": "319",
+            "congress": 101,
+            "introducedDate": "1989-07-19",
+            "latestAction": {
+                "actionDate": "1989-07-19",
+                "text": "Amendment SP 319 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/319?format=json"
+        },
+        {
+            "amendmentNumber": "299",
+            "congress": 101,
+            "introducedDate": "1989-07-19",
+            "latestAction": {
+                "actionDate": "1989-07-19",
+                "text": "Proposed amendment SP 299 withdrawn in Senate. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/299?format=json"
+        },
+        {
+            "amendmentNumber": "93",
+            "congress": 101,
+            "introducedDate": "1989-05-04",
+            "latestAction": {
+                "actionDate": "1989-05-04",
+                "text": "Amendment SP 93 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/93?format=json"
+        },
+        {
+            "amendmentNumber": "57",
+            "congress": 101,
+            "introducedDate": "1989-04-19",
+            "latestAction": {
+                "actionDate": "1989-04-19",
+                "text": "Amendment SP 57 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/57?format=json"
+        },
+        {
+            "amendmentNumber": "1",
+            "congress": 101,
+            "introducedDate": "1989-02-02",
+            "latestAction": {
+                "actionDate": "1989-02-02",
+                "text": "Referred to the Committee on Energy and Natural Resources. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/1?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-09-27",
+            "latestAction": {
+                "actionDate": "1990-09-28",
+                "text": "Referred to Subcommittee on Public Lands, National Parks."
+            },
+            "number": "3128",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to increase Federal payments in lieu of taxes to units of general local government, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/101/s/3128?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-09-19",
+            "latestAction": {
+                "actionDate": "1990-09-20",
+                "text": "Referred to Subcommittee on Public Lands, National Parks."
+            },
+            "number": "3078",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Interim Colorado Wilderness Protection Act of 1990",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/101/s/3078?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-09-26",
+            "latestAction": {
+                "actionDate": "1990-09-26",
+                "text": "Read twice and referred to the Committee on Banking."
+            },
+            "number": "3112",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Savings and Loan Simplification Act of 1990",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/101/s/3112?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-07-26",
+            "latestAction": {
+                "actionDate": "1990-09-28",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 883."
+            },
+            "number": "2923",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Used Oil Energy Production Act of 1990",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/101/s/2923?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-07-24",
+            "latestAction": {
+                "actionDate": "1990-09-26",
+                "text": "Subcommittee on Public Lands, National Parks. Hearings held."
+            },
+            "number": "2891",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to authorize and direct an exchange of lands in Colorado.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/101/s/2891?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-07-24",
+            "latestAction": {
+                "actionDate": "1990-07-24",
+                "text": "Read twice and referred to the Committee on Environment and Public Works."
+            },
+            "number": "2892",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Lead Battery Recycling Incentives Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/101/s/2892?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-05-02",
+            "latestAction": {
+                "actionDate": "1990-05-02",
+                "text": "Read twice and referred to the Committee on Armed Services."
+            },
+            "number": "2560",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to direct the Secretary of the Army to transfer to the Forest Service certain lands that are not needed for the purpose of the Pinon Canyon Maneuver Site, for the purpose of protecting the paleontological, archeological, and natural resources on those lands.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/101/s/2560?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-04-19",
+            "latestAction": {
+                "actionDate": "1990-04-19",
+                "text": "Read twice and referred to the Committee on Environment and Public Works."
+            },
+            "number": "2462",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Tire Recycling Incentives Act of 1990",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/101/s/2462?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-04-05",
+            "latestAction": {
+                "actionDate": "1990-04-05",
+                "text": "Read twice and referred to the Committee on Banking."
+            },
+            "number": "2433",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Financial Services Commission Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/101/s/2433?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-04-24",
+            "latestAction": {
+                "actionDate": "1990-04-24",
+                "text": "Read twice and referred to the Committee on Banking."
+            },
+            "number": "2496",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Bank Securities Registration and Administration Act of 1990",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/101/s/2496?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-02-20",
+            "latestAction": {
+                "actionDate": "1990-02-20",
+                "text": "Read twice and referred to the Committee on Commerce."
+            },
+            "number": "2130",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to regulate the dumping of waste by the Rail Passenger Service Corporation.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/101/s/2130?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-01-23",
+            "latestAction": {
+                "actionDate": "1990-01-23",
+                "text": "Read twice and referred to the Committee on Governmental Affairs."
+            },
+            "number": "2020",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A bill to prohibit Members of the Senate and Senate staff from receiving honoraria.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/101/s/2020?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-11-20",
+            "latestAction": {
+                "actionDate": "1990-01-17",
+                "text": "Referred to Subcommittee on Conservation and Forestry."
+            },
+            "number": "1945",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to authorize a land exchange in South Dakota and Colorado.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/101/s/1945?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-07-18",
+            "latestAction": {
+                "actionDate": "1990-09-26",
+                "text": "Committee on Energy and Natural Resources requested executive comment from Department of Agriculture, and Office of Management and Budget."
+            },
+            "number": "1343",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Colorado Wilderness Act of 1989",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/101/s/1343?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-06-23",
+            "latestAction": {
+                "actionDate": "1989-11-16",
+                "actionTime": "15:16:00",
+                "text": "Held at the desk."
+            },
+            "number": "1275",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Leadville Mine Drainage Treatment Act of 1989",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/101/s/1275?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-06-21",
+            "latestAction": {
+                "actionDate": "1989-07-12",
+                "text": "Subcommittee on Communications. Hearings held. Hearings printed: S.Hrg. 101-221."
+            },
+            "number": "1215",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Children's Television Education Act of 1989",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/101/s/1215?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-05-16",
+            "latestAction": {
+                "actionDate": "1990-03-01",
+                "text": "Committee on Finance. Ordered to be reported without amendment favorably."
+            },
+            "number": "991",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to continue the suspension of the duty on d-6-Methoxy-a-methyl-2-naphthaleneacetic acid and its sodium salt.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/101/s/991?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-05-11",
+            "latestAction": {
+                "actionDate": "1990-02-01",
+                "text": "Committee on Energy and Natural Resources requested executive comment from Department of Health and Human Services, and Office of Management and Budget."
+            },
+            "number": "972",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Radiation Research Reorganization Act of 1989",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/101/s/972?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-04-17",
+            "latestAction": {
+                "actionDate": "1989-05-12",
+                "text": "Referred to Subcommittee on Education, Arts, Humanities."
+            },
+            "number": "813",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "National Literacy Commission Act of 1989",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/101/s/813?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-04-10",
+            "latestAction": {
+                "actionDate": "1989-11-29",
+                "text": "Became Public Law No: 101-192."
+            },
+            "number": "737",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to authorize the Secretary of the Interior to acquire certain lands adjacent to the boundary of Rocky Mountain National Park in the State of Colorado.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/101/s/737?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-02",
+            "latestAction": {
+                "actionDate": "1990-11-08",
+                "text": "See also H.R. 5835."
+            },
+            "number": "324",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "National Energy Policy Act of 1990",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/101/s/324?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-02",
+            "latestAction": {
+                "actionDate": "1990-02-28",
+                "text": "Subcommittee on Public Lands, National Parks. Hearings held. Hearings printed: S.Hrg. 101-30."
+            },
+            "number": "346",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Tongass Timber Reform Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/101/s/346?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-01-25",
+            "latestAction": {
+                "actionDate": "1990-03-29",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 494."
+            },
+            "number": "30",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Oil Shale Claims Act of 1990",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/101/s/30?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-08",
+            "latestAction": {
+                "actionDate": "1989-02-08",
+                "text": "Read twice and referred to the Committee on Judiciary."
+            },
+            "number": "59",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "A joint resolution designating January 19, 1990 as \"National Skiing Day\".",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/101/sjres/59?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-03-16",
+            "latestAction": {
+                "actionDate": "1990-09-13",
+                "text": "Indefinitely postponed by Senate by Unanimous Consent."
+            },
+            "number": "88",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "National Global Warming Policy Act",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/101/sjres/88?format=json"
+        }
+    ]
+}

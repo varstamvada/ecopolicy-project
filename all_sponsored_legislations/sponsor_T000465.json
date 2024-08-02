@@ -1,0 +1,939 @@
+{
+    "pagination": {
+        "count": 64
+    },
+    "request": {
+        "bioguideId": "t000465",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "603",
+            "congress": 113,
+            "introducedDate": "2014-03-26",
+            "latestAction": {
+                "actionDate": "2014-03-26",
+                "actionTime": "16:29:38",
+                "text": "On agreeing to the Tsongas amendment (A003) Failed by recorded vote: 197 - 223 (Roll no. 145). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/603?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-05-20",
+            "latestAction": {
+                "actionDate": "2014-05-20",
+                "text": "Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "4693",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "U.S. Air Forces Escape and Evasion Society Recognition Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4693?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-05-06",
+            "latestAction": {
+                "actionDate": "2014-05-06",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4583",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "SSI Savers Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4583?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-04-28",
+            "latestAction": {
+                "actionDate": "2014-07-01",
+                "text": "Referred to the Subcommittee on Intelligence, Emerging Threats & Capabilities."
+            },
+            "number": "4505",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "DOD Cloud Security Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4505?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-04-28",
+            "latestAction": {
+                "actionDate": "2014-07-01",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "4504",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "DoD Suicide Tracking Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4504?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-04-04",
+            "latestAction": {
+                "actionDate": "2014-07-01",
+                "text": "Referred to the Subcommittee on Intelligence, Emerging Threats & Capabilities."
+            },
+            "number": "4410",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "DoD LABS Research Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4410?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-11-13",
+            "latestAction": {
+                "actionDate": "2014-01-09",
+                "text": "Referred to the Subcommittee on the Constitution and Civil Justice."
+            },
+            "number": "3480",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "No Taxpayer Money for Corporate Campaigns Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3480?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-05-23",
+            "latestAction": {
+                "actionDate": "2013-06-04",
+                "text": "Referred to the Subcommittee on Public Lands and Environmental Regulation."
+            },
+            "number": "2205",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Groundwork USA Trust Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2205?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-05-23",
+            "latestAction": {
+                "actionDate": "2013-07-08",
+                "text": "Referred to the Subcommittee on Higher Education and Workforce Training."
+            },
+            "number": "2204",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "HIRE Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2204?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-05-20",
+            "latestAction": {
+                "actionDate": "2013-06-20",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "2059",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Coast Guard STRONG Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2059?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-05-06",
+            "latestAction": {
+                "actionDate": "2013-05-06",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1840",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Senior and Retired Volunteers Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/1840?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-01-23",
+            "latestAction": {
+                "actionDate": "2014-07-23",
+                "text": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held."
+            },
+            "number": "412",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Nashua River Wild and Scenic River Study Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/412?format=json"
+        },
+        {
+            "amendmentNumber": "284",
+            "congress": 112,
+            "introducedDate": "2011-05-11",
+            "latestAction": {
+                "actionDate": "2011-05-12",
+                "actionTime": "13:35:22",
+                "text": "On agreeing to the Tsongas amendment (A005) Failed by recorded vote: 195 - 223 (Roll no. 315). (consideration: CR H3237-3238)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/284?format=json"
+        },
+        {
+            "amendmentNumber": "7",
+            "congress": 112,
+            "introducedDate": "2011-01-26",
+            "latestAction": {
+                "actionDate": "2011-01-26",
+                "actionTime": "12:57:44",
+                "text": "By unanimous consent, the Tsongas amendment was withdrawn. (consideration: CR H494)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/7?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-09-10",
+                "text": "Placed on the Union Calendar, Calendar No. 476."
+            },
+            "number": "5319",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Nashua River Wild and Scenic River Study Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5319?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-11-17",
+            "latestAction": {
+                "actionDate": "2012-03-29",
+                "text": "Referred to the Subcommittee on Health, Employment, Labor, and Pensions."
+            },
+            "number": "3471",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "HIRE Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3471?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-06-16",
+            "latestAction": {
+                "actionDate": "2012-10-05",
+                "text": "Became Public Law No: 112-182."
+            },
+            "number": "2240",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Lowell National Historical Park Land Exchange Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2240?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-06-02",
+            "latestAction": {
+                "actionDate": "2011-06-06",
+                "text": "Referred to the Subcommittee on Human Resources."
+            },
+            "number": "2103",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "SSI Savers Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2103?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-05-13",
+            "latestAction": {
+                "actionDate": "2011-07-19",
+                "text": "Referred to the Subcommittee on Insurance, Housing and Community Opportunity."
+            },
+            "number": "1931",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Groundwork USA Trust Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1931?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-05-12",
+            "latestAction": {
+                "actionDate": "2011-05-24",
+                "text": "Referred to the Subcommittee on Energy and Mineral Resources."
+            },
+            "number": "1890",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "SAFER Drilling Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1890?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-05-04",
+            "latestAction": {
+                "actionDate": "2011-05-24",
+                "text": "Referred to the Subcommittee on Tactical Air and Land Forces."
+            },
+            "number": "1731",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To direct the Secretary of Defense to submit notifications to Congress with respect to the failure by the Secretary to comply with statutory body armor procurement budget information requirements.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1731?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-05-02",
+            "latestAction": {
+                "actionDate": "2011-05-24",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "1679",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "WE CARE Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1679?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-04-15",
+            "latestAction": {
+                "actionDate": "2011-04-15",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1661",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Small Business Tax Relief and Retirement Restoration Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1661?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-04-15",
+            "latestAction": {
+                "actionDate": "2011-05-02",
+                "text": "Referred to the Subcommittee on Financial Institutions and Consumer Credit."
+            },
+            "number": "1660",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Faster Access and Shorter Transaction Time for Checks Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1660?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-04-13",
+            "latestAction": {
+                "actionDate": "2011-05-18",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "1529",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Defense Sexual Trauma Response Oversight and Good Governance Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1529?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-03-10",
+            "latestAction": {
+                "actionDate": "2011-04-01",
+                "text": "Referred to the Subcommittee on Elections."
+            },
+            "number": "1024",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "No Taxpayer Money for Corporate Campaigns Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1024?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-09-13",
+            "latestAction": {
+                "actionDate": "2018-09-21",
+                "text": "Referred to the Subcommittee on Federal Lands."
+            },
+            "number": "6825",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Nashua River Wild and Scenic River Act of 2018",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/6825?format=json"
+        },
+        {
+            "amendmentNumber": "725",
+            "congress": 115,
+            "introducedDate": "2018-06-07",
+            "latestAction": {
+                "actionDate": "2018-06-07",
+                "actionTime": "21:25:02",
+                "text": "On agreeing to the Tsongas amendment (A012) Failed by recorded vote: 201 - 217 (Roll no. 244). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/115/hamdt/725?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-03-14",
+            "latestAction": {
+                "actionDate": "2018-06-26",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "5291",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Offshore Wind Jobs and Opportunity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/5291?format=json"
+        },
+        {
+            "amendmentNumber": "210",
+            "congress": 115,
+            "introducedDate": "2017-07-20",
+            "latestAction": {
+                "actionDate": "2017-07-20",
+                "actionTime": "11:40:43",
+                "text": "On agreeing to the Tsongas amendment (A001) Failed by recorded vote: 190 - 234 (Roll no. 404). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/115/hamdt/210?format=json"
+        },
+        {
+            "amendmentNumber": "208",
+            "congress": 115,
+            "introducedDate": "2017-07-19",
+            "latestAction": {
+                "actionDate": "2017-07-19",
+                "actionTime": "17:04:21",
+                "text": "On agreeing to the Tsongas amendment (A002) Failed by recorded vote: 179 - 247 (Roll no. 396). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/115/hamdt/208?format=json"
+        },
+        {
+            "amendmentNumber": "204",
+            "congress": 115,
+            "introducedDate": "2017-07-19",
+            "latestAction": {
+                "actionDate": "2017-07-19",
+                "actionTime": "17:31:38",
+                "text": "On agreeing to the Tsongas amendment (A001) Failed by recorded vote: 180 - 249 (Roll no. 399). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/115/hamdt/204?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-07-11",
+            "latestAction": {
+                "actionDate": "2018-11-28",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 680."
+            },
+            "number": "3186",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Every Kid Outdoors Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/3186?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-05-01",
+            "latestAction": {
+                "actionDate": "2017-05-01",
+                "text": "Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "2279",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "U.S. Air Forces Escape and Evasion Society Recognition Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/2279?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-04-25",
+            "latestAction": {
+                "actionDate": "2018-01-10",
+                "text": "Became Public Law No: 115-112."
+            },
+            "number": "2142",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "An act to improve the ability of U.S. Customs and Border Protection to interdict fentanyl, other synthetic opioids, and other narcotics and psychoactive substances that are illegally imported into the United States, and for other purposes",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/2142?format=json"
+        },
+        {
+            "amendmentNumber": "1372",
+            "congress": 114,
+            "introducedDate": "2016-07-13",
+            "latestAction": {
+                "actionDate": "2016-07-14",
+                "actionTime": "13:31:13",
+                "text": "On agreeing to the Tsongas amendment (A092) Failed by recorded vote: 184 - 241 (Roll no. 474). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/114/hamdt/1372?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-05-26",
+            "latestAction": {
+                "actionDate": "2016-06-02",
+                "text": "Referred to the Subcommittee on Federal Lands."
+            },
+            "number": "5371",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Lowell National Historical Park Creative Partnerships Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5371?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-04-13",
+            "latestAction": {
+                "actionDate": "2016-04-13",
+                "text": "Referred to the House Committee on Armed Services."
+            },
+            "number": "4935",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Stepping up for American Workers and Troops Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/4935?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-11-03",
+            "latestAction": {
+                "actionDate": "2015-12-04",
+                "text": "Referred to the Subcommittee on the Constitution and Civil Justice."
+            },
+            "number": "3916",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "No Taxpayer Money for Corporate Campaigns Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3916?format=json"
+        },
+        {
+            "amendmentNumber": "568",
+            "congress": 114,
+            "introducedDate": "2015-07-07",
+            "latestAction": {
+                "actionDate": "2015-07-08",
+                "actionTime": "14:47:05",
+                "text": "On agreeing to the Tsongas amendment (A038) Failed by recorded vote: 191 - 238 (Roll no. 398). (consideration: CR H4891-4892)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/114/hamdt/568?format=json"
+        },
+        {
+            "amendmentNumber": "582",
+            "congress": 114,
+            "introducedDate": "2015-07-07",
+            "latestAction": {
+                "actionDate": "2015-07-08",
+                "actionTime": "15:07:02",
+                "text": "On agreeing to the Tsongas amendment (A052) Failed by recorded vote: 186 - 243 (Roll no. 404). (consideration: CR H4895-4896)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/114/hamdt/582?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-10-07",
+            "latestAction": {
+                "actionDate": "2015-10-21",
+                "text": "Referred to the Subcommittee on Federal Lands."
+            },
+            "number": "3707",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Groundwork USA Trust Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3707?format=json"
+        },
+        {
+            "amendmentNumber": "543",
+            "congress": 114,
+            "introducedDate": "2015-06-25",
+            "latestAction": {
+                "actionDate": "2015-06-25",
+                "actionTime": "14:59:38",
+                "text": "On agreeing to the Tsongas amendment (A013) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/114/hamdt/543?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-06-24",
+            "latestAction": {
+                "actionDate": "2015-06-24",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2885",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Senior and Retired Volunteers Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/2885?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-01-30",
+            "latestAction": {
+                "actionDate": "2015-01-30",
+                "text": "Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "632",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "U.S. Air Forces Escape and Evasion Society Recognition Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/632?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-07-29",
+            "latestAction": {
+                "actionDate": "2010-07-29",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5978",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Small Business Tax Relief and Retirement Restoration Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5978?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-07-01",
+            "latestAction": {
+                "actionDate": "2010-07-08",
+                "text": "Referred to the Subcommittee on Energy and Mineral Resources."
+            },
+            "number": "5709",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Oil Spill Preparation and Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5709?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-05-05",
+            "latestAction": {
+                "actionDate": "2010-06-18",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "5224",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Women's Excellence of Care and Accessibility Review and Evaluation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5224?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-05-05",
+            "latestAction": {
+                "actionDate": "2010-06-18",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "5225",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "iVETS Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5225?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-05-03",
+            "latestAction": {
+                "actionDate": "2010-05-06",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "5197",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Defense Sexual Trauma Response Oversight and Good Governance Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5197?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-04-22",
+            "latestAction": {
+                "actionDate": "2010-04-28",
+                "text": "Referred to the Subcommittee on National Parks, Forests and Public Lands."
+            },
+            "number": "5134",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Groundwork USA Trust Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5134?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-04-15",
+            "latestAction": {
+                "actionDate": "2010-04-28",
+                "text": "Referred to the Subcommittee on Readiness."
+            },
+            "number": "5063",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "LT WARRIOR Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5063?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-03-24",
+            "latestAction": {
+                "actionDate": "2010-03-24",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "4936",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Faster Access and Shorter Transaction Time for Checks Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4936?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-03-24",
+            "latestAction": {
+                "actionDate": "2010-03-29",
+                "text": "Referred to the Subcommittee on Income Security and Family Support."
+            },
+            "number": "4937",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "SSI Savers Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4937?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-01-27",
+            "latestAction": {
+                "actionDate": "2010-04-26",
+                "text": "Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties."
+            },
+            "number": "4550",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "No Taxpayer Money for Corporate Campaigns Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4550?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-05-19",
+            "latestAction": {
+                "actionDate": "2009-06-08",
+                "text": "Referred to the Subcommittee on Air and Land Forces."
+            },
+            "number": "2473",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To improve Department of Defense policies relating to body armor.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2473?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-01-28",
+            "latestAction": {
+                "actionDate": "2009-03-03",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "784",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to submit to Congress quarterly reports on vacancies in mental health professional positions in Department of Veterans Affairs medical facilities.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/784?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-01-28",
+            "latestAction": {
+                "actionDate": "2009-03-03",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "785",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To direct the Secretary of Veterans Affairs to carry out a pilot program to provide outreach and training to certain college and university mental health centers relating to the mental health of veterans of Operation Iraqi Freedom and Operation Enduring Freedom, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/785?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-01-08",
+            "latestAction": {
+                "actionDate": "2009-02-04",
+                "text": "Referred to the Subcommittee on National Parks, Forests and Public Lands."
+            },
+            "number": "351",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Minute Man National Historical Park Boundary Revision Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/351?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-07-31",
+            "latestAction": {
+                "actionDate": "2008-07-31",
+                "text": "Referred to the House Committee on Veterans' Affairs."
+            },
+            "number": "6765",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To direct the Secretary of Veterans Affairs to carry out a pilot program to provide outreach and training to certain college and university mental health centers relating to the mental health of veterans of Operation Iraqi Freedom and Operation Enduring Freedom, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6765?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-07-31",
+            "latestAction": {
+                "actionDate": "2008-07-31",
+                "text": "Referred to the House Committee on Veterans' Affairs."
+            },
+            "number": "6764",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to submit to Congress quarterly reports on vacancies in mental health professional positions in Department of Veterans Affairs medical facilities.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6764?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-05-08",
+            "latestAction": {
+                "actionDate": "2008-05-23",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "6018",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 10, United States Code, to increase loan repayment limits for health professionals serving in the Armed Forces.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6018?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-04-17",
+            "latestAction": {
+                "actionDate": "2008-10-02",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "5853",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Minute Man National Historical Park Boundary Revision Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/5853?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-02-26",
+            "latestAction": {
+                "actionDate": "2008-02-26",
+                "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "5499",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Iraq Redeployment Timetable and Political Reconciliation Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/5499?format=json"
+        }
+    ]
+}

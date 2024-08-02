@@ -1,0 +1,833 @@
+{
+    "pagination": {
+        "count": 56
+    },
+    "request": {
+        "bioguideId": "k000180",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "407",
+            "congress": 109,
+            "introducedDate": "2005-06-29",
+            "latestAction": {
+                "actionDate": "2005-06-29",
+                "actionTime": "17:48:18",
+                "text": "By unanimous consent, the Kilpatrick (MI) amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/407?format=json"
+        },
+        {
+            "amendmentNumber": "431",
+            "congress": 109,
+            "introducedDate": "2005-06-30",
+            "latestAction": {
+                "actionDate": "2005-06-30",
+                "actionTime": "18:12:25",
+                "text": "On agreeing to the Kilpatrick (MI) amendment (A038) Agreed to by recorded vote: 333 - 92 (Roll no. 353). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/431?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-27",
+            "latestAction": {
+                "actionDate": "2006-05-16",
+                "text": "Referred to the Subcommittee on Housing and Community Opportunity."
+            },
+            "number": "5233",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "Housing Choice Voucher Funding Fairness Act of 2006",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/5233?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-06-17",
+            "latestAction": {
+                "actionDate": "2005-11-11",
+                "text": "Became Public Law No: 109-98."
+            },
+            "number": "2967",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To designate the Federal building located at 333 Mt. Elliott Street in Detroit, Michigan, as the \"Rosa Parks Federal Building\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/2967?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-03-17",
+            "latestAction": {
+                "actionDate": "2005-04-06",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "1403",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Department of Defense Office of the Victim Advocate Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1403?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-03-17",
+            "latestAction": {
+                "actionDate": "2005-04-15",
+                "text": "Referred to the Subcommittee on Domestic and International Monetary Policy, Trade, and Technology."
+            },
+            "number": "1404",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To posthumously award a congressional gold medal to Wilma G. Rudolph.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1404?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-02-17",
+            "latestAction": {
+                "actionDate": "2005-02-18",
+                "text": "Referred to the Subcommittee on Highways, Transit and Pipelines."
+            },
+            "number": "942",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Safety, Accountability, and Funding Efficiency for Transportation Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/942?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-10-26",
+            "latestAction": {
+                "actionDate": "2005-10-26",
+                "text": "Referred to the House Committee on Government Reform."
+            },
+            "number": "512",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Honoring the life and accomplishments of Rosa Parks and expressing condolences on her passing.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/512?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-09-28",
+            "latestAction": {
+                "actionDate": "2006-12-09",
+                "text": "Received in the Senate."
+            },
+            "number": "488",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Congratulating the Detroit Shock for winning the 2006 Women's National Basketball Association Championship, and for other purposes.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/109/hconres/488?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-03-17",
+            "latestAction": {
+                "actionDate": "2005-04-15",
+                "text": "Referred to the Subcommittee on Housing and Community Opportunity."
+            },
+            "number": "108",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "Expressing the sense of the Congress that the community development block grant program should remain under the administration of the Secretary of Housing and Urban Development.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/109/hconres/108?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-02-14",
+            "latestAction": {
+                "actionDate": "2005-12-22",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "59",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Recognizing the contributions of African-American basketball teams and players for their achievements, dedication, and contributions to the sport of basketball and to the Nation.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/109/hconres/59?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-12-10",
+            "latestAction": {
+                "actionDate": "2009-12-11",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4273",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Pediatric Workforce Investment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4273?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-06-26",
+            "latestAction": {
+                "actionDate": "2009-07-07",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3098",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Caring for an Aging America Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/3098?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-21",
+            "latestAction": {
+                "actionDate": "2009-05-22",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "1982",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veterans Entitlement to Service (VETS) Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1982?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-07-28",
+            "latestAction": {
+                "actionDate": "2009-10-22",
+                "text": "Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness."
+            },
+            "number": "684",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Recognizing and honoring Howard University School of Law's 140-year legacy of social justice and its continued commitment to the training of capable and compassionate legal practitioners and scholars.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/684?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-06-11",
+            "latestAction": {
+                "actionDate": "2009-06-12",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "150",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Supporting the goals and ideals of African American Bone Marrow Awareness Month.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/111/hconres/150?format=json"
+        },
+        {
+            "amendmentNumber": "970",
+            "congress": 110,
+            "introducedDate": "2008-03-13",
+            "latestAction": {
+                "actionDate": "2008-03-13",
+                "actionTime": "13:16:01",
+                "text": "On agreeing to the Kilpatrick amendment (A001) Failed by recorded vote: 126 - 292 (Roll no. 137). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/hamdt/970?format=json"
+        },
+        {
+            "amendmentNumber": "82",
+            "congress": 110,
+            "introducedDate": "2007-03-29",
+            "latestAction": {
+                "actionDate": "2007-03-29",
+                "actionTime": "11:29:40",
+                "text": "On agreeing to the Kilpatrick amendment (A001) Failed by recorded vote: 115 - 312 (Roll no. 209). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/hamdt/82?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-06-20",
+            "latestAction": {
+                "actionDate": "2008-06-20",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "6337",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Caring for an Aging America Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6337?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-10-04",
+            "latestAction": {
+                "actionDate": "2007-10-04",
+                "text": "Referred to the House Committee on Education and Labor."
+            },
+            "number": "3760",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "To amend the Elementary and Secondary Education Act of 1965 to enable local educational agencies to use amounts received from the Fund for the Improvement of Education for innovative programs to increase learning in nutrition and exercise.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3760?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-10-04",
+            "latestAction": {
+                "actionDate": "2007-10-04",
+                "text": "Referred to the House Committee on Education and Labor."
+            },
+            "number": "3759",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "To amend the Elementary and Secondary Education Act of 1965 to enable local educational agencies to use amounts received from the Fund for the Improvement of Education for innovative programs to increase learning in financial literacy.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3759?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-09-20",
+            "latestAction": {
+                "actionDate": "2007-09-21",
+                "text": "Referred to the Subcommittee on Highways and Transit."
+            },
+            "number": "3621",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Safety, Accountability, and Funding Efficiency for Transportation Act of 2007",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3621?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-09-20",
+            "latestAction": {
+                "actionDate": "2007-09-20",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3619",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Health Care Access Improvement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3619?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-09-20",
+            "latestAction": {
+                "actionDate": "2007-10-19",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "3620",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Homecoming Enhancement Research and Oversight Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3620?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-01-23",
+            "latestAction": {
+                "actionDate": "2007-01-30",
+                "actionTime": "15:57:23",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "90",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Congratulating Lovie Smith of the Chicago Bears and Tony Dungy of the Indianapolis Colts on becoming the first African-American head coaches of National Football League teams to qualify for the Super Bowl.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/90?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-06-12",
+            "latestAction": {
+                "actionDate": "2008-06-24",
+                "text": "Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "372",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Supporting the goals and ideals of Black Music Month and to honor the outstanding contributions that African American singers and musicians have made to the United States.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/372?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-06-28",
+            "latestAction": {
+                "actionDate": "2007-06-28",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "180",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Supporting the goals and ideals of African American Bone Marrow Awareness Month.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/180?format=json"
+        },
+        {
+            "amendmentNumber": "700",
+            "congress": 108,
+            "introducedDate": "2004-07-15",
+            "latestAction": {
+                "actionDate": "2004-07-15",
+                "actionTime": "16:39:30",
+                "text": "On agreeing to the Kilpatrick amendment (A009) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/hamdt/700?format=json"
+        },
+        {
+            "amendmentNumber": "303",
+            "congress": 108,
+            "introducedDate": "2003-07-23",
+            "latestAction": {
+                "actionDate": "2003-07-24",
+                "actionTime": "01:01:43",
+                "text": "On agreeing to the Kilpatrick amendment (A002) Failed by recorded vote: 192 - 228 (Roll no. 425). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/hamdt/303?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-06-16",
+            "latestAction": {
+                "actionDate": "2004-06-16",
+                "text": "Referred to the House Committee on Armed Services."
+            },
+            "number": "4587",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Department of Defense Office of the Victim Advocate Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/4587?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-12-08",
+            "latestAction": {
+                "actionDate": "2003-12-09",
+                "text": "Referred to the Subcommittee on Railroads."
+            },
+            "number": "3682",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Protecting American Manufacturing Jobs Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3682?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-09-05",
+            "latestAction": {
+                "actionDate": "2003-09-08",
+                "text": "Referred to the Subcommittee on Highways, Transit and Pipelines."
+            },
+            "number": "3017",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To amend title 49, United States Code, to clarify certain Buy America provisions.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3017?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-07-23",
+            "latestAction": {
+                "actionDate": "2003-08-04",
+                "text": "Referred to the Subcommittee on Domestic and International Monetary Policy, Trade, and Technology."
+            },
+            "number": "2833",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To posthumously award a congressional gold medal to Wilma G. Rudolph.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2833?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-05-06",
+            "latestAction": {
+                "actionDate": "2003-07-18",
+                "text": "Sponsor introductory remarks on measure. (CR E1512-2513)"
+            },
+            "number": "1980",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Safety, Accountability, and Funding Efficiency for Transportation Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/1980?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-01-07",
+            "latestAction": {
+                "actionDate": "2003-01-07",
+                "text": "Referred to the Committee on Government Reform, and in addition to the Committee on Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "132",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To create Federal advertising procurement opportunities for minority business concerns, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/132?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-01-07",
+            "latestAction": {
+                "actionDate": "2003-02-03",
+                "text": "Referred to the Subcommittee on Commerce, Trade and Consumer Protection."
+            },
+            "number": "131",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Consumer Protection for On-Line Games Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/131?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-03-24",
+            "latestAction": {
+                "actionDate": "2004-04-08",
+                "text": "Referred to the Subcommittee on Civil Service and Agency Organization."
+            },
+            "number": "573",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Honoring the life of Mildred McWilliams \"Millie\" Jeffrey (1910-2004) and her contributions to her community and to the nation.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/573?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-09-11",
+            "latestAction": {
+                "actionDate": "2003-10-09",
+                "text": "Referred to the Subcommittee on Civil Service and Agency Organization."
+            },
+            "number": "278",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Recognizing the contributions of African-American basketball teams and players for their achievements, dedication, and contributions to the sport of basketball and to the Nation.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/108/hconres/278?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-06-26",
+            "latestAction": {
+                "actionDate": "2003-07-11",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "234",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Recognizing the importance of preserving the survival of essential urban hospitals.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/108/hconres/234?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-11-22",
+            "latestAction": {
+                "actionDate": "2002-11-22",
+                "text": "Referred to the Committee on Government Reform, and in addition to the Committee on Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "5766",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To create Federal advertising procurement opportunities for minority business concerns, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5766?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-10-01",
+            "latestAction": {
+                "actionDate": "2002-11-12",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "5514",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Sexual Assault Response Team Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5514?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-05-02",
+            "latestAction": {
+                "actionDate": "2002-05-17",
+                "text": "Referred to the Subcommittee on Commerce, Trade and Consumer Protection."
+            },
+            "number": "4652",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Consumer Protection for On-Line Games Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4652?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-06-20",
+            "latestAction": {
+                "actionDate": "2002-07-16",
+                "actionTime": "13:34:48",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "452",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Congratulating the Detroit Red Wings for winning the 2002 Stanley Cup Championship.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/107/hres/452?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-12-20",
+            "latestAction": {
+                "actionDate": "2001-12-20",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "329",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Expressing the sense of the House of Representatives that lobbyists should not be granted special access privileges to the Capitol and congressional offices that are not available to other citizens of the United States.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/107/hres/329?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-06-26",
+            "latestAction": {
+                "actionDate": "2002-07-16",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "429",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Expressing the sense of the Congress that there should be established a National Sarcoidosis Awareness Day, and for other purposes.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/hconres/429?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-02-13",
+            "latestAction": {
+                "actionDate": "2002-03-05",
+                "text": "Referred to the Subcommittee on Health, for a period to be subsequently determined by the Chairman."
+            },
+            "number": "328",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Expressing the sense of the Congress with respect to coverage of outpatient prescription drugs under the Medicare Program and with respect to providing for appropriate new budget authority for such coverage.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/hconres/328?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-22",
+            "latestAction": {
+                "actionDate": "2001-06-07",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "80",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Congratulating the city of Detroit and its residents on the occasion of the tricentennial of the city's founding.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/hconres/80?format=json"
+        },
+        {
+            "amendmentNumber": "630",
+            "congress": 106,
+            "introducedDate": "2000-03-29",
+            "latestAction": {
+                "actionDate": "2000-03-29",
+                "actionTime": "22:01:52",
+                "text": "By unanimous consent, the Kilpatrick amendment was withdrawn. (text: CR H1569)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/630?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-10-19",
+            "latestAction": {
+                "actionDate": "2000-10-31",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "5508",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "School-Based Health Centers Technical Assistance Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/5508?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-06-08",
+            "latestAction": {
+                "actionDate": "2000-06-09",
+                "text": "Referred to the Subcommittee on Aviation."
+            },
+            "number": "4609",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Airport Recycling Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4609?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-04-12",
+            "latestAction": {
+                "actionDate": "1999-04-28",
+                "text": "Executive Comment Requested from DOD."
+            },
+            "number": "1369",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Police Pursuit and Rescue Support Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1369?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-01-19",
+            "latestAction": {
+                "actionDate": "1999-02-12",
+                "text": "Referred to the Subcommittee on Domestic and International Monetary Policy."
+            },
+            "number": "384",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To authorize the President to award a gold medal on behalf of the Congress honoring Wilma G. Rudolph in recognition of her enduring contributions to humanity and women's athletics in the United States and the world.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/384?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-01-19",
+            "latestAction": {
+                "actionDate": "1999-02-03",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "385",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Health Care Access Improvement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/385?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-11-07",
+            "latestAction": {
+                "actionDate": "1997-11-17",
+                "text": "Executive Comment Requested from DOD."
+            },
+            "number": "2896",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Police Pursuit and Rescue Support Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2896?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-11-04",
+            "latestAction": {
+                "actionDate": "1997-11-13",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2804",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Health Care Access Improvement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2804?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-10-23",
+            "latestAction": {
+                "actionDate": "1997-11-14",
+                "text": "Referred to the Subcommittee on Domestic and International Monetary Policy."
+            },
+            "number": "2717",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To authorize the President to award a gold medal on behalf of the Congress honoring Wilma G. Rudolph in recognition of her enduring contributions to humanity and women's athletics in the United States and the world.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2717?format=json"
+        }
+    ]
+}

@@ -1,0 +1,244 @@
+{
+    "pagination": {
+        "count": 17
+    },
+    "request": {
+        "bioguideId": "z000014",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "735",
+            "congress": 98,
+            "introducedDate": "1984-05-09",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/735?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-06-12",
+            "latestAction": {
+                "actionDate": "1984-06-12",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "5821",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow taxpayers to disregard certain retroactive administrative and judicial interpretations of such code.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5821?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-02-23",
+            "latestAction": {
+                "actionDate": "1984-02-23",
+                "text": "Referred to House Committee on Rules."
+            },
+            "number": "262",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A concurrent resolution calling for a one year freeze in real federal spending and a one year surcharge on individual and corporate income taxes.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/98/hconres/262?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-02-02",
+            "latestAction": {
+                "actionDate": "1984-02-10",
+                "text": "Referred to Subcommittee on Europe and the Middle East."
+            },
+            "number": "252",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A concurrent resolution concerning United States policy toward Lebanon.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/98/hconres/252?format=json"
+        },
+        {
+            "amendmentNumber": "64",
+            "congress": 99,
+            "introducedDate": "1985-06-04",
+            "latestAction": {
+                "actionDate": "1985-06-04",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 127 - 292 (Record Vote No: 134). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/64?format=json"
+        },
+        {
+            "amendmentNumber": "89",
+            "congress": 99,
+            "introducedDate": "1985-06-11",
+            "latestAction": {
+                "actionDate": "1985-06-11",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 190 - 226 (Record Vote No: 152). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/89?format=json"
+        },
+        {
+            "amendmentNumber": "55",
+            "congress": 99,
+            "introducedDate": "1985-05-21",
+            "latestAction": {
+                "actionDate": "1985-05-21",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 148 - 256 (Record Vote No: 121). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/55?format=json"
+        },
+        {
+            "amendmentNumber": "63",
+            "congress": 99,
+            "introducedDate": "1985-06-04",
+            "latestAction": {
+                "actionDate": "1985-06-04",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/63?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-07-15",
+            "latestAction": {
+                "actionDate": "1986-07-17",
+                "text": "Referred to Subcommittee on Accounts."
+            },
+            "number": "5172",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A bill to prohibit the expenditure of Federal funding for congressional newsletters.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5172?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-04-17",
+            "latestAction": {
+                "actionDate": "1986-04-29",
+                "text": "For Further Action See H.R.4708."
+            },
+            "number": "4640",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to amend the Export Administration Act of 1979 with respect to exports to countries other than controlled countries.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/4640?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-12-11",
+            "latestAction": {
+                "actionDate": "1985-12-23",
+                "text": "Referred to Subcommittee on Europe and the Middle East."
+            },
+            "number": "3910",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A bill to amend title II of the State Department Basic Authorities Act of 1956 to impose the same restrictions and conditions on foreign missions of Soviet Bloc countries as are imposed on the foreign mission of the Soviet Union.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3910?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-07-30",
+            "latestAction": {
+                "actionDate": "1985-07-30",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "3124",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "    A bill to amend the Internal Revenue code of 1954 with respect to the treatment of computer software royalties for purposes of the personal holding company provisions.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3124?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-02-28",
+            "latestAction": {
+                "actionDate": "1985-03-07",
+                "text": "Referred to Subcommittee on Postal Operations and Services."
+            },
+            "number": "1387",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend title 39, United States Code, to eliminate certain provisions relating to private carriage of letters, thereby allowing private companies to compete with the U.S. Postal Service, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/1387?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-01-22",
+            "latestAction": {
+                "actionDate": "1985-01-22",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "625",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow taxpayers to disregard certain retroactive administrative and judicial interpretations of such Code.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/625?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-09-25",
+            "latestAction": {
+                "actionDate": "1986-10-03",
+                "text": "Referred to Subcommittee on Europe and the Middle East."
+            },
+            "number": "563",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution expressing the sense of the House of Representatives that the Joint Political-Military Group should develop policies and programs which promote strategic cooperation between the United States and Israel.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/99/hres/563?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-07-16",
+            "latestAction": {
+                "actionDate": "1986-07-24",
+                "text": "Referred to Subcommittee on International Economic Policy and Trade."
+            },
+            "number": "497",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution expressing the sense of the House of Representatives on the need for greater international cooperation in responding to nuclear disasters.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/99/hres/497?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-11-21",
+            "latestAction": {
+                "actionDate": "1985-12-02",
+                "text": "Referred to Subcommittee on Europe and the Middle East."
+            },
+            "number": "238",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution commending President Reagan on the successful conclusion of the Geneva Summit with Soviet General Secretary Gorbachev.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/99/hconres/238?format=json"
+        }
+    ]
+}

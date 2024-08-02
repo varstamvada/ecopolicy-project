@@ -1,0 +1,384 @@
+{
+    "pagination": {
+        "count": 25
+    },
+    "request": {
+        "bioguideId": "b000008",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "513",
+            "congress": 102,
+            "introducedDate": "1992-05-05",
+            "latestAction": {
+                "actionDate": "1992-05-05",
+                "actionTime": "13:05:16",
+                "text": "On agreeing to the Bacchus amendment (A005) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/513?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-09-30",
+            "latestAction": {
+                "actionDate": "1992-09-30",
+                "text": "Referred to the House Committee on Veterans' Affairs."
+            },
+            "number": "6059",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To authorize the construction of Department of Veterans Affairs medical facilities in Brevard County and Orange County, Florida, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/6059?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-06-03",
+            "latestAction": {
+                "actionDate": "1992-07-20",
+                "text": "Referred to the Subcommittee on Employment Opportunities."
+            },
+            "number": "5310",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Defense Workers Economic Reinvestment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5310?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-11-26",
+            "latestAction": {
+                "actionDate": "1992-01-14",
+                "text": "Referred to the Subcommittee on Transportation and Hazardous Materials."
+            },
+            "number": "3947",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "High Speed Surface Transportation Development Corporation Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3947?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-09-26",
+            "latestAction": {
+                "actionDate": "1991-10-15",
+                "text": "Referred to the Subcommittee on Financial Institutions Supervision, Regulation and Insurance."
+            },
+            "number": "3422",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Resolution Trust Corporation Reform and Accountability Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3422?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-06-05",
+            "latestAction": {
+                "actionDate": "1991-06-12",
+                "text": "Referred to the Subcommittee on Administrative Law and Governmental Relations."
+            },
+            "number": "2562",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of M4 Data, Incorporated.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2562?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-05-15",
+            "latestAction": {
+                "actionDate": "1991-06-07",
+                "text": "Referred to the Subcommittee on Administrative Law and Governmental Relations."
+            },
+            "number": "2348",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Public Service Accountability Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2348?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-04-11",
+            "latestAction": {
+                "actionDate": "1991-05-08",
+                "text": "Became Public Law No: 102-41."
+            },
+            "number": "214",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To recognize the Astronauts Memorial at the John F. Kennedy Space Center as the national memorial to astronauts who die in the line of duty.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/102/hjres/214?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-11-26",
+            "latestAction": {
+                "actionDate": "1991-11-26",
+                "text": "Referred to the House Committee on Rules."
+            },
+            "number": "310",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To amend the Rules of the House of Representatives to allow open meetings and hearings to be closed only for reasons of national security.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/102/hres/310?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-10-06",
+            "latestAction": {
+                "actionDate": "1994-10-17",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5206",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To authorize the reliquidation of certain entries.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/5206?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-03-16",
+            "latestAction": {
+                "actionDate": "1994-04-07",
+                "text": "Referred to the Subcommittee on Consumer Credit and Insurance."
+            },
+            "number": "4052",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "National Flood Insurance Program Improvement Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4052?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-02-24",
+            "latestAction": {
+                "actionDate": "1994-04-27",
+                "text": "Referred to the Subcommittee on National Parks, Forests and Public Lands."
+            },
+            "number": "3893",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To authorize the collection of entrance fees at Canaveral National Seashore, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3893?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-28",
+            "latestAction": {
+                "actionDate": "1993-08-24",
+                "text": "Executive Comment Received from Justice."
+            },
+            "number": "1880",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Defense Workers Economic Reinvestment Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1880?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-18",
+            "latestAction": {
+                "actionDate": "1993-07-14",
+                "text": "Referred to the Subcommittee on Administrative Law and Governmental Relations."
+            },
+            "number": "1395",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Ethics in Government Reform Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1395?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-10",
+            "latestAction": {
+                "actionDate": "1993-03-15",
+                "text": "Referred to the Subcommittee on Administrative Law and Governmental Relations."
+            },
+            "number": "1306",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Harold W. Brown.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1306?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-02-24",
+            "latestAction": {
+                "actionDate": "1993-07-14",
+                "text": "Referred to the Subcommittee on Administrative Law and Governmental Relations."
+            },
+            "number": "1084",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Public Service Accountability Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1084?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-02-03",
+            "latestAction": {
+                "actionDate": "1993-02-18",
+                "text": "Executive Comment Requested from Commerce."
+            },
+            "number": "757",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Environment and Public Works Fair Share Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/757?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-02-03",
+            "latestAction": {
+                "actionDate": "1993-02-10",
+                "text": "Referred to the Subcommittee on Census, Statistics and Postal Personnel."
+            },
+            "number": "753",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Census Data Fair Share Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/753?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-02-03",
+            "latestAction": {
+                "actionDate": "1993-02-16",
+                "text": "Referred to the Subcommittee on Aviation."
+            },
+            "number": "755",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Airport Improvements Fair Share Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/755?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-02-03",
+            "latestAction": {
+                "actionDate": "1993-02-05",
+                "text": "Referred to the Subcommittee on Department Operations and Nutrition."
+            },
+            "number": "751",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Agriculture, Nutrition, and Forestry Fair Share Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/751?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-02-03",
+            "latestAction": {
+                "actionDate": "1993-02-16",
+                "text": "Referred to the Subcommittee on Surface Transportation."
+            },
+            "number": "756",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Federal Transit Fair Share Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/756?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-02-03",
+            "latestAction": {
+                "actionDate": "1993-03-01",
+                "text": "Referred to the Subcommittee on Energy and Power."
+            },
+            "number": "752",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Energy Extension Fair Share Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/752?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-02-03",
+            "latestAction": {
+                "actionDate": "1993-02-10",
+                "text": "Referred to the Subcommittee on Census, Statistics and Postal Personnel."
+            },
+            "number": "754",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Fair Share Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/754?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-07-14",
+            "latestAction": {
+                "actionDate": "1993-07-14",
+                "text": "Referred to the House Committee on Post Office and Civil Service."
+            },
+            "number": "230",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To designate the period commencing on February 14, 1994, and ending on February 20, 1994, as \"Children of Alcoholics Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/230?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-30",
+            "latestAction": {
+                "actionDate": "1993-05-19",
+                "text": "Sponsor introductory remarks on measure. (CR H2564-2565)"
+            },
+            "number": "143",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Amending the Rules of the House of Representatives to allow open meetings and hearings to be closed for reasons of national security, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/103/hres/143?format=json"
+        }
+    ]
+}

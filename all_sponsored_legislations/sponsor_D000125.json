@@ -1,0 +1,912 @@
+{
+    "pagination": {
+        "count": 60
+    },
+    "request": {
+        "bioguideId": "d000125",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 96,
+            "introducedDate": "1980-06-05",
+            "latestAction": {
+                "actionDate": "1980-06-05",
+                "text": "Referred to House Committee on House Administration."
+            },
+            "number": "7501",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend section 316 of the Federal Election Campaign Act of 1971 with respect to certain solicitations for contributions.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/7501?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-12-17",
+            "latestAction": {
+                "actionDate": "1979-12-17",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "6160",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Lieutenant General Devol Brett.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/6160?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-12-03",
+            "latestAction": {
+                "actionDate": "1980-12-22",
+                "text": "Private Law 96-112."
+            },
+            "number": "6011",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of William H. Koss.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/6011?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-11-13",
+            "latestAction": {
+                "actionDate": "1980-08-18",
+                "text": "Measure laid on table in House (See S. 1863 as passed House for similar provisions)."
+            },
+            "number": "5867",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to authorize the Secretary of Commerce to charter the nuclear ship Savannah to Patriots Point Development Authority, an agency of the State of South Carolina.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/5867?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-11-13",
+            "latestAction": {
+                "actionDate": "1979-11-13",
+                "text": "Referred to House Committee on Interior and Insular Affairs."
+            },
+            "number": "5866",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to designate certain areas located in the Francis Marion National Forest, South Carolina, as wilderness areas.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/5866?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-03-31",
+            "latestAction": {
+                "actionDate": "1980-03-31",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "527",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A joint resolution designating the week beginning April 5, 1981, as \"National Vegetable Garden Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/96/hjres/527?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-06-25",
+            "latestAction": {
+                "actionDate": "1974-06-25",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "15590",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Health Care Insurance Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/15590?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-05-06",
+            "latestAction": {
+                "actionDate": "1974-05-06",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "14586",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to direct the U.S. Civil Service Commission to conduct a study with respect to certain Federal employees.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/14586?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-03-27",
+            "latestAction": {
+                "actionDate": "1974-03-27",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "13766",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Economic Opportunity Amendments",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/13766?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-01-31",
+            "latestAction": {
+                "actionDate": "1974-01-31",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "12457",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "A bill to require passport applicants to swear to an oath of allegiance to the United States as a condition precedent to being granted a passport.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/12457?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-08-03",
+            "latestAction": {
+                "actionDate": "1973-08-03",
+                "text": "Referred to House Committee on Armed Services."
+            },
+            "number": "9958",
+            "policyArea": {
+                "name": "Strategic materials"
+            },
+            "title": "A bill to authorize the disposal of metallurgical grade chromite from the national stockpile and the supplemental stockpile.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/9958?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-08-02",
+            "latestAction": {
+                "actionDate": "1973-08-02",
+                "text": "Referred to House Committee on Armed ervices."
+            },
+            "number": "9801",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to amend title 37, United States Code, to provide for the procurement and retention of judge advocates and law specialist officers for the Armed Forces.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/9801?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-08-01",
+            "latestAction": {
+                "actionDate": "1973-08-01",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "9756",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "A bill to amend the Federal Trade Commission Act (15 U.S.C. 44, 45) to provide that under certain circumstances exclusive territorial arrangements shall not be deemed unlawful.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/9756?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-05-15",
+            "latestAction": {
+                "actionDate": "1973-05-15",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "7793",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "A bill to amend the Communication Act of 1934 to direct the Federal Communication Commission to require the establishment nationally of an emergency telephone call referral system using the telephone number 911 for such calls.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/7793?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-03-01",
+            "latestAction": {
+                "actionDate": "1973-03-01",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "5027",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to amend title 38 of the United States Code, to liberalize the provisions relating to payment of disability and death pension.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/5027?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-18",
+            "latestAction": {
+                "actionDate": "1973-01-18",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "2275",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to require that certain textile products bear a label containing cleaning instructions.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/2275?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-18",
+            "latestAction": {
+                "actionDate": "1973-01-18",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "2273",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Kidney Disease Treatment and Prevention Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/2273?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-18",
+            "latestAction": {
+                "actionDate": "1973-01-18",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "2274",
+            "policyArea": {
+                "name": null
+            },
+            "title": "A bill to amend the Federal Trade Commission Act to provide that under certain circumstances exclusive territorial arrangements shall not be deemed unlawful.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/2274?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-10-01",
+            "latestAction": {
+                "actionDate": "1974-10-01",
+                "text": "Referred to House Committee on Judiciary."
+            },
+            "number": "652",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Concurrent resolution to provide for the designation of November 8, 1974, as \"National Trauma Day\".",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/93/hconres/652?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-04-11",
+            "latestAction": {
+                "actionDate": "1973-04-11",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "182",
+            "policyArea": {
+                "name": "Vietnamese Conflict"
+            },
+            "title": "Concurrent resolution expressing a sense of moral outrage in the Congress over deliberate violations by the North Vietnamese government and the Vietcong of the Geneva Convention relative to the Treatment of Prisoners of War in regards to abuse of U.S. prisoners, and the deliberate refusal to account for missing U.S. servicemen, and expressing the sense of the Congress that no aid of any kind should be extended to the North Vietnamese government by any branch of the U.S. Government.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/93/hconres/182?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-08-30",
+            "latestAction": {
+                "actionDate": "1976-08-30",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "15312",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A bill to repeal titles XV and XVI of the Public Health Service Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/15312?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-08-03",
+            "latestAction": {
+                "actionDate": "1976-08-03",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "15028",
+            "policyArea": {
+                "name": "Tobacco"
+            },
+            "title": "A bill to provide for emergency allotment lease and transfer of tobacco allotments or quotas for 1976 in certain disaster areas in South Carolina.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/15028?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-06-14",
+            "latestAction": {
+                "actionDate": "1976-06-14",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "14352",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide that amounts received under certain conditional scholarship or student loan programs will be exempt from taxation.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/14352?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-06-14",
+            "latestAction": {
+                "actionDate": "1976-06-14",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "14351",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "A bill to amend the antitrust laws to provide that the refusal of nonprofit blood banks and of hospitals and physicians to obtain blood and blood plasma from other blood banks shall not be deemed to be acts in restraint of trade.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/14351?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-06-14",
+            "latestAction": {
+                "actionDate": "1976-06-14",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "14350",
+            "policyArea": {
+                "name": "Drug law and legislation"
+            },
+            "title": "A bill to amend the Federal Food, Drug, and Cosmetic Act, as amended, to require that the label of drug containers, as dispensed to the patient, bear the established or trade name, the quantity and strength of the drug dispensed.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/14350?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-05-06",
+            "latestAction": {
+                "actionDate": "1976-05-06",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "13587",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to amend the Tariff Schedules of the United States to repeal the special tariff treatment accorded to articles assembled abroad with components produced in the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/13587?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-03-15",
+            "latestAction": {
+                "actionDate": "1976-03-15",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "12496",
+            "policyArea": {
+                "name": "Postal service"
+            },
+            "title": "A bill to abolish the U.S. Postal Service, to repeal the Postal Reorganization Act, to reenact the former provisions of title 39, United States Code.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/12496?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-02-03",
+            "latestAction": {
+                "actionDate": "1976-02-03",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "11681",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of William H. Koss.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/11681?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-02-03",
+            "latestAction": {
+                "actionDate": "1976-02-03",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "11661",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend title II of the Social Security Act so as to liberalize the conditions governing eligibility of blind persons to receive disability insurance benefits thereunder.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/11661?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-11-06",
+            "latestAction": {
+                "actionDate": "1975-11-06",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "10623",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Marguerite A. Ferri.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/10623?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-10-31",
+            "latestAction": {
+                "actionDate": "1975-10-31",
+                "text": "Referred to House Committee on Armed Services."
+            },
+            "number": "10486",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to amend the Military Selective Service Act in order to reinstate for 10 years the induction authority under that act; to require 36 months of service in the Armed Forces of each person so inducted; and to make female persons liable for registration, induction, and service under such Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/10486?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-10-28",
+            "latestAction": {
+                "actionDate": "1975-10-28",
+                "text": "Referred to House Committee on Armed Services."
+            },
+            "number": "10375",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to amend title 10 of the United States Code to make individuals eligible for medical care in facilities of the uniformed services for injuries incurred during inactive- duty training and travel to and from such training.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/10375?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-10-31",
+            "latestAction": {
+                "actionDate": "1975-10-31",
+                "text": "Referred to House Committee on Government Operations."
+            },
+            "number": "10485",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend title 5, United States Code, to prohibit the maintenance of local offices by executive agencies.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/10485?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-09-03",
+            "latestAction": {
+                "actionDate": "1975-09-03",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "9322",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow a credit against income tax to individuals for certain expenses incurred in providing higher education.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/9322?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-07-17",
+            "latestAction": {
+                "actionDate": "1975-07-17",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "8700",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend title II of the Social Security Act to double the amount which may be earned by an individual without suffering deductions from his or her benefits thereunder in the case of an individual who is receiving old-age, wife's, or husband's insurance benefits and whose spouse is disabled.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/8700?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-07-17",
+            "latestAction": {
+                "actionDate": "1975-07-17",
+                "text": "Referred to House Committee on Armed Services."
+            },
+            "number": "8699",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to provide recomputation of the retired pay of persons who served as sergeant major of the Marine Corps before December 16, 1967.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/8699?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-07-18",
+            "latestAction": {
+                "actionDate": "1975-07-18",
+                "text": "Referred to House Committee on Merchant Marine and Fisheries."
+            },
+            "number": "8741",
+            "policyArea": {
+                "name": "Nuclear ships"
+            },
+            "title": "A bill to authorize the Secretary of Commerce to transfer the N. S. Savannah to Patriot's Point Development Authority, an agency of the State of South Carolina.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/8741?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-06-26",
+            "latestAction": {
+                "actionDate": "1975-06-26",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "8363",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Donald N. Yates, Jr., Carolyn B. Yates, Guy Kevin Yates, Sena Hansen Yates, and Michelle Lyn Yates.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/8363?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-06-26",
+            "latestAction": {
+                "actionDate": "1975-06-26",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "8260",
+            "policyArea": {
+                "name": "Motor vehicles"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow an itemized deductions for State and local vehicle registration fees paid or accrued.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/8260?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-03-20",
+            "latestAction": {
+                "actionDate": "1975-03-20",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "5240",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "A bill to provide financial assistance to local educational agencies for the construction of public elementary and secondary schools.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/5240?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-03-06",
+            "latestAction": {
+                "actionDate": "1975-03-06",
+                "text": "Referred to House Committee on Armed Services."
+            },
+            "number": "4372",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to amend title 37 of the United States Code in order to provide incentives for lawyers to enter and remain in the Armed Forces.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/4372?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-03-04",
+            "latestAction": {
+                "actionDate": "1975-03-04",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "4132",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "A bill to provide financial assistance to local educational agencies for the construction of public elementary and secondary schools.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/4132?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-03-20",
+            "latestAction": {
+                "actionDate": "1975-03-20",
+                "text": "Referred to House Committee on Armed Services."
+            },
+            "number": "187",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Concurrent resolution relating to the establishment of the Naval and Maritime Museum in Charleston, S. C.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/94/hconres/187?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-02-06",
+            "latestAction": {
+                "actionDate": "1975-02-06",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "110",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Concurrent resolution to provide for the designation of May 1-8, 1975, as \"National Trauma Week\".",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/94/hconres/110?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-10-15",
+            "latestAction": {
+                "actionDate": "1978-10-15",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "14412",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of James D. and Blanche V.  Benton.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/14412?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-09-07",
+            "latestAction": {
+                "actionDate": "1978-09-07",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "14003",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A bill to amend title XVIII of the Social Security Act with respect to the payment, under the medicare program, of services of physicians rendered in a teaching hospital.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/14003?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-04-03",
+            "latestAction": {
+                "actionDate": "1978-04-03",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "11807",
+            "policyArea": {
+                "name": null
+            },
+            "title": "Farm Stabilization Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/11807?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-02-01",
+            "latestAction": {
+                "actionDate": "1978-02-01",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "10708",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Donald N. Yates, Junior, Carolyn B. Yates, Guy K. Yates, Sean H. Yates, and Michelle L. Yates.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/10708?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-01-19",
+            "latestAction": {
+                "actionDate": "1978-01-19",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "10420",
+            "policyArea": {
+                "name": null
+            },
+            "title": "Emergency Farm Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/10420?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-07-27",
+            "latestAction": {
+                "actionDate": "1977-07-27",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "8595",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of William H. Koss.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/8595?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-07-11",
+            "latestAction": {
+                "actionDate": "1977-07-11",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "8211",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of certain employees of the Department of the Navy.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/8211?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-07-11",
+            "latestAction": {
+                "actionDate": "1977-07-11",
+                "text": "Referred to House Committee on Armed Services."
+            },
+            "number": "8199",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to amend title 37 of the United States Code to provide incentives for attorneys to enter and remain in the Armed Forces.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/8199?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-07-11",
+            "latestAction": {
+                "actionDate": "1977-07-11",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "8198",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to amend the Tariff Schedules of the United States to repeal the special tariff treatment accorded to articles assembled abroad with components produced in the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/8198?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-05-10",
+            "latestAction": {
+                "actionDate": "1977-05-10",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "7043",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Consumer Communications Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/7043?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-29",
+            "latestAction": {
+                "actionDate": "1977-03-29",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "5750",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Hardy King and Herbert Ravenel, Jr.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/5750?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-10",
+            "latestAction": {
+                "actionDate": "1977-03-10",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "4815",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Consumer Communications Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/4815?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-07",
+            "latestAction": {
+                "actionDate": "1977-03-07",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "4543",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend title II of the Social Security Act so as to liberalize the conditions governing eligibility of blind persons to receive disability insurance benefits thereunder.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/4543?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-01-31",
+            "latestAction": {
+                "actionDate": "1977-01-31",
+                "text": "Referred to House Committee on Armed Services."
+            },
+            "number": "2685",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to provide recomputation of the retired pay of persons who served as sergeant major of the Marine Corps before December 16, 1967.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/2685?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-01-31",
+            "latestAction": {
+                "actionDate": "1977-01-31",
+                "text": "Referred to House Committee on Armed Services."
+            },
+            "number": "2686",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to amend title 10, United States Code, to make certain changes in the retired serviceman's family protection plan and the survivor benefit plan as authorized by chapter 73 of that title.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/2686?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-03-22",
+            "latestAction": {
+                "actionDate": "1978-03-22",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "809",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A resolution to authorize and request the President to issue a proclamation designating April 18, 1978, as \"Education Day, U.S.A.\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/95/hjres/809?format=json"
+        }
+    ]
+}

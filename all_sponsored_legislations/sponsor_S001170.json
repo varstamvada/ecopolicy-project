@@ -1,0 +1,1549 @@
+{
+    "pagination": {
+        "count": 104
+    },
+    "request": {
+        "bioguideId": "s001170",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "363",
+            "congress": 113,
+            "introducedDate": "2013-07-23",
+            "latestAction": {
+                "actionDate": "2013-07-23",
+                "actionTime": "17:17:25",
+                "text": "On agreeing to the Shea-Porter amendment (A020) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/363?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-07-29",
+            "latestAction": {
+                "actionDate": "2014-07-29",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5234",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Rewarding the TEAM Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5234?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-07-17",
+            "latestAction": {
+                "actionDate": "2014-08-11",
+                "text": "Referred to the Subcommittee on Livestock, Rural Development, and Credit."
+            },
+            "number": "5156",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "Wildlife Disease Emergency Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5156?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-06-25",
+            "latestAction": {
+                "actionDate": "2014-07-18",
+                "text": "Referred to the Subcommittee on Economic Opportunity."
+            },
+            "number": "4974",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "DELIVER Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4974?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-06-19",
+            "latestAction": {
+                "actionDate": "2014-07-21",
+                "text": "Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law."
+            },
+            "number": "4917",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Medical Bankruptcy Fairness Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4917?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-05-01",
+            "latestAction": {
+                "actionDate": "2014-05-09",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4561",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Rural Veterans Health Care Improvement Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4561?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-05-01",
+            "latestAction": {
+                "actionDate": "2014-06-13",
+                "text": "Referred to the Subcommittee on Higher Education and Workforce Training."
+            },
+            "number": "4560",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Service Members Student Loan Relief Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4560?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-04-10",
+            "latestAction": {
+                "actionDate": "2014-06-09",
+                "text": "Referred to the Subcommittee on Immigration and Border Security."
+            },
+            "number": "4483",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "STEM Mentoring and Inspiration Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4483?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-02-04",
+            "latestAction": {
+                "actionDate": "2014-03-20",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations."
+            },
+            "number": "3990",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Personal Data Privacy and Security Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3990?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-01-13",
+            "latestAction": {
+                "actionDate": "2014-01-13",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3861",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Reward and Encourage New Business Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3861?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-12-11",
+            "latestAction": {
+                "actionDate": "2013-12-13",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3710",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare CGM Coverage Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3710?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-10-23",
+            "latestAction": {
+                "actionDate": "2013-10-23",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3318",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "REPAY Supplies Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3318?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-10-23",
+            "latestAction": {
+                "actionDate": "2014-01-24",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "3314",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Military Retired Pay Fairness Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3314?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-06-06",
+            "latestAction": {
+                "actionDate": "2013-08-29",
+                "text": "Referred to the Subcommittee on Readiness."
+            },
+            "number": "2303",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Save Our Soldiers' Lungs Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2303?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-04-23",
+            "latestAction": {
+                "actionDate": "2013-04-23",
+                "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "1688",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Never Contract With the Enemy Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/1688?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-04-10",
+            "latestAction": {
+                "actionDate": "2013-04-10",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "1480",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Buy America Accountability Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/1480?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-03-21",
+            "latestAction": {
+                "actionDate": "2013-04-10",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "1388",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on bitolylene diisocyanate (TODI).",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/1388?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-01-15",
+            "latestAction": {
+                "actionDate": "2013-01-22",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "257",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veterans Health Equity Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/257?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-09-18",
+            "latestAction": {
+                "actionDate": "2014-09-18",
+                "actionTime": "19:06:50",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "734",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the condolences of the House of Representatives to the families of James Foley and Steven Sotloff, and condemning the terrorist acts of the Islamic State of Iraq and the Levant.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/734?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-09-11",
+            "latestAction": {
+                "actionDate": "2014-09-11",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "720",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the condolences of the House of Representatives to the families of James Foley and Steven Sotloff, and condemning the terrorist acts of the Islamic State of Iraq and the Levant.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/720?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-05-01",
+            "latestAction": {
+                "actionDate": "2014-05-02",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "563",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Expressing support for designation of May as \"National Asthma and Allergy Awareness Month\".",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/563?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-04-10",
+            "latestAction": {
+                "actionDate": "2013-04-18",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "145",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Recognizing the 50th anniversary of the sinking of U.S.S. Thresher (SSN 593).",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/145?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-10-02",
+            "latestAction": {
+                "actionDate": "2018-10-02",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "1114",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Expressing support for designation of the week of October 7, 2018, through October 13, 2018, as \"Latex Allergy Awareness Week\".",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/115/hres/1114?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-09-28",
+            "latestAction": {
+                "actionDate": "2018-10-22",
+                "text": "Referred to the Subcommittee on Livestock and Foreign Agriculture."
+            },
+            "number": "7005",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "Wildlife Disease Emergency Act of 2018",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/7005?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-07-25",
+            "latestAction": {
+                "actionDate": "2018-07-25",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "6535",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Campus Prevention and Recovery Services for Students Act of 2018",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/6535?format=json"
+        },
+        {
+            "amendmentNumber": "699",
+            "congress": 115,
+            "introducedDate": "2018-06-06",
+            "latestAction": {
+                "actionDate": "2018-06-06",
+                "actionTime": "17:43:54",
+                "text": "On agreeing to the Shea-Porter amendment (A039) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/115/hamdt/699?format=json"
+        },
+        {
+            "amendmentNumber": "700",
+            "congress": 115,
+            "introducedDate": "2018-06-06",
+            "latestAction": {
+                "actionDate": "2018-06-06",
+                "actionTime": "17:46:30",
+                "text": "On agreeing to the Shea-Porter amendment (A040) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/115/hamdt/700?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-05-22",
+            "latestAction": {
+                "actionDate": "2018-05-23",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "5921",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "PFAS Registry Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/5921?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-05-22",
+            "latestAction": {
+                "actionDate": "2018-05-23",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "5918",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Department of Defense Service Dog Training Therapy Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/5918?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-05-22",
+            "latestAction": {
+                "actionDate": "2018-05-22",
+                "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "5919",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Contingency Operation Waste and Fraud Prevention Act of 2018",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/5919?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-05-22",
+            "latestAction": {
+                "actionDate": "2018-05-23",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "5920",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Airborne Hazards and Open Burn Pit Registry Improvement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/5920?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-05-08",
+            "latestAction": {
+                "actionDate": "2018-05-08",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "5713",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "National Guard Promotion Accountability Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/5713?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-04-24",
+            "latestAction": {
+                "actionDate": "2018-04-24",
+                "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "5606",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Climate Change Education Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/5606?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-12-05",
+            "latestAction": {
+                "actionDate": "2017-12-05",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4556",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 38, United States Code, to require the Secretary of Veterans Affairs to furnish dental care in the same manner as any other medical service, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4556?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-10-24",
+            "latestAction": {
+                "actionDate": "2017-10-24",
+                "text": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs."
+            },
+            "number": "4106",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Surviving Spouses Income Security Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4106?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-09-06",
+            "latestAction": {
+                "actionDate": "2017-09-06",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3683",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Student and Families Tax Reduction Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/3683?format=json"
+        },
+        {
+            "amendmentNumber": "220",
+            "congress": 115,
+            "introducedDate": "2017-07-26",
+            "latestAction": {
+                "actionDate": "2017-07-26",
+                "actionTime": "18:21:12",
+                "text": "On agreeing to the Shea-Porter amendment (A008) Failed by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/115/hamdt/220?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-06-27",
+            "latestAction": {
+                "actionDate": "2017-06-27",
+                "text": "Referred to the House Committee on Armed Services."
+            },
+            "number": "3065",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To direct the Comptroller General of the United States to submit to Congress a report on the national security implications of the outsourcing of industrial and manufacturing capacities to locations outside the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/3065?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-06-27",
+            "latestAction": {
+                "actionDate": "2017-06-27",
+                "text": "Referred to the Committee on Armed Services, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "3066",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To direct the Secretary of Defense to carry out a program to protect United States students against foreign agents.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/3066?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-06-27",
+            "latestAction": {
+                "actionDate": "2017-06-27",
+                "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "3064",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Contingency Operation Waste and Fraud Prevention Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/3064?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-05-03",
+            "latestAction": {
+                "actionDate": "2017-05-03",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2318",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Military Spouse Hiring Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/2318?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-05-02",
+            "latestAction": {
+                "actionDate": "2017-05-05",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "304",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Expressing support for designation of May as \"National Asthma and Allergy Awareness Month\".",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/115/hres/304?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-04-06",
+            "latestAction": {
+                "actionDate": "2017-04-21",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2065",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare You Can Opt Into Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/2065?format=json"
+        },
+        {
+            "amendmentNumber": "93",
+            "congress": 115,
+            "introducedDate": "2017-03-17",
+            "latestAction": {
+                "actionDate": "2017-03-17",
+                "actionTime": "09:41:55",
+                "text": "On agreeing to the Shea-Porter amendment (A006) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/115/hamdt/93?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-03-16",
+            "latestAction": {
+                "actionDate": "2017-03-21",
+                "text": "Referred to the Subcommittee on the Constitution and Civil Justice."
+            },
+            "number": "90",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Proposing an amendment to the Constitution of the United States to clarify the authority of Congress and the States to regulate the expenditure of funds for political activity by corporations.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/115/hjres/90?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-01-10",
+            "latestAction": {
+                "actionDate": "2017-02-03",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "388",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veterans Health Equity Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/388?format=json"
+        },
+        {
+            "amendmentNumber": "769",
+            "congress": 111,
+            "introducedDate": "2010-07-30",
+            "latestAction": {
+                "actionDate": "2010-07-30",
+                "actionTime": "15:30:33",
+                "text": "On agreeing to the Shea-Porter amendment (A004) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/hamdt/769?format=json"
+        },
+        {
+            "amendmentNumber": "675",
+            "congress": 111,
+            "introducedDate": "2010-05-27",
+            "latestAction": {
+                "actionDate": "2010-05-28",
+                "actionTime": "15:03:59",
+                "text": "On agreeing to the Shea-Porter amendment (A022) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/hamdt/675?format=json"
+        },
+        {
+            "amendmentNumber": "600",
+            "congress": 111,
+            "introducedDate": "2010-04-15",
+            "latestAction": {
+                "actionDate": "2010-04-15",
+                "actionTime": "16:36:46",
+                "text": "On agreeing to the Shea-Porter amendment (A006) Agreed to by recorded vote: 294 - 109 (Roll no. 207). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/hamdt/600?format=json"
+        },
+        {
+            "amendmentNumber": "559",
+            "congress": 111,
+            "introducedDate": "2010-02-03",
+            "latestAction": {
+                "actionDate": "2010-02-03",
+                "actionTime": "14:50:51",
+                "text": "On agreeing to the Shea-Porter amendment (A015) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/hamdt/559?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-09-29",
+            "latestAction": {
+                "actionDate": "2010-11-16",
+                "text": "Referred to the Subcommittee on Department Operations, Oversight, Nutrition and Forestry."
+            },
+            "number": "6276",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "Wildlife Disease Emergency Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/6276?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-09-29",
+            "latestAction": {
+                "actionDate": "2010-09-29",
+                "text": "Referred to the House Committee on Veterans' Affairs."
+            },
+            "number": "6269",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 38, United States Code, to expand eligibility for burial in national cemeteries for certain members of the reserve components of the Armed Forces and National Guard, and to increase the amount payable by the Secretary of Veterans Affairs for the burial and funeral expenses of certain veterans.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/6269?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-09-29",
+            "latestAction": {
+                "actionDate": "2010-09-29",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "6255",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "To require mail-order pharmacies to notify customers when generic drugs become available and to prevent mail-order pharmacies from substituting drugs without the express authorization of the prescriber.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/6255?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-08-10",
+            "latestAction": {
+                "actionDate": "2010-08-10",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "6088",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "To provide for temporary alternative State \"on\" and \"off\" indicators under the Federal-State Extended Unemployment Compensation Act of 1970, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/6088?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-07-30",
+            "latestAction": {
+                "actionDate": "2010-10-13",
+                "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education."
+            },
+            "number": "6004",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "To amend the Elementary and Secondary Education Act of 1965 to modify certain provisions concerning charter schools.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/6004?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-07-29",
+            "latestAction": {
+                "actionDate": "2010-09-20",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "5925",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Safe Prescription Drug Disposal and Education Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5925?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-07-28",
+            "latestAction": {
+                "actionDate": "2010-07-28",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "5898",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Buy America Accountability Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5898?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-07-20",
+            "latestAction": {
+                "actionDate": "2010-10-13",
+                "text": "Referred to the Subcommittee on Workforce Protections."
+            },
+            "number": "5785",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Mine Worker Safety Hotline Accessibility Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5785?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-06-23",
+            "latestAction": {
+                "actionDate": "2010-06-23",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "5583",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Cell Phone ETF Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5583?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-05-06",
+            "latestAction": {
+                "actionDate": "2010-06-18",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "5233",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 10, United States Code, to recognize the contributions made by the spouses of members of the Armed Forces who serve in combat through the presentation of an official lapel button, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5233?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-04-29",
+            "latestAction": {
+                "actionDate": "2010-07-27",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "5180",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "National Marine Fisheries Service Ombudsman Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5180?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-03-12",
+            "latestAction": {
+                "actionDate": "2010-03-22",
+                "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education."
+            },
+            "number": "4836",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Asthma Management Plans in School Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4836?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-11-06",
+            "latestAction": {
+                "actionDate": "2009-11-18",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "4043",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Military Spouse Pin Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4043?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-07-31",
+            "latestAction": {
+                "actionDate": "2009-10-28",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "3449",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Ensuring Military Readiness Through Stability and Predictability Deployment Policy Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/3449?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-06-25",
+            "latestAction": {
+                "actionDate": "2009-06-25",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3062",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on bitolylene diisocyanate (TODI).",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/3062?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-06-11",
+            "latestAction": {
+                "actionDate": "2009-06-11",
+                "text": "Referred to the House Committee on Armed Services."
+            },
+            "number": "2825",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Safety in Defense Contracting Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2825?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-06-09",
+            "latestAction": {
+                "actionDate": "2009-06-24",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "2771",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Military Overpayment Fairness Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2771?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-05-07",
+            "latestAction": {
+                "actionDate": "2009-06-08",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "2302",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Military Retired Pay Fairness Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2302?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-29",
+            "latestAction": {
+                "actionDate": "2009-06-04",
+                "text": "Referred to the Subcommittee on Workforce Protections."
+            },
+            "number": "2161",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Family and Medical Leave Restoration Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2161?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-02-04",
+            "latestAction": {
+                "actionDate": "2010-07-15",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "901",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Medical Bankruptcy Fairness Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/901?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-01-06",
+            "latestAction": {
+                "actionDate": "2009-01-06",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "224",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To provide for the liquidation or reliquidation of certain entries of newspaper printing presses and components thereof.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/224?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-01-06",
+            "latestAction": {
+                "actionDate": "2009-01-09",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "190",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veterans Health Equity Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/190?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-07-15",
+            "latestAction": {
+                "actionDate": "2010-07-15",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "1521",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Supporting the goals and ideals of National Carbon Monoxide Awareness Day.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/1521?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-03-11",
+            "latestAction": {
+                "actionDate": "2010-03-22",
+                "text": "Referred to the Subcommittee on Healthy Families and Communities."
+            },
+            "number": "1167",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Expressing the support of the House of Representatives for the goals and ideals of Professional Social Work Month and World Social Work Day.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/1167?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-11-06",
+            "latestAction": {
+                "actionDate": "2009-11-18",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "899",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Honoring the members of the New Hampshire National Guard for their service to the State of New Hampshire and the contributions of the New Hampshire National Guard to the domestic and international missions of the Armed Forces through the patriotic service of its members and its innovative programs and dedication to military families.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/899?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-23",
+            "latestAction": {
+                "actionDate": "2009-11-04",
+                "actionTime": "16:58:59",
+                "text": "The title of the measure was amended. Agreed to without objection."
+            },
+            "number": "863",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Recognizing the scourge of pneumonia, urging the United States and the world to mobilize cooperation and focus resources to fight pneumonia and save children's lives, and recognizing November 2 as World Pneumonia Da.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/863?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-03-12",
+            "latestAction": {
+                "actionDate": "2009-03-17",
+                "actionTime": "15:07:28",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "240",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To support the goals and ideals of Professional Social Work Month and World Social Work Day.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/240?format=json"
+        },
+        {
+            "amendmentNumber": "1141",
+            "congress": 110,
+            "introducedDate": "2008-07-23",
+            "latestAction": {
+                "actionDate": "2008-07-23",
+                "actionTime": "20:18:06",
+                "text": "On agreeing to the Shea-Porter amendment (A009) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/hamdt/1141?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-09-29",
+            "latestAction": {
+                "actionDate": "2008-09-29",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "7236",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Small Business Start-Up Support Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/7236?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-09-29",
+            "latestAction": {
+                "actionDate": "2008-09-29",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "7237",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Middle Class Dependent Care Fairness Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/7237?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-09-24",
+            "latestAction": {
+                "actionDate": "2008-09-24",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "7035",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Improving Dependent Care Tax Assistance Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/7035?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-08-01",
+            "latestAction": {
+                "actionDate": "2008-09-04",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "6774",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Protecting Military Family Financial Benefits Act of 2007",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6774?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-07-29",
+            "latestAction": {
+                "actionDate": "2008-07-29",
+                "text": "Referred to the House Committee on Veterans' Affairs."
+            },
+            "number": "6629",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veterans Health Equity Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6629?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-07-17",
+            "latestAction": {
+                "actionDate": "2008-07-23",
+                "text": "Sponsor introductory remarks on measure. (CR H6830)"
+            },
+            "number": "6538",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Home Energy Assistance Through Emergency Relief Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6538?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-04-15",
+            "latestAction": {
+                "actionDate": "2008-04-25",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "5791",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "National Guard and Reserve Readiness Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/5791?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-04-03",
+            "latestAction": {
+                "actionDate": "2008-04-03",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5691",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Middle Class Assistance Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/5691?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-03-31",
+            "latestAction": {
+                "actionDate": "2008-04-04",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5667",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To provide for the liquidation or reliquidation of certain entries of newspaper printing presses and components thereof.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/5667?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-01-29",
+            "latestAction": {
+                "actionDate": "2008-06-12",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "5155",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Combat Veterans Debt Elimination Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/5155?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-01-28",
+            "latestAction": {
+                "actionDate": "2008-02-04",
+                "text": "Referred to the Subcommittee on Commercial and Administrative Law."
+            },
+            "number": "5138",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Medical Bankruptcy Fairness Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/5138?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-11-07",
+            "latestAction": {
+                "actionDate": "2007-12-03",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "4110",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Restitution for Victims of Crime Act of 2007",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4110?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-11-07",
+            "latestAction": {
+                "actionDate": "2007-12-03",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "4111",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Preserving Crime Victims' Restitution Act of 2007",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4111?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-09-20",
+            "latestAction": {
+                "actionDate": "2007-10-17",
+                "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education."
+            },
+            "number": "3611",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Bringing Success to Scale Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3611?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-08-01",
+            "latestAction": {
+                "actionDate": "2007-08-08",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "3271",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Account Number Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3271?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-07-19",
+            "latestAction": {
+                "actionDate": "2007-07-26",
+                "text": "Referred to the Subcommittee on Energy and Environment."
+            },
+            "number": "3101",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "To amend the Biomass Research and Development Act of 2000 to include heating fuel produced from biomass in the definition of biobased fuel.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3101?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-07-16",
+            "latestAction": {
+                "actionDate": "2007-08-10",
+                "text": "Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties."
+            },
+            "number": "3045",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Presidential Signing Statements Act of 2007",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3045?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-06-15",
+            "latestAction": {
+                "actionDate": "2007-06-18",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2741",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XVIII of the Social Security Act to provide a wage index floor for hospitals and home health agencies located in certain areas under the Medicare Program.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/2741?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-06-13",
+            "latestAction": {
+                "actionDate": "2007-07-20",
+                "text": "Sponsor introductory remarks on measure. (CR E1585)"
+            },
+            "number": "2700",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "To suspend implementation of an Absolute Priority issued by the Department of Education on July 3, 2006.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/2700?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-04-23",
+            "latestAction": {
+                "actionDate": "2008-06-10",
+                "actionTime": "16:35:49",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "1145",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Recognizing the 100 year anniversary of the establishment of St. Mary's Cooperative Credit Association, the \"Bank of the People\", and the birth of the American credit union.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/1145?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "857",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Calling on the Kingdom of Saudi Arabia to take immediate actions to drop all charges against the Saudi rape victim known as the \"Qatif Girl\".",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/857?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-10-23",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "actionTime": "13:32:40",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "768",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Honoring the life of Thomas \"Tommy\" Makem.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/768?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-09-27",
+            "latestAction": {
+                "actionDate": "2007-10-19",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "686",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Condemning personal attacks on the honor, integrity and patriotism of those with distinguished military service to our Nation.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/686?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-03-29",
+            "latestAction": {
+                "actionDate": "2007-04-18",
+                "actionTime": "17:12:42",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "293",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Supporting the goals and ideals highlighted through National Volunteer Week.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/293?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-03-26",
+            "latestAction": {
+                "actionDate": "2007-03-27",
+                "actionTime": "14:27:26",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "266",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Supporting the goals and ideals of Professional Social Work Month and World Social Work Day.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/266?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-11-06",
+            "latestAction": {
+                "actionDate": "2008-01-22",
+                "text": "Referred to the Committee on Armed Services."
+            },
+            "number": "246",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Honoring the United States Marine Corps for serving and defending the United States on the anniversary of its founding on November 10, 1775.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/246?format=json"
+        }
+    ]
+}

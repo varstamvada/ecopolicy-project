@@ -1,0 +1,981 @@
+{
+    "pagination": {
+        "count": 66
+    },
+    "request": {
+        "bioguideId": "c000503",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "556",
+            "congress": 102,
+            "introducedDate": "1992-05-20",
+            "latestAction": {
+                "actionDate": "1992-05-20",
+                "actionTime": "20:51:56",
+                "text": "On agreeing to the Clement amendment (A006) Agreed to by recorded vote: 254 - 160 (Roll no. 134). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/556?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-12-19",
+            "latestAction": {
+                "actionDate": "2001-12-28",
+                "text": "Referred to the Subcommittee on Health, for a period to be subsequently determined by the Chairman."
+            },
+            "number": "3536",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Nursing Shortage State Response Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3536?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-10-12",
+            "latestAction": {
+                "actionDate": "2001-10-31",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3117",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on 1,3-Benzenedicarboxylic acid, 5-sulfo-1,3-dimethyl ester sodium salt.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3117?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-07-26",
+            "latestAction": {
+                "actionDate": "2001-07-27",
+                "text": "Referred to the Subcommittee on Highways and Transit."
+            },
+            "number": "2654",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Transit Rail Accommodation Improvement and Needs Act for the 21st Century",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2654?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-07-17",
+            "latestAction": {
+                "actionDate": "2001-07-18",
+                "text": "Referred to the Subcommittee on Highways and Transit."
+            },
+            "number": "2521",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To permit States to place supplemental guide signs relating to veterans cemeteries on Federal-aid highways.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2521?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-06-28",
+            "latestAction": {
+                "actionDate": "2001-07-02",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "2378",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to increase the maximum amount of the lump-sum death benefit and to allow for payment of such a benefit, in the absence of an eligible surviving spouse or child, to the legal representative of the estate of the deceased individual.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2378?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-06",
+            "latestAction": {
+                "actionDate": "2001-03-13",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "870",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Notch Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/870?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-01-31",
+            "latestAction": {
+                "actionDate": "2001-02-12",
+                "text": "Referred to the Subcommittee on Immigration and Claims."
+            },
+            "number": "329",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Nashville INS Suboffice Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/329?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-13",
+            "latestAction": {
+                "actionDate": "2001-03-13",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "37",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Proposing an amendment to the Constitution of the United States to provide for the appointment and voting, by congressional district, of electors for the election of President and Vice President, and to provide procedures for electing the President and Vice President if no candidate receives a majority of electoral votes.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/107/hjres/37?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-03-07",
+            "latestAction": {
+                "actionDate": "2002-05-09",
+                "text": "Referred to the Subcommittee on Education Reform."
+            },
+            "number": "343",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Expressing the sense of the Congress supporting music education and Music in Our Schools Month.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/hconres/343?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-15",
+            "latestAction": {
+                "actionDate": "2001-04-30",
+                "text": "Referred to the Subcommittee on Education Reform."
+            },
+            "number": "64",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Expressing the sense of the Congress supporting music education and Music in Our Schools Month.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/hconres/64?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-05-19",
+            "latestAction": {
+                "actionDate": "2000-05-22",
+                "text": "Referred to the Subcommittee on Ground Transportation."
+            },
+            "number": "4507",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Transit Rail Access Improvement and Needs Act for the 21st Century",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4507?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-03",
+            "latestAction": {
+                "actionDate": "1999-02-12",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "538",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Notch Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/538?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-02",
+            "latestAction": {
+                "actionDate": "1999-02-24",
+                "text": "Referred to the Subcommittee on Postsecondary Education, Training and Life-Long Learning."
+            },
+            "number": "33",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Congratulating the Tennessee Volunteers for winning the undisputed national championship in college football and Coach Phillip Fulmer for being honored as Coach of the Year.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/106/hres/33?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-10-05",
+            "latestAction": {
+                "actionDate": "1988-11-03",
+                "text": "Referred to Subcommittee on Energy and the Environment."
+            },
+            "number": "5461",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Nuclear Powerplant Standardization Act of 1988",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/5461?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-08-04",
+            "latestAction": {
+                "actionDate": "1988-08-10",
+                "text": "Referred to Subcommittee on Social Security."
+            },
+            "number": "5159",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Notch Act of 1988",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/5159?format=json"
+        },
+        {
+            "amendmentNumber": "841",
+            "congress": 101,
+            "introducedDate": "1990-10-05",
+            "latestAction": {
+                "actionDate": "1990-10-05",
+                "actionTime": "14:34:49",
+                "text": "On agreeing to the Clement amendment (A030) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/841?format=json"
+        },
+        {
+            "amendmentNumber": "542",
+            "congress": 101,
+            "introducedDate": "1990-06-27",
+            "latestAction": {
+                "actionDate": "1990-06-27",
+                "actionTime": "17:36:11",
+                "text": "On agreeing to the Clement amendment (A007) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/542?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-04-23",
+            "latestAction": {
+                "actionDate": "1990-04-26",
+                "text": "Referred to the Subcommittee on Economic and Commercial Law."
+            },
+            "number": "4581",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "To amend title 28, United States Code, to provide for the appointment of an additional bankruptcy judge for the Middle District of Tennessee.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4581?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-02-22",
+            "latestAction": {
+                "actionDate": "1990-03-05",
+                "text": "Referred to the Subcommittee on Transportation and Hazardous Materials."
+            },
+            "number": "4074",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "State Rail Safety Program Enhancement Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4074?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-11-16",
+            "latestAction": {
+                "actionDate": "1989-12-05",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "3673",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Drug Free Truck Stop Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3673?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-06-21",
+            "latestAction": {
+                "actionDate": "1990-08-01",
+                "text": "See H.R.5314."
+            },
+            "number": "2702",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "To authorize the Secretary of the Army to provide flood protection for the Mill Creek basin in the vicinity of Nashville, Tennessee.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2702?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-04-25",
+            "latestAction": {
+                "actionDate": "1989-06-02",
+                "text": "Referred to the Subcommittee on Energy and the Environment."
+            },
+            "number": "2078",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Nuclear Powerplant Standardization Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2078?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-03-08",
+            "latestAction": {
+                "actionDate": "1989-03-09",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "1298",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Notch Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/1298?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-09",
+            "latestAction": {
+                "actionDate": "1989-08-04",
+                "text": "Became Public Law No: 101-71."
+            },
+            "number": "968",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Noise Reduction Reimbursement Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/968?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-06-14",
+            "latestAction": {
+                "actionDate": "1990-10-11",
+                "text": "Became Public Law No: 101-414."
+            },
+            "number": "603",
+            "policyArea": {
+                "name": "Arts, Culture, Religion"
+            },
+            "title": "To designate the month of October 1990 as \"Country Music Month\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/603?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-09-12",
+            "latestAction": {
+                "actionDate": "1989-10-25",
+                "text": "Became Public Law No: 101-129."
+            },
+            "number": "401",
+            "policyArea": {
+                "name": "Arts, Culture, Religion"
+            },
+            "title": "To designate the month of October 1989 as \"Country Music Month\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/401?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-05-09",
+            "latestAction": {
+                "actionDate": "1990-06-05",
+                "text": "Referred to the Subcommittee on Transportation and Hazardous Materials."
+            },
+            "number": "389",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Expressing the Sense of the House of Representatives that the sponsors and participants of the first National Conference on Environmental Sensitivity in Construction should be commended.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/101/hres/389?format=json"
+        },
+        {
+            "amendmentNumber": "334",
+            "congress": 102,
+            "introducedDate": "1991-10-22",
+            "latestAction": {
+                "actionDate": "1991-10-22",
+                "actionTime": "15:24:37",
+                "text": "On agreeing to the Clement amendment (A015) Agreed to by recorded vote: 371 - 48 (Roll no. 323). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/334?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-09-18",
+            "latestAction": {
+                "actionDate": "1992-10-01",
+                "text": "Referred to the Subcommittee on Peanuts and Tobacco."
+            },
+            "number": "5974",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "To amend the Agricultural Adjustment Act of 1938 to permit the acre-for-acre transfer of an acreage allotment or quota for certain commodities.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5974?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-06-05",
+            "latestAction": {
+                "actionDate": "1992-06-12",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "5337",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to provide for payment of a benefit for the month of the recipient's death.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5337?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-03-18",
+            "latestAction": {
+                "actionDate": "1992-10-08",
+                "text": "Provisions Not Included in Final Version of H.R.776."
+            },
+            "number": "4488",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Nuclear Reactor Licensing Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4488?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-08-02",
+            "latestAction": {
+                "actionDate": "1992-04-02",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3221",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Intermodal Carriers Competitiveness Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3221?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-06-20",
+            "latestAction": {
+                "actionDate": "1991-06-25",
+                "text": "Referred to the Subcommittee on Economic and Commercial Law."
+            },
+            "number": "2710",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "To amend title 28, United States Code, to provide for the appointment of an additional bankruptcy judge for the Middle District of Tennessee.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2710?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-03-21",
+            "latestAction": {
+                "actionDate": "1991-06-07",
+                "text": "Referred to the Subcommittee on Crime and Criminal Justice."
+            },
+            "number": "1551",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Drug Free Truck Stop Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1551?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-02-28",
+            "latestAction": {
+                "actionDate": "1992-10-08",
+                "text": "Provisions, as Reported by the Committee on Interior and Insular Affairs, Not Included in Final Version of H.R.776."
+            },
+            "number": "1184",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Nuclear Powerplant Standardization and Licensing Reform Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1184?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-02-27",
+            "latestAction": {
+                "actionDate": "1991-03-04",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "1127",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Notch Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1127?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-06-30",
+            "latestAction": {
+                "actionDate": "1992-10-23",
+                "text": "Became Public Law No: 102-470."
+            },
+            "number": "520",
+            "policyArea": {
+                "name": "Arts, Culture, Religion"
+            },
+            "title": "To designate the month of October 1992 as \"Country Music Month\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/102/hjres/520?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-07-17",
+            "latestAction": {
+                "actionDate": "1991-10-10",
+                "text": "Became Public Law No: 102-126."
+            },
+            "number": "305",
+            "policyArea": {
+                "name": "Arts, Culture, Religion"
+            },
+            "title": "To designate the month of October 1991, as \"Country Music Month\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/102/hjres/305?format=json"
+        },
+        {
+            "amendmentNumber": "578",
+            "congress": 103,
+            "introducedDate": "1994-05-25",
+            "latestAction": {
+                "actionDate": "1994-05-25",
+                "actionTime": "12:58:00",
+                "text": "On agreeing to the Clement amendment (A002) Failed by recorded vote: 64 - 364 (Roll no. 199). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/578?format=json"
+        },
+        {
+            "amendmentNumber": "303",
+            "congress": 103,
+            "introducedDate": "1993-09-22",
+            "latestAction": {
+                "actionDate": "1993-09-23",
+                "actionTime": "17:58:13",
+                "text": "On agreeing to the Clement amendment (A002) Agreed to by the Yeas and Nays: 311 - 94 (Roll no. 454). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/303?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-08-06",
+            "latestAction": {
+                "actionDate": "1994-08-12",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "2921",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Historically Black Colleges and Universities Historic Building Restoration and Preservation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2921?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-06-15",
+            "latestAction": {
+                "actionDate": "1993-06-21",
+                "text": "Referred to the Subcommittee on Hospitals and Health Care."
+            },
+            "number": "2413",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 38, United States Code, to provide additional authority for the Secretary of Veterans Affairs to provide health care for veterans of the Persian Gulf War.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2413?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-05-11",
+            "latestAction": {
+                "actionDate": "1993-05-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2060",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Displaced-by-Airport Noise Homeowner Equity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2060?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-29",
+            "latestAction": {
+                "actionDate": "1993-06-15",
+                "text": "Referred to the Subcommittee on National Parks, Forests and Public Lands."
+            },
+            "number": "1923",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Fisk University Historic District Restoration and Preservation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1923?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-24",
+            "latestAction": {
+                "actionDate": "1993-03-29",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "1444",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to provide for payment of a benefit for the month of the recipient's death.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1444?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-24",
+            "latestAction": {
+                "actionDate": "1993-03-29",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "1447",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Notch Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1447?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-02-23",
+            "latestAction": {
+                "actionDate": "1993-03-16",
+                "text": "Referred to the Subcommittee on Commerce, Consumer Protection and Competitiveness."
+            },
+            "number": "1048",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Vehicle Damage Disclosure Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1048?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-02-24",
+            "latestAction": {
+                "actionDate": "1993-03-03",
+                "text": "Referred to the Subcommittee on Transportation and Hazardous Materials."
+            },
+            "number": "1090",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Floridian Passenger Rail Service Reestablishment Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1090?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-02-03",
+            "latestAction": {
+                "actionDate": "1993-02-24",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "762",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Drug Free Truck Stop Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/762?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-04",
+            "latestAction": {
+                "actionDate": "1993-03-08",
+                "text": "Referred to the Subcommittee on Environment, Credit and Rural Development."
+            },
+            "number": "133",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "To express the sense of the Congress that the President recognize the role rural communities play in the economy of the United States and express this recognition through appropriate emphasis on rural economic development when preparing the administration's economic proposals.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/133?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-02-16",
+            "latestAction": {
+                "actionDate": "1993-10-07",
+                "text": "For Further Action See S.J.Res.102."
+            },
+            "number": "106",
+            "policyArea": {
+                "name": "Arts, Culture, Religion"
+            },
+            "title": "To designate the months of October 1993 and October 1994 as \"Country Music Month\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/106?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-01-27",
+            "latestAction": {
+                "actionDate": "1993-02-10",
+                "text": "Referred to the Subcommittee on Economic and Commercial Law."
+            },
+            "number": "76",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Proposing an amendment to the Constitution of the United States authorizing the President to disapprove or reduce an item of appropriations.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/76?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-01-27",
+            "latestAction": {
+                "actionDate": "1993-01-27",
+                "text": "Referred to the House Committee on Rules."
+            },
+            "number": "53",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To amend the Rules of the House of Representatives to require a rollcall vote on all appropriation measures.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/103/hres/53?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-07-22",
+            "latestAction": {
+                "actionDate": "1993-10-05",
+                "text": "Sponsor introductory remarks on measure. (CR H7385-7386)"
+            },
+            "number": "126",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Expressing the sense of the Congress that the special health care needs of children should be addressed in any health care reform legislation.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/103/hconres/126?format=json"
+        },
+        {
+            "amendmentNumber": "911",
+            "congress": 104,
+            "introducedDate": "1995-11-30",
+            "latestAction": {
+                "actionDate": "1995-11-30",
+                "actionTime": "12:02:51",
+                "text": "On agreeing to the Clement amendment (A002) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/911?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-09-27",
+            "latestAction": {
+                "actionDate": "1996-09-27",
+                "text": "Sponsor introductory remarks on measure. (CR H11459)"
+            },
+            "number": "2403",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Air Traffic Management System Performance Improvement Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2403?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-08-04",
+            "latestAction": {
+                "actionDate": "1995-08-17",
+                "text": "Referred to the Subcommittee on Railroads."
+            },
+            "number": "2205",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Rail Infrastructure Preservation Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2205?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-03-09",
+            "latestAction": {
+                "actionDate": "1996-09-05",
+                "text": "Received in the Senate."
+            },
+            "number": "1179",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Historically Black Colleges and Universities Historic Building Restoration and Preservation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1179?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-19",
+            "latestAction": {
+                "actionDate": "1995-01-26",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "573",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Notch Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/573?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-10-06",
+            "latestAction": {
+                "actionDate": "1997-10-06",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "2617",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Rosalba Colunga de Medina, Claudia Janet Alexandru Medina, and Jose Armando Medina, Jr.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2617?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-06-26",
+            "latestAction": {
+                "actionDate": "1997-07-10",
+                "text": "Referred to the Subcommittee on Water Resources and Environment."
+            },
+            "number": "2082",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "TVA 2000 Regional Commission Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2082?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-01-21",
+            "latestAction": {
+                "actionDate": "1997-01-21",
+                "text": "Referred to the House Committee on House Oversight."
+            },
+            "number": "458",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Campaign Truth and Fairness Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/458?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-01-07",
+            "latestAction": {
+                "actionDate": "1997-01-07",
+                "text": "Referred to the House Committee on House Oversight."
+            },
+            "number": "110",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Campaign Truth and Fairness Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/110?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-01-07",
+            "latestAction": {
+                "actionDate": "1997-01-14",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "45",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Notch Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/45?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-07-28",
+            "latestAction": {
+                "actionDate": "1997-07-28",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "127",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Expressing the sense of the Congress that the Nation must place greater emphasis on helping young Americans to develop habits of good character that are essential to their own well-being and to that of our communities.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/105/hconres/127?format=json"
+        }
+    ]
+}

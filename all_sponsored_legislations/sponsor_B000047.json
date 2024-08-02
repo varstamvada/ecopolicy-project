@@ -1,0 +1,98 @@
+{
+    "pagination": {
+        "count": 6
+    },
+    "request": {
+        "bioguideId": "b000047",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "1002",
+            "congress": 97,
+            "introducedDate": "1982-12-16",
+            "latestAction": {
+                "actionDate": "1982-12-16",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/1002?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-04-28",
+            "latestAction": {
+                "actionDate": "1982-05-10",
+                "text": "Referred to Subcommittee on Surface Transportation."
+            },
+            "number": "6186",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to authorize appropriations for the construction and for rehabilitation of certain bridges by amending title 23 of the United States Code.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6186?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-07-16",
+            "latestAction": {
+                "actionDate": "1981-07-30",
+                "text": "Referred to Subcommittee on Water Resources."
+            },
+            "number": "4171",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "A bill to terminate the authorization of the Union Lake flood control project, Missouri.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4171?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-07-16",
+            "latestAction": {
+                "actionDate": "1981-07-30",
+                "text": "Referred to Subcommittee on Water Resources."
+            },
+            "number": "4170",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "A bill to terminate authorization of the Meramec Park Lake portion of the authorized comprehensive plan for the Meramec River Basin, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4170?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-06-03",
+            "latestAction": {
+                "actionDate": "1982-03-11",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3773",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "A bill to amend title II, United States Code, to permit certain acts to recover agricultural products from warehouses that are debtors in bankruptcy.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/3773?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-05-04",
+            "latestAction": {
+                "actionDate": "1981-10-20",
+                "text": "Referred to Subcommittee on Rules of the House."
+            },
+            "number": "3401",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal Assistance Reform Act of 1981",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/3401?format=json"
+        }
+    ]
+}

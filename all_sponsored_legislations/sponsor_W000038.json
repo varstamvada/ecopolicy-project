@@ -1,0 +1,57 @@
+{
+    "pagination": {
+        "count": 3
+    },
+    "request": {
+        "bioguideId": "w000038",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 99,
+            "introducedDate": "1986-10-17",
+            "latestAction": {
+                "actionDate": "1986-10-18",
+                "text": "Referred to Subcommittee on Fossil and Synthetic Fuels."
+            },
+            "number": "5742",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to provide for just and reasonable maximum lawful prices for old OCS gas.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5742?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-10-08",
+            "latestAction": {
+                "actionDate": "1986-11-20",
+                "text": "Referred to Subcommittee on Elementary, Secondary and Vocational Education."
+            },
+            "number": "581",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "A resolution expressing the sense of the House of Representatives that the President should direct the Secretary of Education to form a National Task Force on the Problem of Functional Illiteracy.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/99/hres/581?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-09-26",
+            "latestAction": {
+                "actionDate": "1986-10-03",
+                "text": "Referred to Subcommittee on Africa."
+            },
+            "number": "566",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution expressing the sense of the House of Representatives that the President should accept the invitation of Zambian President Kenneth Kaunda to meet with the black leaders of the six \"front-line states\" that border South Africa.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/99/hres/566?format=json"
+        }
+    ]
+}

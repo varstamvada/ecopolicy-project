@@ -1,0 +1,54 @@
+{
+    "pagination": {
+        "count": 3
+    },
+    "request": {
+        "bioguideId": "c000134",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "162",
+            "congress": 105,
+            "introducedDate": "1997-06-10",
+            "latestAction": {
+                "actionDate": "1997-06-10",
+                "actionTime": "13:30:13",
+                "text": "On agreeing to the Capps amendment (A034) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/162?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-06-23",
+            "latestAction": {
+                "actionDate": "1997-06-26",
+                "text": "Referred to the Subcommittee on Health and Environment, for a period to be subsequently determined by the Chairman."
+            },
+            "number": "2009",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Amyotrophic Lateral Sclerosis (ALS) Research, Treatment, and Assistance Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2009?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-06-24",
+            "latestAction": {
+                "actionDate": "1997-07-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "2022",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To amend trade laws and related provisions to clarify the designation of normal trade relations.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2022?format=json"
+        }
+    ]
+}

@@ -1,0 +1,612 @@
+{
+    "pagination": {
+        "count": 40
+    },
+    "request": {
+        "bioguideId": "m000433",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 96,
+            "introducedDate": "1979-11-15",
+            "latestAction": {
+                "actionDate": "1979-11-15",
+                "text": "Referred to House Committee on Public Works and Transportation."
+            },
+            "number": "5910",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Motor Carrier Energy Conservation and Regulatory Reform Act of 1979",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/5910?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-03-01",
+            "latestAction": {
+                "actionDate": "1979-03-01",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "236",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A joint resolution proposing an amendment to the Constitution of the United States for the protection of unborn children and other persons.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/96/hjres/236?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-03-01",
+            "latestAction": {
+                "actionDate": "1979-03-01",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "237",
+            "policyArea": {
+                "name": "Arts, Culture, Religion"
+            },
+            "title": "A joint resolution proposing an amendment to the Constitution of the United States with respect to participation in voluntary prayer or meditation in public buildings.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/96/hjres/237?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-07-23",
+            "latestAction": {
+                "actionDate": "1974-07-23",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "16070",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "A bill to authorize the Secretary of Agriculture to regulate the transportation of horses in commerce.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/16070?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-05-30",
+            "latestAction": {
+                "actionDate": "1974-05-30",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "15105",
+            "policyArea": {
+                "name": "Motor vehicles"
+            },
+            "title": "A bill to amend the National Traffic and Motor Vehicle Safety Act of 1966 to prohibit the Secretary of Transportation from imposing certain safety standards and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/15105?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-03-27",
+            "latestAction": {
+                "actionDate": "1974-03-27",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "13778",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "A bill to repeal the Occupational Safety and Health Act of 1970.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/13778?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-11-12",
+            "latestAction": {
+                "actionDate": "1973-11-12",
+                "text": "Referred to House Committee on House Administration."
+            },
+            "number": "11404",
+            "policyArea": {
+                "name": "Government publications"
+            },
+            "title": "A bill to amend chapter 13 of title 44, United States Code, to provide that certain proceedings of the Italian American War Veterans of the United States, Inc., shall be printed as a House document, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/11404?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-11-12",
+            "latestAction": {
+                "actionDate": "1973-11-12",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "11405",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "A bill to amend the Federal Trade Commission Act (15 U.S.C. 45) to provide that under certain circumstances exclusive territorial arrangements shall not be deemed unlawful.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/11405?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-11-12",
+            "latestAction": {
+                "actionDate": "1973-11-12",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "11406",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to amend chapter 59 of title 38, United States Code, to provide for the recognition of representatives of the Italian American War Veterans of the United States, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/11406?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-05-07",
+            "latestAction": {
+                "actionDate": "1974-05-07",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "1005",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Joint resolution to amend title 5 of the United States Code to provide for the designation of the 11th day of November of each year as Veterans' Day.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/93/hjres/1005?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-06-27",
+            "latestAction": {
+                "actionDate": "1973-06-27",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "646",
+            "policyArea": {
+                "name": "Constitutional amendments"
+            },
+            "title": "Joint resolution proposing an amendment to the Constitution of the United States for the protection of unborn children and other persons.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/93/hjres/646?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-03-12",
+            "latestAction": {
+                "actionDate": "1974-03-12",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "443",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "Concurrent resolution expressing the sense of Congress that the United States invites the International Olympic Committee to select Lake Placid, N.Y., as the site of the 1980 Winter Olympic Games.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/93/hconres/443?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-03-12",
+            "latestAction": {
+                "actionDate": "1974-03-12",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "444",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "Concurrent resolution expressing the sense of Congress that the United States invites the International Olympic Committee to select Lake Placid, N.Y., as the site of the 1980 Winter Olympic Games.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/93/hconres/444?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-05-19",
+            "latestAction": {
+                "actionDate": "1976-05-19",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "13893",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Consumer Communications Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/13893?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-05-11",
+            "latestAction": {
+                "actionDate": "1976-05-11",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "13700",
+            "policyArea": {
+                "name": null
+            },
+            "title": "Olympic Winter Games Authorization Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/13700?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-04-30",
+            "latestAction": {
+                "actionDate": "1976-04-30",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "13486",
+            "policyArea": {
+                "name": null
+            },
+            "title": "Olympic Winter Games Authorization Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/13486?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-04-27",
+            "latestAction": {
+                "actionDate": "1976-04-27",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "13314",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to amend the Forest and Rangeland Renewable Resources Planning Act of 1974 (88 Stat. 476) and the act of June 4, 1897 (30 Stat. 35).",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/13314?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-12-08",
+            "latestAction": {
+                "actionDate": "1975-12-08",
+                "text": "Referred to House Committee on Government Operations."
+            },
+            "number": "11041",
+            "policyArea": {
+                "name": "Intergovernmental fiscal relations"
+            },
+            "title": "A bill to extend and revise the State and Local Fiscal Assistance of 1972.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/11041?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-07-24",
+            "latestAction": {
+                "actionDate": "1975-07-24",
+                "text": "Referred to House Committee on Interior and Insular Affairs."
+            },
+            "number": "8906",
+            "policyArea": {
+                "name": null
+            },
+            "title": "A bill authorizing appropriations for the Winter Olympic Games.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/8906?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-07-22",
+            "latestAction": {
+                "actionDate": "1975-07-22",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "8801",
+            "policyArea": {
+                "name": "Open space lands"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to increase the exemption for purposes of the Federal estate tax, to increase the estate tax marital deduction, and to provide an alternate method of valuing certain real property for estate tax purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/8801?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-02-25",
+            "latestAction": {
+                "actionDate": "1975-02-25",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "3673",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "A bill to authorize the Secretary of Agriculture to regulate the transportation of horses in commerce.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/3673?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-02-10",
+            "latestAction": {
+                "actionDate": "1975-02-10",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "3110",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to prohibit the Consumer Product Safety Commission from restricting the sale or manufacture of firearms or ammunition.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/3110?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-02-04",
+            "latestAction": {
+                "actionDate": "1975-02-04",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "2699",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "A bill to repeal the Occupational Safety and Health Act of 1970.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/2699?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-04-27",
+            "latestAction": {
+                "actionDate": "1976-04-27",
+                "text": "Referred to House Committee on Armed Services."
+            },
+            "number": "925",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Joint resolution restoring the Congressional Medal of Honor to Dr. Mary Edwards Walker.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/94/hjres/925?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-03-26",
+            "latestAction": {
+                "actionDate": "1975-03-26",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "368",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Joint resolution proposing an amendment to the Constitution of the United States with respect to participation in voluntary prayer or meditation in the public buildings.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/94/hjres/368?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-02-04",
+            "latestAction": {
+                "actionDate": "1975-02-04",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "189",
+            "policyArea": {
+                "name": "Constitutional amendments"
+            },
+            "title": "Joint resolution proposing an amendment to the Constitution of the United States for the protection of unborn children and other persons.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/94/hjres/189?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-02-04",
+            "latestAction": {
+                "actionDate": "1975-02-04",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "190",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Joint resolution to amend title 5 of the United States Code to provide for the designation of the 11th day of November of each year as Veterans Day.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/94/hjres/190?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-07-13",
+            "latestAction": {
+                "actionDate": "1978-07-13",
+                "text": "Referred to House Committee on Banking, Finance and Urban Affairs."
+            },
+            "number": "13456",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "A bill to provide for the striking of national medals to commemorate the XIII Olympic Winter Games to be held in Lake Placid, New York, in 1980.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/13456?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-06-22",
+            "latestAction": {
+                "actionDate": "1978-06-22",
+                "text": "Referred to House Committee on Banking, Finance and Urban Affairs."
+            },
+            "number": "13263",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "A bill to provide for the striking of national medals to commemorate the XIII Olympic Winter Games to be held in Lake Placid, New York, in 1980.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/13263?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-06-16",
+            "latestAction": {
+                "actionDate": "1978-09-26",
+                "text": "Measure passed House."
+            },
+            "number": "13174",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "A bill to provide for the striking of national metals to commemorate the XIII Olympic Winter Games to be held in Lake Placid, New York, in 1980.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/13174?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-05-18",
+            "latestAction": {
+                "actionDate": "1978-05-18",
+                "text": "Referred to House Committee on Banking, Finance and Urban Affairs."
+            },
+            "number": "12783",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "A bill to provide for the striking of national medals by the Lake Placid 1980 Olympic Winter Games, Incorporated, in commemoration of the XIII Olympic winter games.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/12783?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-04-25",
+            "latestAction": {
+                "actionDate": "1978-04-25",
+                "text": "Referred to House Committee on Banking, Finance and Urban Affairs."
+            },
+            "number": "12340",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "A bill to provide for the striking of national medals by the Lake Placid 1980 Olympic Winter Games, Incorporated, in commemoration of the XIII Olympic winter games.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/12340?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-04-06",
+            "latestAction": {
+                "actionDate": "1978-04-06",
+                "text": "Referred to House Committee on Banking, Finance and Urban Affairs."
+            },
+            "number": "11952",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "A bill to provide for the striking of national medals by the Lake Placid 1980 Olympic Games.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/11952?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-04-28",
+            "latestAction": {
+                "actionDate": "1978-09-30",
+                "text": "Private Law 95-57."
+            },
+            "number": "6760",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Charles M. Metott.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/6760?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-16",
+            "latestAction": {
+                "actionDate": "1978-11-09",
+                "text": "Public Law 95-620."
+            },
+            "number": "5146",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Powerplant and Industrial Fuel Use Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/5146?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-03",
+            "latestAction": {
+                "actionDate": "1977-03-03",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "4480",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Consumer Communications Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/4480?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-02-23",
+            "latestAction": {
+                "actionDate": "1977-02-23",
+                "text": "Referred to House Committee on Public Works and Transportation."
+            },
+            "number": "3926",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Comprehensive Oil Pollution Liability and Compensation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/3926?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-23",
+            "latestAction": {
+                "actionDate": "1977-03-23",
+                "text": "Referred to House Committee on Armed Services."
+            },
+            "number": "346",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Joint resolution restoring the Congressional Medal of Honor to Dr. Mary Edwards Walker.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/95/hjres/346?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-23",
+            "latestAction": {
+                "actionDate": "1977-03-23",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "347",
+            "policyArea": {
+                "name": "Constitutional amendments"
+            },
+            "title": "Joint resolution proposing an amendment to the Constitution if the United States with respect to participation in voluntary prayer or meditation in public buildings.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/95/hjres/347?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-03",
+            "latestAction": {
+                "actionDate": "1977-03-03",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "307",
+            "policyArea": {
+                "name": "Constitutional amendments"
+            },
+            "title": "Joint resolution proposing an amendment to the Constitution of the United States for the protection of unborn children and other persons.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/95/hjres/307?format=json"
+        }
+    ]
+}

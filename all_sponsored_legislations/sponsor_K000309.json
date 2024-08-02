@@ -1,0 +1,109 @@
+{
+    "pagination": {
+        "count": 7
+    },
+    "request": {
+        "bioguideId": "k000309",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "17",
+            "congress": 100,
+            "introducedDate": "1987-03-05",
+            "latestAction": {
+                "actionDate": "1987-03-05",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/17?format=json"
+        },
+        {
+            "amendmentNumber": "63",
+            "congress": 100,
+            "introducedDate": "1987-04-30",
+            "latestAction": {
+                "actionDate": "1987-04-30",
+                "text": "Amendment Failed of Passage in Committee of Whole by Division Vote: 8 - 17. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/63?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-12-03",
+            "latestAction": {
+                "actionDate": "1988-06-13",
+                "text": "Referred to Subcommittee on Health and the Environment."
+            },
+            "number": "3695",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "AIDS Reporting and Spousal Notification Act of 1987",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3695?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-04-27",
+            "latestAction": {
+                "actionDate": "1987-05-08",
+                "text": "Referred to Subcommittee on Trade."
+            },
+            "number": "2175",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend most-favored-nation trade privileges to Romania until that government recognizes and protects fundamental human rights, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2175?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-04-21",
+            "latestAction": {
+                "actionDate": "1987-04-28",
+                "text": "Referred to Subcommittee on Public Assistance and Unemployment Compensation."
+            },
+            "number": "2103",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Greater Avenues of Independence Act of 1987",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2103?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-04-06",
+            "latestAction": {
+                "actionDate": "1987-04-10",
+                "text": "Referred to Subcommittee on Trade."
+            },
+            "number": "1953",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to deny certain trade benefits to Romania unless that country recognizes and protects the fundamental human rights and freedoms of all citizens of that country, particularly Hungarian-speaking and other ethnic minorities, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/1953?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-08-07",
+            "latestAction": {
+                "actionDate": "1987-08-24",
+                "text": "Referred to Subcommittee on Asian and Pacific Affairs."
+            },
+            "number": "178",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution to express the sense of the Congress concerning the equitable distribution among members of the Western Alliance of the defense burden in the Persian Gulf.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/100/hconres/178?format=json"
+        }
+    ]
+}

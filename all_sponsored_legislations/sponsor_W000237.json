@@ -1,0 +1,525 @@
+{
+    "pagination": {
+        "count": 35
+    },
+    "request": {
+        "bioguideId": "w000237",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "258",
+            "congress": 97,
+            "introducedDate": "1981-09-23",
+            "latestAction": {
+                "actionDate": "1981-09-23",
+                "text": "Amendment Passed in Committee of the Whole by Recorded Vote: 401 - 5 (Record Vote No: 222). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/258?format=json"
+        },
+        {
+            "amendmentNumber": "148",
+            "congress": 97,
+            "introducedDate": "1981-07-22",
+            "latestAction": {
+                "actionDate": "1981-07-22",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 177 - 236 (Record Vote No: 151). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/148?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-12-02",
+            "latestAction": {
+                "actionDate": "1982-12-02",
+                "text": "Referred to House Committee on Interior and Insular Affairs."
+            },
+            "number": "7353",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "A bill to declare that the United States holds certain lands in trust for the Mille Lacs Band of Chippewa Indians.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/7353?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-09-23",
+            "latestAction": {
+                "actionDate": "1982-09-30",
+                "text": "Referred to Subcommittee on International Economic Policy and Trade."
+            },
+            "number": "7185",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Farm Export Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/7185?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-05-25",
+            "latestAction": {
+                "actionDate": "1982-05-25",
+                "text": "Referred to House Committee on The Judiciary."
+            },
+            "number": "6490",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Gordon Beck.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6490?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-02-09",
+            "latestAction": {
+                "actionDate": "1982-02-09",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "5502",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to rescind the tax benefits provided during 1981 to Members of Congress for living expenses.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/5502?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-10-07",
+            "latestAction": {
+                "actionDate": "1981-11-05",
+                "text": "Referred to Subcommittee on Financial Institutions Supervision, Regulation and Insurance."
+            },
+            "number": "4728",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "A bill to amend the Federal Reserve Act to provide that the enforceability of due-on-sale clauses contained in fixed-rate real estate loans made by national banking associations shall be determined under State Law.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4728?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-06-09",
+            "latestAction": {
+                "actionDate": "1981-06-17",
+                "text": "Referred to Subcommittee on Census and Population."
+            },
+            "number": "281",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A joint resolution to designate August 1, 1981, as \"Accessibility for Disabled Persons Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/97/hjres/281?format=json"
+        },
+        {
+            "amendmentNumber": "820",
+            "congress": 98,
+            "introducedDate": "1984-06-06",
+            "latestAction": {
+                "actionDate": "1984-06-06",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/820?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-03-07",
+            "latestAction": {
+                "actionDate": "1984-03-07",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "5065",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to repeal the requirement for filing returns regarding payments of remuneration for services in certain cases.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5065?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-06-21",
+            "latestAction": {
+                "actionDate": "1983-06-29",
+                "text": "Referred to Subcommittee on Economic Stabilization."
+            },
+            "number": "3380",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to abolish the Synthetic Fuels Corporation.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/3380?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-03-24",
+            "latestAction": {
+                "actionDate": "1983-04-05",
+                "text": "Referred to Subcommittee on Telecommunications, Consumer Protection and Finance."
+            },
+            "number": "2385",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "A bill to amend the Communications Act of 1934 to provide equity to daytime radio broadcasters.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/2385?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-02-15",
+            "latestAction": {
+                "actionDate": "1983-02-15",
+                "text": "Referred to House Committee on Rules."
+            },
+            "number": "1491",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Omnibus Congressional Compensation Reform Act of 1983",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/1491?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-01-06",
+            "latestAction": {
+                "actionDate": "1983-07-28",
+                "text": "See H.R.2973."
+            },
+            "number": "710",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to repeal the withholding of tax from interest and dividends.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/710?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-03-07",
+            "latestAction": {
+                "actionDate": "1983-03-18",
+                "text": "Referred to Subcommittee on International Economic Policy and Trade."
+            },
+            "number": "81",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A concurrent resolution expressing the sense of the Congress that the President should develop and implement a national program to expand exports of agricultural commodities produced in the United States.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/98/hconres/81?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-09-17",
+            "latestAction": {
+                "actionDate": "1986-09-23",
+                "text": "Referred to Subcommittee on Wheat, Soybeans, and Feed Grains."
+            },
+            "number": "5544",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to amend the Agricultural Act of 1949 to repeal the authority of the Secretary of Agriculture to reduce the support price for the 1986 crop of soybeans below $5.02 per bushel, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5544?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-08-14",
+            "latestAction": {
+                "actionDate": "1986-08-20",
+                "text": "Referred to Subcommittee on Wheat, Soybeans, and Feed Grains."
+            },
+            "number": "5436",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Storage Payment Equity Act of 1986",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5436?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-04-15",
+            "latestAction": {
+                "actionDate": "1986-04-15",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "4601",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Farm Tax Relief Act of 1986",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/4601?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-03-04",
+            "latestAction": {
+                "actionDate": "1986-03-04",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "4299",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to provide that any requirement to substantiate a deduction under the Internal Revenue Code of 1954 for business use of a vehicle be based on the regulations in effect before the Tax Reform Act of 1984.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/4299?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-01-29",
+            "latestAction": {
+                "actionDate": "1986-01-29",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "4080",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Farm Tax Relief Act of 1986",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/4080?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-11-06",
+            "latestAction": {
+                "actionDate": "1985-11-06",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "3703",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Agricultural Bond and Interest Relief Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3703?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-09-12",
+            "latestAction": {
+                "actionDate": "1985-09-23",
+                "text": "Referred to Subcommittee on Department Operations, Research, and Foreign Agriculture."
+            },
+            "number": "3307",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Family Farm Assistance Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3307?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-03-26",
+            "latestAction": {
+                "actionDate": "1985-04-01",
+                "text": "Referred to Subcommittee on Conservation Credit and Rural Development."
+            },
+            "number": "1749",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Emergency Farm Operating Credit Assistance Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/1749?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-01-30",
+            "latestAction": {
+                "actionDate": "1985-02-28",
+                "text": "Referred to Subcommittee on Census and Population."
+            },
+            "number": "118",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution to designate the week of February 25, 1985, as \"National Farm Crisis Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/99/hjres/118?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-01-03",
+            "latestAction": {
+                "actionDate": "1985-02-07",
+                "text": "Referred to Subcommittee on Conservation Credit and Rural Development."
+            },
+            "number": "8",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A concurrent resolution requesting the President to conduct a study to determine the feasibility and desirability of raising funds, to be loaned for agricultural purposes, by exempting from Federal income tax interest paid on certain bonds and cash deposits.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/99/hconres/8?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-05-04",
+            "latestAction": {
+                "actionDate": "1988-05-06",
+                "text": "Referred to Subcommittee on Wheat, Soybeans, and Feed Grains."
+            },
+            "number": "4536",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to amend the Food Security Act of 1985 to require the Secretary of Agriculture to use multiyear set-asides to establish wildlife habitats and feeding areas.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4536?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-08-03",
+            "latestAction": {
+                "actionDate": "1989-09-11",
+                "text": "Referred to the Subcommittee on Cotton, Rice, and Sugar."
+            },
+            "number": "3132",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "To amend the Food Security Act of 1985 to require the Secretary of Agriculture to use multiyear set-asides to establish wildlife habitats and feeding areas.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3132?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-04-04",
+            "latestAction": {
+                "actionDate": "1990-08-09",
+                "text": "Became Public Law No: 101-346."
+            },
+            "number": "548",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Designating the week of August 19 through 25, 1990, as \"National Agricultural Research Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/548?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-04-04",
+            "latestAction": {
+                "actionDate": "1990-05-04",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "303",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Commending the National Mental Health Leadership forum and the National Advisory Mental Health Council for cosponsoring a series of public hearings addressing mental health topics.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/101/hconres/303?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-06-25",
+            "latestAction": {
+                "actionDate": "1992-07-02",
+                "text": "Referred to the Subcommittee on Human Resources."
+            },
+            "number": "5501",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title IV of the Social Security Act to provide welfare families with the education, training, and work experience needed to prepare them to leave welfare within 4 years, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5501?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-06-04",
+            "latestAction": {
+                "actionDate": "1992-07-20",
+                "text": "Referred to the Subcommittee on Elementary, Secondary and Vocational Education."
+            },
+            "number": "5331",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Dollars for Scholars Community Scholarship Foundation Development Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5331?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-11-26",
+            "latestAction": {
+                "actionDate": "1992-01-14",
+                "text": "Referred to the Subcommittee on Commerce, Consumer Protection and Competitiveness."
+            },
+            "number": "4054",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Health Care Access and Security Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4054?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-11-07",
+            "latestAction": {
+                "actionDate": "1992-03-18",
+                "text": "Referred to the Subcommittee on Administrative Law and Governmental Relations."
+            },
+            "number": "3744",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Economic Growth and Family Tax Freedom Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3744?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-07-29",
+            "latestAction": {
+                "actionDate": "1991-08-02",
+                "text": "Referred to the Subcommittee on Census and Population."
+            },
+            "number": "315",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Recognizing the 10th anniversary of the enactment of the Economic Recovery Tax Act of 1981.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/102/hjres/315?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-05-09",
+            "latestAction": {
+                "actionDate": "1991-05-20",
+                "text": "Referred to the Subcommittee on Europe and the Middle East."
+            },
+            "number": "150",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Expressing the sense of the House of Representatives that the President should expeditiously and prudently complete review of the request of the Soviet Union for $1,500,000,000 in agricultural credit guarantees.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/102/hres/150?format=json"
+        }
+    ]
+}

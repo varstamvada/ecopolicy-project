@@ -1,0 +1,768 @@
+{
+    "pagination": {
+        "count": 52
+    },
+    "request": {
+        "bioguideId": "b001271",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "876",
+            "congress": 113,
+            "introducedDate": "2014-06-18",
+            "latestAction": {
+                "actionDate": "2014-06-18",
+                "actionTime": "16:43:14",
+                "text": "On agreeing to the Benishek amendment (A010) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/876?format=json"
+        },
+        {
+            "amendmentNumber": "326",
+            "congress": 113,
+            "introducedDate": "2013-07-18",
+            "latestAction": {
+                "actionDate": "2013-07-18",
+                "actionTime": "16:52:25",
+                "text": "On agreeing to the Benishek amendment (A009) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/326?format=json"
+        },
+        {
+            "amendmentNumber": "221",
+            "congress": 113,
+            "introducedDate": "2013-06-19",
+            "latestAction": {
+                "actionDate": "2013-06-19",
+                "actionTime": "23:26:48",
+                "text": "On agreeing to the Benishek amendment (A046) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/221?format=json"
+        },
+        {
+            "amendmentNumber": "14",
+            "congress": 113,
+            "introducedDate": "2013-01-15",
+            "latestAction": {
+                "actionDate": "2013-01-15",
+                "actionTime": "18:59:20",
+                "text": "On agreeing to the Benishek amendment (A012) Failed by recorded vote: 208 - 212 (Roll no. 20). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/14?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-11-17",
+            "latestAction": {
+                "actionDate": "2014-11-21",
+                "text": "Referred to the Subcommittee on Energy and Power."
+            },
+            "number": "5722",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "POWER Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5722?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-09-16",
+            "latestAction": {
+                "actionDate": "2014-09-29",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "5484",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Toxic Exposure Research Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5484?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-07-31",
+            "latestAction": {
+                "actionDate": "2014-08-01",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "5321",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Protecting Insurance Coverage for Sick Americans Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5321?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-07-10",
+            "latestAction": {
+                "actionDate": "2014-09-17",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "5066",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Data Preservation Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5066?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-09-09",
+            "latestAction": {
+                "actionDate": "2013-09-09",
+                "text": "Referred to the House Committee on Natural Resources."
+            },
+            "number": "3068",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "Relating to members of the Grand Traverse Band of Ottawa and Chippewa Indians of Michigan.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3068?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-06-03",
+            "latestAction": {
+                "actionDate": "2014-12-16",
+                "text": "Became Public Law No: 113-211."
+            },
+            "number": "2223",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To designate the facility of the United States Postal Service located at 220 Elm Avenue in Munising, Michigan, as the \"Elizabeth L. Kinnunen Post Office Building\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2223?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-05-21",
+            "latestAction": {
+                "actionDate": "2014-06-10",
+                "text": "Received in the Senate."
+            },
+            "number": "2072",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Demanding Accountability for Veterans Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2072?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-05-21",
+            "latestAction": {
+                "actionDate": "2013-05-24",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2071",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To prohibit the use of any Federal funds to finalize, implement, or enforce the proposed rule entitled \"Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2071?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-05-21",
+            "latestAction": {
+                "actionDate": "2013-07-08",
+                "text": "Referred to the Subcommittee on Higher Education and Workforce Training."
+            },
+            "number": "2069",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "To amend the Tribally Controlled Colleges and Universities Assistance Act of 1978 to authorize the Secretary of the Interior to waive certain eligibility requirements.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2069?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-05-16",
+            "latestAction": {
+                "actionDate": "2013-06-20",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "2016",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Military Justice Improvement Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2016?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-05-03",
+            "latestAction": {
+                "actionDate": "2014-01-31",
+                "text": "Placed on the Union Calendar, Calendar No. 250."
+            },
+            "number": "1825",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Recreational Fishing and Hunting Heritage and Opportunities Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/1825?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-03-14",
+            "latestAction": {
+                "actionDate": "2013-08-09",
+                "text": "Became Public Law No: 113-26."
+            },
+            "number": "1171",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Formerly Owned Resources for Veterans to Express Thanks for Service Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/1171?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-01-23",
+            "latestAction": {
+                "actionDate": "2013-02-08",
+                "text": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs."
+            },
+            "number": "369",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Reducing Barriers to Veterans' Benefits Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/369?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-01-23",
+            "latestAction": {
+                "actionDate": "2013-02-21",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "368",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 10, United States Code, to require an audiometric test of each member of the Armed Forces before the separation of the member.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/368?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-01-04",
+            "latestAction": {
+                "actionDate": "2014-02-28",
+                "text": "Placed on the Union Calendar, Calendar No. 272."
+            },
+            "number": "163",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Sleeping Bear Dunes National Lakeshore Conservation and Recreation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/163?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-09-09",
+            "latestAction": {
+                "actionDate": "2013-10-15",
+                "text": "Referred to the Subcommittee on Immigration and Border Security."
+            },
+            "number": "335",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "To refer H.R. 3068, a bill making congressional reference to the United States Court of Federal Claims pursuant to sections 1492 and 2509 of title 28, United States Code, the Indian trust-related claims of the Grand Traverse Band of Ottawa and Chippewa Indians of Michigan as well as its individual members.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/335?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-07-09",
+            "latestAction": {
+                "actionDate": "2013-08-29",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "290",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Recognizing the centennial of Camp Grayling Joint Maneuver Training Center in the State of Michigan.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/290?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-02-25",
+            "latestAction": {
+                "actionDate": "2014-02-25",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "87",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Recognizing the occasion of the 200th Anniversary of the Star Spangled Banner and its importance to the people of the United States.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/113/hconres/87?format=json"
+        },
+        {
+            "amendmentNumber": "1488",
+            "congress": 112,
+            "introducedDate": "2012-09-20",
+            "latestAction": {
+                "actionDate": "2012-09-20",
+                "actionTime": "19:19:25",
+                "text": "On agreeing to the Benishek amendment (A006) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/1488?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-08-02",
+            "latestAction": {
+                "actionDate": "2012-09-21",
+                "text": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs."
+            },
+            "number": "6297",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Reducing Barriers to Veterans' Benefits Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6297?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-07-12",
+            "latestAction": {
+                "actionDate": "2012-07-12",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "6114",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Surplus Property for Veterans Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6114?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-05-08",
+            "latestAction": {
+                "actionDate": "2012-05-14",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5549",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on recombinant staphylococcal protein A (56kDa).",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5549?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-05-08",
+            "latestAction": {
+                "actionDate": "2012-05-14",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5548",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on 2,3-Dichloro-5,6-dicyano-1,4-benzoquinone.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5548?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-05-08",
+            "latestAction": {
+                "actionDate": "2012-05-14",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5547",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on 4-Acetyltoluene.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5547?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "4980",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on 1.3G grade fireworks.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/4980?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "4981",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on 1.4G grade fireworks.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/4981?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-02-01",
+            "latestAction": {
+                "actionDate": "2012-02-10",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3861",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To name the front circle drive on the north side of the Oscar G. Johnson Department of Veterans Affairs Medical Facility in Iron Mountain, Michigan, as the \"Sergeant First Class James D. Priestap Drive\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3861?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-11-17",
+            "latestAction": {
+                "actionDate": "2011-11-17",
+                "text": "Referred to the House Committee on Natural Resources."
+            },
+            "number": "3453",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "State Management of Recovered Wolves Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3453?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-11-14",
+            "latestAction": {
+                "actionDate": "2012-01-24",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3411",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To modify a land grant patent issued by the Secretary of the Interior.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3411?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-11-04",
+            "latestAction": {
+                "actionDate": "2012-12-21",
+                "text": "Received in the Senate."
+            },
+            "number": "3378",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To designate the facility of the United States Postal Service located at 220 Elm Avenue in Munising, Michigan, as the \"Elizabeth L. Kinnunen Post Office Building\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3378?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-10-14",
+            "latestAction": {
+                "actionDate": "2011-10-25",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3216",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "VHA Ophthalmologic Service Establishment Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3216?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-09-02",
+            "latestAction": {
+                "actionDate": "2012-07-19",
+                "text": "Placed on the Union Calendar, Calendar No. 442."
+            },
+            "number": "2834",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Recreational Fishing and Hunting Heritage and Opportunities Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2834?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-06-23",
+            "latestAction": {
+                "actionDate": "2011-07-05",
+                "text": "Referred to the Subcommittee Indian and Alaska Native Affairs."
+            },
+            "number": "2322",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "Burt Lake Band of Ottawa and Chippewa Indians Reaffirmation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2322?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-06-16",
+            "latestAction": {
+                "actionDate": "2011-06-27",
+                "text": "Referred to the Subcommittee on Conservation, Energy, and Forestry."
+            },
+            "number": "2209",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To replace the current Forest Service administrative appeals process with a pre-decisional administrative review process modeled after the successful approach used in the Healthy Forests Restoration Act of 2003, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2209?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-05-13",
+            "latestAction": {
+                "actionDate": "2016-05-26",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "5228",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To designate the Department of Veterans Affairs community-based outpatient clinic in Traverse City, Michigan, as the \"Colonel Demas T. Craw VA Clinic\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5228?format=json"
+        },
+        {
+            "amendmentNumber": "692",
+            "congress": 114,
+            "introducedDate": "2015-07-29",
+            "latestAction": {
+                "actionDate": "2015-07-29",
+                "actionTime": "15:57:25",
+                "text": "On agreeing to the Benishek amendment (A001) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/114/hamdt/692?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-10-28",
+            "latestAction": {
+                "actionDate": "2015-10-30",
+                "text": "Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs."
+            },
+            "number": "3848",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "Burt Lake Band of Ottawa and Chippewa Indians Reaffirmation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3848?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-10-01",
+            "latestAction": {
+                "actionDate": "2015-10-01",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3673",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to require the Secretary of the Treasury to mail paper forms to any individual who filed a paper return for the preceding taxable year.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3673?format=json"
+        },
+        {
+            "amendmentNumber": "562",
+            "congress": 114,
+            "introducedDate": "2015-06-25",
+            "latestAction": {
+                "actionDate": "2015-06-25",
+                "actionTime": "17:02:36",
+                "text": "On agreeing to the Benishek amendment (A032) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/114/hamdt/562?format=json"
+        },
+        {
+            "amendmentNumber": "121",
+            "congress": 114,
+            "introducedDate": "2015-04-29",
+            "latestAction": {
+                "actionDate": "2015-04-29",
+                "actionTime": "17:12:15",
+                "text": "Mr. Dent raised a point of order against the Benishek amendment (A014). Mr. Dent stated that the amendment seeks to change existing law and constitutes legislation in an appropriations bill The Chair sustained the point of order. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/114/hamdt/121?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-07-21",
+            "latestAction": {
+                "actionDate": "2015-08-04",
+                "text": "Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs."
+            },
+            "number": "3133",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "Relating to certain Indian land-related takings claims of the Grand Traverse Band of Ottawa and Chippewa Indians of Michigan and its individual members.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3133?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-04-14",
+            "latestAction": {
+                "actionDate": "2016-05-24",
+                "text": "Placed on the Union Calendar, Calendar No. 460."
+            },
+            "number": "1769",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Toxic Exposure Research Act of 2016",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/1769?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-07-27",
+            "latestAction": {
+                "actionDate": "2015-09-08",
+                "text": "Referred to the Subcommittee on the Constitution and Civil Justice."
+            },
+            "number": "381",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "To refer H.R. 3133, a bill making congressional reference to the United States Court of Federal Claims pursuant to sections 1492 and 2509 of title 28, United States Code, of certain Indian land-related takings claims of the Grand Traverse Band of Ottawa and Chippewa Indians of Michigan and its individual members.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/114/hres/381?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-05-14",
+            "latestAction": {
+                "actionDate": "2015-05-26",
+                "text": "Referred to the Subcommittee on Federal Lands."
+            },
+            "number": "45",
+            "policyArea": {
+                "name": "Social Sciences and History"
+            },
+            "title": "Recognizing the occasion of the 300th anniversary of the establishment of Fort Michilimackinac on the Straits of Mackinac, and its importance to the people of Michigan and the United States.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/114/hconres/45?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-05-20",
+            "latestAction": {
+                "actionDate": "2015-07-22",
+                "text": "Forwarded by Subcommittee to Full Committee by Voice Vote ."
+            },
+            "number": "2464",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Demanding Accountability for Veterans Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/2464?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-05-12",
+            "latestAction": {
+                "actionDate": "2015-07-22",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+            },
+            "number": "2256",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veterans Information Modernization Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/2256?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-01-26",
+            "latestAction": {
+                "actionDate": "2015-03-02",
+                "text": "Referred to the Subcommittee on Federal Lands."
+            },
+            "number": "528",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Recreational Fishing and Hunting Heritage and Opportunities Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/528?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-07-23",
+            "latestAction": {
+                "actionDate": "2015-09-08",
+                "text": "Referred to the Subcommittee on the Constitution and Civil Justice."
+            },
+            "number": "376",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "To refer H.R. 3133, a bill making congressional reference to the United States Court of Federal Claims pursuant to sections 1492 and 2509 of title 28, United States Code, of certain Indian land-related takings claims of the Grand Traverse Band of Ottawa and Chippewa Indians of Michigan and its individual members.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/114/hres/376?format=json"
+        }
+    ]
+}

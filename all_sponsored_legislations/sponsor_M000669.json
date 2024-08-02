@@ -1,0 +1,745 @@
+{
+    "pagination": {
+        "count": 50
+    },
+    "request": {
+        "bioguideId": "m000669",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "934",
+            "congress": 106,
+            "introducedDate": "2000-06-29",
+            "latestAction": {
+                "actionDate": "2000-06-29",
+                "actionTime": "12:10:08",
+                "text": "On agreeing to the Metcalf amendment (A001) Failed by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/934?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-10-19",
+            "latestAction": {
+                "actionDate": "2000-10-19",
+                "text": "Referred to the Subcommittee on Domestic and International Monetary Policy."
+            },
+            "number": "5510",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Circulating Currency Simplification and Cost-saving Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/5510?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-06-15",
+            "latestAction": {
+                "actionDate": "2000-06-27",
+                "text": "Executive Comment Requested from DOT."
+            },
+            "number": "4682",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Title XI Mortgage Access and National Shipbuilding Initiative Extension Act ",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4682?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-05-04",
+            "latestAction": {
+                "actionDate": "2000-05-08",
+                "text": "Sponsor introductory remarks on measure. (CR H2636-2637)"
+            },
+            "number": "4385",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To amend title 46, United States Code, with respect to the Federal preemption of State law concerning the regulation of marine and ocean navigation, safety, and transportation by States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4385?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-03-30",
+            "latestAction": {
+                "actionDate": "2000-04-07",
+                "text": "Executive Comment Requested from Interior."
+            },
+            "number": "4139",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Pacific Northwest Feasibility Studies Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4139?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-03-23",
+            "latestAction": {
+                "actionDate": "2000-04-12",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "4067",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Business Checking Modernization Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4067?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-03-16",
+            "latestAction": {
+                "actionDate": "2000-04-04",
+                "text": "Referred to the Subcommittee on International Economic Policy and Trade."
+            },
+            "number": "4017",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "To reimpose the prohibition on the export of Alaskan North Slope crude oil.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4017?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-01-31",
+            "latestAction": {
+                "actionDate": "2000-06-09",
+                "text": "Sponsor introductory remarks on measure. (CR H4172)"
+            },
+            "number": "3558",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Safe Pipelines Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3558?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-11-17",
+            "latestAction": {
+                "actionDate": "1999-12-02",
+                "text": "Referred to the Subcommittee on Financial Institutions and Consumer Credit."
+            },
+            "number": "3435",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Credit Cost Reduction Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3435?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-11-04",
+            "latestAction": {
+                "actionDate": "1999-11-17",
+                "text": "Referred to the Subcommittee on Energy and Power."
+            },
+            "number": "3226",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Safe Pipelines Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3226?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-08-05",
+            "latestAction": {
+                "actionDate": "2000-02-29",
+                "text": "Sponsor introductory remarks on measure. (CR H540)"
+            },
+            "number": "2777",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Transportation Infrastructure and Local Government Capital Enhancement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2777?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-16",
+            "latestAction": {
+                "actionDate": "1999-07-30",
+                "text": "Referred to the Subcommittee on Financial Institutions and Consumer Credit."
+            },
+            "number": "2544",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Credit Cost Reduction Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2544?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-04-15",
+            "latestAction": {
+                "actionDate": "1999-04-30",
+                "text": "Referred to the Subcommittee on Financial Institutions and Consumer Credit."
+            },
+            "number": "1435",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Small Business Banking Regulatory Relief Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1435?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-03-04",
+            "latestAction": {
+                "actionDate": "2000-12-14",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "1023",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Richard W. Schaffert.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1023?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-03-04",
+            "latestAction": {
+                "actionDate": "1999-03-31",
+                "text": "Referred to the Subcommittee on Housing and Community Opportunity."
+            },
+            "number": "1008",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "Robert Stodola Homeless Veterans Assistance Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1008?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-09-25",
+            "latestAction": {
+                "actionDate": "2000-10-27",
+                "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S11270)"
+            },
+            "number": "408",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Expressing appreciation for the United States service members who were aboard the British transport HMT ROHNA when it sank, the families of these service members, and the rescuers of the HMT ROHNA's passengers and crew.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/106/hconres/408?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-10",
+            "latestAction": {
+                "actionDate": "1999-10-28",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "30",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To express the sense of the Congress that any Executive order that infringes on the powers and duties of the Congress under article I, section 8 of the Constitution, or that would require the expenditure of Federal funds not specifically appropriated for the purpose of the Executive order, is advisory only and has no force or effect unless enacted as law.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/106/hconres/30?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-09",
+            "latestAction": {
+                "actionDate": "1999-10-13",
+                "text": "Referred to the Subcommittee on Commercial and Administrative Law."
+            },
+            "number": "26",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To express the sense of the Congress that any Executive order that infringes on the powers and duties of the Congress under article I, section 8 of the Constitution, or that would require the expenditure of Federal funds not specifically appropriated for the purpose of the Executive order, is advisory only and has no force or effect unless enacted as law.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/106/hconres/26?format=json"
+        },
+        {
+            "amendmentNumber": "1289",
+            "congress": 104,
+            "introducedDate": "1996-07-16",
+            "latestAction": {
+                "actionDate": "1996-07-16",
+                "actionTime": "20:25:24",
+                "text": "On agreeing to the Metcalf amendment (A002) Agreed to by recorded vote: 352 - 67 (Roll no. 317). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/1289?format=json"
+        },
+        {
+            "amendmentNumber": "869",
+            "congress": 104,
+            "introducedDate": "1995-10-18",
+            "latestAction": {
+                "actionDate": "1995-10-18",
+                "actionTime": "11:39:47",
+                "text": "On agreeing to the Metcalf amendment (A006) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/869?format=json"
+        },
+        {
+            "amendmentNumber": "611",
+            "congress": 104,
+            "introducedDate": "1995-07-24",
+            "latestAction": {
+                "actionDate": "1995-07-24",
+                "actionTime": "16:15:53",
+                "text": "On agreeing to the Metcalf amendment (A005) Failed by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/611?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-27",
+            "latestAction": {
+                "actionDate": "1996-09-27",
+                "text": "Referred to the House Committee on Resources."
+            },
+            "number": "4260",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "To require uniform appraisals of certain leaseholds of restricted Indian lands, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/4260?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-23",
+            "latestAction": {
+                "actionDate": "1996-09-23",
+                "text": "Referred to the Subcommittee on Housing and Community Opportunity."
+            },
+            "number": "4132",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "Robert Stodola Homeless Veterans Assistance Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/4132?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-08-02",
+            "latestAction": {
+                "actionDate": "1996-08-23",
+                "text": "Referred to the Subcommittee on Financial Institutions and Consumer Credit."
+            },
+            "number": "3993",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Small Business Banking Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3993?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-02-29",
+            "latestAction": {
+                "actionDate": "1996-08-01",
+                "text": "Committee Withdrew Measure by Unanimous Consent."
+            },
+            "number": "2997",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "To establish certain criteria for administrative procedures to extend Federal recognition to certain Indian groups, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2997?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-10-12",
+            "latestAction": {
+                "actionDate": "1995-10-25",
+                "text": "Referred to the Subcommittee on Immigration and Claims."
+            },
+            "number": "2478",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of the Sara, Jade, and Jordan Hutchings.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2478?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-08-03",
+            "latestAction": {
+                "actionDate": "1995-08-17",
+                "text": "Referred to the Subcommittee on Coast Guard and Maritime Transportation."
+            },
+            "number": "2191",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To authorize the Secretary of Transportation to issue a certification of documentation with appropriate endorsement for employment in the coastwise trade for the vessel SUNDOWN.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2191?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-04-06",
+            "latestAction": {
+                "actionDate": "1995-04-12",
+                "text": "Executive Comment Requested from USDA."
+            },
+            "number": "1439",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Timber Sale Financial Accountability Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1439?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-04-05",
+            "latestAction": {
+                "actionDate": "1995-04-05",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "1420",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Richard W. Schaffert.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1420?format=json"
+        },
+        {
+            "amendmentNumber": "836",
+            "congress": 105,
+            "introducedDate": "1998-08-04",
+            "latestAction": {
+                "actionDate": "1998-08-04",
+                "actionTime": "21:01:12",
+                "text": "By unanimous consent, the Metcalf amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/836?format=json"
+        },
+        {
+            "amendmentNumber": "627",
+            "congress": 105,
+            "introducedDate": "1998-05-13",
+            "latestAction": {
+                "actionDate": "1998-05-13",
+                "actionTime": "20:48:13",
+                "text": "On agreeing to the Metcalf amendment (A009) Agreed to by the Yeas and Nays: 256 - 166 (Roll No. 150). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/627?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-09-16",
+            "latestAction": {
+                "actionDate": "1998-09-22",
+                "text": "Referred to the Subcommittee on Fisheries Conservation, Wildlife and Oceans."
+            },
+            "number": "4585",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Northwest Straits Marine Conservation Initiative Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/4585?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-08-06",
+            "latestAction": {
+                "actionDate": "1998-08-06",
+                "text": "Referred to the Subcommittee on Housing and Community Opportunity."
+            },
+            "number": "4482",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "Native American Housing Assistance and Self-Determination Act Amendments of 1998",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/4482?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-07-14",
+            "latestAction": {
+                "actionDate": "1998-10-21",
+                "text": "See H.R.2204."
+            },
+            "number": "4207",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To direct the Secretary of Transportation to convey the Mukilteo Light Station to the City of Mukilteo, Washington.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/4207?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-06-24",
+            "latestAction": {
+                "actionDate": "1998-06-24",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "4133",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "To amend the Impact Aid program to provide for computation of payments to local educational agencies under that program based on eligible federally connected children living in military housing constructed pursuant to limited partnerships with private developers.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/4133?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-02-24",
+            "latestAction": {
+                "actionDate": "1998-02-24",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "3257",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Richard W. Schaffert.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3257?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-10-31",
+            "latestAction": {
+                "actionDate": "1997-11-13",
+                "text": "Referred to the Subcommittee on Coast Guard and Maritime Transportation."
+            },
+            "number": "2793",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To authorize the Secretary of Transportation to issue a certificate of documentation with appropriate endorsement for employment in the coastwise trade and fisheries for the vessel FIERCE CONTENDER.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2793?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-10-31",
+            "latestAction": {
+                "actionDate": "1998-10-21",
+                "text": "See H.R.2204."
+            },
+            "number": "2794",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To authorize the Secretary of Transportation to issue a certificate of documentation with appropriate endorsement for employment in the coastwise trade for the vessel TAURUS.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2794?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-10-09",
+            "latestAction": {
+                "actionDate": "1997-10-31",
+                "text": "Sponsor introductory remarks on measure. (CR H9845-9846)"
+            },
+            "number": "2663",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "Native American Housing Assistance and Self-Determination Act Amendments of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2663?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-07-31",
+            "latestAction": {
+                "actionDate": "1997-08-15",
+                "text": "Referred to the Subcommittee on Financial Institutions and Consumer Credit."
+            },
+            "number": "2323",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Small Business Banking Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2323?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-06-03",
+            "latestAction": {
+                "actionDate": "1998-03-05",
+                "text": "Sponsor introductory remarks on measure. (CR H883)"
+            },
+            "number": "1754",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "Robert Stodola Homeless Veterans Assistance Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1754?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-04-17",
+            "latestAction": {
+                "actionDate": "1997-04-22",
+                "text": "Executive Comment Requested from Interior."
+            },
+            "number": "1386",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "To require uniform appraisals of certain leaseholds of restricted Indian lands, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1386?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-03-21",
+            "latestAction": {
+                "actionDate": "1998-07-14",
+                "text": "Became Public Law No: 105-193."
+            },
+            "number": "1217",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "To extend the deadline under the Federal Power Act for the construction of a hydroelectric project located in the State of Washington, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1217?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-03-20",
+            "latestAction": {
+                "actionDate": "1998-07-14",
+                "text": "Became Public Law No: 105-192."
+            },
+            "number": "1184",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "To extend the deadline under the Federal Power Act for the construction of the Bear Creek hydroelectric project in the State of Washington, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1184?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-03-20",
+            "latestAction": {
+                "actionDate": "1997-04-04",
+                "text": "Referred to the Subcommittee on Energy and Power."
+            },
+            "number": "1183",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "To extend the deadline under the Federal Power Act for the construction of the Swamp Creek and Ruth Creek hydroelectric projects located in the State of Washington, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1183?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-03-17",
+            "latestAction": {
+                "actionDate": "1997-03-24",
+                "text": "Executive Comment Requested from Commerce."
+            },
+            "number": "1088",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To reauthorize appropriations for the conservation of the Washington salmon fishery through the purchase of salmon fishing licenses and fishing vessels.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1088?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-05-07",
+            "latestAction": {
+                "actionDate": "1998-05-13",
+                "text": "Sponsor introductory remarks on measure. (CR H3118)"
+            },
+            "number": "425",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of the House of Representatives regarding the policy of the United States at the 50th Annual meeting of the International Whaling Commission.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/105/hres/425?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-07-21",
+            "latestAction": {
+                "actionDate": "1997-07-22",
+                "actionTime": "21:44:18",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "191",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of the House of Representatives regarding the interference of the European Commission in the merger of the Boeing Company and McDonnell Douglas.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/105/hres/191?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-05",
+            "latestAction": {
+                "actionDate": "1998-03-05",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "236",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To express the sense of the Congress that any Executive order that infringes on the powers and duties of the Congress under article I, section 8 of the Constitution, or that would require the expenditure of Federal funds not specifically appropriated for the purpose of the Executive order, is advisory only unless enacted as law.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/105/hconres/236?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-07-17",
+            "latestAction": {
+                "actionDate": "1997-07-17",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "117",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of the Congress regarding the interference of the European Commission in the merger of the Boeing Company and McDonnell Douglas.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/105/hconres/117?format=json"
+        }
+    ]
+}

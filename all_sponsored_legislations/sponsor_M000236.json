@@ -1,0 +1,27 @@
+{
+    "pagination": {
+        "count": 1
+    },
+    "request": {
+        "bioguideId": "m000236",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 103,
+            "introducedDate": "1993-06-09",
+            "latestAction": {
+                "actionDate": "1993-06-28",
+                "text": "Referred to the Subcommittee on Economic Policy, Trade and Environment."
+            },
+            "number": "29",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution relating to the Asia Pacific Economic Cooperation organization.",
+            "type": "SCONRES",
+            "url": "https://api.congress.gov/v3/bill/103/sconres/29?format=json"
+        }
+    ]
+}

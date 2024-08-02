@@ -1,0 +1,582 @@
+{
+    "pagination": {
+        "count": 38
+    },
+    "request": {
+        "bioguideId": "b001008",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 96,
+            "introducedDate": "1980-09-08",
+            "latestAction": {
+                "actionDate": "1980-09-08",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "8089",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide an additional personal exemption for the taxpayer, the taxpayer's spouse, or a dependent, who has a disability requiring the use of a wheelchair.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/8089?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-05-15",
+            "latestAction": {
+                "actionDate": "1980-05-15",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "7367",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 with respect to the treatment of certain travel expenses of individuals on temporary work assignments.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/7367?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-04-02",
+            "latestAction": {
+                "actionDate": "1980-04-02",
+                "text": "Referred to House Committee on Banking, Finance and Urban Affairs."
+            },
+            "number": "7016",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "Emergency Home Purchase Assistance Authority Amendments of 1980",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/7016?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-10-17",
+            "latestAction": {
+                "actionDate": "1979-10-17",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "5627",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Alfonso Manuel Tellez.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/5627?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-02-28",
+            "latestAction": {
+                "actionDate": "1979-02-28",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "2516",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "A bill to amend the General Education Provisions Act to limit the period of agency comment on General Accounting Office reports with respect to education programs, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/2516?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-01-17",
+            "latestAction": {
+                "actionDate": "1980-01-17",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "240",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution strongly condemning the Soviet invasion of Afghanistan and calling for the removal of the 1980 Summer Olympic games from Moscow.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/96/hconres/240?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-08-12",
+            "latestAction": {
+                "actionDate": "1974-08-12",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "16386",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Postal Service Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/16386?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-08-08",
+            "latestAction": {
+                "actionDate": "1974-08-08",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "16343",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "United Nations Peacekeeping Forces in the Middle East Authorization Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/16343?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-07-30",
+            "latestAction": {
+                "actionDate": "1974-07-30",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "16163",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Postal Service Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/16163?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-04-11",
+            "latestAction": {
+                "actionDate": "1974-04-11",
+                "text": "Referred to House Committee on Banking and Currency."
+            },
+            "number": "14204",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to prohibit for a temporary period the exportation of ferrous scrap.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/14204?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-09-13",
+            "latestAction": {
+                "actionDate": "1973-09-13",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "10283",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to supplement retirement benefits for State and local law enforcement officers.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/10283?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-03-12",
+            "latestAction": {
+                "actionDate": "1973-03-12",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "5458",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to supplement retirement benefits for State and local law enforcement officers.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/5458?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-04-29",
+            "latestAction": {
+                "actionDate": "1974-04-29",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "990",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Joint resolution to designate May 1974 as National Needlepoint Month.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/93/hjres/990?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-08-08",
+            "latestAction": {
+                "actionDate": "1974-08-08",
+                "text": "Referred to House Committee on Judiciary."
+            },
+            "number": "587",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Concurrent resolution expressing the sense of the Congress that Richard M. Nixon be granted immunity from prosecution for certain alleged offenses against the United States.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/93/hconres/587?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-07-20",
+            "latestAction": {
+                "actionDate": "1976-07-20",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "14777",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Alice Chancey Wingo.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/14777?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-04-14",
+            "latestAction": {
+                "actionDate": "1976-04-14",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "13261",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Consumer Communications Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/13261?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-01-29",
+            "latestAction": {
+                "actionDate": "1976-01-29",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "11624",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Minnie L. Peak.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/11624?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-10-31",
+            "latestAction": {
+                "actionDate": "1975-10-31",
+                "text": "Referred to House Committee on Armed Services."
+            },
+            "number": "10510",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of S. Sgt. David C. Bonner.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/10510?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-06-02",
+            "latestAction": {
+                "actionDate": "1975-06-02",
+                "text": "Referred to House Committee on Armed Services."
+            },
+            "number": "7496",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "A bill to amend section 2004 of title 10 United States Code, to provide that in computing the six year maximum active duty service of any member of the Armed Forces for purposes of qualifying for being detailed as a student to a law school, any period of time such member was a prisoner of war shall be disregarded.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/7496?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-31",
+            "latestAction": {
+                "actionDate": "1975-01-31",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "2510",
+            "policyArea": {
+                "name": "Postal rates and revenues"
+            },
+            "title": "Postal Service Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/2510?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-09-01",
+            "latestAction": {
+                "actionDate": "1976-09-01",
+                "text": "Referred to House Committee on International Relations."
+            },
+            "number": "730",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution to urge the Soviet Union to release Georgi Vins and permit religious believers within its borders to worship God according to their own consciences.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/94/hconres/730?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-08-31",
+            "latestAction": {
+                "actionDate": "1976-10-01",
+                "text": "Measure passed Senate."
+            },
+            "number": "726",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution to urge the Soviet Union to release Georgi Vins and permit religious believers within its borders to worship God according to their own conscience.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/94/hconres/726?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-08-30",
+            "latestAction": {
+                "actionDate": "1976-08-30",
+                "text": "Referred to House Committee on International Relations."
+            },
+            "number": "725",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution to state that Georgi Vins should be released and that the Soviet Government should permit religious believers within its borders to worship God according to their own conscience.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/94/hconres/725?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-09-01",
+            "latestAction": {
+                "actionDate": "1976-09-01",
+                "text": "Referred to House Committee on International Relations."
+            },
+            "number": "729",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution to urge the Soviet Union to release Georgi Vins and permit religious believers within its borders to worship God according to their own consciences.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/94/hconres/729?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-08-10",
+            "latestAction": {
+                "actionDate": "1976-08-10",
+                "text": "Referred to House Committee on International Relations."
+            },
+            "number": "713",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Resolution to urge the Soviet Union to release Georgi Vins and permit religious believers within its borders to worship God according to their own conscience.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/94/hconres/713?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-04-14",
+            "latestAction": {
+                "actionDate": "1976-04-14",
+                "text": "Referred to House Committee on International Relations."
+            },
+            "number": "617",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Concurrent resolution to urge the Soviet Union to release Georgi Vins and permit religious believers within its borders to worship God according to their own conscience.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/94/hconres/617?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-06-24",
+            "latestAction": {
+                "actionDate": "1976-06-24",
+                "text": "Referred to House Committee on International Relations."
+            },
+            "number": "661",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Concurrent resolution to urge the Soviet Union to release Georgi Vins and permit religious believers within its borders to worship God according to their own conscience.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/94/hconres/661?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-05-05",
+            "latestAction": {
+                "actionDate": "1976-05-05",
+                "text": "Referred to House Committee on International Relations."
+            },
+            "number": "626",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Concurrent resolution to urge the Soviet Union to release Georgi Vins and permit religious believers within its borders to worship God according to their own conscience.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/94/hconres/626?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-04-06",
+            "latestAction": {
+                "actionDate": "1976-04-06",
+                "text": "Referred to House Committee on International Relations."
+            },
+            "number": "606",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Concurrent resolution to urge the Soviet Union to release Georgi Vins and permit religious believers within its borders to worship God according to their own conscience.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/94/hconres/606?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-10-13",
+            "latestAction": {
+                "actionDate": "1977-10-13",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "9556",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to amend the worker adjustment assistance provisions of the Trade Reform Act of 1974 in order to provide that workers may be covered under certification of eligibility to apply for such assistance if they are totally or partially separated from adversely affected employment within 2 years before the date of the petition for such certification, to extend by 52 weeks the period for which workers may receive trade readjustment allowances.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/9556?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-02-24",
+            "latestAction": {
+                "actionDate": "1977-02-24",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "4065",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Consumer Communications Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/4065?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-01-31",
+            "latestAction": {
+                "actionDate": "1977-01-31",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "2673",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Consumer Communications Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/2673?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-01-26",
+            "latestAction": {
+                "actionDate": "1977-01-26",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "2551",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Alice Chancey Wingo.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/2551?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-03-01",
+            "latestAction": {
+                "actionDate": "1978-03-01",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "766",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A resolution to authorize and request the President to issue a proclamation designating April 18, 1978, as \"Education Day, U.S.A.\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/95/hjres/766?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-08-02",
+            "latestAction": {
+                "actionDate": "1977-08-02",
+                "text": "Referred to House Committee on International Relations."
+            },
+            "number": "321",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Concurrent resolution expressing the sense of Congress that the Soviet Union should comply with the Helsinki Final Act, the International Covenant on Civil and Political Rights, and the Soviet Constitution, with respect to all its citizens and on that basis should allow Anatoly Shchransky to emigrate from the Soviet Union.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/95/hconres/321?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-08-02",
+            "latestAction": {
+                "actionDate": "1977-08-02",
+                "text": "Referred to House Committee on International Relations."
+            },
+            "number": "323",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Concurrent resolution expressing the sense of Congress that the Soviet Union should comply with the Helsinki Final Act, the International Covenant on Civil and Political Rights, and the Soviet Constitution, with respect to all its citizens and on that basis should allow Anatoly Shchransky to emigrate from the Soviet Union.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/95/hconres/323?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-07-21",
+            "latestAction": {
+                "actionDate": "1977-07-21",
+                "text": "Referred to House Committee on International Relations."
+            },
+            "number": "303",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Concurrent resolution expressing the sense of Congress that the Soviet Union should comply with the Helsinki Final Act, the International Covenant on Civil and Political Rights, and the Soviet Constitution, with respect to all its citizens, an on that basis should allow Anatoly Shchransky to emigrate from the Soviet Union.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/95/hconres/303?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-08-02",
+            "latestAction": {
+                "actionDate": "1977-08-02",
+                "text": "Referred to House Committee on International Relations."
+            },
+            "number": "322",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Concurrent resolution expressing the sense of Congress that the Soviet Union should comply with the Helsinki Final Act, the International Covenant on Civil and Political Rights, and the Soviet Constitution, with respect to all its citizens and on that basis should allow Anatoly Shchransky to emigrate from the Soviet Union.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/95/hconres/322?format=json"
+        }
+    ]
+}

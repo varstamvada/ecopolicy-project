@@ -1,0 +1,3639 @@
+{
+    "pagination": {
+        "count": 271,
+        "next": "https://api.congress.gov/v3/member/T000058/sponsored-legislation?offset=250&limit=250&format=json"
+    },
+    "request": {
+        "bioguideId": "t000058",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-04",
+            "latestAction": {
+                "actionDate": "1995-03-13",
+                "text": "See Also H.R.1215."
+            },
+            "number": "9",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Job Creation and Wage Enhancement Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/9?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-09-16",
+            "latestAction": {
+                "actionDate": "1980-09-16",
+                "text": "Referred to House Committee on Public Works and Transportation."
+            },
+            "number": "8130",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to exempt a portion of U.S. Highway 90 from federally required permits.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/8130?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-07-02",
+            "latestAction": {
+                "actionDate": "1980-07-02",
+                "text": "Referred to House Committee on Rules."
+            },
+            "number": "7754",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend title 5 of the United States Code to establish procedures for congressional review of agency rules.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/7754?format=json"
+        },
+        {
+            "amendmentNumber": "454",
+            "congress": 108,
+            "introducedDate": "2003-11-22",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/hamdt/454?format=json"
+        },
+        {
+            "amendmentNumber": "101",
+            "congress": 108,
+            "introducedDate": "2003-05-01",
+            "latestAction": {
+                "actionDate": "2003-05-01",
+                "actionTime": "12:27:46",
+                "text": "On agreeing to the Tauzin amendment (A001) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/hamdt/101?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-10-08",
+            "latestAction": {
+                "actionDate": "2004-11-08",
+                "text": "Referred to the Subcommittee on National Parks, Recreation and Public Lands."
+            },
+            "number": "5348",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Atchafalaya National Heritage Area Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/5348?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-04-02",
+            "latestAction": {
+                "actionDate": "2004-04-02",
+                "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "4168",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Individual Tax Freedom Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/4168?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-03-12",
+            "latestAction": {
+                "actionDate": "2004-03-30",
+                "text": "Referred to the Subcommittee on Telecommunications and the Internet."
+            },
+            "number": "3969",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Foreign Government Ownership Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3969?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-10-14",
+            "latestAction": {
+                "actionDate": "2003-11-17",
+                "text": "Became Public Law No: 108-127."
+            },
+            "number": "3288",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XXI of the Social Security Act to make technical corrections with respect to the definition of qualifying State.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3288?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-09-24",
+            "latestAction": {
+                "actionDate": "2003-09-29",
+                "text": "Became Public Law No: 108-82."
+            },
+            "number": "3161",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "To ratify the authority of the Federal Trade Commission to establish a do-not-call registry.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3161?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-07-24",
+            "latestAction": {
+                "actionDate": "2003-08-15",
+                "text": "Became Public Law No: 108-74."
+            },
+            "number": "2854",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XXI of the Social Security Act to extend the availability of allotments for fiscal years 1998 through 2001 under the State Children's Health Insurance Program, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2854?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-05-15",
+            "latestAction": {
+                "actionDate": "2003-07-17",
+                "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 214."
+            },
+            "number": "2122",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Project BioShield Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2122?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-02-05",
+            "latestAction": {
+                "actionDate": "2003-06-26",
+                "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 182."
+            },
+            "number": "531",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XXI of the Social Security Act to extend the availability of allotments for fiscal years 1998 through 2001 under the State Children's Health Insurance Program (SCHIP).",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/531?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-01-28",
+            "latestAction": {
+                "actionDate": "2003-03-11",
+                "text": "Became Public Law No: 108-10."
+            },
+            "number": "395",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Do-Not-Call Implementation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/395?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-04-07",
+            "latestAction": {
+                "actionDate": "2003-11-21",
+                "text": "Motion by Senator Frist to reconsider the vote by which cloture on the conference report to accompnay H. R. 6 was not invoked (Roll Call Vote No. 456) entered in Senate."
+            },
+            "number": "6",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Energy Policy Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/6?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-02-12",
+            "latestAction": {
+                "actionDate": "2003-02-12",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "75",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing amounts for the expenses of the Committee on Energy and Commerce in the One Hundred Eighth Congress.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/75?format=json"
+        },
+        {
+            "amendmentNumber": "434",
+            "congress": 107,
+            "introducedDate": "2002-02-27",
+            "latestAction": {
+                "actionDate": "2002-02-27",
+                "actionTime": "16:28:30",
+                "text": "On agreeing to the Tauzin amendment (A003) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/hamdt/434?format=json"
+        },
+        {
+            "amendmentNumber": "286",
+            "congress": 107,
+            "introducedDate": "2001-08-01",
+            "latestAction": {
+                "actionDate": "2001-08-01",
+                "actionTime": "15:37:22",
+                "text": "On agreeing to the Tauzin amendment (A001) Agreed to by recorded vote: 281 - 148 (Roll no. 309). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/hamdt/286?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-11-14",
+            "latestAction": {
+                "actionDate": "2002-11-22",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "5740",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XXI of the Social Security Act to extend the availability of allotments for fiscal years 1998 through 2001 under the State Children's Health Insurance Program (SCHIP).",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5740?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-06-21",
+            "latestAction": {
+                "actionDate": "2002-06-26",
+                "text": "Placed on the Union Calendar, Calendar No. 329."
+            },
+            "number": "4992",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend the Public Health Service Act to establish health professions programs regarding practice of pharmacy.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4992?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-06-21",
+            "latestAction": {
+                "actionDate": "2002-06-26",
+                "text": "Placed on the Union Calendar, Calendar No. 328."
+            },
+            "number": "4991",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XIX of the Social Security Act to revise disproportionate share hospital payments under the Medicaid Program.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4991?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-06-21",
+            "latestAction": {
+                "actionDate": "2002-06-26",
+                "text": "Reported by the Committee on Energy and Commerce. H. Rept. 107-541, Part I."
+            },
+            "number": "4987",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XVIII of the Social Security Act to improve payments for home health services and for direct graduate medical education, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4987?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-06-21",
+            "latestAction": {
+                "actionDate": "2002-06-28",
+                "text": "Committee on Ways and Means discharged."
+            },
+            "number": "4985",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XVIII of the Social Security Act to revitalize the Medicare+Choice Program, establish a Medicare+Choice competition program, and to improve payments to hospitals and other providers under part A of the Medicare Program.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4985?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-06-21",
+            "latestAction": {
+                "actionDate": "2002-06-26",
+                "text": "Placed on the Union Calendar, Calendar No. 327."
+            },
+            "number": "4990",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend the Federal Food, Drug, and Cosmetic Act to establish requirements with respect to the sale of, or the offer to sell, prescription drugs through the Internet, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4990?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-06-21",
+            "latestAction": {
+                "actionDate": "2002-06-26",
+                "text": "Reported by the Committee on Energy and Commerce. H. Rept. 107-542, Part I."
+            },
+            "number": "4988",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XVIII of the Social Security Act to establish the Medicare Benefits Administration within the Department of Health and Human Services, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4988?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-06-21",
+            "latestAction": {
+                "actionDate": "2002-06-28",
+                "text": "Committee on Ways and Means discharged."
+            },
+            "number": "4986",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend part B of title XVIII of the Social Security Act to improve payments for physicians' services and other outpatient services furnished under the Medicare Program, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4986?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-06-21",
+            "latestAction": {
+                "actionDate": "2002-06-28",
+                "text": "Committee on Ways and Means discharged."
+            },
+            "number": "4984",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XVIII of the Social Security Act to provide for a Medicare prescription drug benefit.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4984?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-06-21",
+            "latestAction": {
+                "actionDate": "2002-06-26",
+                "text": "Placed on the Union Calendar, Calendar No. 326."
+            },
+            "number": "4989",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend the Public Health Service Act to provide for grants to health care providers to implement electronic prescription drug programs.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4989?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-06-19",
+            "latestAction": {
+                "actionDate": "2002-06-26",
+                "text": "Reported by the Committee on Energy and Commerce. H. Rept. 107-540, Part I."
+            },
+            "number": "4962",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XVIII of the Social Security Act to make rural health care improvements under the Medicare Program.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4962?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-06-19",
+            "latestAction": {
+                "actionDate": "2002-06-26",
+                "text": "Placed on the Union Calendar, Calendar No. 325."
+            },
+            "number": "4961",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To establish a National Bipartisan Commission on the Future of Medicaid.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4961?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-24",
+            "latestAction": {
+                "actionDate": "2002-06-19",
+                "text": "Became Public Law No: 107-195."
+            },
+            "number": "4560",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Auction Reform Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4560?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-18",
+            "latestAction": {
+                "actionDate": "2002-04-18",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4528",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on diethyl ketone.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4528?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-18",
+            "latestAction": {
+                "actionDate": "2002-04-18",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4527",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on Chloridazon.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4527?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-18",
+            "latestAction": {
+                "actionDate": "2002-04-18",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4529",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on PDC.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4529?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-18",
+            "latestAction": {
+                "actionDate": "2002-04-18",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4525",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on Phytol.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4525?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-18",
+            "latestAction": {
+                "actionDate": "2002-04-18",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4526",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on kresoxim-methyl.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4526?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-12-18",
+            "latestAction": {
+                "actionDate": "2001-12-19",
+                "text": "Referred to the Subcommittee on Fisheries Conservation, Wildlife and Oceans."
+            },
+            "number": "3520",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "Electronic Duck Stamp Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3520?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-12-13",
+            "latestAction": {
+                "actionDate": "2001-12-28",
+                "text": "Referred to the Subcommittee on Telecommunications and the Internet."
+            },
+            "number": "3484",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Prompt Utilization of Wireless Spectrum Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3484?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-12-11",
+            "latestAction": {
+                "actionDate": "2002-06-12",
+                "text": "Became Public Law No: 107-188."
+            },
+            "number": "3448",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Public Health Security and Bioterrorism Preparedness and Response Act of 2002 ",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3448?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-11-08",
+            "latestAction": {
+                "actionDate": "2001-11-28",
+                "text": "Referred to the Subcommittee on Telecommunications and the Internet."
+            },
+            "number": "3268",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Foreign Government Ownership Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3268?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-10-23",
+            "latestAction": {
+                "actionDate": "2001-12-20",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "3160",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Bioterrorism Prevention Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3160?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-10-03",
+            "latestAction": {
+                "actionDate": "2001-11-06",
+                "text": "Supplemental report filed by the Committee on Energy and Commerce, H. Rept. 107-231, Part II."
+            },
+            "number": "3016",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "To amend the Antiterrorism and Effective Death Penalty Act of 1996 with respect to the responsibilities of the Secretary of Health and Human Services regarding biological agents and toxins, and to amend title 18, United States Code, with respect to such agents and toxins, to clarify the application of cable television system privacy requirements to new cable services, to strenghen security at certain nuclear facilities, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3016?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-08-02",
+            "latestAction": {
+                "actionDate": "2001-08-02",
+                "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "2717",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Individual Tax Freedom Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2717?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-07-23",
+            "latestAction": {
+                "actionDate": "2001-08-13",
+                "text": "For Further Action See H.R.4."
+            },
+            "number": "2587",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Energy Advancement and Conservation Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2587?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-04-24",
+            "latestAction": {
+                "actionDate": "2002-02-28",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+            },
+            "number": "1542",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Internet Freedom and Broadband Deployment Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1542?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-07-27",
+            "latestAction": {
+                "actionDate": "2002-10-10",
+                "actionTime": "20:28:50",
+                "text": "NOTIFICATION OF INTENT TO OFFER MOTIONS - Mr. Waxman notified the House of his intent to offer motions to instruct conferees on the bill H.R. 4."
+            },
+            "number": "4",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Energy Policy Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-09-14",
+            "latestAction": {
+                "actionDate": "2001-09-14",
+                "actionTime": "23:27:03",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "238",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Condemning any price gouging with respect to motor fuels during the hours and days after the terrorist acts of September 11, 2001.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/107/hres/238?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-02-14",
+            "latestAction": {
+                "actionDate": "2001-02-14",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "43",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing amounts for the expenses of the Committee on Energy and Commerce in the One Hundred Seventh Congress.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/107/hres/43?format=json"
+        },
+        {
+            "amendmentNumber": "416",
+            "congress": 106,
+            "introducedDate": "1999-08-05",
+            "latestAction": {
+                "actionDate": "1999-08-05",
+                "actionTime": "20:50:33",
+                "text": "On agreeing to the Tauzin amendment (A026) Agreed to by recorded vote: 374 - 49 (Roll No. 384). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/416?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-05-15",
+            "latestAction": {
+                "actionDate": "2000-09-14",
+                "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote."
+            },
+            "number": "4445",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Reciprocal Compensation Adjustment Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4445?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-29",
+            "latestAction": {
+                "actionDate": "1999-07-29",
+                "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote."
+            },
+            "number": "2630",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "NTIA Reauthorization Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2630?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-01",
+            "latestAction": {
+                "actionDate": "2000-05-25",
+                "text": "Sponsor introductory remarks on measure. (CR 3864)"
+            },
+            "number": "2420",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Internet Freedom and Broadband Deployment Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2420?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-29",
+            "latestAction": {
+                "actionDate": "1999-07-20",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "2384",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Corporation for Public Broadcasting Authorization Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2384?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-25",
+            "latestAction": {
+                "actionDate": "1999-07-22",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "2363",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Public Utility Holding Company Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2363?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-08",
+            "latestAction": {
+                "actionDate": "1999-07-28",
+                "text": "Became Public Law No: 106-39."
+            },
+            "number": "2035",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To correct errors in the authorizations of certain programs administered by the National Highway Traffic Administration.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2035?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-05-27",
+            "latestAction": {
+                "actionDate": "1999-05-27",
+                "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "2001",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "National Retail Sales Tax Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2001?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-05-11",
+            "latestAction": {
+                "actionDate": "2000-05-25",
+                "text": "Sponsor introductory remarks on measure. (CR H3864-3865)"
+            },
+            "number": "1746",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Schools and Libraries Internet Access Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1746?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-04-15",
+            "latestAction": {
+                "actionDate": "1999-04-15",
+                "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "1467",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "National Retail Sales Tax Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1467?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-25",
+            "latestAction": {
+                "actionDate": "1999-04-27",
+                "text": "See H.R.1554."
+            },
+            "number": "851",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Satellite Competition and Consumer Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/851?format=json"
+        },
+        {
+            "amendmentNumber": "990",
+            "congress": 97,
+            "introducedDate": "1982-12-14",
+            "latestAction": {
+                "actionDate": "1982-12-14",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/990?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-06-10",
+            "latestAction": {
+                "actionDate": "1982-07-23",
+                "text": "Referred to Subcommittee on Fossil and Synthetic Fuels."
+            },
+            "number": "6581",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Natural Gas Company Regulatory Reform Act of 1982",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6581?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-02-04",
+            "latestAction": {
+                "actionDate": "1982-02-04",
+                "text": "Referred to House Committee on Energy and Commerce"
+            },
+            "number": "5465",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "To repeal the Public Utility Holding Company Act of 1935 as no longer necessary to accomplish the purposes for which it was enacted.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/5465?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-01-26",
+            "latestAction": {
+                "actionDate": "1982-08-09",
+                "text": "Unfavorable Executive Comment Received From Interior."
+            },
+            "number": "5358",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "Chitimacha Claims Settlement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/5358?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-03-31",
+            "latestAction": {
+                "actionDate": "1981-04-01",
+                "text": "Referred to Subcommittee on Fossil and Synthetic Fuels."
+            },
+            "number": "2941",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Petroleum Displacement Act of 1981",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/2941?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-08-17",
+            "latestAction": {
+                "actionDate": "1982-08-17",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "581",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A joint resolution to authorize and request the President to designate the week beginning October 11, 1982, as \"National Get High on Life Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/97/hjres/581?format=json"
+        },
+        {
+            "amendmentNumber": "538",
+            "congress": 98,
+            "introducedDate": "1983-11-10",
+            "latestAction": {
+                "actionDate": "1983-11-10",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/538?format=json"
+        },
+        {
+            "amendmentNumber": "518",
+            "congress": 98,
+            "introducedDate": "1983-11-03",
+            "latestAction": {
+                "actionDate": "1983-11-03",
+                "text": "Amendment Offered by Representative Tauzin. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/518?format=json"
+        },
+        {
+            "amendmentNumber": "425",
+            "congress": 98,
+            "introducedDate": "1983-10-06",
+            "latestAction": {
+                "actionDate": "1983-10-06",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/425?format=json"
+        },
+        {
+            "amendmentNumber": "424",
+            "congress": 98,
+            "introducedDate": "1983-10-06",
+            "latestAction": {
+                "actionDate": "1983-10-06",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/424?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-09-20",
+            "latestAction": {
+                "actionDate": "1984-10-04",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "6291",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Offshore Installation Emergency Evacuation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/6291?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-05-23",
+            "latestAction": {
+                "actionDate": "1984-05-30",
+                "text": "Referred to Subcommittee on Commerce, Transportation and Tourism."
+            },
+            "number": "5717",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill declaring a portion of Bayou Lafourche, Louisiana, a nonnavigable waterway of the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5717?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-05-17",
+            "latestAction": {
+                "actionDate": "1984-05-17",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "5678",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "American Passbook Savings Act of 1984",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5678?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-04-26",
+            "latestAction": {
+                "actionDate": "1984-05-01",
+                "text": "Referred to Subcommittee on Fossil and Synthetic Fuels."
+            },
+            "number": "5537",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to amend the Natural Gas Act to provide that any new authorization to import natural gas may be granted only if domestically-produced natural gas is not available at a lower price.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5537?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-02-08",
+            "latestAction": {
+                "actionDate": "1984-02-08",
+                "text": "Referred to House Committee on Interior and Insular Affairs."
+            },
+            "number": "4808",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "Chitimacha Claims Settlement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4808?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-09-21",
+            "latestAction": {
+                "actionDate": "1984-07-24",
+                "text": "Rules Committee Resolution H.Res.552 Reported to House."
+            },
+            "number": "3953",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Panama Canal Amendments Act of 1984",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/3953?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-07-19",
+            "latestAction": {
+                "actionDate": "1984-08-09",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3604",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "A bill to amend section 98 of title 28, United States Code, to permit Federal district court to be held in Houma, Louisiana.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/3604?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-01-25",
+            "latestAction": {
+                "actionDate": "1983-07-28",
+                "text": "See H.R.2973."
+            },
+            "number": "902",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to repeal the provisions of the Tax Equity and Fiscal Responsibility Act of 1982 relating to withholding on interest and dividends.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/902?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-03-27",
+            "latestAction": {
+                "actionDate": "1984-04-03",
+                "text": "Referred to Subcommittee on Census and Population."
+            },
+            "number": "530",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A joint resolution designating the week beginning on January 20, 1985, as \"School Health Care Awareness Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/98/hjres/530?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-07-29",
+            "latestAction": {
+                "actionDate": "1984-02-21",
+                "text": "See S.J.Res.146."
+            },
+            "number": "336",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A joint resolution designating March 23, 1984, as \"National Energy Education Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/98/hjres/336?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-02-22",
+            "latestAction": {
+                "actionDate": "1983-03-09",
+                "text": "Referred to Subcommittee on Census and Population."
+            },
+            "number": "155",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A joint resolution to provide for the designation of March 18, 1983, as \"National Energy Education Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/98/hjres/155?format=json"
+        },
+        {
+            "amendmentNumber": "683",
+            "congress": 99,
+            "introducedDate": "1985-12-06",
+            "latestAction": {
+                "actionDate": "1985-12-06",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/683?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-08-15",
+            "latestAction": {
+                "actionDate": "1986-08-15",
+                "text": "Referred to Subcommittee on Telecommunications, Consumer Protection and Finance."
+            },
+            "number": "5476",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Satellite Television Security and Fair Marketing Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5476?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-04-29",
+            "latestAction": {
+                "actionDate": "1986-04-29",
+                "text": "Referred to House Committee on The Judiciary."
+            },
+            "number": "4707",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Joseph W. Newman.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/4707?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-01-30",
+            "latestAction": {
+                "actionDate": "1986-02-06",
+                "text": "Referred to Subcommittee on Commerce, Transportation and Tourism."
+            },
+            "number": "4096",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Consumer Rail Equity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/4096?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-09-11",
+            "latestAction": {
+                "actionDate": "1985-11-20",
+                "text": "Referred to Subcommittee on Panama Canal and Outer Continental Shelf."
+            },
+            "number": "3283",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Outer Continental Shelf Lands Act Amendments of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3283?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-07-18",
+            "latestAction": {
+                "actionDate": "1985-07-18",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "3050",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "American Passbook Savings Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3050?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-03-28",
+            "latestAction": {
+                "actionDate": "1986-03-06",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "1840",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Satellite Television Viewing Rights Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/1840?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-03-26",
+            "latestAction": {
+                "actionDate": "1986-07-03",
+                "text": "Unfavorable Executive Comment Received From Interior."
+            },
+            "number": "1748",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Offshore Installation Emergency Evacuation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/1748?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-03-28",
+            "latestAction": {
+                "actionDate": "1985-05-16",
+                "text": "See H.R.1869."
+            },
+            "number": "1839",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to repeal the provisions of the Tax Reform Act of 1984 relating to the maintenance of contemporaneous records with respect to the business use of certain property, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/1839?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-02-21",
+            "latestAction": {
+                "actionDate": "1985-04-18",
+                "text": "For Further Action See H.R.2121."
+            },
+            "number": "1234",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Coastal Zone Management Reauthorization Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/1234?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-02-21",
+            "latestAction": {
+                "actionDate": "1985-02-27",
+                "text": "Referred to Subcommittee on Commerce, Transportation and Tourism."
+            },
+            "number": "1190",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Consumer Rail Equity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/1190?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-01-24",
+            "latestAction": {
+                "actionDate": "1985-05-16",
+                "text": "See H.R.1869."
+            },
+            "number": "728",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to repeal the provisions of the Tax Reform Act of 1984 relating to the maintenance of contemporaneous records with respect to the business use of certain property.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/728?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-01-24",
+            "latestAction": {
+                "actionDate": "1985-12-23",
+                "text": "Became Public Law No: 99-209."
+            },
+            "number": "729",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Panama Canal Amendments Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/729?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-02-27",
+            "latestAction": {
+                "actionDate": "1986-03-21",
+                "text": "See S.J.Res 205."
+            },
+            "number": "543",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution to designate March 21, 1986, as \"National Energy Education Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/99/hjres/543?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-02-21",
+            "latestAction": {
+                "actionDate": "1985-04-04",
+                "text": "Became Public Law No: 99-14."
+            },
+            "number": "160",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution designating March 22, 1985, as \"National Energy Education Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/99/hjres/160?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-05-08",
+            "latestAction": {
+                "actionDate": "1986-05-14",
+                "text": "Referred to Subcommittee on Trade."
+            },
+            "number": "452",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A resolution to express the sense of the House that the Administration should broaden its interpretation of the Trade Adjustment Assistance Act to include employees of the U.S. oil and gas industry and oil and gas service industry to qualify for certification.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/99/hres/452?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-09-13",
+            "latestAction": {
+                "actionDate": "1988-11-19",
+                "text": "Became Public Law No: 100-705."
+            },
+            "number": "5287",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Panama Canal Commission Compensation Fund Act of 1988",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/5287?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-08-03",
+            "latestAction": {
+                "actionDate": "1988-08-03",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "5153",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to designate the Veterans' Administration Medical Center in Alexandria, Louisiana, as the \"Gillis Long Veterans' Administration Medical Center\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/5153?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-05-03",
+            "latestAction": {
+                "actionDate": "1988-06-30",
+                "text": "Executive Comment Received From National Science Foundation."
+            },
+            "number": "4520",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Shellfish Indicator Research Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4520?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-04-21",
+            "latestAction": {
+                "actionDate": "1988-08-08",
+                "text": "Placed on Union Calendar No: 503."
+            },
+            "number": "4449",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Panama Canal Commission Authorization Act, Fiscal Year 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4449?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-03-09",
+            "latestAction": {
+                "actionDate": "1988-05-27",
+                "text": "Unfavorable Executive Comment Received From State."
+            },
+            "number": "4126",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A bill directing the President to hold in an escrow account certain payments to Panama under the Panama Canal Treaty of 1977 during periods in which Panama is not being governed in fact by a government recognized by the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4126?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-12-17",
+            "latestAction": {
+                "actionDate": "1988-01-04",
+                "text": "Referred to Subcommittee on Public Assistance and Unemployment Compensation."
+            },
+            "number": "3780",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 and the Social Security Act to provide that individuals who process fish or shellfish are not treated as employees for Federal tax purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3780?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-12-10",
+            "latestAction": {
+                "actionDate": "1987-12-22",
+                "text": "See H.R.3545."
+            },
+            "number": "3744",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Panama Canal Revolving Fund Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3744?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-09-29",
+            "latestAction": {
+                "actionDate": "1987-12-28",
+                "text": "Executive Comment Received From GSA."
+            },
+            "number": "3362",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Panama Canal Act Amendments of 1987",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3362?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-05-07",
+            "latestAction": {
+                "actionDate": "1987-05-07",
+                "text": "Referred to House Committee on Interior and Insular Affairs."
+            },
+            "number": "2329",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "Chitimacha Claims Settlement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2329?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-04-29",
+            "latestAction": {
+                "actionDate": "1987-12-22",
+                "text": "See H.R.3545."
+            },
+            "number": "2224",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Panama Canal Commission Authorization Act, Fiscal Year 1988",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2224?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-04-06",
+            "latestAction": {
+                "actionDate": "1987-05-21",
+                "text": "Became Public Law No: 100-42."
+            },
+            "number": "1941",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to repeal and amend certain sections of the Powerplant and Industrial Fuel Use Act of 1978.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/1941?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-03-31",
+            "latestAction": {
+                "actionDate": "1988-06-30",
+                "text": "Forwarded by Subcommittee to Full Committee (Amended)."
+            },
+            "number": "1885",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Satellite Television Fair Marketing Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/1885?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-03-11",
+            "latestAction": {
+                "actionDate": "1988-02-04",
+                "text": "Unfavorable Executive Comment Received From Army Corps of Engineers."
+            },
+            "number": "1564",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Coastal Wetlands Recovery Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/1564?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-06-10",
+            "latestAction": {
+                "actionDate": "1988-06-16",
+                "text": "Referred to Subcommittee on Census and Population."
+            },
+            "number": "591",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution to designate August, 1988 as \"Cajun Music Month\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/591?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-10-15",
+            "latestAction": {
+                "actionDate": "1987-10-27",
+                "text": "Referred to Subcommittee on Census and Population."
+            },
+            "number": "380",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution designating March 18, 1988, as \"National Energy Education Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/380?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-05-13",
+            "latestAction": {
+                "actionDate": "1987-05-21",
+                "text": "Referred to Subcommittee on Census and Population."
+            },
+            "number": "279",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution to designate the period commencing on June 15, 1987, and ending on June 21, 1987, as \"National Anti-Apartheid Week\" and to designate June 16, 1987, as \"National Anti-Apartheid Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/279?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-03-10",
+            "latestAction": {
+                "actionDate": "1987-03-18",
+                "text": "Referred to Subcommittee on Census and Population."
+            },
+            "number": "182",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution to designate March 20, 1987, as \"National Energy Education Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/182?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-06-25",
+            "latestAction": {
+                "actionDate": "1987-07-06",
+                "text": "Referred to Subcommittee on Human Rights and International Organizations."
+            },
+            "number": "213",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution concerning Leonid Brailovsky.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/100/hres/213?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-06-22",
+            "latestAction": {
+                "actionDate": "1988-10-21",
+                "text": "Referred to the Committee on Armed Services."
+            },
+            "number": "322",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution recognizing the loyalty and dedication of the American and Panamanian employees of the Panama Canal Commission during the current political unrest in the Republic of Panama, and resolving to protect their personal safety and the integrity of their homes and workplaces.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/100/hconres/322?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-06-17",
+            "latestAction": {
+                "actionDate": "1987-06-22",
+                "text": "Referred to Subcommittee on Health."
+            },
+            "number": "142",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A concurrent resolution expressing the opposition of Congress to mandatory coverage of all State and local government employees under the medicare program.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/100/hconres/142?format=json"
+        },
+        {
+            "amendmentNumber": "315",
+            "congress": 101,
+            "introducedDate": "1989-11-08",
+            "latestAction": {
+                "actionDate": "1989-11-08",
+                "actionTime": "14:27:32",
+                "text": "On agreeing to the Tauzin amendment (A004) Failed by recorded vote: 151 - 270 (Roll No. 337). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/315?format=json"
+        },
+        {
+            "amendmentNumber": "316",
+            "congress": 101,
+            "introducedDate": "1989-11-08",
+            "latestAction": {
+                "actionDate": "1989-11-08",
+                "actionTime": "15:03:33",
+                "text": "By unanimous consent, the Tauzin amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/316?format=json"
+        },
+        {
+            "amendmentNumber": "303",
+            "congress": 101,
+            "introducedDate": "1989-11-07",
+            "latestAction": {
+                "actionDate": "1989-11-07",
+                "actionTime": "15:31:59",
+                "text": "On agreeing to the Tauzin amendments (A002) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/303?format=json"
+        },
+        {
+            "amendmentNumber": "233",
+            "congress": 101,
+            "introducedDate": "1989-08-03",
+            "latestAction": {
+                "actionDate": "1989-08-03",
+                "actionTime": "18:10:35",
+                "text": "On agreeing to the Tauzin amendment (A003) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/233?format=json"
+        },
+        {
+            "amendmentNumber": "232",
+            "congress": 101,
+            "introducedDate": "1989-08-03",
+            "latestAction": {
+                "actionDate": "1989-08-03",
+                "actionTime": "18:07:22",
+                "text": "On agreeing to the Tauzin amendment (A002) Agreed to by recorded vote: 218 - 198 (Roll no. 215). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/232?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-10-11",
+            "latestAction": {
+                "actionDate": "1990-11-28",
+                "text": "See H.R.2061."
+            },
+            "number": "5820",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "National Fish and Seafood Promotional Council Reauthorization Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5820?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-10-01",
+            "latestAction": {
+                "actionDate": "1990-11-29",
+                "text": "See H.R.5390."
+            },
+            "number": "5768",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Coastal Wetlands Planning, Protection, and Restoration Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5768?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-09-25",
+            "latestAction": {
+                "actionDate": "1990-10-27",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 1027."
+            },
+            "number": "5707",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Vehicular Natural Gas Jurisdiction Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5707?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-05-23",
+            "latestAction": {
+                "actionDate": "1990-05-23",
+                "text": "Referred to the House Committee on Interior and Insular Affairs."
+            },
+            "number": "4886",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "United Houma Nation Recognition Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4886?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-05-23",
+            "latestAction": {
+                "actionDate": "1990-11-16",
+                "text": "Became Public Law No: 101-599."
+            },
+            "number": "4888",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To improve navigational safety and to reduce the hazards to navigation resulting from vessel collisions with pipelines in the marine environment, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4888?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-05-09",
+            "latestAction": {
+                "actionDate": "1990-05-29",
+                "text": "Referred to the Subcommittee on Telecommunications and Finance."
+            },
+            "number": "4756",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Satellite Viewers' Rights Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4756?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-05-02",
+            "latestAction": {
+                "actionDate": "1990-05-14",
+                "text": "Referred to the Subcommittee on Water Resources."
+            },
+            "number": "4703",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Wetlands Restoration and Conservation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4703?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-04-25",
+            "latestAction": {
+                "actionDate": "1990-11-16",
+                "text": "See H.R.4009."
+            },
+            "number": "4609",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To amend the Coast Guard Authorization Act of 1989 (P.L. 101-225).",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4609?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-01-24",
+            "latestAction": {
+                "actionDate": "1990-08-20",
+                "text": "See H.R.1594."
+            },
+            "number": "3892",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To amend the Tariff Act of 1930 with respect to the applicability of duties upon certain aspects of the foreign repair of vessels.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3892?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-11-16",
+            "latestAction": {
+                "actionDate": "1989-12-11",
+                "text": "Referred to the Subcommittee on Telecommunications and Finance."
+            },
+            "number": "3692",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Competitive Wholesale Electric Generation Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3692?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-07-21",
+            "latestAction": {
+                "actionDate": "1989-07-27",
+                "text": "Executive Comment Requested from Interior."
+            },
+            "number": "2975",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Endangered and Threatened Species Propagation Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2975?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-05-24",
+            "latestAction": {
+                "actionDate": "1989-12-12",
+                "text": "Became Public Law No: 101-225."
+            },
+            "number": "2459",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Coast Guard Authorization Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2459?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-04-18",
+            "latestAction": {
+                "actionDate": "1989-04-18",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2021",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Save, America Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2021?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-02",
+            "latestAction": {
+                "actionDate": "1989-05-01",
+                "text": "Executive Comment Requested from Interior, Commerce, Army Corps of Engineers, USDA, EPA, and CEQ."
+            },
+            "number": "824",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Coastal Wetlands Recovery Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/824?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-05-10",
+            "latestAction": {
+                "actionDate": "1989-08-11",
+                "text": "See S.J.Res.126."
+            },
+            "number": "265",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Designating the period of August 4, 1989 through August 4, 1990 in commemoration of the bicentennial of the United States Coast Guard.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/265?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-11-20",
+            "latestAction": {
+                "actionDate": "1989-11-20",
+                "actionTime": "15:04:24",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "296",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To provide for consideration of the Senate amendment to H.R. 2459.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/101/hres/296?format=json"
+        },
+        {
+            "amendmentNumber": "743",
+            "congress": 102,
+            "introducedDate": "1992-07-23",
+            "latestAction": {
+                "actionDate": "1992-07-23",
+                "actionTime": "21:08:57",
+                "text": "On agreeing to the Tauzin amendment (A008) Agreed to by recorded vote: 338 - 68 (Roll no. 311). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/743?format=json"
+        },
+        {
+            "amendmentNumber": "626",
+            "congress": 102,
+            "introducedDate": "1992-06-22",
+            "latestAction": {
+                "actionDate": "1992-06-22",
+                "actionTime": "15:19:18",
+                "text": "On agreeing to the Tauzin amendment (A001) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/626?format=json"
+        },
+        {
+            "amendmentNumber": "627",
+            "congress": 102,
+            "introducedDate": "1992-06-22",
+            "latestAction": {
+                "actionDate": "1992-06-22",
+                "actionTime": "15:21:41",
+                "text": "On agreeing to the Tauzin amendment (A002) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/627?format=json"
+        },
+        {
+            "amendmentNumber": "406",
+            "congress": 102,
+            "introducedDate": "1991-11-20",
+            "latestAction": {
+                "actionDate": "1991-11-20",
+                "actionTime": "17:00:02",
+                "text": "On agreeing to the Tauzin amendment (A003) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/406?format=json"
+        },
+        {
+            "amendmentNumber": "410",
+            "congress": 102,
+            "introducedDate": "1991-11-20",
+            "latestAction": {
+                "actionDate": "1991-11-20",
+                "actionTime": "17:21:15",
+                "text": "On agreeing to the Tauzin amendment (A007) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/410?format=json"
+        },
+        {
+            "amendmentNumber": "249",
+            "congress": 102,
+            "introducedDate": "1991-07-18",
+            "latestAction": {
+                "actionDate": "1991-07-18",
+                "actionTime": "11:22:28",
+                "text": "On agreeing to the Tauzin amendment (A001) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/249?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-10-05",
+            "latestAction": {
+                "actionDate": "1992-10-05",
+                "text": "Referred to the House Committee on Merchant Marine and Fisheries."
+            },
+            "number": "6134",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Endangered Species Act Reform Amendments of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/6134?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-08-11",
+            "latestAction": {
+                "actionDate": "1992-09-14",
+                "text": "Referred to the Subcommittee on Telecommunications and Finance."
+            },
+            "number": "5828",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Securities Private Enforcement Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5828?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-08-11",
+            "latestAction": {
+                "actionDate": "1992-08-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5829",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "National Dividend Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5829?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-07-02",
+            "latestAction": {
+                "actionDate": "1992-07-20",
+                "text": "Referred to the Subcommittee on Telecommunications and Finance."
+            },
+            "number": "5559",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Information Services Fair Competition Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5559?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-06-15",
+            "latestAction": {
+                "actionDate": "1992-10-06",
+                "text": "Text of Measure Incorporated in H.R.5617 (Title V)."
+            },
+            "number": "5397",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Abandoned Barge Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5397?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-05-28",
+            "latestAction": {
+                "actionDate": "1992-06-05",
+                "text": "Referred to the Subcommittee on Transportation and Hazardous Materials."
+            },
+            "number": "5276",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Used Oil Recycling Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5276?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-05-05",
+            "latestAction": {
+                "actionDate": "1992-10-06",
+                "text": "Text of Measure Incorporated in H.R.5617 (Title V)."
+            },
+            "number": "5055",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Coast Guard Authorization Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5055?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-03-31",
+            "latestAction": {
+                "actionDate": "1992-08-06",
+                "text": "Placed on the Union Calendar, Calendar No. 457."
+            },
+            "number": "4715",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Panama Canal Commission Authorization Act for Fiscal Year 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4715?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-03-26",
+            "latestAction": {
+                "actionDate": "1992-05-06",
+                "text": "Subcommittee Consideration and Mark-up Session Held."
+            },
+            "number": "4693",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To amend title 46, United States Code, to prohibit the establishment and collection of any fee or charge for the issuance of any merchant mariners' document, license or certificate of registry.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4693?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-03-20",
+            "latestAction": {
+                "actionDate": "1992-07-23",
+                "text": "For Further Action See H.R.4850."
+            },
+            "number": "4525",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Cable Competition Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4525?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-11-26",
+            "latestAction": {
+                "actionDate": "1991-12-10",
+                "text": "Referred to the Subcommittee on Europe and the Middle East."
+            },
+            "number": "4066",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To request from certain countries information concerning American servicemen and civilians missing in Southeast Asia during the Vietnam conflict and to require the heads of Federal departments and agencies to disclose to Congress information concerning such servicemen and civilians.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4066?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-11-26",
+            "latestAction": {
+                "actionDate": "1992-10-08",
+                "text": "See H.R.776."
+            },
+            "number": "4068",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Coastal Communities Impact Assistance Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4068?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-11-26",
+            "latestAction": {
+                "actionDate": "1991-11-26",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4067",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Save America Passbook Savings Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4067?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-11-26",
+            "latestAction": {
+                "actionDate": "1991-12-09",
+                "text": "Referred to the Subcommittee on Water Resources."
+            },
+            "number": "4047",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "To extend the jurisdiction of the Mississippi River Commission to include an additional geographic area.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4047?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-09-26",
+            "latestAction": {
+                "actionDate": "1992-07-23",
+                "text": "For Further Action See H.R.4850."
+            },
+            "number": "3420",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Satellite Viewers' Rights Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3420?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-07-18",
+            "latestAction": {
+                "actionDate": "1991-07-22",
+                "text": "Referred to the Subcommittee on Coast Guard and Navigation."
+            },
+            "number": "2961",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Lower Mississippi River Waterway Advisory Committee Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2961?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-06-27",
+            "latestAction": {
+                "actionDate": "1992-10-08",
+                "text": "For Further Action See H.R.776."
+            },
+            "number": "2825",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Electricity Policy Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2825?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-05-02",
+            "latestAction": {
+                "actionDate": "1991-05-02",
+                "text": "Referred to the Subcommittee on Coast Guard and Navigation."
+            },
+            "number": "2226",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Ship Shoal Lighthouse, Louisiana Transfer Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2226?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-04-16",
+            "latestAction": {
+                "actionDate": "1991-12-05",
+                "text": "Text of Measure Incorporated in H.R.2100."
+            },
+            "number": "1775",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Panama Canal Commission Authorization Act for Fiscal Year 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1775?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-04-16",
+            "latestAction": {
+                "actionDate": "1991-12-19",
+                "text": "Became Public Law No: 102-241."
+            },
+            "number": "1776",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Coast Guard Authorization Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1776?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-04-16",
+            "latestAction": {
+                "actionDate": "1992-02-26",
+                "text": "See H.R.4318."
+            },
+            "number": "1778",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Relating to the effective period of duty exemptions for certain foreign repairs made to United States vessels.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1778?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-02-21",
+            "latestAction": {
+                "actionDate": "1991-03-18",
+                "text": "Referred to the Subcommittee on Energy and Power."
+            },
+            "number": "1089",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Vehicular Natural Gas Jurisdiction Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1089?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-02-06",
+            "latestAction": {
+                "actionDate": "1991-02-19",
+                "text": "Referred to the Subcommittee on Transportation and Hazardous Materials."
+            },
+            "number": "945",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Comprehensive Recycling Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/945?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-10-02",
+            "latestAction": {
+                "actionDate": "1992-10-06",
+                "text": "Referred to the Subcommittee on Coast Guard and Navigation."
+            },
+            "number": "559",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Honoring the Coast Guard Women's Reserve.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/102/hjres/559?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-10-30",
+            "latestAction": {
+                "actionDate": "1992-01-28",
+                "text": "Reported (Amended) by the Committee on Merchant Marine and Fisheries. H. Rept. 102-425, Part I."
+            },
+            "number": "229",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To insure that full restitution and reimbursement is made to the United States Coast Guard for its costs in the response to the oil spill in the Arabian Gulf; and to instruct the United Nations to earmark a percentage of the monies collected for the United Nations Compensation Fund toward Arabian Gulf oil spill and Kuwaiti oil well spill cleanup and environmental restoration.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/102/hconres/229?format=json"
+        },
+        {
+            "amendmentNumber": "913",
+            "congress": 103,
+            "introducedDate": "1994-10-05",
+            "latestAction": {
+                "actionDate": "1994-10-05",
+                "actionTime": "15:08:30",
+                "text": "On agreeing to the Tauzin amendments (A003) as amended Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/913?format=json"
+        },
+        {
+            "amendmentNumber": "881",
+            "congress": 103,
+            "introducedDate": "1994-09-26",
+            "latestAction": {
+                "actionDate": "1994-09-26",
+                "actionTime": "17:16:55",
+                "text": "On agreeing to the Tauzin amendment (A004) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/881?format=json"
+        },
+        {
+            "amendmentNumber": "915",
+            "congress": 103,
+            "introducedDate": "1994-10-05",
+            "latestAction": {
+                "actionDate": "1994-10-05",
+                "actionTime": "16:56:38",
+                "text": "On agreeing to the Tauzin amendment (A005) as amended Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/915?format=json"
+        },
+        {
+            "amendmentNumber": "755",
+            "congress": 103,
+            "introducedDate": "1994-07-14",
+            "latestAction": {
+                "actionDate": "1994-07-14",
+                "actionTime": "13:57:00",
+                "text": "On agreeing to the Tauzin amendment (A036) as modified Agreed to by recorded vote: 281 - 148 (Roll No. 325). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/755?format=json"
+        },
+        {
+            "amendmentNumber": "373",
+            "congress": 103,
+            "introducedDate": "1993-10-26",
+            "latestAction": {
+                "actionDate": "1993-10-26",
+                "actionTime": "16:06:49",
+                "text": "Mr. Studds raised a point of order against the Tauzin amendment (A018). Mr. Studds stated that the provisions of the amendment were non-germane and as such, were in violation of the rules of the House. The Chair sustained the point of order. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/373?format=json"
+        },
+        {
+            "amendmentNumber": "364",
+            "congress": 103,
+            "introducedDate": "1993-10-26",
+            "latestAction": {
+                "actionDate": "1993-10-26",
+                "actionTime": "14:52:57",
+                "text": "On agreeing to the Tauzin amendment (A009) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/364?format=json"
+        },
+        {
+            "amendmentNumber": "370",
+            "congress": 103,
+            "introducedDate": "1993-10-26",
+            "latestAction": {
+                "actionDate": "1993-10-26",
+                "actionTime": "15:30:31",
+                "text": "Mr. Studds raised a point of order against the Tauzin amendment (A015). The provisions of the Tauzin amendment are not germane to the bill because those provisions address items not contained in the bill, and as such, exceed the scope of the bill. The Chair sustained the point of order. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/370?format=json"
+        },
+        {
+            "amendmentNumber": "367",
+            "congress": 103,
+            "introducedDate": "1993-10-26",
+            "latestAction": {
+                "actionDate": "1993-10-26",
+                "actionTime": "14:59:46",
+                "text": "On agreeing to the Tauzin amendment (A012) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/367?format=json"
+        },
+        {
+            "amendmentNumber": "335",
+            "congress": 103,
+            "introducedDate": "1993-10-06",
+            "latestAction": {
+                "actionDate": "1993-10-26",
+                "actionTime": "17:05:36",
+                "text": "On agreeing to the Tauzin amendment (A001) Agreed to by recorded vote: 227 - 194 (Roll no. 528). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/335?format=json"
+        },
+        {
+            "amendmentNumber": "267",
+            "congress": 103,
+            "introducedDate": "1993-07-30",
+            "latestAction": {
+                "actionDate": "1993-07-30",
+                "actionTime": "11:52:11",
+                "text": "On agreeing to the Tauzin amendments (A001) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/267?format=json"
+        },
+        {
+            "amendmentNumber": "84",
+            "congress": 103,
+            "introducedDate": "1993-06-09",
+            "latestAction": {
+                "actionDate": "1993-06-09",
+                "actionTime": "13:20:04",
+                "text": "On agreeing to the Tauzin amendment (A001) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/84?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-10-06",
+            "latestAction": {
+                "actionDate": "1994-10-07",
+                "text": "Referred to the Subcommittee on Coast Guard and Navigation."
+            },
+            "number": "5229",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Panama Canal Amendments Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/5229?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-10-05",
+            "latestAction": {
+                "actionDate": "1994-10-17",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5197",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on nickel isoindoline pigment.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/5197?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-10-05",
+            "latestAction": {
+                "actionDate": "1994-10-17",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5196",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on C.I. Pigment Yellow 139.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/5196?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-09-29",
+            "latestAction": {
+                "actionDate": "1994-09-29",
+                "text": "Referred to the House Committee on Merchant Marine and Fisheries."
+            },
+            "number": "5136",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Offshore Supply Vessel Construction and Development Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/5136?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-08-12",
+            "latestAction": {
+                "actionDate": "1994-09-22",
+                "text": "Text of Measure Incorporated into H.R.4422."
+            },
+            "number": "4959",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Maritime Regulatory Reform Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4959?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-07-29",
+            "latestAction": {
+                "actionDate": "1994-09-20",
+                "text": "Text of Measure Incorporated into H.R.4837."
+            },
+            "number": "4863",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To authorize the sale and reregistration of certain vessels.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4863?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-07-19",
+            "latestAction": {
+                "actionDate": "1994-09-20",
+                "text": "Text of Measure Incorporated into H.R.4837."
+            },
+            "number": "4798",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To authorize the Secretary of Transportation to issue a certificate of documentation with appropriate endorsement for employment in the coastwise trade for the vessel SPIRIT OF THE PACIFIC NORTHWEST.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4798?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-07-14",
+            "latestAction": {
+                "actionDate": "1994-07-19",
+                "text": "Executive Comment Requested from Interior."
+            },
+            "number": "4770",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To require the Director of the United States Fish and Wildlife Service to conduct a study to determine the lands and waters comprising the LaBranche Wetlands in St. Charles Parish, Louisiana, and to acquire those lands and waters for inclusion in the Bayou Sauvage Urban National Wildlife Refuge.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4770?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-05-12",
+            "latestAction": {
+                "actionDate": "1994-09-26",
+                "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 624."
+            },
+            "number": "4422",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Coast Guard Authorization Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4422?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-04-19",
+            "latestAction": {
+                "actionDate": "1994-06-14",
+                "text": "Received in the Senate and read twice and referred to the Committee on Armed Services."
+            },
+            "number": "4246",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Panama Canal Commission Authorization Act, Fiscal Year 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4246?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-02-23",
+            "latestAction": {
+                "actionDate": "1994-06-29",
+                "text": "Motion to Discharge Committee filed by Mr. Tauzin. Petition No: 103-23."
+            },
+            "number": "3875",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Private Property Owners Bill of Rights",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3875?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-02-03",
+            "latestAction": {
+                "actionDate": "1994-03-23",
+                "text": "Received in the Senate and read twice and referred to the Committee on Commerce."
+            },
+            "number": "3786",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Recreational Boating Safety Improvement Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3786?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-11-19",
+            "latestAction": {
+                "actionDate": "1994-07-14",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3546",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Propane Education and Research Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3546?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-11-19",
+            "latestAction": {
+                "actionDate": "1994-05-03",
+                "text": "Executive Comment Received from ITC."
+            },
+            "number": "3576",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To clarify the tariff classification of certain organo-phosphorous compounds and preparations thereof.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3576?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-10-27",
+            "latestAction": {
+                "actionDate": "1993-11-18",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "3395",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To require the preparation of risk assessments in connection with Federal health and safety or environmental regulations, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3395?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-10-14",
+            "latestAction": {
+                "actionDate": "1994-09-22",
+                "text": "Text of Measure Incorporated into H.R.4422."
+            },
+            "number": "3282",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Towing Vessel Navigational Safety Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3282?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-09-29",
+            "latestAction": {
+                "actionDate": "1993-10-06",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3168",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Recreational Boating Safety Improvement Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3168?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-09-28",
+            "latestAction": {
+                "actionDate": "1993-11-22",
+                "text": "Text of Measure Incorporated into H.R.2150."
+            },
+            "number": "3165",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To authorize a foreign-built launch barge to transport an offshore drilling platform jacket in the coastwise trade of the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3165?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-09-29",
+            "latestAction": {
+                "actionDate": "1994-02-16",
+                "text": "Became Public Law No: 103-215."
+            },
+            "number": "3186",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To designate the United States Courthouse located in Houma, Louisiana, as the \"George Arceneaux, Jr., United States Courthouse\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3186?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-09-28",
+            "latestAction": {
+                "actionDate": "1993-11-22",
+                "text": "Text of Measure Incorporated into H.R.2150."
+            },
+            "number": "3166",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To authorize the sale and reregistration of certain vessels.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3166?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-09-15",
+            "latestAction": {
+                "actionDate": "1993-09-15",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3084",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To make a technical amendment to the Internal Revenue Code of 1986 relating to the Boat Safety Account in the Aquatic Resources Trust Fund.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3084?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-07-21",
+            "latestAction": {
+                "actionDate": "1994-03-15",
+                "text": "Executive Comment Received from ITC."
+            },
+            "number": "2700",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend until January 1, 1998, certain previously existing temporary duty suspensions.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2700?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-07-21",
+            "latestAction": {
+                "actionDate": "1993-12-13",
+                "text": "Executive Comment Received from ITC."
+            },
+            "number": "2701",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the previously existing temporary reduction of duty on caffeine.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2701?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-07-15",
+            "latestAction": {
+                "actionDate": "1993-07-30",
+                "text": "Text of Measure Incorporated into H.R.2150."
+            },
+            "number": "2657",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To direct the Coast Guard to establish the Gulf of Mexico Regional Fisheries Law Enforcement Training Center.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2657?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-07-15",
+            "latestAction": {
+                "actionDate": "1993-07-19",
+                "text": "Executive Comment Requested from DOT."
+            },
+            "number": "2658",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To direct the Secretary of Transportation to establish a program to evaluate the technological feasibility and environmental benefits of having tank vessels carry oil spill prevention and response technology.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2658?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-05-26",
+            "latestAction": {
+                "actionDate": "1993-06-22",
+                "text": "Referred to the Subcommittee on Transportation and Hazardous Materials."
+            },
+            "number": "2286",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Comprehensive Recycling Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2286?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-05-19",
+            "latestAction": {
+                "actionDate": "1993-12-20",
+                "text": "Became Public Law No: 103-206."
+            },
+            "number": "2150",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Coast Guard Authorization Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2150?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-02",
+            "latestAction": {
+                "actionDate": "1993-08-17",
+                "text": "Executive Comment Received from ITC."
+            },
+            "number": "1662",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on C.I. Pigment Yellow 183.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1662?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-02",
+            "latestAction": {
+                "actionDate": "1993-08-11",
+                "text": "Executive Comment Received from ITC."
+            },
+            "number": "1661",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on C.I. Pigment Yellow 138.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1661?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-02",
+            "latestAction": {
+                "actionDate": "1994-09-28",
+                "text": "See H.R.5110."
+            },
+            "number": "1648",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on 2-Hydroxy-4-Methoxy Benzohenone Sulfonic Acid.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1648?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-02",
+            "latestAction": {
+                "actionDate": "1994-09-28",
+                "text": "See H.R.5110."
+            },
+            "number": "1652",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on riboflavin.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1652?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-02",
+            "latestAction": {
+                "actionDate": "1993-08-17",
+                "text": "Executive Comment Received from ITC."
+            },
+            "number": "1656",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on sethoxydim.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1656?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-02",
+            "latestAction": {
+                "actionDate": "1993-08-11",
+                "text": "Executive Comment Received from ITC."
+            },
+            "number": "1660",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on rosachloride lumps.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1660?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-02",
+            "latestAction": {
+                "actionDate": "1993-08-27",
+                "text": "Executive Comment Received from ITC."
+            },
+            "number": "1664",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on Pigment Blue 16.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1664?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-02",
+            "latestAction": {
+                "actionDate": "1993-08-02",
+                "text": "Executive Comment Received from ITC."
+            },
+            "number": "1655",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on 2-(4-aminophenyl)-6-methylbenzothiazole-7-sulfonic acid.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1655?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-02",
+            "latestAction": {
+                "actionDate": "1993-08-11",
+                "text": "Executive Comment Received from ITC."
+            },
+            "number": "1659",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on B-naphtol.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1659?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-02",
+            "latestAction": {
+                "actionDate": "1993-08-27",
+                "text": "Executive Comment Received from ITC."
+            },
+            "number": "1663",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on Pigment Blue 60.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1663?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-02",
+            "latestAction": {
+                "actionDate": "1994-09-28",
+                "text": "See H.R.5110."
+            },
+            "number": "1649",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on a-Isopropl-a-((N-methyl-N-homoveratryl)-g-aminopropyl)-3, 4-Dimethoxy-phenylacetonitril-hydrochloride.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1649?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-02",
+            "latestAction": {
+                "actionDate": "1994-09-28",
+                "text": "See H.R.5110."
+            },
+            "number": "1653",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on certain chemicals.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1653?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-02",
+            "latestAction": {
+                "actionDate": "1993-08-11",
+                "text": "Executive Comment Received from ITC."
+            },
+            "number": "1657",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on 3-ethylamino-p-cresol.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1657?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-02",
+            "latestAction": {
+                "actionDate": "1994-09-28",
+                "text": "See H.R.5110."
+            },
+            "number": "1646",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on disperse red 279.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1646?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-02",
+            "latestAction": {
+                "actionDate": "1994-09-28",
+                "text": "See H.R.5110."
+            },
+            "number": "1650",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on 3,7,11,15 tetramethyl-1-hexadecen-3-01.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1650?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-02",
+            "latestAction": {
+                "actionDate": "1993-07-28",
+                "text": "Executive Comment Received from ITC."
+            },
+            "number": "1654",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on diamino imid sp.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1654?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-02",
+            "latestAction": {
+                "actionDate": "1993-08-02",
+                "text": "Executive Comment Received from ITC."
+            },
+            "number": "1658",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on 6-amino-1-naphthol-3-sulfonic acid.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1658?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-02",
+            "latestAction": {
+                "actionDate": "1994-09-28",
+                "text": "See H.R.5110."
+            },
+            "number": "1647",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on fastusol C blue 76L.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1647?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-02",
+            "latestAction": {
+                "actionDate": "1994-09-28",
+                "text": "See H.R.5110."
+            },
+            "number": "1651",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on 2,3,5-Trimethylhydroquinone.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1651?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-30",
+            "latestAction": {
+                "actionDate": "1993-07-14",
+                "text": "Received in the Senate and read twice and referred to the Committee on Armed Services."
+            },
+            "number": "1522",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Panama Canal Commission Authorization Act for Fiscal Year 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1522?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-25",
+            "latestAction": {
+                "actionDate": "1993-04-14",
+                "text": "Executive Comment Requested from Interior."
+            },
+            "number": "1490",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Endangered Species Act Procedural Reform Amendments of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1490?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-01",
+            "latestAction": {
+                "actionDate": "1993-06-10",
+                "text": "Received in the Senate and read twice and referred to the Committee on Commerce."
+            },
+            "number": "1159",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Passenger Vessel Safety Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1159?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-01",
+            "latestAction": {
+                "actionDate": "1994-09-28",
+                "text": "See H.R.5110."
+            },
+            "number": "1160",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To make permanent the temporary exemption from duty of the cost of certain foreign repairs made to United States vessels.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1160?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-01-05",
+            "latestAction": {
+                "actionDate": "1993-08-10",
+                "text": "See H.R.2264."
+            },
+            "number": "418",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to repeal the excise taxes on luxury items.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/418?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-01-05",
+            "latestAction": {
+                "actionDate": "1994-07-19",
+                "text": "Sponsor introductory remarks on measure. (CR E1498)"
+            },
+            "number": "430",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "National Dividend Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/430?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-01-05",
+            "latestAction": {
+                "actionDate": "1993-01-28",
+                "text": "Referred to the Subcommittee on Telecommunications and Finance."
+            },
+            "number": "417",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Securities Private Enforcement Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/417?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-05-11",
+            "latestAction": {
+                "actionDate": "1994-05-11",
+                "text": "Referred to the House Committee on Rules."
+            },
+            "number": "424",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Expressing the sense of the House of Representatives that Members of Congress should have the opportunity to offer an amendment striking an employer mandate in any legislation to reform our health care system.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/103/hres/424?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-31",
+            "latestAction": {
+                "actionDate": "1993-03-31",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "146",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Objecting to any further increase in the inland waterway fuel tax.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/103/hres/146?format=json"
+        },
+        {
+            "amendmentNumber": "355",
+            "congress": 104,
+            "introducedDate": "1995-05-09",
+            "latestAction": {
+                "actionDate": "1995-05-09",
+                "actionTime": "17:40:01",
+                "text": "Mr. Coble raised a point of order against the Tauzin amendment (A008). Mr. Coble stated that the provisions of the amendment requiring an increase in user fees applied to larger vessels constitued an increase in taxes and was, therefore, in violation of Rule XXI clause 5(b). The Chair sustained the point of order. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/355?format=json"
+        },
+        {
+            "amendmentNumber": "248",
+            "congress": 104,
+            "introducedDate": "1995-03-02",
+            "latestAction": {
+                "actionDate": "1995-03-02",
+                "actionTime": "15:31:21",
+                "text": "On agreeing to the Tauzin amendment (A002) Agreed to by recorded vote: 301 - 128 (Roll no. 190). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/248?format=json"
+        },
+        {
+            "amendmentNumber": "272",
+            "congress": 104,
+            "introducedDate": "1995-03-08",
+            "latestAction": {
+                "actionDate": "1995-03-08",
+                "actionTime": "16:21:25",
+                "text": "On agreeing to the Tauzin amendment (A007) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/272?format=json"
+        },
+        {
+            "amendmentNumber": "95",
+            "congress": 104,
+            "introducedDate": "1995-02-06",
+            "latestAction": {
+                "actionDate": "1995-02-06",
+                "actionTime": "16:54:54",
+                "text": "On agreeing to the Tauzin amendment (A018) Failed by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/95?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-25",
+            "latestAction": {
+                "actionDate": "1996-09-25",
+                "text": "Referred to the House Committee on Transportation and Infrastructure."
+            },
+            "number": "4192",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To authorize the Secretary of Transportation to issue a certificate of documentation with appropriate endorsement for employment in the coastwise trade for the vessel SPIRIT OF THE PACIFIC NORTHWEST.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/4192?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-12",
+            "latestAction": {
+                "actionDate": "1996-09-26",
+                "text": "Referred to the Subcommittee on Coast Guard and Maritime Transportation."
+            },
+            "number": "4078",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To authorize the Secretary of Transportation to issue a certificate of documentation with appropriate endorsement for employment in the coastwise trade for the vessel REGENT RAINBOW.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/4078?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-06-06",
+            "latestAction": {
+                "actionDate": "1996-06-21",
+                "text": "Referred to the Subcommittee on Energy and Power."
+            },
+            "number": "3601",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Public Utility Holding Company Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3601?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-06-18",
+            "latestAction": {
+                "actionDate": "1996-07-17",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3671",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "United Houma Nation Recognition and Land Claims Settlement Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3671?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-07-25",
+            "latestAction": {
+                "actionDate": "1995-11-28",
+                "text": "See S.395."
+            },
+            "number": "2106",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Outer Continental Shelf Deep Water Royalty Relief Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2106?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-04-07",
+            "latestAction": {
+                "actionDate": "1996-10-11",
+                "text": "Became Public Law No: 104-284."
+            },
+            "number": "1514",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Propane Education and Research Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1514?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-02-10",
+            "latestAction": {
+                "actionDate": "1995-02-21",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "897",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To terminate the Office of the Surgeon General of the Public Health Service.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/897?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-02-01",
+            "latestAction": {
+                "actionDate": "1995-03-15",
+                "text": "Referred to the Subcommittee on the Constitution."
+            },
+            "number": "790",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Private Property Owners Bill of Rights",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/790?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-25",
+            "latestAction": {
+                "actionDate": "1995-02-21",
+                "text": "Referred to the Subcommittee on Telecommunications and Finance."
+            },
+            "number": "681",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Securities Private Enforcement Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/681?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-05",
+            "latestAction": {
+                "actionDate": "1995-04-27",
+                "text": "Referred to the Subcommittee on the Legislative and Budget Process."
+            },
+            "number": "430",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "National Dividend Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/430?format=json"
+        },
+        {
+            "amendmentNumber": "599",
+            "congress": 105,
+            "introducedDate": "1998-05-06",
+            "latestAction": {
+                "actionDate": "1998-05-06",
+                "actionTime": "15:18:29",
+                "text": "On agreeing to the Tauzin amendment (A004) Failed by recorded vote: 80 - 339, 2 Present (Roll No. 128). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/599?format=json"
+        },
+        {
+            "amendmentNumber": "371",
+            "congress": 105,
+            "introducedDate": "1997-09-18",
+            "latestAction": {
+                "actionDate": "1997-09-18",
+                "actionTime": "15:58:36",
+                "text": "On agreeing to the Tauzin amendment (A003) Failed by recorded vote: 181 - 236, 1 Present (Roll no. 410). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/371?format=json"
+        }
+    ]
+}

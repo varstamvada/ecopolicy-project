@@ -1,0 +1,931 @@
+{
+    "pagination": {
+        "count": 62
+    },
+    "request": {
+        "bioguideId": "m000999",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "836",
+            "congress": 97,
+            "introducedDate": "1982-09-09",
+            "latestAction": {
+                "actionDate": "1982-09-09",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/836?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-06-22",
+            "latestAction": {
+                "actionDate": "1982-07-07",
+                "text": "Referred to Subcommittee on Compensation and Employee Benefits."
+            },
+            "number": "6652",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to adjust the rates of pay for certain Army Corps of Engineers power employees to insure comparability with rates of pay for certain other Federal employees in the region performing similar work.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6652?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-03-09",
+            "latestAction": {
+                "actionDate": "1982-06-14",
+                "text": "Subcommittee Consideration and Mark-up Session Held."
+            },
+            "number": "5773",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Mount Saint Helens National Volcanic Area Act of 1982",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/5773?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-12-16",
+            "latestAction": {
+                "actionDate": "1981-12-16",
+                "text": "Referred to House Committee on Interior and Insular Affairs."
+            },
+            "number": "5300",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "A bill to amend the Act of June 24, 1938, to allow the Secretary of the Interior to invest certain funds collected by Indian irrigation and power projects.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/5300?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-12-16",
+            "latestAction": {
+                "actionDate": "1982-01-27",
+                "text": "Executive Comment Requested from Interior."
+            },
+            "number": "5301",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "A bill to authorize the Secretary of the Interior to construct, operate, and maintain a Yakima River Fish Facilities Improvement Project.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/5301?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-12-16",
+            "latestAction": {
+                "actionDate": "1982-01-27",
+                "text": "Executive Comment Requested from Interior."
+            },
+            "number": "5299",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "A bill to authorize the Secretary of the Interior to construct, operate, and maintain an enlarged Bumping Lake, Supplemental Storage Division, Yakima project, Washington.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/5299?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-11-04",
+            "latestAction": {
+                "actionDate": "1981-11-04",
+                "text": "Referred to House Committee on The Judiciary."
+            },
+            "number": "4906",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Anthony Lewis, Karen Lewis, Sean Martin Lewis, Anthony Conan Lewis, and Gail Alison Lewis.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4906?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-06-07",
+            "latestAction": {
+                "actionDate": "1984-06-07",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "5807",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to clarify the treatment of travel expenses in the case of construction workers.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5807?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-05-07",
+            "latestAction": {
+                "actionDate": "1984-06-04",
+                "text": "Referred to Subcommittee on Energy and the Environment."
+            },
+            "number": "5605",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Federal Food Irradiation Development and Control Act of 1984",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5605?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-11-18",
+            "latestAction": {
+                "actionDate": "1983-11-18",
+                "text": "Referred to Subcommittee on Health and the Environment."
+            },
+            "number": "4544",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to promote the use of food irradiation as a post-harvest treatment for agricultural commodities and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4544?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-06-22",
+            "latestAction": {
+                "actionDate": "1983-06-22",
+                "text": "Referred to House Committee on Interior and Insular Affairs."
+            },
+            "number": "3389",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "A bill to amend the Act of June 24, 1938, to allow the Secretary of the Interior to invest certain funds collected by Indian irrigation and power projects.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/3389?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-04-20",
+            "latestAction": {
+                "actionDate": "1983-05-16",
+                "text": "Executive Comment Requested from Interior."
+            },
+            "number": "2654",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "A bill to authorize the Secretary of the Interior to construct, operate, and maintain an enlarged Bumping Lake, Supplemental Storage Division, Yakima Project, Washington.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/2654?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-01-06",
+            "latestAction": {
+                "actionDate": "1984-05-18",
+                "text": "Passed Senate with an amendment by Voice Vote."
+            },
+            "number": "653",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "A bill to amend Public Law 96-162 to provide a credit to the State of Washington for certain construction costs associated with the Yakima River Basin Water Enhancement Project.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/653?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-04-07",
+            "latestAction": {
+                "actionDate": "1983-09-28",
+                "text": "Became Public Law No: 98-99."
+            },
+            "number": "229",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A joint resolution to authorize and request the President to issue a proclamation designating April 22 through April 28, 1984, as \"National Organ Donation Awareness Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/98/hjres/229?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-08-15",
+            "latestAction": {
+                "actionDate": "1986-10-10",
+                "text": "Referred to Subcommittee on Water and Power Resources."
+            },
+            "number": "5468",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "A bill to amend Public Law 94-423, relating to the Oroville-Tonasket Unit, Chief Joseph Dam Project, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5468?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-06-05",
+            "latestAction": {
+                "actionDate": "1986-08-19",
+                "text": "Referred to Subcommittee on General Oversight, Northwest Power, and Forest Management."
+            },
+            "number": "4947",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "A bill to authorize certain elements of the Yakima River Basin Water Enhancement Project, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/4947?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-07-23",
+            "latestAction": {
+                "actionDate": "1985-07-23",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "3059",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow a credit against tax for contributions of certain agricultural products to certain tax-exempt organizations.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3059?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-05-15",
+            "latestAction": {
+                "actionDate": "1986-07-17",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "2524",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Federal Nuclear Waste Disposal Liability Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2524?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-05-02",
+            "latestAction": {
+                "actionDate": "1985-05-02",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "2346",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to clarify the treatment of travel expenses in the case of construction workers.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2346?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-04-17",
+            "latestAction": {
+                "actionDate": "1985-05-24",
+                "text": "Referred to Subcommittee on Water and Power Resources."
+            },
+            "number": "2096",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "A bill to authorize the Secretary of the Interior to construct, operate, and maintain an enlarged Bumping Lake, Supplemental Storage Division, Yakima Project, Washington.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2096?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-04-17",
+            "latestAction": {
+                "actionDate": "1985-04-22",
+                "text": "Referred to Subcommittee on Administrative Law and Governmental Relations."
+            },
+            "number": "2097",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to recognize the organization known as the American Philatelic Society.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2097?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-01-24",
+            "latestAction": {
+                "actionDate": "1985-12-20",
+                "text": "Executive Comment Received From USDA."
+            },
+            "number": "696",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Federal Food Irradiation Development and Control Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/696?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-11-12",
+            "latestAction": {
+                "actionDate": "1985-12-23",
+                "text": "Became Public Law No: 99-203."
+            },
+            "number": "450",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution to authorize and request the President to issue a proclamation designating April 20 through April 26, 1986, as \"National Organ and Tissue Donor Awareness Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/99/hjres/450?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-01-31",
+            "latestAction": {
+                "actionDate": "1985-04-14",
+                "text": "See S.J.Res.35."
+            },
+            "number": "123",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution to authorize and request the President to issue a proclamation designating April 21 through April 27, 1985 as \"National Organ Donation Awareness Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/99/hjres/123?format=json"
+        },
+        {
+            "amendmentNumber": "660",
+            "congress": 100,
+            "introducedDate": "1988-05-03",
+            "latestAction": {
+                "actionDate": "1988-05-03",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/660?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-05-04",
+            "latestAction": {
+                "actionDate": "1988-09-26",
+                "text": "Referred to Subcommittee on Water and Power."
+            },
+            "number": "4538",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill to permit reimbursement of relocation expenses of William D. Morger.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4538?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-04-25",
+            "latestAction": {
+                "actionDate": "1988-05-05",
+                "text": "Referred to Subcommittee on Water and Power Resources."
+            },
+            "number": "4453",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "A bill to authorize certain elements of the Yakima River Basin Water Enhancement Project, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4453?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-03-29",
+            "latestAction": {
+                "actionDate": "1988-03-29",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "4280",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to allow a credit against tax for contributions of certain agricultural products to certain tax-exempt organizations.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4280?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-03-22",
+            "latestAction": {
+                "actionDate": "1988-03-25",
+                "text": "Referred to Subcommittee on Energy Research and Development."
+            },
+            "number": "4224",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A bill to require the Secretary of Energy to develop a plan for demonstrating the technical feasibility of burning weapons grade nuclear materials that have been removed from dismantled nuclear weapons in nuclear reactors of the Department of Energy and to report to Congress on that plan, and to require the President to consider inviting the Soviet Union to participate in the demonstration.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4224?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-03-17",
+            "latestAction": {
+                "actionDate": "1988-05-05",
+                "text": "Referred to Subcommittee on Water and Power Resources."
+            },
+            "number": "4202",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "A bill to declare that certain costs incurred for emergency repairs and modifications to preserve the safety of the Conconully Dam are nonreimbursable and nonreturnable.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4202?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-11-05",
+            "latestAction": {
+                "actionDate": "1988-11-04",
+                "text": "Became Public Law No: 100-605."
+            },
+            "number": "3614",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to amend the Wild and Scenic Rivers Act to designate a section of the Columbia River in Washington State as a study area for inclusion in the National Wild and Scenic Rivers System and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3614?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-11-10",
+            "latestAction": {
+                "actionDate": "1987-11-10",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "3635",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to retain a capital gains tax differential, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3635?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-08-03",
+            "latestAction": {
+                "actionDate": "1988-05-25",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3077",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Regional Monitored Retrievable Storage Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3077?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-07-15",
+            "latestAction": {
+                "actionDate": "1987-07-30",
+                "text": "Referred to Subcommittee on Compensation and Employee Benefits."
+            },
+            "number": "2963",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to provide that the basic pay of employees of the United States Army Corps of Engineers who are paid from Corps of Engineer Special Power Rate Schedules shall be consistent with the basic pay of certain other Federal employees.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2963?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-06-26",
+            "latestAction": {
+                "actionDate": "1987-07-13",
+                "text": "Referred to Subcommittee on Water and Power Resources."
+            },
+            "number": "2814",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "A bill to authorize certain elements of the Yakima River Basin Water Enhancement Project, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2814?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-06-25",
+            "latestAction": {
+                "actionDate": "1987-06-25",
+                "text": "Referred to House Committee on The Judiciary."
+            },
+            "number": "2796",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to recognize the organization known as the American Philatelic Society.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2796?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-05-28",
+            "latestAction": {
+                "actionDate": "1988-10-04",
+                "text": "For Further Action See H.R.2772."
+            },
+            "number": "2558",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "A bill to authorize the Secretary of the Interior to take corrective action to protect certain portions of the Franklin County, Washington, road system within the Federal Columbia Basin reclamation project.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2558?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-06-08",
+            "latestAction": {
+                "actionDate": "1987-06-11",
+                "text": "Referred to Subcommittee on Procurement and Military Nuclear Systems."
+            },
+            "number": "2625",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "A bill to provide that a certain amount of funds shall be available to the Secretary of Energy each fiscal year for cleanup of hazardous or radioactive waste from atomic energy defense activities and to require the Secretary of Energy to develop within one year a comprehensive plan for the cleanup of such waste.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2625?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-02-26",
+            "latestAction": {
+                "actionDate": "1987-10-07",
+                "text": "For Further Action See S.640."
+            },
+            "number": "1304",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "A bill to amend Public Law 94-423, relating to the Oroville-Tonasket Unit, Chief Joseph Dam Project, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/1304?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-02-17",
+            "latestAction": {
+                "actionDate": "1988-02-22",
+                "text": "Referred to Subcommittee on Census and Population."
+            },
+            "number": "460",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution to authorize and request the President to issue a proclamation designating April 24, 1988, through April 30, 1988 as \"National Organ Tissue Donor Awareness Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/460?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-03-17",
+            "latestAction": {
+                "actionDate": "1987-04-22",
+                "text": "See S.J.Res.89."
+            },
+            "number": "189",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution to authorize and request the President to issue a proclamation designating April 26 through May 2, 1987 as \"National Organ and Tissue Donor Awareness Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/189?format=json"
+        },
+        {
+            "amendmentNumber": "516",
+            "congress": 101,
+            "introducedDate": "1990-06-14",
+            "latestAction": {
+                "actionDate": "1990-06-14",
+                "actionTime": "16:43:43",
+                "text": "On agreeing to the Morrison (WA) amendment (A013) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/516?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-10-19",
+            "latestAction": {
+                "actionDate": "1990-11-19",
+                "text": "Referred to the Subcommittee on Energy and Power."
+            },
+            "number": "5880",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "To authorize private sector participation in designing, constructing, owning, and operating facilities which support Department of Energy waste cleanup and modernization missions.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5880?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-10-10",
+            "latestAction": {
+                "actionDate": "1990-12-03",
+                "text": "Referred to the Subcommittee on Water, Power and Offshore Energy Resources."
+            },
+            "number": "5808",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "To provide equity in the Pacific Northwest in the event of the loss of a regional electric generating resource through a state initiative.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5808?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-08-03",
+            "latestAction": {
+                "actionDate": "1990-11-15",
+                "text": "Became Public Law No: 101-560."
+            },
+            "number": "5507",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Regarding the Early Winters Resort.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5507?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-08-01",
+            "latestAction": {
+                "actionDate": "1990-08-01",
+                "text": "Referred to the House Committee on Science, Space and Technology."
+            },
+            "number": "5427",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "To require the Secretary of Energy to establish the Fast Flux Test Facility as an international research and development center to be known as the International Research Reactor User Complex.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5427?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-05-23",
+            "latestAction": {
+                "actionDate": "1990-06-13",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "4900",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Ninth Circuit Court of Appeals Reorganization Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4900?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-02-27",
+            "latestAction": {
+                "actionDate": "1990-06-14",
+                "text": "Provisions Included In H.R.2567."
+            },
+            "number": "4119",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To direct the Secretary of the Interior to convey certain lands in Sunnyside, Washington, to the Sunnyside Valley Irrigation District.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4119?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-02-07",
+            "latestAction": {
+                "actionDate": "1990-02-12",
+                "text": "Referred to the Subcommittee on Conservation Credit and Rural Development."
+            },
+            "number": "3997",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "National Forest-Dependent Rural Communities Economic Diversification Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3997?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-09",
+            "latestAction": {
+                "actionDate": "1989-11-28",
+                "text": "Became Private Law No: 101-2."
+            },
+            "number": "1020",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To permit reimbursement of relocation expenses of William D. Morger.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/1020?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-21",
+            "latestAction": {
+                "actionDate": "1989-02-21",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1029",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Capital Investment Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/1029?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-09",
+            "latestAction": {
+                "actionDate": "1989-02-24",
+                "text": "Executive Comment Requested from Army, OMB."
+            },
+            "number": "986",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To direct the Secretary of the Army to release a reversionary interest in certain lands in the port of Benton, Washington, which were proviously conveyed to the Port of Benton.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/986?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-01-31",
+            "latestAction": {
+                "actionDate": "1989-04-20",
+                "text": "Became Public Law No: 101-18."
+            },
+            "number": "112",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Designating April 23, 1989, through April 30, 1989, as \"National Organ and Tissue Donor Awareness Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/112?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-06-24",
+            "latestAction": {
+                "actionDate": "1992-07-22",
+                "text": "Referred to the Subcommittee on National Parks and Public Lands."
+            },
+            "number": "5480",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To authorize the Secretary of Agriculture to convey certain real property in the Wenatchee National Forest, Washington, to the Public Utility District No. 1 of Chelan County, Washington, in exchange for other real property.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5480?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-05-05",
+            "latestAction": {
+                "actionDate": "1992-05-08",
+                "text": "Referred to the Subcommittee on Telecommunications and Finance."
+            },
+            "number": "5065",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Clean Campaign Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5065?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-08-02",
+            "latestAction": {
+                "actionDate": "1992-05-07",
+                "text": "See H.R.4899."
+            },
+            "number": "3263",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Northwest Forest Protection and Community Stability Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3263?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-07-30",
+            "latestAction": {
+                "actionDate": "1991-08-22",
+                "text": "Referred to the Subcommittee on Water, Power and Offshore Energy Resources."
+            },
+            "number": "3097",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To authorize certain elements of the Yakima River Basin Water Enhancement Project, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3097?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-06-03",
+            "latestAction": {
+                "actionDate": "1991-06-21",
+                "text": "Referred to the Subcommittee on National Parks and Public Lands."
+            },
+            "number": "2516",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To authorize the transfer of certain facilities in the Wenatchee National Forest, Washington.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2516?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-03-22",
+            "latestAction": {
+                "actionDate": "1991-04-22",
+                "text": "Referred to the Subcommittee on Energy and Power."
+            },
+            "number": "1636",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "To authorize private sector participation in designing, constructing, owning, and operating facilities to provide supplies, equipment, materials or services to support Department of Energy Waste Cleanup and modernization missions.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1636?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-02-06",
+            "latestAction": {
+                "actionDate": "1991-03-01",
+                "text": "Referred to the Subcommittee on Energy."
+            },
+            "number": "910",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "To require the Secretary of Energy to establish the Fast Flux Test Facility as a research and development center to be known as The Research Reactor User Complex.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/910?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-02-06",
+            "latestAction": {
+                "actionDate": "1991-04-24",
+                "text": "See H.R.429."
+            },
+            "number": "909",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To direct the Secretary of the Interior to convey certain lands in Sunnyside, Washington, to the Sunnyside Valley Irrigation District.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/909?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-04-11",
+            "latestAction": {
+                "actionDate": "1991-04-26",
+                "text": "Became Public Law No: 102-36."
+            },
+            "number": "218",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To designate the week beginning April 21, 1991, and the week beginning April 19, 1992, each as \"National Organ and Tissue Donor Awareness Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/102/hjres/218?format=json"
+        }
+    ]
+}

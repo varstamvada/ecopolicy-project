@@ -1,0 +1,697 @@
+{
+    "pagination": {
+        "count": 48
+    },
+    "request": {
+        "bioguideId": "m000481",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "345",
+            "congress": 106,
+            "introducedDate": "1999-07-26",
+            "latestAction": {
+                "actionDate": "1999-07-26",
+                "actionTime": "16:12:41",
+                "text": "On agreeing to the McIntosh amendments (A002) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/345?format=json"
+        },
+        {
+            "amendmentNumber": "313",
+            "congress": 106,
+            "introducedDate": "1999-07-20",
+            "latestAction": {
+                "actionDate": "1999-07-20",
+                "actionTime": "15:55:13",
+                "text": "On agreeing to the McIntosh amendment (A004) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/313?format=json"
+        },
+        {
+            "amendmentNumber": "213",
+            "congress": 106,
+            "introducedDate": "1999-06-17",
+            "latestAction": {
+                "actionDate": "1999-06-17",
+                "actionTime": "19:41:24",
+                "text": "On agreeing to the McIntosh amendment (A039) Agreed to by recorded vote: 300 - 126 (Roll no. 229). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/213?format=json"
+        },
+        {
+            "amendmentNumber": "6",
+            "congress": 106,
+            "introducedDate": "1999-02-11",
+            "latestAction": {
+                "actionDate": "1999-02-11",
+                "actionTime": "12:26:26",
+                "text": "On agreeing to the McIntosh amendment (A001) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/6?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-09-06",
+            "latestAction": {
+                "actionDate": "2000-09-06",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5108",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To provide for the geographic reclassification of a county under the Medicare Program to provide for more equitable payments under that program to hospitals located in that county.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/5108?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-07-12",
+            "latestAction": {
+                "actionDate": "2000-07-12",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4834",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Gas Tax Relief Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4834?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-02-29",
+            "latestAction": {
+                "actionDate": "2000-03-07",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3731",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on fluroxypyr 1-methylheptyl ester (FME).",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3731?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-01-24",
+            "latestAction": {
+                "actionDate": "2000-02-04",
+                "text": "Referred to the Subcommittee on National Economic Growth, Natural Resources and Regulatory Affairs."
+            },
+            "number": "3521",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Congressional Accountability for Regulatory Information Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3521?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-12",
+            "latestAction": {
+                "actionDate": "1999-07-28",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "2481",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on refined quinoline.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2481?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-12",
+            "latestAction": {
+                "actionDate": "1999-07-28",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "2477",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on ethalfluralin.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2477?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-12",
+            "latestAction": {
+                "actionDate": "1999-07-28",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "2473",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on dicholor aniline (DCA).",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2473?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-12",
+            "latestAction": {
+                "actionDate": "1999-07-28",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "2482",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on 2,2'-dithiobis(8-fluoro-5-methoxy ?1,2,4?triazolo?1,5-c? pyrimidine (DMDS).",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2482?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-12",
+            "latestAction": {
+                "actionDate": "1999-07-28",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "2480",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on diethyl phosphorochoridothiate (DEPCT).",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2480?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-12",
+            "latestAction": {
+                "actionDate": "1999-07-28",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "2476",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on diethyl imidazolidinnone (DMI).",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2476?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-12",
+            "latestAction": {
+                "actionDate": "1999-07-28",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "2472",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on dimethoxy butanone (DMB).",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2472?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-12",
+            "latestAction": {
+                "actionDate": "1999-07-28",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "2479",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on 3-amino-5-mercapto-1,2,4-triazole (AMT).",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2479?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-12",
+            "latestAction": {
+                "actionDate": "1999-07-28",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "2475",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on trifluralin.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2475?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-12",
+            "latestAction": {
+                "actionDate": "1999-07-28",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "2478",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on benefluralin.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2478?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-12",
+            "latestAction": {
+                "actionDate": "1999-07-28",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "2474",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on diphenyl sulfide.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2474?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-16",
+            "latestAction": {
+                "actionDate": "1999-07-29",
+                "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote."
+            },
+            "number": "2245",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federalism Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2245?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-15",
+            "latestAction": {
+                "actionDate": "1999-06-24",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "2221",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Small Business, Family Farms, and Constitutional Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2221?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-07",
+            "latestAction": {
+                "actionDate": "1999-06-07",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "2022",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Freedom From Mutually Assured Destruction Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2022?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-07",
+            "latestAction": {
+                "actionDate": "1999-06-17",
+                "text": "Referred to the Subcommittee on Military Research and Development."
+            },
+            "number": "2023",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "American People Protection Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2023?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-01-19",
+            "latestAction": {
+                "actionDate": "1999-01-19",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "390",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to exclude from gross income amounts received for settlement of certain claims of Holocaust survivors.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/390?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-01-19",
+            "latestAction": {
+                "actionDate": "1999-10-19",
+                "text": "Committee on Governmental Affairs. Hearings held."
+            },
+            "number": "391",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Small Business Paperwork Reduction Act Amendments of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/391?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-03-06",
+            "latestAction": {
+                "actionDate": "2000-06-14",
+                "text": "Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "266",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Expressing the sense of the Congress regarding the benefits of music education.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/106/hconres/266?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-10-28",
+            "latestAction": {
+                "actionDate": "1999-11-04",
+                "actionTime": "12:18:04",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "214",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Expressing the sense of Congress that direct systematic phonics instruction should be used in all schools.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/106/hconres/214?format=json"
+        },
+        {
+            "amendmentNumber": "1281",
+            "congress": 104,
+            "introducedDate": "1996-07-11",
+            "latestAction": {
+                "actionDate": "1996-07-11",
+                "actionTime": "22:15:35",
+                "text": "On agreeing to the McIntosh amendment (A032) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/1281?format=json"
+        },
+        {
+            "amendmentNumber": "1051",
+            "congress": 104,
+            "introducedDate": "1996-05-09",
+            "latestAction": {
+                "actionDate": "1996-05-09",
+                "actionTime": "16:45:59",
+                "text": "On agreeing to the McIntosh amendment (A035) Failed by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/1051?format=json"
+        },
+        {
+            "amendmentNumber": "619",
+            "congress": 104,
+            "introducedDate": "1995-07-20",
+            "latestAction": {
+                "actionDate": "1995-07-21",
+                "actionTime": "00:14:00",
+                "text": "On agreeing to the McIntosh amendment (A024) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/619?format=json"
+        },
+        {
+            "amendmentNumber": "202",
+            "congress": 104,
+            "introducedDate": "1995-02-23",
+            "latestAction": {
+                "actionDate": "1995-02-23",
+                "actionTime": "19:08:38",
+                "text": "On agreeing to the McIntosh amendment (A009) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/202?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-24",
+            "latestAction": {
+                "actionDate": "1996-09-24",
+                "text": "Referred to the House Committee on Government Reform and Oversight."
+            },
+            "number": "4136",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To provide for a reduced rate of postage for certain mailings that, under Federal or State law, are required to be made by local governments.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/4136?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-05-07",
+            "latestAction": {
+                "actionDate": "1996-05-17",
+                "text": "Referred to the Subcommittee on Housing and Community Opportunity."
+            },
+            "number": "3404",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "Safe and Affordable Manufactured Housing Improvement Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3404?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-07-13",
+            "latestAction": {
+                "actionDate": "1995-09-12",
+                "text": "Sponsor introductory remarks on measure. (CR H8727-8728)"
+            },
+            "number": "2042",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Kuwait Business Practices Review Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2042?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-06-21",
+            "latestAction": {
+                "actionDate": "1996-07-23",
+                "text": "Subcommittee Consideration and Mark-up Session Held."
+            },
+            "number": "1907",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal-aid Facility Privatization Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1907?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-02-03",
+            "latestAction": {
+                "actionDate": "1995-03-15",
+                "text": "Referred to the Subcommittee on Commercial and Administrative Law."
+            },
+            "number": "821",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Middle Class Regulatory Relief Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/821?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-04",
+            "latestAction": {
+                "actionDate": "1995-01-04",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "322",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Restoration of Certain Second Amendment Rights Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/322?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-04",
+            "latestAction": {
+                "actionDate": "1995-01-04",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "323",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Health Care Savings Plan Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/323?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-19",
+            "latestAction": {
+                "actionDate": "1996-09-25",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "527",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Relating to breast implants, the Food and Drug Administration, and public health.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/527?format=json"
+        },
+        {
+            "amendmentNumber": "812",
+            "congress": 105,
+            "introducedDate": "1998-07-30",
+            "latestAction": {
+                "actionDate": "1998-07-31",
+                "actionTime": "13:37:17",
+                "text": "On agreeing to the McIntosh amendment (A032) Failed by recorded vote: 195 - 218 (Roll No. 368). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/812?format=json"
+        },
+        {
+            "amendmentNumber": "859",
+            "congress": 105,
+            "introducedDate": "1998-08-05",
+            "latestAction": {
+                "actionDate": "1998-08-05",
+                "actionTime": "23:39:07",
+                "text": "On agreeing to the McIntosh amendment (A035) Agreed to by recorded vote: 240 - 188 (Roll No. 400). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/859?format=json"
+        },
+        {
+            "amendmentNumber": "537",
+            "congress": 105,
+            "introducedDate": "1998-03-26",
+            "latestAction": {
+                "actionDate": "1998-03-26",
+                "actionTime": "13:39:08",
+                "text": "On agreeing to the McIntosh amendment (A002) Agreed to by recorded vote: 224 - 179 (Roll No. 73). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/537?format=json"
+        },
+        {
+            "amendmentNumber": "323",
+            "congress": 105,
+            "introducedDate": "1997-09-05",
+            "latestAction": {
+                "actionDate": "1997-09-05",
+                "actionTime": "12:32:27",
+                "text": "On agreeing to the McIntosh amendment (A004) Failed by recorded vote: 167 - 260 (Roll no. 367). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/323?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-09-14",
+            "latestAction": {
+                "actionDate": "1998-09-14",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4563",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to exclude from gross income amounts received for settlement of certain claims of Holocaust survivors.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/4563?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-07-22",
+            "latestAction": {
+                "actionDate": "1998-07-28",
+                "text": "Referred to the Subcommittee on Commercial and Administrative Law."
+            },
+            "number": "4297",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend chapter 8 of title 5, United States Code, popularly know as the Congressional Review Act, to treat as major rules certain rules promulgated by the Internal Revenue Service that result in increases in Federal revenues.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/4297?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-03",
+            "latestAction": {
+                "actionDate": "1998-04-02",
+                "text": "Read twice and referred to the Committee on Governmental Affairs."
+            },
+            "number": "3310",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Small Business Paperwork Reduction Act Amendments of 1998",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3310?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-03-03",
+            "latestAction": {
+                "actionDate": "1997-03-04",
+                "text": "Referred to the Subcommittee on Postal Service."
+            },
+            "number": "906",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To provide for a reduced rate of postage for certain mailings that, under Federal or State law, are required to be made by local governments.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/906?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-01-07",
+            "latestAction": {
+                "actionDate": "1997-01-28",
+                "text": "Referred to the Subcommittee on the Constitution."
+            },
+            "number": "233",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend the Lobbying Disclosure Act of 1995.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/233?format=json"
+        }
+    ]
+}

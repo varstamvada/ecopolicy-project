@@ -1,0 +1,27 @@
+{
+    "pagination": {
+        "count": 1
+    },
+    "request": {
+        "bioguideId": "l000167",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 96,
+            "introducedDate": "1980-09-25",
+            "latestAction": {
+                "actionDate": "1980-09-25",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "8216",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide for royalty owners and independent producers an annual $1,200 credit against the crude oil windfall profit tax, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/8216?format=json"
+        }
+    ]
+}

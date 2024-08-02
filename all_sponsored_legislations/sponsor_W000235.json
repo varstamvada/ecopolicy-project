@@ -1,0 +1,83 @@
+{
+    "pagination": {
+        "count": 5
+    },
+    "request": {
+        "bioguideId": "w000235",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "413",
+            "congress": 97,
+            "introducedDate": "1981-11-18",
+            "latestAction": {
+                "actionDate": "1981-11-18",
+                "text": "Amendment Failed of Passage in Committee of Whole by Division Vote: 55 - 76. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/413?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-03-22",
+            "latestAction": {
+                "actionDate": "1982-03-25",
+                "text": "Referred to Subcommittee on Social Security."
+            },
+            "number": "5920",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend title II of the Social Security Act to provide generally that benefits thereunder may be paid to aliens only after they have been lawfully admitted to the United States for permanent residence, and to impose further restrictions on the right of any alien in a foreign country to receive such benefits.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/5920?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-12-10",
+            "latestAction": {
+                "actionDate": "1981-12-15",
+                "text": "Referred to Subcommittee on Social Security."
+            },
+            "number": "5168",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend title II of the Social Security Act to provide generally that benefits thereunder may be paid to aliens only after they have been lawfully admitted to the United States for permanent residence, and to impose further restrictions on the right of any alien in a foreign country to receive such benefits.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/5168?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-10-28",
+            "latestAction": {
+                "actionDate": "1981-11-17",
+                "text": "Executive Comment Received From St. Lawrence Seaway Devel Corp."
+            },
+            "number": "4858",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Waterways Transportation Development and Improvement Act of 1981",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4858?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-11-05",
+            "latestAction": {
+                "actionDate": "1981-11-12",
+                "text": "Referred to Subcommittee on Accounts."
+            },
+            "number": "264",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A resolution requiring reports for foreign travel by Members, officers, and employees of the House of Representatives and prompt publication of such reports in the Congressional Record.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/97/hres/264?format=json"
+        }
+    ]
+}

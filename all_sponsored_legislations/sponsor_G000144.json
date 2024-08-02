@@ -1,0 +1,57 @@
+{
+    "pagination": {
+        "count": 3
+    },
+    "request": {
+        "bioguideId": "g000144",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 93,
+            "introducedDate": "1973-07-18",
+            "latestAction": {
+                "actionDate": "1973-07-18",
+                "text": "Referred to House Committee on District of Columbia."
+            },
+            "number": "9368",
+            "policyArea": {
+                "name": "District of Columbia"
+            },
+            "title": "A bill to establish additional land use criteria for comprehensive planning, revision of zoning regulations, improved economic opportunity, and an increased tax base in the redevelopment of the District of Columbia.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/9368?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-04-12",
+            "latestAction": {
+                "actionDate": "1973-04-12",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "6909",
+            "policyArea": {
+                "name": null
+            },
+            "title": "A bill to amend the Federal Trade Commission Act (15 U.S.C. 41) to provide that under certain circumstances exclusive territorial arrangements shall not be deemed unlawful.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/6909?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-04-12",
+            "latestAction": {
+                "actionDate": "1973-04-12",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "6910",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend the Communications Act of 1934 to establish orderly procedures for the consideration of applications for renewal of broadcast licenses.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/6910?format=json"
+        }
+    ]
+}

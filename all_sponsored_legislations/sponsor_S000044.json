@@ -1,0 +1,384 @@
+{
+    "pagination": {
+        "count": 25
+    },
+    "request": {
+        "bioguideId": "s000044",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "170",
+            "congress": 108,
+            "introducedDate": "2003-06-12",
+            "latestAction": {
+                "actionDate": "2003-06-12",
+                "actionTime": "14:45:48",
+                "text": "On agreeing to the Sandlin amendment (A005) Failed by recorded vote: 170 - 255 (Roll no. 270). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/hamdt/170?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-05-20",
+            "latestAction": {
+                "actionDate": "2004-05-21",
+                "text": "Sponsor introductory remarks on measure. (CR E957)"
+            },
+            "number": "4462",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Making appropriations for homeland security programs within the Departments of Energy, Health and Human Services, and Homeland Security for the fiscal year ending September 30, 2005, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/4462?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-05-12",
+            "latestAction": {
+                "actionDate": "2004-06-25",
+                "text": "Referred to the Subcommittee on Employer-Employee Relations."
+            },
+            "number": "4356",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Small Business Health Insurance Promotion Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/4356?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-04-01",
+            "latestAction": {
+                "actionDate": "2004-04-02",
+                "text": "Sponsor introductory remarks on measure. (CR E513)"
+            },
+            "number": "4124",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Medical Malpractice Relief Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/4124?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-05-20",
+            "latestAction": {
+                "actionDate": "2003-06-02",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2175",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Rural Healthcare Access Improvement Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2175?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-03-25",
+            "latestAction": {
+                "actionDate": "2003-03-25",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1436",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Energy Independence and Security Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/1436?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-03-06",
+            "latestAction": {
+                "actionDate": "2003-03-31",
+                "text": "Referred to the Subcommittee on Employer-Employee Relations."
+            },
+            "number": "1158",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medical Liability Insurance Crisis Response Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/1158?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-02-13",
+            "latestAction": {
+                "actionDate": "2003-03-10",
+                "text": "Referred to the Subcommittee on Employer-Employee Relations."
+            },
+            "number": "848",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Health Benefits Claims Prompt Payment Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/848?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-07-26",
+            "latestAction": {
+                "actionDate": "2002-11-14",
+                "text": "Referred to the Subcommittee on Employer-Employee Relations."
+            },
+            "number": "5253",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medical Liability Insurance Crisis Response Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5253?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-06-21",
+            "latestAction": {
+                "actionDate": "2002-10-18",
+                "text": "Referred to the Subcommittee on Employer-Employee Relations."
+            },
+            "number": "4983",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Health Benefits Claims Prompt Payment Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4983?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-15",
+            "latestAction": {
+                "actionDate": "2002-04-15",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4229",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Death Tax Elimination Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4229?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-10-12",
+            "latestAction": {
+                "actionDate": "2001-11-02",
+                "text": "Referred to the Subcommittee on Financial Institutions and Consumer Credit."
+            },
+            "number": "3125",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Credit Card Fairness Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3125?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-10-12",
+            "latestAction": {
+                "actionDate": "2001-11-02",
+                "text": "Referred to the Subcommittee on Financial Institutions and Consumer Credit."
+            },
+            "number": "3126",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Credit Card Fairness Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3126?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-01",
+            "latestAction": {
+                "actionDate": "2002-11-22",
+                "text": "Sponsor introductory remarks on measure. (CR E2132)"
+            },
+            "number": "848",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Benefits Restoration Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/848?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-10-25",
+            "latestAction": {
+                "actionDate": "2000-11-08",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "5556",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Medicare Disability Eligibility Waiting Period Reduction Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/5556?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-02-09",
+            "latestAction": {
+                "actionDate": "2000-02-10",
+                "text": "Referred to the Subcommittee on Water Resources and Environment."
+            },
+            "number": "3609",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To amend the Federal Water Pollution Control Act to exempt certain silviculture activities from permits under the national pollutant discharge elimination system.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3609?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-04-15",
+            "latestAction": {
+                "actionDate": "1999-04-15",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1466",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Death Tax Elimination Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1466?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-11",
+            "latestAction": {
+                "actionDate": "1999-02-22",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "742",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Benefits Restoration Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/742?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-11-13",
+            "latestAction": {
+                "actionDate": "1997-11-13",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3076",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to repeal estate, gift, and generation-skipping transfer taxes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3076?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-11-13",
+            "latestAction": {
+                "actionDate": "1997-11-24",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "3077",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Benefits Restoration Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3077?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-11-08",
+            "latestAction": {
+                "actionDate": "1997-11-09",
+                "text": "Sponsor introductory remarks on measure. (CR E2273-2274)"
+            },
+            "number": "2965",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "NATO Infrastructure Fair Share Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2965?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-11-08",
+            "latestAction": {
+                "actionDate": "1997-11-09",
+                "text": "Sponsor introductory remarks on measure. (CR E2276-2277)"
+            },
+            "number": "2966",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Working Americans Tax Relief Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2966?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-09-18",
+            "latestAction": {
+                "actionDate": "1997-09-23",
+                "text": "Referred to the Subcommittee on Civil Service."
+            },
+            "number": "2510",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To prevent Members of Congress from receiving any automatic pay adjustment which might otherwise take effect in 1998.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2510?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-07-22",
+            "latestAction": {
+                "actionDate": "1997-07-29",
+                "text": "Referred to the Subcommittee on Civil Service."
+            },
+            "number": "2219",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To prevent Members of Congress from receiving the 1998 pay adjustment.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2219?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-07-17",
+            "latestAction": {
+                "actionDate": "1997-08-28",
+                "text": "Referred to the Subcommittee on Military Readiness."
+            },
+            "number": "2193",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 10, United States Code, to clarify the definition of depot-level maintenance and repair as the definition applies to the Department of the Army.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2193?format=json"
+        }
+    ]
+}

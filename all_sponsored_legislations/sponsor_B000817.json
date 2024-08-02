@@ -1,0 +1,354 @@
+{
+    "pagination": {
+        "count": 23
+    },
+    "request": {
+        "bioguideId": "b000817",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-04",
+            "latestAction": {
+                "actionDate": "1995-02-08",
+                "text": "Sponsor introductory remarks on measure. (CR E295)"
+            },
+            "number": "3",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Taking Back Our Streets Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3?format=json"
+        },
+        {
+            "amendmentNumber": "722",
+            "congress": 102,
+            "introducedDate": "1992-07-22",
+            "latestAction": {
+                "actionDate": "1992-07-22",
+                "actionTime": "19:43:45",
+                "text": "On agreeing to the Brewster amendment (A008) Agreed to by recorded vote: 255 - 160 (Roll no. 299). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/722?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-07-25",
+            "latestAction": {
+                "actionDate": "1991-08-22",
+                "text": "Referred to the Subcommittee on National Parks and Public Lands."
+            },
+            "number": "3038",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "No Net Gain in Federal Lands Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3038?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-06-13",
+            "latestAction": {
+                "actionDate": "1991-06-13",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2640",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Small Property and Casualty Insurance Company Equity Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2640?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-10-07",
+            "latestAction": {
+                "actionDate": "1994-10-24",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "5256",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Pharmacy Compounding Preservation Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/5256?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-09-13",
+            "latestAction": {
+                "actionDate": "1994-09-13",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5032",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Family Business Preservation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/5032?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-08-21",
+            "latestAction": {
+                "actionDate": "1994-09-21",
+                "text": "Referred to the Subcommittee on Crime and Criminal Justice."
+            },
+            "number": "5008",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Back-To-Basics Crime Control Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/5008?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-05-03",
+            "latestAction": {
+                "actionDate": "1994-05-03",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4326",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to limit the applicability of the generation-skipping transfer tax.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4326?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-10-27",
+            "latestAction": {
+                "actionDate": "1994-01-21",
+                "text": "Referred to the Subcommittee on Oversight and Investigations."
+            },
+            "number": "3381",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "To provide for the continued sale of power by Federal Power Marketing agencies to preference entities using power at military installations selected for closure.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3381?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-10-07",
+            "latestAction": {
+                "actionDate": "1993-10-07",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3238",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To clarify the tax treatment of certain environmental clean-up costs.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3238?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-09-13",
+            "latestAction": {
+                "actionDate": "1993-10-08",
+                "text": "Became Public Law No: 103-102."
+            },
+            "number": "3051",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "To provide that certain property located in the State of Oklahoma owned by an Indian housing authority for the purpose of providing low-income housing shall be treated as Federal property under the Act of September 30, 1950 (Public Law 874, 81st Congress).",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3051?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-05-20",
+            "latestAction": {
+                "actionDate": "1993-06-10",
+                "text": "Sponsor introductory remarks on measure. (CR E1476-1477)"
+            },
+            "number": "2207",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Common Sense Amendments for All Endangered Species Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2207?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-05-05",
+            "latestAction": {
+                "actionDate": "1993-11-01",
+                "text": "See H.R.3419."
+            },
+            "number": "1981",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Qualified Football Coaches Plan Technical Corrections Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1981?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-22",
+            "latestAction": {
+                "actionDate": "1993-11-19",
+                "text": "Provisions Included in H.R.3355."
+            },
+            "number": "1815",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Recreational Hunting Safety and Preservation Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1815?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-22",
+            "latestAction": {
+                "actionDate": "1993-04-22",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1816",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Stripper Well Operators Preservation Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1816?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-31",
+            "latestAction": {
+                "actionDate": "1993-04-22",
+                "text": "Sponsor introductory remarks on measure. (CR E1010)"
+            },
+            "number": "1551",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to provide an exclusion from unrelated business taxable income for certain sponsorship payments.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1551?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-09-20",
+            "latestAction": {
+                "actionDate": "1994-09-20",
+                "text": "Referred to the House Committee on Post Office and Civil Service."
+            },
+            "number": "410",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To authorize the President to issue a proclamation designating October 1994 as \"National Spina Bifida Prevention Month\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/410?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-24",
+            "latestAction": {
+                "actionDate": "1996-09-24",
+                "text": "Referred to the Committee on Resources, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "4144",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Sportsmen's Bill of Rights Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/4144?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-03-14",
+            "latestAction": {
+                "actionDate": "1996-03-26",
+                "text": "Referred to the Subcommittee on Resource Conservation, Research and Forestry."
+            },
+            "number": "3088",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To provide for the exchange of certain federally owned lands and mineral interests therein, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3088?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-03-02",
+            "latestAction": {
+                "actionDate": "1996-05-09",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "1112",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To transfer management of the Tishomingo National Wildlife Refuge in Oklahoma to the State of Oklahoma.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1112?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-20",
+            "latestAction": {
+                "actionDate": "1995-02-21",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "598",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Pharmacy Compounding Preservation Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/598?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-07-17",
+            "latestAction": {
+                "actionDate": "1995-09-05",
+                "text": "Referred to the Subcommittee on the Legislative and Budget Process."
+            },
+            "number": "191",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Amending the Rules of the House of Representatives to require the reduction of section 602(b)(1) suballocations to reflect floor amendments to general appropriation bills, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/191?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-04-18",
+            "latestAction": {
+                "actionDate": "1996-05-06",
+                "text": "Referred to the Subcommittee on Postsecondary Education, Training and Life-Long Learning."
+            },
+            "number": "164",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Honoring the national organization of Future Business Leaders of America-Phi Beta Lambda.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/104/hconres/164?format=json"
+        }
+    ]
+}

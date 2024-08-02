@@ -1,0 +1,762 @@
+{
+    "pagination": {
+        "count": 52
+    },
+    "request": {
+        "bioguideId": "t000165",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "1063",
+            "congress": 118,
+            "introducedDate": "2024-06-27",
+            "latestAction": {
+                "actionDate": "2024-06-27",
+                "actionTime": "12:34:09",
+                "text": "On agreeing to the Tiffany amendment (A035) Agreed to by voice vote."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/hamdt/1063?format=json"
+        },
+        {
+            "amendmentNumber": "1064",
+            "congress": 118,
+            "introducedDate": "2024-06-27",
+            "latestAction": {
+                "actionDate": "2024-06-27",
+                "actionTime": "16:08:29",
+                "text": "On agreeing to the Tiffany amendment (A036) Failed by recorded vote: 149 - 259 (Roll no. 320)."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/hamdt/1064?format=json"
+        },
+        {
+            "amendmentNumber": "1027",
+            "congress": 118,
+            "introducedDate": "2024-06-26",
+            "latestAction": {
+                "actionDate": "2024-06-26",
+                "actionTime": "16:39:40",
+                "text": "On agreeing to the Tiffany amendment (A030) Failed by recorded vote: 190 - 222 (Roll no. 295)."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/hamdt/1027?format=json"
+        },
+        {
+            "amendmentNumber": "1028",
+            "congress": 118,
+            "introducedDate": "2024-06-26",
+            "latestAction": {
+                "actionDate": "2024-06-26",
+                "actionTime": "16:42:40",
+                "text": "On agreeing to the Tiffany amendment (A031) Failed by recorded vote: 191 - 222 (Roll no. 296)."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/hamdt/1028?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-02-29",
+            "latestAction": {
+                "actionDate": "2024-02-29",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "7509",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "CARE Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/7509?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-02-13",
+            "latestAction": {
+                "actionDate": "2024-02-15",
+                "text": "Ordered to be Reported by Voice Vote."
+            },
+            "number": "7341",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To make technical amendments to title 49, United States Code, as necessary to improve the Code.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/7341?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-02-09",
+            "latestAction": {
+                "actionDate": "2024-02-15",
+                "text": "Ordered to be Reported by Voice Vote."
+            },
+            "number": "7316",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To make improvements in the enactment of title 54, United States Code, into a positive law title and to correct related technical errors.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/7316?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-01-22",
+            "latestAction": {
+                "actionDate": "2024-03-12",
+                "text": "Ordered to be Reported in the Nature of a Substitute by Unanimous Consent."
+            },
+            "number": "7072",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Wabeno Economic Development Act of 2024",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/7072?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-01-16",
+            "latestAction": {
+                "actionDate": "2024-01-16",
+                "text": "Referred to the House Committee on Agriculture."
+            },
+            "number": "7001",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Wabeno Economic Development Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/7001?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-12-19",
+            "latestAction": {
+                "actionDate": "2023-12-19",
+                "text": "Referred to the House Committee on Agriculture."
+            },
+            "number": "6880",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Hardwood Products Access and Development Program Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/6880?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-12-06",
+            "latestAction": {
+                "actionDate": "2024-06-04",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "6651",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To designate the facility of the United States Postal Service located at 603 West 3rd Street in Necedah, Wisconsin, as the \"Sergeant Kenneth E. Murphy Post Office Building\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/6651?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-11-02",
+            "latestAction": {
+                "actionDate": "2024-01-24",
+                "text": "Referred to the Subcommittee on Forestry."
+            },
+            "number": "6208",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "TRASHED Border Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/6208?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-10-13",
+            "latestAction": {
+                "actionDate": "2023-10-25",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "5959",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "GAZA Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/5959?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-09-26",
+            "latestAction": {
+                "actionDate": "2024-01-18",
+                "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 22 - 1."
+            },
+            "number": "5736",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Federal Accountability in Interviews Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/5736?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-03-10",
+            "latestAction": {
+                "actionDate": "2023-09-14",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "1567",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "ACRES Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/1567?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-06-23",
+            "latestAction": {
+                "actionDate": "2023-06-23",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "4360",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "ACCESS Rural America Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/4360?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-06-07",
+            "latestAction": {
+                "actionDate": "2023-06-07",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "3930",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "MILK Act of 2023",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/3930?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-05-31",
+            "latestAction": {
+                "actionDate": "2023-07-10",
+                "text": "Referred to the Subcommittee on Conservation, Research, and Biotechnology."
+            },
+            "number": "3779",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "GRAIN for America Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/3779?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-04-25",
+            "latestAction": {
+                "actionDate": "2023-04-25",
+                "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "2865",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To provide for the closure of the Consulate General of the People's Republic of China and the Hong Kong Economic and Trade Office located in New York City, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/2865?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-03-30",
+            "latestAction": {
+                "actionDate": "2023-03-30",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "2453",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Immigration Parole Reform Act of 2023",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/2453?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-03-30",
+            "latestAction": {
+                "actionDate": "2023-09-12",
+                "text": "Referred to the Subcommittee on Elections."
+            },
+            "number": "2452",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "OMAR Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/2452?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-03-09",
+            "latestAction": {
+                "actionDate": "2023-03-09",
+                "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Oversight and Accountability, Education and the Workforce, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "1524",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "FAIR Act of 2023",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/1524?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-03-07",
+            "latestAction": {
+                "actionDate": "2024-07-11",
+                "text": "Ordered to be Reported by the Yeas and Nays: 24 - 23."
+            },
+            "number": "1425",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "No WHO Pandemic Preparedness Treaty Without Senate Approval Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/1425?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-02-09",
+            "latestAction": {
+                "actionDate": "2023-02-09",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "963",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "FARM Act of 2023",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/963?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-01-25",
+            "latestAction": {
+                "actionDate": "2023-01-25",
+                "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "10",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of Congress that the United States should resume normal diplomatic relations with Taiwan, negotiate a bilateral free trade agreement with Taiwan, and support Taiwan's membership in international organizations.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/118/hconres/10?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-01-12",
+            "latestAction": {
+                "actionDate": "2023-01-12",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "349",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Justice for Murder Victims Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/349?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-01-09",
+            "latestAction": {
+                "actionDate": "2023-01-09",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "5",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Expressing support for the Nation's law enforcement agencies and condemning any efforts to defund or dismantle law enforcement agencies.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/118/hconres/5?format=json"
+        },
+        {
+            "amendmentNumber": "837",
+            "congress": 118,
+            "introducedDate": "2023-12-13",
+            "latestAction": {
+                "actionDate": "2023-12-13",
+                "actionTime": "15:12:42",
+                "text": "On agreeing to the Tiffany amendment (A003) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/hamdt/837?format=json"
+        },
+        {
+            "amendmentNumber": "449",
+            "congress": 118,
+            "introducedDate": "2023-09-28",
+            "latestAction": {
+                "actionDate": "2023-09-28",
+                "actionTime": "11:46:39",
+                "text": "On agreeing to the Tiffany amendment (A014) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/hamdt/449?format=json"
+        },
+        {
+            "amendmentNumber": "385",
+            "congress": 118,
+            "introducedDate": "2023-09-27",
+            "latestAction": {
+                "actionDate": "2023-09-27",
+                "actionTime": "14:39:43",
+                "text": "On agreeing to the Tiffany amendment (A034) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/hamdt/385?format=json"
+        },
+        {
+            "amendmentNumber": "386",
+            "congress": 118,
+            "introducedDate": "2023-09-27",
+            "latestAction": {
+                "actionDate": "2023-09-27",
+                "actionTime": "14:47:44",
+                "text": "On agreeing to the Tiffany amendment (A035) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/hamdt/386?format=json"
+        },
+        {
+            "amendmentNumber": "434",
+            "congress": 118,
+            "introducedDate": "2023-09-28",
+            "latestAction": {
+                "actionDate": "2023-09-28",
+                "actionTime": "00:42:12",
+                "text": "On agreeing to the Tiffany amendment (A047) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/hamdt/434?format=json"
+        },
+        {
+            "amendmentNumber": "321",
+            "congress": 118,
+            "introducedDate": "2023-09-26",
+            "latestAction": {
+                "actionDate": "2023-09-26",
+                "actionTime": "23:35:45",
+                "text": "On agreeing to the Tiffany amendment (A018) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/hamdt/321?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-12-15",
+            "latestAction": {
+                "actionDate": "2022-12-15",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "9601",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Justice for Murder Victims Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/9601?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-12-06",
+            "latestAction": {
+                "actionDate": "2022-12-06",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "9445",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "ACCESS Rural America Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/9445?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-09-28",
+            "latestAction": {
+                "actionDate": "2022-10-28",
+                "text": "Referred to the Subcommittee on Conservation and Forestry."
+            },
+            "number": "9024",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "DRILL Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/9024?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-09-15",
+            "latestAction": {
+                "actionDate": "2022-11-01",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "8870",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Combating Violent and Dangerous Crime Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/8870?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-08-12",
+            "latestAction": {
+                "actionDate": "2022-11-01",
+                "text": "Referred to the Subcommittee on Immigration and Citizenship."
+            },
+            "number": "8714",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "ACE Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/8714?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-08-12",
+            "latestAction": {
+                "actionDate": "2022-11-01",
+                "text": "Referred to the Subcommittee on Immigration and Citizenship."
+            },
+            "number": "8713",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "STOP Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/8713?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-07-29",
+            "latestAction": {
+                "actionDate": "2022-08-29",
+                "text": "Referred to the Subcommittee on Conservation and Forestry."
+            },
+            "number": "8592",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "GRAIN for America Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/8592?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-06-23",
+            "latestAction": {
+                "actionDate": "2022-11-17",
+                "text": "Ordered to be Reported by Unanimous Consent."
+            },
+            "number": "8218",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To designate the facility of the United States Postal Service located at 619 Hewett Street in Neillsville, Wisconsin, as the \"Corporal Mitchell Red Cloud, Jr. Post Office\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/8218?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-06-23",
+            "latestAction": {
+                "actionDate": "2022-11-17",
+                "text": "Ordered to be Reported by Unanimous Consent."
+            },
+            "number": "8217",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To designate the facility of the United States Postal Service located at 430 South Knowles Avenue in New Richmond, Wisconsin, as the \"Captain Robert C. Harmon and Private John R. Peirson Post Office Building\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/8217?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-04-27",
+            "latestAction": {
+                "actionDate": "2022-04-27",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "7609",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "To prohibit the appeal of the decision issued by the United States District Court for the Middle District of Florida determining that the mask mandate is unlawful, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/7609?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-02-28",
+            "latestAction": {
+                "actionDate": "2022-02-28",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "6857",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "FARM Act of 2022",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/6857?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-01-20",
+            "latestAction": {
+                "actionDate": "2022-01-25",
+                "text": "Referred to the Subcommittee for Indigenous Peoples of the United States."
+            },
+            "number": "6463",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "MEDS Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/6463?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-07-19",
+            "latestAction": {
+                "actionDate": "2021-09-14",
+                "text": "Referred to the Subcommittee on Conservation and Forestry."
+            },
+            "number": "4541",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "RAPID Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/4541?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-04-01",
+            "latestAction": {
+                "actionDate": "2021-04-01",
+                "text": "Referred to the House Committee on Agriculture."
+            },
+            "number": "2349",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "ACRE Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/2349?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-02-26",
+            "latestAction": {
+                "actionDate": "2021-02-26",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "21",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of Congress that the United States should resume normal diplomatic relations with Taiwan, negotiate a bilateral free trade agreement with Taiwan, and support Taiwan's membership in international organizations.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/117/hconres/21?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-02-05",
+            "latestAction": {
+                "actionDate": "2021-02-05",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "856",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "OMAR Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/856?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-01-12",
+            "latestAction": {
+                "actionDate": "2021-02-18",
+                "text": "Referred to the Subcommittee on Water, Oceans, and Wildlife."
+            },
+            "number": "286",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Managing Predators Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/286?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2020-09-16",
+            "latestAction": {
+                "actionDate": "2020-09-16",
+                "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "117",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of Congress that the United States should resume normal diplomatic relations with Taiwan, negotiate a bilateral free trade agreement with Taiwan, and support Taiwan's membership in international organizations.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/116/hconres/117?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2020-09-04",
+            "latestAction": {
+                "actionDate": "2020-09-18",
+                "text": "Referred to the Subcommittee on Water, Oceans, and Wildlife."
+            },
+            "number": "8180",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Managing Predators Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/8180?format=json"
+        }
+    ]
+}

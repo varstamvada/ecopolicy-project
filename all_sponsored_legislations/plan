@@ -1,0 +1,62 @@
+plan
+
+1. In a folder go through all the files that start with sponsor_
+2. create a single csv file called all_sponsored_bills.csv
+3. parse each open file that has json content and add the add columns to the csv file from the json file for bioguideId, congress, type, number, introduceddate, actiondate, title, name, text, url and add a row for each sponsoredLegislation 
+4. Add a final column which concatenates congress, type,number as congress_type_number
+5. the json in the file looks like this 
+
+{
+    "pagination": {
+        "count": 24
+    },
+    "request": {
+        "bioguideId": "z000004",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "275",
+            "congress": 102,
+            "introducedDate": "1991-07-24",
+            "latestAction": {
+                "actionDate": "1991-07-24",
+                "actionTime": "17:43:57",
+                "text": "On agreeing to the Zeliff amendment (A006) Failed by recorded vote: 64 - 362 (Roll no. 223). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/275?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-05-15",
+            "latestAction": {
+                "actionDate": "1991-05-15",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2359",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Economic Resurgence and Jobs for America Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2359?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-03-22",
+            "latestAction": {
+                "actionDate": "1991-04-15",
+                "text": "Referred to the Subcommittee on Consumer Affairs and Coinage."
+            },
+            "number": "1658",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Operation Desert Storm Commemorative Coin Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1658?format=json"
+        },
+
+

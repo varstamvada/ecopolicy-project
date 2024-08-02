@@ -1,0 +1,2678 @@
+{
+    "pagination": {
+        "count": 1995,
+        "next": "https://api.congress.gov/v3/member/R000146/sponsored-legislation?offset=250&limit=250&format=json"
+    },
+    "request": {
+        "bioguideId": "r000146",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 113,
+            "introducedDate": "2013-01-22",
+            "latestAction": {
+                "actionDate": "2013-01-22",
+                "text": "Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S44)"
+            },
+            "number": "2",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Sandy Hook Elementary School Violence Reduction Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/113/s/2?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-01-22",
+            "latestAction": {
+                "actionDate": "2013-01-22",
+                "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S44-45)"
+            },
+            "number": "4",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Rebuild America Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/113/s/4?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-09-13",
+            "latestAction": {
+                "actionDate": "2011-09-14",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 165."
+            },
+            "number": "1549",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "American Jobs Act of 2011",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/1549?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-08-02",
+            "latestAction": {
+                "actionDate": "2012-08-16",
+                "text": "Became Public Law No: 112-173."
+            },
+            "number": "3510",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to prevent harm to the national security or endangering the military officers and civilian employees to whom internet publication of certain information applies, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/3510?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-01-25",
+            "latestAction": {
+                "actionDate": "2011-01-25",
+                "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S130)"
+            },
+            "number": "21",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Cyber Security and American Cyber Competitiveness Act of 2011",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/21?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-01-25",
+            "latestAction": {
+                "actionDate": "2011-01-25",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S128)"
+            },
+            "number": "1",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "American Competitiveness Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/1?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-10-05",
+            "latestAction": {
+                "actionDate": "2011-10-11",
+                "text": "Motion by Senator Reid to reconsider the vote by which cloture was not invoked on the motion to proceed to the bill made in Senate. (consideration: CR S6383)"
+            },
+            "number": "1660",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "American Jobs Act of 2011",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/1660?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-11-29",
+            "latestAction": {
+                "actionDate": "2011-11-29",
+                "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S8007; text as passed Senate: CR S8007; text of measure as introduced: CR S7997-7998)"
+            },
+            "number": "339",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A resolution to authorize the production of records by the Committee on Commerce, Science, and Transportation.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/112/sres/339?format=json"
+        },
+        {
+            "amendmentNumber": "3448",
+            "congress": 112,
+            "introducedDate": "2012-12-31",
+            "latestAction": {
+                "actionDate": "2013-01-01",
+                "text": "Amendment SA 3448 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/3448?format=json"
+        },
+        {
+            "amendmentNumber": "3450",
+            "congress": 112,
+            "introducedDate": "2012-12-31",
+            "latestAction": {
+                "actionDate": "2013-01-01",
+                "text": "Amendment SA 3450 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/3450?format=json"
+        },
+        {
+            "amendmentNumber": "3402",
+            "congress": 112,
+            "introducedDate": "2012-12-19",
+            "latestAction": {
+                "actionDate": "2012-12-21",
+                "text": "SA 3402 fell when SA 3401 fell. (consideration: CR S8340-8341)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/3402?format=json"
+        },
+        {
+            "amendmentNumber": "3401",
+            "congress": 112,
+            "introducedDate": "2012-12-19",
+            "latestAction": {
+                "actionDate": "2012-12-21",
+                "text": "SA 3401 fell when SA 3400 fell. (consideration: CR S8340-8341)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/3401?format=json"
+        },
+        {
+            "amendmentNumber": "3400",
+            "congress": 112,
+            "introducedDate": "2012-12-19",
+            "latestAction": {
+                "actionDate": "2012-12-21",
+                "text": "SA 3400 fell when cloture invoked on SA3395. (consideration: CR S8340-8341)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/3400?format=json"
+        },
+        {
+            "amendmentNumber": "3395",
+            "congress": 112,
+            "introducedDate": "2012-12-19",
+            "latestAction": {
+                "actionDate": "2012-12-28",
+                "text": "Amendment SA 3395 agreed to in Senate by Voice Vote. (consideration: CR S8462, S8483)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/3395?format=json"
+        },
+        {
+            "amendmentNumber": "3396",
+            "congress": 112,
+            "introducedDate": "2012-12-19",
+            "latestAction": {
+                "actionDate": "2012-12-21",
+                "text": "Proposed amendment SA 3396 withdrawn in Senate. (consideration: CR S8346)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/3396?format=json"
+        },
+        {
+            "amendmentNumber": "3397",
+            "congress": 112,
+            "introducedDate": "2012-12-19",
+            "latestAction": {
+                "actionDate": "2012-12-21",
+                "text": "SA 3397 fell when SA 3396 was withdrawn. (consideration: CR S8346)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/3397?format=json"
+        },
+        {
+            "amendmentNumber": "3399",
+            "congress": 112,
+            "introducedDate": "2012-12-19",
+            "latestAction": {
+                "actionDate": "2012-12-21",
+                "text": "SA 3399 fell when SA 3398 was withdrawn. (consideration: CR S8346)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/3399?format=json"
+        },
+        {
+            "amendmentNumber": "3398",
+            "congress": 112,
+            "introducedDate": "2012-12-19",
+            "latestAction": {
+                "actionDate": "2012-12-21",
+                "text": "Proposed amendment SA 3398 withdrawn in Senate. (consideration: CR S8346)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/3398?format=json"
+        },
+        {
+            "amendmentNumber": "3314",
+            "congress": 112,
+            "introducedDate": "2012-12-11",
+            "latestAction": {
+                "actionDate": "2012-12-13",
+                "text": "SA 3314 fell when the bill was committed. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/3314?format=json"
+        },
+        {
+            "amendmentNumber": "3315",
+            "congress": 112,
+            "introducedDate": "2012-12-11",
+            "latestAction": {
+                "actionDate": "2012-12-13",
+                "text": "SA 3315 fell when SA 3314 fell. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/3315?format=json"
+        },
+        {
+            "amendmentNumber": "3316",
+            "congress": 112,
+            "introducedDate": "2012-12-11",
+            "latestAction": {
+                "actionDate": "2012-12-13",
+                "text": "SA 3316 fell when the bill was committed. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/3316?format=json"
+        },
+        {
+            "amendmentNumber": "3318",
+            "congress": 112,
+            "introducedDate": "2012-12-11",
+            "latestAction": {
+                "actionDate": "2012-12-13",
+                "text": "SA 3318 fell when SA 3317 fell. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/3318?format=json"
+        },
+        {
+            "amendmentNumber": "3317",
+            "congress": 112,
+            "introducedDate": "2012-12-11",
+            "latestAction": {
+                "actionDate": "2012-12-13",
+                "text": "SA 3317 fell when SA 3316 fell. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/3317?format=json"
+        },
+        {
+            "amendmentNumber": "3306",
+            "congress": 112,
+            "introducedDate": "2012-12-03",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/3306?format=json"
+        },
+        {
+            "amendmentNumber": "3299",
+            "congress": 112,
+            "introducedDate": "2012-12-03",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/3299?format=json"
+        },
+        {
+            "amendmentNumber": "3300",
+            "congress": 112,
+            "introducedDate": "2012-12-03",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/3300?format=json"
+        },
+        {
+            "amendmentNumber": "3295",
+            "congress": 112,
+            "introducedDate": "2012-12-03",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/3295?format=json"
+        },
+        {
+            "amendmentNumber": "3244",
+            "congress": 112,
+            "introducedDate": "2012-11-29",
+            "latestAction": {
+                "actionDate": "2012-11-30",
+                "text": "Amendment SA 3244 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/3244?format=json"
+        },
+        {
+            "amendmentNumber": "3047",
+            "congress": 112,
+            "introducedDate": "2012-11-28",
+            "latestAction": {
+                "actionDate": "2012-12-03",
+                "text": "Amendment SA 3047 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S7340)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/3047?format=json"
+        },
+        {
+            "amendmentNumber": "3048",
+            "congress": 112,
+            "introducedDate": "2012-11-28",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/3048?format=json"
+        },
+        {
+            "amendmentNumber": "2877",
+            "congress": 112,
+            "introducedDate": "2012-11-13",
+            "latestAction": {
+                "actionDate": "2012-11-26",
+                "text": "SA 2877 fell when SA 2876 fell. (consideration: CR S6890)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2877?format=json"
+        },
+        {
+            "amendmentNumber": "2879",
+            "congress": 112,
+            "introducedDate": "2012-11-13",
+            "latestAction": {
+                "actionDate": "2012-11-26",
+                "text": "SA 2879 fell when SA 2878 was withdrawn. (consideration: CR S6890)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2879?format=json"
+        },
+        {
+            "amendmentNumber": "2881",
+            "congress": 112,
+            "introducedDate": "2012-11-13",
+            "latestAction": {
+                "actionDate": "2012-11-15",
+                "text": "SA 2881 fell when SA 2880 fell. (consideration: CR S6830-6831)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2881?format=json"
+        },
+        {
+            "amendmentNumber": "2876",
+            "congress": 112,
+            "introducedDate": "2012-11-13",
+            "latestAction": {
+                "actionDate": "2012-11-26",
+                "text": "SA 2876 fell when SA 2875 was ruled out of order. (consideration: CR S6890)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2876?format=json"
+        },
+        {
+            "amendmentNumber": "2880",
+            "congress": 112,
+            "introducedDate": "2012-11-13",
+            "latestAction": {
+                "actionDate": "2012-11-15",
+                "text": "SA 2880 fell when cloture invoked on the bill. (consideration: CR S6830-6831)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2880?format=json"
+        },
+        {
+            "amendmentNumber": "2882",
+            "congress": 112,
+            "introducedDate": "2012-11-13",
+            "latestAction": {
+                "actionDate": "2012-11-15",
+                "text": "SA 2882 fell when SA 2881 fell. (consideration: CR S6830-6831)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2882?format=json"
+        },
+        {
+            "amendmentNumber": "2878",
+            "congress": 112,
+            "introducedDate": "2012-11-13",
+            "latestAction": {
+                "actionDate": "2012-11-26",
+                "text": "Proposed amendment SA 2878 withdrawn in Senate. (consideration: CR S6890)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2878?format=json"
+        },
+        {
+            "amendmentNumber": "2848",
+            "congress": 112,
+            "introducedDate": "2012-09-20",
+            "latestAction": {
+                "actionDate": "2012-09-22",
+                "text": "SA 2848 fell when SA 2847 fell. (consideration: CR 9/21/2012 S6604)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2848?format=json"
+        },
+        {
+            "amendmentNumber": "2845",
+            "congress": 112,
+            "introducedDate": "2012-09-20",
+            "latestAction": {
+                "actionDate": "2012-09-22",
+                "text": "Proposed amendment SA 2845 withdrawn in Senate. (consideration: CR 9/21/2012 S6604)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2845?format=json"
+        },
+        {
+            "amendmentNumber": "2847",
+            "congress": 112,
+            "introducedDate": "2012-09-20",
+            "latestAction": {
+                "actionDate": "2012-09-22",
+                "text": "SA 2847 fell when SA 2846 fell. (consideration: CR 9/21/2012 S6604)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2847?format=json"
+        },
+        {
+            "amendmentNumber": "2846",
+            "congress": 112,
+            "introducedDate": "2012-09-20",
+            "latestAction": {
+                "actionDate": "2012-09-22",
+                "text": "SA 2846 fell when cloture invoked on H.J. Res. 117. (consideration: CR 9/21/2012 S6604)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2846?format=json"
+        },
+        {
+            "amendmentNumber": "2844",
+            "congress": 112,
+            "introducedDate": "2012-09-20",
+            "latestAction": {
+                "actionDate": "2012-09-22",
+                "text": "Proposed amendment SA 2844 withdrawn in Senate. (consideration: CR 9/21/2012 S6604)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2844?format=json"
+        },
+        {
+            "amendmentNumber": "2812",
+            "congress": 112,
+            "introducedDate": "2012-09-12",
+            "latestAction": {
+                "actionDate": "2012-09-19",
+                "text": "Considered by Senate. (consideration: CR S6395)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2812?format=json"
+        },
+        {
+            "amendmentNumber": "2811",
+            "congress": 112,
+            "introducedDate": "2012-09-12",
+            "latestAction": {
+                "actionDate": "2012-09-19",
+                "text": "Considered by Senate. (consideration: CR S6395)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2811?format=json"
+        },
+        {
+            "amendmentNumber": "2814",
+            "congress": 112,
+            "introducedDate": "2012-09-12",
+            "latestAction": {
+                "actionDate": "2012-09-19",
+                "text": "Considered by Senate. (consideration: CR S6395)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2814?format=json"
+        },
+        {
+            "amendmentNumber": "2813",
+            "congress": 112,
+            "introducedDate": "2012-09-12",
+            "latestAction": {
+                "actionDate": "2012-09-19",
+                "text": "Considered by Senate. (consideration: CR S6395)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2813?format=json"
+        },
+        {
+            "amendmentNumber": "2810",
+            "congress": 112,
+            "introducedDate": "2012-09-12",
+            "latestAction": {
+                "actionDate": "2012-09-19",
+                "text": "Considered by Senate. (consideration: CR S6395)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2810?format=json"
+        },
+        {
+            "amendmentNumber": "2808",
+            "congress": 112,
+            "introducedDate": "2012-09-12",
+            "latestAction": {
+                "actionDate": "2012-09-19",
+                "text": "SA 2808 fell when SA 2789 was ruled out of order. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2808?format=json"
+        },
+        {
+            "amendmentNumber": "2809",
+            "congress": 112,
+            "introducedDate": "2012-09-12",
+            "latestAction": {
+                "actionDate": "2012-09-19",
+                "text": "SA 2809 fell when SA 2808 fell. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2809?format=json"
+        },
+        {
+            "amendmentNumber": "2733",
+            "congress": 112,
+            "introducedDate": "2012-07-31",
+            "latestAction": {
+                "actionDate": "2012-07-31",
+                "text": "Amendment SA 2733 proposed by Senator Reid to language proposed to be stricken by amendment no. SA 2731. (consideration: CR S5724; text: CR S5724) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2733?format=json"
+        },
+        {
+            "amendmentNumber": "2735",
+            "congress": 112,
+            "introducedDate": "2012-07-31",
+            "latestAction": {
+                "actionDate": "2012-07-31",
+                "text": "Amendment SA 2735 (the instructions of the motion to commit) proposed by Senator Reid. (consideration: CR S5724; text: CR S5724) To change the enactment date."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2735?format=json"
+        },
+        {
+            "amendmentNumber": "2736",
+            "congress": 112,
+            "introducedDate": "2012-07-31",
+            "latestAction": {
+                "actionDate": "2012-07-31",
+                "text": "Amendment SA 2736 proposed by Senator Reid to Amendment SA 2735 (the instructions of the motion to commit). (consideration: CR S5724; text: CR S5724) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2736?format=json"
+        },
+        {
+            "amendmentNumber": "2737",
+            "congress": 112,
+            "introducedDate": "2012-07-31",
+            "latestAction": {
+                "actionDate": "2012-07-31",
+                "text": "Amendment SA 2737 proposed by Senator Reid to Amendment SA 2736. (consideration: CR S5724; text: CR S5724) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2737?format=json"
+        },
+        {
+            "amendmentNumber": "2734",
+            "congress": 112,
+            "introducedDate": "2012-07-31",
+            "latestAction": {
+                "actionDate": "2012-07-31",
+                "text": "Amendment SA 2734 proposed by Senator Reid to Amendment SA 2733. (consideration: CR S5724; text: CR S5724) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2734?format=json"
+        },
+        {
+            "amendmentNumber": "2526",
+            "congress": 112,
+            "introducedDate": "2012-07-11",
+            "latestAction": {
+                "actionDate": "2012-07-12",
+                "text": "Considered by Senate. (consideration: CR S4932)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2526?format=json"
+        },
+        {
+            "amendmentNumber": "2528",
+            "congress": 112,
+            "introducedDate": "2012-07-11",
+            "latestAction": {
+                "actionDate": "2012-07-12",
+                "text": "Considered by Senate. (consideration: CR S4932)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2528?format=json"
+        },
+        {
+            "amendmentNumber": "2525",
+            "congress": 112,
+            "introducedDate": "2012-07-11",
+            "latestAction": {
+                "actionDate": "2012-07-12",
+                "text": "SA 2525 fell when SA 2524 was tabled. (consideration: CR S4936)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2525?format=json"
+        },
+        {
+            "amendmentNumber": "2527",
+            "congress": 112,
+            "introducedDate": "2012-07-11",
+            "latestAction": {
+                "actionDate": "2012-07-12",
+                "text": "Considered by Senate. (consideration: CR S4932)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2527?format=json"
+        },
+        {
+            "amendmentNumber": "2522",
+            "congress": 112,
+            "introducedDate": "2012-07-11",
+            "latestAction": {
+                "actionDate": "2012-07-12",
+                "text": "Considered by Senate. (consideration: CR S4932)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2522?format=json"
+        },
+        {
+            "amendmentNumber": "2523",
+            "congress": 112,
+            "introducedDate": "2012-07-11",
+            "latestAction": {
+                "actionDate": "2012-07-12",
+                "text": "Considered by Senate. (consideration: CR S4932)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2523?format=json"
+        },
+        {
+            "amendmentNumber": "2524",
+            "congress": 112,
+            "introducedDate": "2012-07-11",
+            "latestAction": {
+                "actionDate": "2012-07-12",
+                "text": "Motion to table amendment SA 2524 agreed to in Senate by Yea-Nay Vote. 73 - 24. Record Vote Number: 175. (consideration: CR S4936)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2524?format=json"
+        },
+        {
+            "amendmentNumber": "2470",
+            "congress": 112,
+            "introducedDate": "2012-06-25",
+            "latestAction": {
+                "actionDate": "2012-06-25",
+                "text": "Amendment SA 2470 proposed by Senator Reid to Amendment SA 2469. (consideration: CR S4447-4448; text: CR S4448) To change the enactment date."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2470?format=json"
+        },
+        {
+            "amendmentNumber": "2475",
+            "congress": 112,
+            "introducedDate": "2012-06-25",
+            "latestAction": {
+                "actionDate": "2012-06-25",
+                "text": "Amendment SA 2475 proposed by Senator Reid to Amendment SA 2474. (consideration: CR S4448; text: CR S4448) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2475?format=json"
+        },
+        {
+            "amendmentNumber": "2471",
+            "congress": 112,
+            "introducedDate": "2012-06-25",
+            "latestAction": {
+                "actionDate": "2012-06-25",
+                "text": "Amendment SA 2471 proposed by Senator Reid to language proposed to be stricken by amendment no. SA 2468. (consideration: CR S4448; text: CR S4448) To change the enactment date."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2471?format=json"
+        },
+        {
+            "amendmentNumber": "2472",
+            "congress": 112,
+            "introducedDate": "2012-06-25",
+            "latestAction": {
+                "actionDate": "2012-06-25",
+                "text": "Amendment SA 2472 proposed by Senator Reid to Amendment SA 2471. (consideration: CR S4448; text: CR S4448) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2472?format=json"
+        },
+        {
+            "amendmentNumber": "2474",
+            "congress": 112,
+            "introducedDate": "2012-06-25",
+            "latestAction": {
+                "actionDate": "2012-06-25",
+                "text": "Amendment SA 2474 proposed by Senator Reid to Amendment SA 2473 (the instructions of the motion to recommit). (consideration: CR S4448; text: CR S4448) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2474?format=json"
+        },
+        {
+            "amendmentNumber": "2473",
+            "congress": 112,
+            "introducedDate": "2012-06-25",
+            "latestAction": {
+                "actionDate": "2012-06-25",
+                "text": "Amendment SA 2473 (the instructions of the motion to recommit) proposed by Senator Reid. (consideration: CR S4448; text: CR S4448) To change the enactment date."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2473?format=json"
+        },
+        {
+            "amendmentNumber": "2465",
+            "congress": 112,
+            "introducedDate": "2012-06-21",
+            "latestAction": {
+                "actionDate": "2012-06-25",
+                "text": "SA 2465 fell when SA 2464 fell. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2465?format=json"
+        },
+        {
+            "amendmentNumber": "2463",
+            "congress": 112,
+            "introducedDate": "2012-06-21",
+            "latestAction": {
+                "actionDate": "2012-06-25",
+                "text": "SA 2463 (instructions to the motion to refer) fell when cloture invoked on the motion to concur in the House amendment to the bill (S.3187). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2463?format=json"
+        },
+        {
+            "amendmentNumber": "2462",
+            "congress": 112,
+            "introducedDate": "2012-06-21",
+            "latestAction": {
+                "actionDate": "2012-06-26",
+                "text": "SA 2462 fell when SA 2461 withdrawn. (consideration: CR S4626)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2462?format=json"
+        },
+        {
+            "amendmentNumber": "2461",
+            "congress": 112,
+            "introducedDate": "2012-06-21",
+            "latestAction": {
+                "actionDate": "2012-06-26",
+                "text": "Proposed amendment SA 2461 withdrawn in Senate. (consideration: CR S4626)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2461?format=json"
+        },
+        {
+            "amendmentNumber": "2464",
+            "congress": 112,
+            "introducedDate": "2012-06-21",
+            "latestAction": {
+                "actionDate": "2012-06-25",
+                "text": "SA 2464 fell when SA 2463 fell. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2464?format=json"
+        },
+        {
+            "amendmentNumber": "2406",
+            "congress": 112,
+            "introducedDate": "2012-06-13",
+            "latestAction": {
+                "actionDate": "2012-06-19",
+                "text": "SA 2406 fell when SA 2391 withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2406?format=json"
+        },
+        {
+            "amendmentNumber": "2407",
+            "congress": 112,
+            "introducedDate": "2012-06-13",
+            "latestAction": {
+                "actionDate": "2012-06-19",
+                "text": "SA 2407 fell when SA 2406 fell. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2407?format=json"
+        },
+        {
+            "amendmentNumber": "2392",
+            "congress": 112,
+            "introducedDate": "2012-06-12",
+            "latestAction": {
+                "actionDate": "2012-06-13",
+                "text": "Motion to table amendment SA 2392 agreed to in Senate by Yea-Nay Vote. 65 - 33. Record Vote Number: 120. (consideration: CR S4125)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2392?format=json"
+        },
+        {
+            "amendmentNumber": "2393",
+            "congress": 112,
+            "introducedDate": "2012-06-12",
+            "latestAction": {
+                "actionDate": "2012-06-13",
+                "text": "Motion to table amendment SA 2393 agreed to in Senate by Yea-Nay Vote. 50 - 46. Record Vote Number: 119. (consideration: CR S4124)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2393?format=json"
+        },
+        {
+            "amendmentNumber": "2390",
+            "congress": 112,
+            "introducedDate": "2012-06-12",
+            "latestAction": {
+                "actionDate": "2012-06-19",
+                "text": "Proposed amendment SA 2390 by consent withdrawn in Senate. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2390?format=json"
+        },
+        {
+            "amendmentNumber": "2391",
+            "congress": 112,
+            "introducedDate": "2012-06-12",
+            "latestAction": {
+                "actionDate": "2012-06-19",
+                "text": "SA 2391 fell when the motion to recommit was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2391?format=json"
+        },
+        {
+            "amendmentNumber": "2018",
+            "congress": 112,
+            "introducedDate": "2012-04-17",
+            "latestAction": {
+                "actionDate": "2012-04-19",
+                "text": "SA 2018 fell when SA 2017 withdrawn. (consideration: CR S2538)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2018?format=json"
+        },
+        {
+            "amendmentNumber": "2017",
+            "congress": 112,
+            "introducedDate": "2012-04-17",
+            "latestAction": {
+                "actionDate": "2012-04-19",
+                "text": "Proposed amendment SA 2017 withdrawn in Senate. (consideration: CR S2538)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2017?format=json"
+        },
+        {
+            "amendmentNumber": "2019",
+            "congress": 112,
+            "introducedDate": "2012-04-17",
+            "latestAction": {
+                "actionDate": "2012-04-19",
+                "text": "SA 2019 fell when SA 2018 fell. (consideration: CR S2538)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2019?format=json"
+        },
+        {
+            "amendmentNumber": "2015",
+            "congress": 112,
+            "introducedDate": "2012-04-17",
+            "latestAction": {
+                "actionDate": "2012-04-19",
+                "text": "Proposed amendment SA 2015 withdrawn in Senate. (consideration: CR S2538)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2015?format=json"
+        },
+        {
+            "amendmentNumber": "2016",
+            "congress": 112,
+            "introducedDate": "2012-04-17",
+            "latestAction": {
+                "actionDate": "2012-04-19",
+                "text": "SA 2016 fell when SA 2015 withdrawn. (consideration: CR S2538)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2016?format=json"
+        },
+        {
+            "amendmentNumber": "2013",
+            "congress": 112,
+            "introducedDate": "2012-04-17",
+            "latestAction": {
+                "actionDate": "2012-04-19",
+                "text": "Proposed amendment SA 2013 withdrawn in Senate. (consideration: CR S2538)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2013?format=json"
+        },
+        {
+            "amendmentNumber": "2014",
+            "congress": 112,
+            "introducedDate": "2012-04-17",
+            "latestAction": {
+                "actionDate": "2012-04-19",
+                "text": "SA 2014 fell when SA 2013 withdrawn. (consideration: CR S2538)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2014?format=json"
+        },
+        {
+            "amendmentNumber": "1971",
+            "congress": 112,
+            "introducedDate": "2012-03-27",
+            "latestAction": {
+                "actionDate": "2012-03-27",
+                "text": "Amendment SA 1971 proposed by Senator Reid to Amendment SA 1970 (the instructions of the motion). (consideration: CR S2055, CR 3/29/2012 S2199; text: CR S2055) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1971?format=json"
+        },
+        {
+            "amendmentNumber": "1970",
+            "congress": 112,
+            "introducedDate": "2012-03-27",
+            "latestAction": {
+                "actionDate": "2012-03-27",
+                "text": "Amendment SA 1970 proposed by Senator Reid. (consideration: CR S2055; text: CR S2055) To change the enactment date."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1970?format=json"
+        },
+        {
+            "amendmentNumber": "1972",
+            "congress": 112,
+            "introducedDate": "2012-03-27",
+            "latestAction": {
+                "actionDate": "2012-03-27",
+                "text": "Amendment SA 1972 proposed by Senator Reid to Amendment SA 1971. (consideration: CR S2055, CR 3/29/2012 S2199; text: CR S2055) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1972?format=json"
+        },
+        {
+            "amendmentNumber": "1969",
+            "congress": 112,
+            "introducedDate": "2012-03-27",
+            "latestAction": {
+                "actionDate": "2012-03-27",
+                "text": "Amendment SA 1969 proposed by Senator Reid to Amendment SA 1968. (consideration: CR S2055, CR 3/29/2012 S2199; text: CR S2055) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1969?format=json"
+        },
+        {
+            "amendmentNumber": "1968",
+            "congress": 112,
+            "introducedDate": "2012-03-27",
+            "latestAction": {
+                "actionDate": "2012-03-27",
+                "text": "Amendment SA 1968 proposed by Senator Reid. (consideration: CR S2055, CR 3/29/2012 S2199; text: CR S2055) To change the enactment date."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1968?format=json"
+        },
+        {
+            "amendmentNumber": "1944",
+            "congress": 112,
+            "introducedDate": "2012-03-20",
+            "latestAction": {
+                "actionDate": "2012-03-22",
+                "text": "SA 1944 fell when SA 1943 fell. (consideration: CR S1981)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1944?format=json"
+        },
+        {
+            "amendmentNumber": "1943",
+            "congress": 112,
+            "introducedDate": "2012-03-20",
+            "latestAction": {
+                "actionDate": "2012-03-22",
+                "text": "SA 1943 fell when SA 1942 fell. (consideration: CR S1981)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1943?format=json"
+        },
+        {
+            "amendmentNumber": "1942",
+            "congress": 112,
+            "introducedDate": "2012-03-20",
+            "latestAction": {
+                "actionDate": "2012-03-22",
+                "text": "SA 1942 fell when cloture invoked on the motion to concur in the House amendment to the bill (S. 2038). (consideration: CR S1981)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1942?format=json"
+        },
+        {
+            "amendmentNumber": "1940",
+            "congress": 112,
+            "introducedDate": "2012-03-20",
+            "latestAction": {
+                "actionDate": "2012-03-22",
+                "text": "Proposed amendment SA 1940 withdrawn in Senate. (consideration: CR S1981)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1940?format=json"
+        },
+        {
+            "amendmentNumber": "1941",
+            "congress": 112,
+            "introducedDate": "2012-03-20",
+            "latestAction": {
+                "actionDate": "2012-03-22",
+                "text": "SA 1941 fell when SA 1940 withdrawn. (consideration: CR S1981)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1941?format=json"
+        },
+        {
+            "amendmentNumber": "1866",
+            "congress": 112,
+            "introducedDate": "2012-03-19",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1866?format=json"
+        },
+        {
+            "amendmentNumber": "1867",
+            "congress": 112,
+            "introducedDate": "2012-03-19",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1867?format=json"
+        },
+        {
+            "amendmentNumber": "1864",
+            "congress": 112,
+            "introducedDate": "2012-03-19",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1864?format=json"
+        },
+        {
+            "amendmentNumber": "1865",
+            "congress": 112,
+            "introducedDate": "2012-03-19",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1865?format=json"
+        },
+        {
+            "amendmentNumber": "1862",
+            "congress": 112,
+            "introducedDate": "2012-03-19",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1862?format=json"
+        },
+        {
+            "amendmentNumber": "1863",
+            "congress": 112,
+            "introducedDate": "2012-03-19",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1863?format=json"
+        },
+        {
+            "amendmentNumber": "1839",
+            "congress": 112,
+            "introducedDate": "2012-03-15",
+            "latestAction": {
+                "actionDate": "2012-03-21",
+                "text": "SA 1839 fell when SA 1838 fell. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1839?format=json"
+        },
+        {
+            "amendmentNumber": "1840",
+            "congress": 112,
+            "introducedDate": "2012-03-15",
+            "latestAction": {
+                "actionDate": "2012-03-21",
+                "text": "SA 1840 fell when SA 1839 fell. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1840?format=json"
+        },
+        {
+            "amendmentNumber": "1837",
+            "congress": 112,
+            "introducedDate": "2012-03-15",
+            "latestAction": {
+                "actionDate": "2012-03-21",
+                "text": "SA 1837 fell when SA 1836 ruled non-germane by the Chair. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1837?format=json"
+        },
+        {
+            "amendmentNumber": "1838",
+            "congress": 112,
+            "introducedDate": "2012-03-15",
+            "latestAction": {
+                "actionDate": "2012-03-21",
+                "text": "SA 1838 fell when cloture invoked on the bill. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1838?format=json"
+        },
+        {
+            "amendmentNumber": "1834",
+            "congress": 112,
+            "introducedDate": "2012-03-15",
+            "latestAction": {
+                "actionDate": "2012-03-21",
+                "text": "SA 1834 fell when SA 1833 ruled non-germane by the Chair. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1834?format=json"
+        },
+        {
+            "amendmentNumber": "1835",
+            "congress": 112,
+            "introducedDate": "2012-03-15",
+            "latestAction": {
+                "actionDate": "2012-03-21",
+                "text": "SA 1835 fell when SA 1834 fell. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1835?format=json"
+        },
+        {
+            "amendmentNumber": "1781",
+            "congress": 112,
+            "introducedDate": "2012-03-05",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1781?format=json"
+        },
+        {
+            "amendmentNumber": "1780",
+            "congress": 112,
+            "introducedDate": "2012-03-05",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1780?format=json"
+        },
+        {
+            "amendmentNumber": "1762",
+            "congress": 112,
+            "introducedDate": "2012-03-01",
+            "latestAction": {
+                "actionDate": "2012-03-07",
+                "text": "Proposed amendment SA 1762 withdrawn in Senate. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1762?format=json"
+        },
+        {
+            "amendmentNumber": "1763",
+            "congress": 112,
+            "introducedDate": "2012-03-01",
+            "latestAction": {
+                "actionDate": "2012-03-07",
+                "text": "Proposed amendment SA 1763 withdrawn in Senate. (consideration: CR S1455)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1763?format=json"
+        },
+        {
+            "amendmentNumber": "1765",
+            "congress": 112,
+            "introducedDate": "2012-03-01",
+            "latestAction": {
+                "actionDate": "2012-03-07",
+                "text": "SA 1765 fell when SA 1764 fell. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1765?format=json"
+        },
+        {
+            "amendmentNumber": "1764",
+            "congress": 112,
+            "introducedDate": "2012-03-01",
+            "latestAction": {
+                "actionDate": "2012-03-07",
+                "text": "SA 1764 fell when SA 1763 withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1764?format=json"
+        },
+        {
+            "amendmentNumber": "1761",
+            "congress": 112,
+            "introducedDate": "2012-03-01",
+            "latestAction": {
+                "actionDate": "2012-03-07",
+                "text": "Amendment SA 1761 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1761?format=json"
+        },
+        {
+            "amendmentNumber": "1730",
+            "congress": 112,
+            "introducedDate": "2012-02-17",
+            "latestAction": {
+                "actionDate": "2012-03-01",
+                "text": "Proposed amendment SA 1730 withdrawn in Senate. (consideration: CR S1179)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1730?format=json"
+        },
+        {
+            "amendmentNumber": "4100",
+            "congress": 113,
+            "introducedDate": "2014-12-12",
+            "latestAction": {
+                "actionDate": "2014-12-13",
+                "text": "Proposed amendment SA 4100 withdrawn in Senate. (consideration: CR S6813)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/4100?format=json"
+        },
+        {
+            "amendmentNumber": "4102",
+            "congress": 113,
+            "introducedDate": "2014-12-12",
+            "latestAction": {
+                "actionDate": "2014-12-13",
+                "text": "SA 4102 fell when cloture invoked on the motion to concur in the House amendment to the Senate amendment. (consideration: CR S6813)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/4102?format=json"
+        },
+        {
+            "amendmentNumber": "4103",
+            "congress": 113,
+            "introducedDate": "2014-12-12",
+            "latestAction": {
+                "actionDate": "2014-12-13",
+                "text": "SA 4103 fell when SA 4102 fell. (consideration: CR S6813)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/4103?format=json"
+        },
+        {
+            "amendmentNumber": "4104",
+            "congress": 113,
+            "introducedDate": "2014-12-12",
+            "latestAction": {
+                "actionDate": "2014-12-13",
+                "text": "SA 4104 fell when SA 4103 fell. (consideration: CR S6813)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/4104?format=json"
+        },
+        {
+            "amendmentNumber": "4101",
+            "congress": 113,
+            "introducedDate": "2014-12-12",
+            "latestAction": {
+                "actionDate": "2014-12-13",
+                "text": "SA 4101 fell when SA 4100 withdrawn. (consideration: CR S6813)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/4101?format=json"
+        },
+        {
+            "amendmentNumber": "3925",
+            "congress": 113,
+            "introducedDate": "2014-09-18",
+            "latestAction": {
+                "actionDate": "2014-11-13",
+                "text": "SA 3925 (instructions of the motion to refer) fell when cloture invoked on the motion to agree to the House amendment to the Senate bill. (consideration: CR S5964)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3925?format=json"
+        },
+        {
+            "amendmentNumber": "3926",
+            "congress": 113,
+            "introducedDate": "2014-09-18",
+            "latestAction": {
+                "actionDate": "2014-11-13",
+                "text": "SA 3926 fell when SA 3925 fell. (consideration: CR S5964)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3926?format=json"
+        },
+        {
+            "amendmentNumber": "3927",
+            "congress": 113,
+            "introducedDate": "2014-09-18",
+            "latestAction": {
+                "actionDate": "2014-11-13",
+                "text": "SA 3927 fell when SA 3926 fell. (consideration: CR S5964)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3927?format=json"
+        },
+        {
+            "amendmentNumber": "3923",
+            "congress": 113,
+            "introducedDate": "2014-09-18",
+            "latestAction": {
+                "actionDate": "2014-11-17",
+                "text": "Proposed amendment SA 3923 withdrawn in Senate. (consideration: CR S6012)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3923?format=json"
+        },
+        {
+            "amendmentNumber": "3924",
+            "congress": 113,
+            "introducedDate": "2014-09-18",
+            "latestAction": {
+                "actionDate": "2014-11-17",
+                "text": "SA 3924 fell when SA 3923 was withdrawn. (consideration: CR S6012)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3924?format=json"
+        },
+        {
+            "amendmentNumber": "3873",
+            "congress": 113,
+            "introducedDate": "2014-09-18",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3873?format=json"
+        },
+        {
+            "amendmentNumber": "3851",
+            "congress": 113,
+            "introducedDate": "2014-09-18",
+            "latestAction": {
+                "actionDate": "2014-09-18",
+                "text": "Proposed amendment SA 3851 withdrawn in Senate. (consideration: CR S5764)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3851?format=json"
+        },
+        {
+            "amendmentNumber": "3852",
+            "congress": 113,
+            "introducedDate": "2014-09-18",
+            "latestAction": {
+                "actionDate": "2014-09-18",
+                "text": "Proposed amendment SA 3852 withdrawn in Senate. (consideration: CR S5764)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3852?format=json"
+        },
+        {
+            "amendmentNumber": "3855",
+            "congress": 113,
+            "introducedDate": "2014-09-18",
+            "latestAction": {
+                "actionDate": "2014-09-18",
+                "text": "SA 3855 fell when SA 3854 fell. (consideration: CR S5764)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3855?format=json"
+        },
+        {
+            "amendmentNumber": "3853",
+            "congress": 113,
+            "introducedDate": "2014-09-18",
+            "latestAction": {
+                "actionDate": "2014-09-18",
+                "text": "SA 3853 fell when cloture invoked on the measure. (consideration: CR S5764)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3853?format=json"
+        },
+        {
+            "amendmentNumber": "3854",
+            "congress": 113,
+            "introducedDate": "2014-09-18",
+            "latestAction": {
+                "actionDate": "2014-09-18",
+                "text": "SA 3854 fell when SA 3853 fell. (consideration: CR S5764)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3854?format=json"
+        },
+        {
+            "amendmentNumber": "3809",
+            "congress": 113,
+            "introducedDate": "2014-09-11",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3809?format=json"
+        },
+        {
+            "amendmentNumber": "3804",
+            "congress": 113,
+            "introducedDate": "2014-09-11",
+            "latestAction": {
+                "actionDate": "2014-09-11",
+                "text": "Amendment SA 3804 proposed by Senator Reid to Amendment SA 3803. (consideration: CR S5530; text: CR S5530) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3804?format=json"
+        },
+        {
+            "amendmentNumber": "3802",
+            "congress": 113,
+            "introducedDate": "2014-09-11",
+            "latestAction": {
+                "actionDate": "2014-09-11",
+                "text": "Amendment SA 3802 proposed by Senator Reid. (consideration: CR S5530; text: CR S5530) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3802?format=json"
+        },
+        {
+            "amendmentNumber": "3803",
+            "congress": 113,
+            "introducedDate": "2014-09-11",
+            "latestAction": {
+                "actionDate": "2014-09-11",
+                "text": "Amendment SA 3803 proposed by Senator Reid to Amendment SA 3802. (consideration: CR S5530; text: CR S5530) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3803?format=json"
+        },
+        {
+            "amendmentNumber": "3793",
+            "congress": 113,
+            "introducedDate": "2014-09-10",
+            "latestAction": {
+                "actionDate": "2014-09-10",
+                "text": "Amendment SA 3793 proposed by Senator Reid to language proposed to be stricken by the committee-reported substitute. (consideration: CR S5487; text: CR S5487) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3793?format=json"
+        },
+        {
+            "amendmentNumber": "3796",
+            "congress": 113,
+            "introducedDate": "2014-09-10",
+            "latestAction": {
+                "actionDate": "2014-09-10",
+                "text": "Amendment SA 3796 proposed by Senator Reid to Amendment SA 3795. (consideration: CR S5487; text: CR S5487) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3796?format=json"
+        },
+        {
+            "amendmentNumber": "3797",
+            "congress": 113,
+            "introducedDate": "2014-09-10",
+            "latestAction": {
+                "actionDate": "2014-09-10",
+                "text": "Amendment SA 3797 proposed by Senator Reid to Amendment SA 3796. (consideration: CR S5487; text: CR S5487) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3797?format=json"
+        },
+        {
+            "amendmentNumber": "3794",
+            "congress": 113,
+            "introducedDate": "2014-09-10",
+            "latestAction": {
+                "actionDate": "2014-09-10",
+                "text": "Amendment SA 3794 proposed by Senator Reid to Amendment SA 3793. (consideration: CR S5487; text: CR S5487) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3794?format=json"
+        },
+        {
+            "amendmentNumber": "3795",
+            "congress": 113,
+            "introducedDate": "2014-09-10",
+            "latestAction": {
+                "actionDate": "2014-09-10",
+                "text": "Amendment SA 3795 proposed by Senator Reid. (consideration: CR S5487; text: CR S5487) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3795?format=json"
+        },
+        {
+            "amendmentNumber": "3800",
+            "congress": 113,
+            "introducedDate": "2014-09-11",
+            "latestAction": {
+                "actionDate": "2014-09-11",
+                "text": "Amendment SA 3800 proposed by Senator Reid. (consideration: CR S5530; text: CR S5530) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3800?format=json"
+        },
+        {
+            "amendmentNumber": "3801",
+            "congress": 113,
+            "introducedDate": "2014-09-11",
+            "latestAction": {
+                "actionDate": "2014-09-11",
+                "text": "Amendment SA 3801 proposed by Senator Reid to Amendment SA 3800. (consideration: CR S5530; text: CR S5530) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3801?format=json"
+        },
+        {
+            "amendmentNumber": "3792",
+            "congress": 113,
+            "introducedDate": "2014-09-10",
+            "latestAction": {
+                "actionDate": "2014-09-10",
+                "text": "Amendment SA 3792 proposed by Senator Reid to Amendment SA 3791. (consideration: CR S5487; text: CR S5487) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3792?format=json"
+        },
+        {
+            "amendmentNumber": "3791",
+            "congress": 113,
+            "introducedDate": "2014-09-10",
+            "latestAction": {
+                "actionDate": "2014-09-10",
+                "text": "Amendment SA 3791 proposed by Senator Reid to the committee-reported substitute. (consideration: CR S5487; text: CR S5487) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3791?format=json"
+        },
+        {
+            "amendmentNumber": "3780",
+            "congress": 113,
+            "introducedDate": "2014-08-01",
+            "latestAction": {
+                "actionDate": "2014-08-01",
+                "text": "Amendment SA 3780 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3780?format=json"
+        },
+        {
+            "amendmentNumber": "3781",
+            "congress": 113,
+            "introducedDate": "2014-08-01",
+            "latestAction": {
+                "actionDate": "2014-08-01",
+                "text": "Amendment SA 3781 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3781?format=json"
+        },
+        {
+            "amendmentNumber": "3763",
+            "congress": 113,
+            "introducedDate": "2014-07-31",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3763?format=json"
+        },
+        {
+            "amendmentNumber": "3761",
+            "congress": 113,
+            "introducedDate": "2014-07-31",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3761?format=json"
+        },
+        {
+            "amendmentNumber": "3764",
+            "congress": 113,
+            "introducedDate": "2014-07-31",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3764?format=json"
+        },
+        {
+            "amendmentNumber": "3762",
+            "congress": 113,
+            "introducedDate": "2014-07-31",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3762?format=json"
+        },
+        {
+            "amendmentNumber": "3765",
+            "congress": 113,
+            "introducedDate": "2014-07-31",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3765?format=json"
+        },
+        {
+            "amendmentNumber": "3766",
+            "congress": 113,
+            "introducedDate": "2014-07-31",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3766?format=json"
+        },
+        {
+            "amendmentNumber": "3754",
+            "congress": 113,
+            "introducedDate": "2014-07-31",
+            "latestAction": {
+                "actionDate": "2014-07-31",
+                "text": "SA 3754 fell when SA 3753 fell. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3754?format=json"
+        },
+        {
+            "amendmentNumber": "3753",
+            "congress": 113,
+            "introducedDate": "2014-07-31",
+            "latestAction": {
+                "actionDate": "2014-07-31",
+                "text": "SA 3753 fell when SA 3752 fell. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3753?format=json"
+        },
+        {
+            "amendmentNumber": "3752",
+            "congress": 113,
+            "introducedDate": "2014-07-31",
+            "latestAction": {
+                "actionDate": "2014-07-31",
+                "text": "SA 3752 fell when the motion to commit to Appropriations fell. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3752?format=json"
+        },
+        {
+            "amendmentNumber": "3751",
+            "congress": 113,
+            "introducedDate": "2014-07-31",
+            "latestAction": {
+                "actionDate": "2014-07-31",
+                "text": "SA 3751 fell when 3750 fell. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3751?format=json"
+        },
+        {
+            "amendmentNumber": "3750",
+            "congress": 113,
+            "introducedDate": "2014-07-31",
+            "latestAction": {
+                "actionDate": "2014-07-31",
+                "text": "SA 3750 fell when the bill was referred to the Committee on Appropriations. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3750?format=json"
+        },
+        {
+            "amendmentNumber": "3694",
+            "congress": 113,
+            "introducedDate": "2014-07-28",
+            "latestAction": {
+                "actionDate": "2014-07-30",
+                "text": "Considered by Senate. (consideration: CR S5076)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3694?format=json"
+        },
+        {
+            "amendmentNumber": "3697",
+            "congress": 113,
+            "introducedDate": "2014-07-28",
+            "latestAction": {
+                "actionDate": "2014-07-30",
+                "text": "Considered by Senate. (consideration: CR S5076)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3697?format=json"
+        },
+        {
+            "amendmentNumber": "3696",
+            "congress": 113,
+            "introducedDate": "2014-07-28",
+            "latestAction": {
+                "actionDate": "2014-07-30",
+                "text": "Considered by Senate. (consideration: CR S5076)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3696?format=json"
+        },
+        {
+            "amendmentNumber": "3695",
+            "congress": 113,
+            "introducedDate": "2014-07-28",
+            "latestAction": {
+                "actionDate": "2014-07-30",
+                "text": "Considered by Senate. (consideration: CR S5076)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3695?format=json"
+        },
+        {
+            "amendmentNumber": "3693",
+            "congress": 113,
+            "introducedDate": "2014-07-28",
+            "latestAction": {
+                "actionDate": "2014-07-30",
+                "text": "Considered by Senate. (consideration: CR S5076)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3693?format=json"
+        },
+        {
+            "amendmentNumber": "3529",
+            "congress": 113,
+            "introducedDate": "2014-07-09",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3529?format=json"
+        },
+        {
+            "amendmentNumber": "3530",
+            "congress": 113,
+            "introducedDate": "2014-07-09",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3530?format=json"
+        },
+        {
+            "amendmentNumber": "3490",
+            "congress": 113,
+            "introducedDate": "2014-07-09",
+            "latestAction": {
+                "actionDate": "2014-07-10",
+                "text": "Considered by Senate. (consideration: CR S4377)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3490?format=json"
+        },
+        {
+            "amendmentNumber": "3491",
+            "congress": 113,
+            "introducedDate": "2014-07-09",
+            "latestAction": {
+                "actionDate": "2014-07-10",
+                "text": "Considered by Senate. (consideration: CR S4377)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3491?format=json"
+        },
+        {
+            "amendmentNumber": "3492",
+            "congress": 113,
+            "introducedDate": "2014-07-09",
+            "latestAction": {
+                "actionDate": "2014-07-10",
+                "text": "Considered by Senate. (consideration: CR S4377)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3492?format=json"
+        },
+        {
+            "amendmentNumber": "3493",
+            "congress": 113,
+            "introducedDate": "2014-07-09",
+            "latestAction": {
+                "actionDate": "2014-07-10",
+                "text": "Considered by Senate. (consideration: CR S4377)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3493?format=json"
+        },
+        {
+            "amendmentNumber": "3090",
+            "congress": 113,
+            "introducedDate": "2014-05-14",
+            "latestAction": {
+                "actionDate": "2014-05-14",
+                "text": "Amendment SA 3090 proposed by Senator Reid to Amendment SA 3089. (consideration: CR S3018; text: CR S3018) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3090?format=json"
+        },
+        {
+            "amendmentNumber": "3091",
+            "congress": 113,
+            "introducedDate": "2014-05-14",
+            "latestAction": {
+                "actionDate": "2014-05-14",
+                "text": "Amendment SA 3091 proposed by Senator Reid to language proposed to be stricken by amendment SA 3060. (consideration: CR S3018; text: CR S3018) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3091?format=json"
+        },
+        {
+            "amendmentNumber": "3092",
+            "congress": 113,
+            "introducedDate": "2014-05-14",
+            "latestAction": {
+                "actionDate": "2014-05-14",
+                "text": "Amendment SA 3092 proposed by Senator Reid to Amendment SA 3091. (consideration: CR S3018; text: CR S3018) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3092?format=json"
+        },
+        {
+            "amendmentNumber": "3089",
+            "congress": 113,
+            "introducedDate": "2014-05-14",
+            "latestAction": {
+                "actionDate": "2014-05-14",
+                "text": "Amendment SA 3089 proposed by Senator Reid to Amendment SA 3060. (consideration: CR S3018; text: CR S3018) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3089?format=json"
+        },
+        {
+            "amendmentNumber": "3094",
+            "congress": 113,
+            "introducedDate": "2014-05-14",
+            "latestAction": {
+                "actionDate": "2014-05-14",
+                "text": "Amendment SA 3094 proposed by Senator Reid to Amendment SA 3093 (instructions of the motion to commit). (consideration: CR S3019; text: CR S3019) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3094?format=json"
+        },
+        {
+            "amendmentNumber": "3095",
+            "congress": 113,
+            "introducedDate": "2014-05-14",
+            "latestAction": {
+                "actionDate": "2014-05-14",
+                "text": "Amendment SA 3095 proposed by Senator Reid to Amendment SA 3094. (consideration: CR S3019; text: CR S3019) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3095?format=json"
+        },
+        {
+            "amendmentNumber": "3093",
+            "congress": 113,
+            "introducedDate": "2014-05-14",
+            "latestAction": {
+                "actionDate": "2014-05-14",
+                "text": "Amendment SA 3093 proposed by Senator Reid. (consideration: CR S3018-3019; text: CR S3019) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3093?format=json"
+        },
+        {
+            "amendmentNumber": "3026",
+            "congress": 113,
+            "introducedDate": "2014-05-07",
+            "latestAction": {
+                "actionDate": "2014-05-07",
+                "text": "Amendment SA 3026 proposed by Senator Reid to Amendment SA 3025. (consideration: CR S2763; text: CR S2763) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3026?format=json"
+        },
+        {
+            "amendmentNumber": "3027",
+            "congress": 113,
+            "introducedDate": "2014-05-07",
+            "latestAction": {
+                "actionDate": "2014-05-07",
+                "text": "Amendment SA 3027 proposed by Senator Reid. (consideration: CR S2763; text: CR S2763) To change the enactment date."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3027?format=json"
+        },
+        {
+            "amendmentNumber": "3028",
+            "congress": 113,
+            "introducedDate": "2014-05-07",
+            "latestAction": {
+                "actionDate": "2014-05-07",
+                "text": "Amendment SA 3028 proposed by Senator Reid to Amendment SA 3027 (instructions of the motion to commit). (consideration: CR S2763; text: CR S2763) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3028?format=json"
+        },
+        {
+            "amendmentNumber": "3024",
+            "congress": 113,
+            "introducedDate": "2014-05-07",
+            "latestAction": {
+                "actionDate": "2014-05-07",
+                "text": "Amendment SA 3024 proposed by Senator Reid to Amendment SA 3023. (consideration: CR S2763; text: CR S2763) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3024?format=json"
+        },
+        {
+            "amendmentNumber": "3025",
+            "congress": 113,
+            "introducedDate": "2014-05-07",
+            "latestAction": {
+                "actionDate": "2014-05-07",
+                "text": "Motion to table amendment SA 3025 rejected in Senate by Yea-Nay Vote. 45 - 51. Record Vote Number: 133. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3025?format=json"
+        },
+        {
+            "amendmentNumber": "3029",
+            "congress": 113,
+            "introducedDate": "2014-05-07",
+            "latestAction": {
+                "actionDate": "2014-05-07",
+                "text": "Amendment SA 3029 proposed by Senator Reid to Amendment SA 3028. (consideration: CR S2763; text: CR S2763) Of a perfecting nature."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3029?format=json"
+        },
+        {
+            "amendmentNumber": "3023",
+            "congress": 113,
+            "introducedDate": "2014-05-07",
+            "latestAction": {
+                "actionDate": "2014-05-07",
+                "text": "Motion to table amendment SA 3023 rejected in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 132. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/3023?format=json"
+        },
+        {
+            "amendmentNumber": "2766",
+            "congress": 113,
+            "introducedDate": "2014-02-26",
+            "latestAction": {
+                "actionDate": "2014-02-27",
+                "text": "SA 2766 fell when SA 2747 fell. (consideration: CR S1210)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2766?format=json"
+        },
+        {
+            "amendmentNumber": "2769",
+            "congress": 113,
+            "introducedDate": "2014-02-26",
+            "latestAction": {
+                "actionDate": "2014-02-27",
+                "text": "SA 2769 fell when SA 2768 fell. (consideration: CR S1210)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2769?format=json"
+        },
+        {
+            "amendmentNumber": "2767",
+            "congress": 113,
+            "introducedDate": "2014-02-26",
+            "latestAction": {
+                "actionDate": "2014-02-27",
+                "text": "SA 2767 fell when the bill was committed. (consideration: CR S1210)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2767?format=json"
+        },
+        {
+            "amendmentNumber": "2768",
+            "congress": 113,
+            "introducedDate": "2014-02-26",
+            "latestAction": {
+                "actionDate": "2014-02-27",
+                "text": "SA 2768 fell when SA 2767 fell. (consideration: CR S1210)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2768?format=json"
+        },
+        {
+            "amendmentNumber": "2718",
+            "congress": 113,
+            "introducedDate": "2014-02-04",
+            "latestAction": {
+                "actionDate": "2014-02-06",
+                "text": "Considered by Senate. (consideration: CR S777)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2718?format=json"
+        },
+        {
+            "amendmentNumber": "2717",
+            "congress": 113,
+            "introducedDate": "2014-02-04",
+            "latestAction": {
+                "actionDate": "2014-02-06",
+                "text": "Considered by Senate. (consideration: CR S777)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2717?format=json"
+        },
+        {
+            "amendmentNumber": "2715",
+            "congress": 113,
+            "introducedDate": "2014-02-04",
+            "latestAction": {
+                "actionDate": "2014-02-06",
+                "text": "Considered by Senate. (consideration: CR S777)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2715?format=json"
+        },
+        {
+            "amendmentNumber": "2716",
+            "congress": 113,
+            "introducedDate": "2014-02-04",
+            "latestAction": {
+                "actionDate": "2014-02-06",
+                "text": "Considered by Senate. (consideration: CR S777)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2716?format=json"
+        },
+        {
+            "amendmentNumber": "2635",
+            "congress": 113,
+            "introducedDate": "2014-01-09",
+            "latestAction": {
+                "actionDate": "2014-02-04",
+                "text": "SA 2635 fell when SA 2634 fell. (consideration: CR S737)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2635?format=json"
+        },
+        {
+            "amendmentNumber": "2633",
+            "congress": 113,
+            "introducedDate": "2014-01-09",
+            "latestAction": {
+                "actionDate": "2014-02-04",
+                "text": "Proposed amendment SA 2633 withdrawn in Senate. (consideration: CR S737)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2633?format=json"
+        },
+        {
+            "amendmentNumber": "2632",
+            "congress": 113,
+            "introducedDate": "2014-01-09",
+            "latestAction": {
+                "actionDate": "2014-02-04",
+                "text": "SA 2632 fell when SA 2631 was tabled. (consideration: CR S737)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2632?format=json"
+        },
+        {
+            "amendmentNumber": "2634",
+            "congress": 113,
+            "introducedDate": "2014-01-09",
+            "latestAction": {
+                "actionDate": "2014-02-04",
+                "text": "SA 2634 fell when SA 2633 was withdrawn. (consideration: CR S737)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2634?format=json"
+        },
+        {
+            "amendmentNumber": "2556",
+            "congress": 113,
+            "introducedDate": "2013-12-15",
+            "latestAction": {
+                "actionDate": "2013-12-18",
+                "text": "SA 2556 fell when SA 2555 fell. (consideration: CR S8957)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2556?format=json"
+        },
+        {
+            "amendmentNumber": "2554",
+            "congress": 113,
+            "introducedDate": "2013-12-15",
+            "latestAction": {
+                "actionDate": "2013-12-18",
+                "text": "SA 2554 fell when cloture invoked on the motion to concur in the House amendment to the Senate amendment. (consideration: CR S8957)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2554?format=json"
+        },
+        {
+            "amendmentNumber": "2553",
+            "congress": 113,
+            "introducedDate": "2013-12-15",
+            "latestAction": {
+                "actionDate": "2013-12-19",
+                "text": "SA 2553 fell when SA 2552 withdrawn. (consideration: CR S9067)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2553?format=json"
+        },
+        {
+            "amendmentNumber": "2552",
+            "congress": 113,
+            "introducedDate": "2013-12-15",
+            "latestAction": {
+                "actionDate": "2013-12-19",
+                "text": "Proposed amendment SA 2552 withdrawn in Senate. (consideration: CR S9067)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2552?format=json"
+        },
+        {
+            "amendmentNumber": "2547",
+            "congress": 113,
+            "introducedDate": "2013-12-15",
+            "latestAction": {
+                "actionDate": "2013-12-18",
+                "text": "Proposed amendment SA 2547 withdrawn in Senate. (consideration: CR S8957)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2547?format=json"
+        },
+        {
+            "amendmentNumber": "2551",
+            "congress": 113,
+            "introducedDate": "2013-12-15",
+            "latestAction": {
+                "actionDate": "2013-12-17",
+                "text": "SA 2551 fell when SA 2550 fell. (consideration: CR S8872)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2551?format=json"
+        },
+        {
+            "amendmentNumber": "2548",
+            "congress": 113,
+            "introducedDate": "2013-12-15",
+            "latestAction": {
+                "actionDate": "2013-12-18",
+                "text": "SA 2548 fell when SA 2547 withdrawn. (consideration: CR S8957)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2548?format=json"
+        },
+        {
+            "amendmentNumber": "2549",
+            "congress": 113,
+            "introducedDate": "2013-12-15",
+            "latestAction": {
+                "actionDate": "2013-12-17",
+                "text": "SA 2549 fell when cloture invoked on the motion to concur in the House amendment to Senate amendment. (consideration: CR S8872)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2549?format=json"
+        },
+        {
+            "amendmentNumber": "2550",
+            "congress": 113,
+            "introducedDate": "2013-12-15",
+            "latestAction": {
+                "actionDate": "2013-12-17",
+                "text": "SA 2550 fell when SA 2549 fell. (consideration: CR S8872)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2550?format=json"
+        },
+        {
+            "amendmentNumber": "2555",
+            "congress": 113,
+            "introducedDate": "2013-12-15",
+            "latestAction": {
+                "actionDate": "2013-12-18",
+                "text": "SA 2555 fell when SA 2554 fell. (consideration: CR S8957)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2555?format=json"
+        },
+        {
+            "amendmentNumber": "2526",
+            "congress": 113,
+            "introducedDate": "2013-11-21",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2526?format=json"
+        },
+        {
+            "amendmentNumber": "2527",
+            "congress": 113,
+            "introducedDate": "2013-11-21",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2527?format=json"
+        },
+        {
+            "amendmentNumber": "2528",
+            "congress": 113,
+            "introducedDate": "2013-11-21",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2528?format=json"
+        },
+        {
+            "amendmentNumber": "2307",
+            "congress": 113,
+            "introducedDate": "2013-11-19",
+            "latestAction": {
+                "actionDate": "2013-12-09",
+                "text": "Considered by Senate. (consideration: CR S8548)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2307?format=json"
+        },
+        {
+            "amendmentNumber": "2305",
+            "congress": 113,
+            "introducedDate": "2013-11-19",
+            "latestAction": {
+                "actionDate": "2013-12-09",
+                "text": "Considered by Senate. (consideration: CR S8548)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2305?format=json"
+        },
+        {
+            "amendmentNumber": "2306",
+            "congress": 113,
+            "introducedDate": "2013-11-19",
+            "latestAction": {
+                "actionDate": "2013-12-09",
+                "text": "Considered by Senate. (consideration: CR S8548)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2306?format=json"
+        },
+        {
+            "amendmentNumber": "2215",
+            "congress": 113,
+            "introducedDate": "2013-11-19",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2215?format=json"
+        },
+        {
+            "amendmentNumber": "2216",
+            "congress": 113,
+            "introducedDate": "2013-11-19",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2216?format=json"
+        },
+        {
+            "amendmentNumber": "2125",
+            "congress": 113,
+            "introducedDate": "2013-11-18",
+            "latestAction": {
+                "actionDate": "2013-11-19",
+                "text": "Proposed amendment SA 2125 withdrawn in Senate. (consideration: CR S8153)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2125?format=json"
+        },
+        {
+            "amendmentNumber": "2126",
+            "congress": 113,
+            "introducedDate": "2013-11-18",
+            "latestAction": {
+                "actionDate": "2013-11-19",
+                "text": "SA 2126 fell when SA 2125 withdrawn. (consideration: CR S8153)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2126?format=json"
+        },
+        {
+            "amendmentNumber": "2127",
+            "congress": 113,
+            "introducedDate": "2013-11-18",
+            "latestAction": {
+                "actionDate": "2013-11-19",
+                "text": "SA 2127 fell when SA 2126 fell. (consideration: CR S8153)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2127?format=json"
+        },
+        {
+            "amendmentNumber": "2036",
+            "congress": 113,
+            "introducedDate": "2013-11-14",
+            "latestAction": {
+                "actionDate": "2013-11-18",
+                "text": "SA 2036 fell when SA 2035 withdrawn. (consideration: CR S8071)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2036?format=json"
+        },
+        {
+            "amendmentNumber": "2033",
+            "congress": 113,
+            "introducedDate": "2013-11-14",
+            "latestAction": {
+                "actionDate": "2013-11-18",
+                "text": "Proposed amendment SA 2033 withdrawn in Senate. (consideration: CR S8071)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2033?format=json"
+        },
+        {
+            "amendmentNumber": "2037",
+            "congress": 113,
+            "introducedDate": "2013-11-14",
+            "latestAction": {
+                "actionDate": "2013-11-18",
+                "text": "SA 2037 fell when SA 2036 fell. (consideration: CR S8071)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2037?format=json"
+        },
+        {
+            "amendmentNumber": "2034",
+            "congress": 113,
+            "introducedDate": "2013-11-14",
+            "latestAction": {
+                "actionDate": "2013-11-18",
+                "text": "SA 2034 fell when SA 2033 withdrawn. (consideration: CR S8071)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2034?format=json"
+        },
+        {
+            "amendmentNumber": "2035",
+            "congress": 113,
+            "introducedDate": "2013-11-14",
+            "latestAction": {
+                "actionDate": "2013-11-18",
+                "text": "Proposed amendment SA 2035 withdrawn in Senate. (consideration: CR S8071)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2035?format=json"
+        },
+        {
+            "amendmentNumber": "2018",
+            "congress": 113,
+            "introducedDate": "2013-11-06",
+            "latestAction": {
+                "actionDate": "2013-11-07",
+                "text": "SA 2018 fell when SA 2017 fell. (consideration: CR S7902)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2018?format=json"
+        },
+        {
+            "amendmentNumber": "2020",
+            "congress": 113,
+            "introducedDate": "2013-11-06",
+            "latestAction": {
+                "actionDate": "2013-11-07",
+                "text": "Proposed amendment SA 2020 withdrawn in Senate. (consideration: CR S7902)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2020?format=json"
+        },
+        {
+            "amendmentNumber": "2015",
+            "congress": 113,
+            "introducedDate": "2013-11-06",
+            "latestAction": {
+                "actionDate": "2013-11-07",
+                "text": "SA 2015 fell when SA 2014 withdrawn. (consideration: CR S7902)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2015?format=json"
+        },
+        {
+            "amendmentNumber": "2017",
+            "congress": 113,
+            "introducedDate": "2013-11-06",
+            "latestAction": {
+                "actionDate": "2013-11-07",
+                "text": "SA 2017 fell when SA 2016 withdrawn. (consideration: CR S7902)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2017?format=json"
+        },
+        {
+            "amendmentNumber": "2016",
+            "congress": 113,
+            "introducedDate": "2013-11-06",
+            "latestAction": {
+                "actionDate": "2013-11-07",
+                "text": "Proposed amendment SA 2016 withdrawn in Senate. (consideration: CR S7902)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2016?format=json"
+        },
+        {
+            "amendmentNumber": "2014",
+            "congress": 113,
+            "introducedDate": "2013-11-06",
+            "latestAction": {
+                "actionDate": "2013-11-07",
+                "text": "Proposed amendment SA 2014 withdrawn in Senate. (consideration: CR S7902)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2014?format=json"
+        },
+        {
+            "amendmentNumber": "2005",
+            "congress": 113,
+            "introducedDate": "2013-10-16",
+            "latestAction": {
+                "actionDate": "2013-10-16",
+                "text": "Amendment SA 2005 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2005?format=json"
+        },
+        {
+            "amendmentNumber": "2004",
+            "congress": 113,
+            "introducedDate": "2013-10-16",
+            "latestAction": {
+                "actionDate": "2013-10-16",
+                "text": "Amendment SA 2004 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/2004?format=json"
+        },
+        {
+            "amendmentNumber": "1978",
+            "congress": 113,
+            "introducedDate": "2013-09-25",
+            "latestAction": {
+                "actionDate": "2013-09-27",
+                "text": "SA 1978 fell when SA 1977 fell. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/1978?format=json"
+        },
+        {
+            "amendmentNumber": "1977",
+            "congress": 113,
+            "introducedDate": "2013-09-25",
+            "latestAction": {
+                "actionDate": "2013-09-27",
+                "text": "SA 1977 fell when SA 1976 fell. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/1977?format=json"
+        },
+        {
+            "amendmentNumber": "1975",
+            "congress": 113,
+            "introducedDate": "2013-09-25",
+            "latestAction": {
+                "actionDate": "2013-09-27",
+                "text": "Proposed amendment SA 1975 withdrawn in Senate. (consideration: CR S6991)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/1975?format=json"
+        },
+        {
+            "amendmentNumber": "1976",
+            "congress": 113,
+            "introducedDate": "2013-09-25",
+            "latestAction": {
+                "actionDate": "2013-09-27",
+                "text": "SA 1976 fell when cloture invoked on the joint resolution. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/1976?format=json"
+        },
+        {
+            "amendmentNumber": "1974",
+            "congress": 113,
+            "introducedDate": "2013-09-25",
+            "latestAction": {
+                "actionDate": "2013-09-27",
+                "text": "Amendment SA 1974 agreed to in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 208. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/1974?format=json"
+        },
+        {
+            "amendmentNumber": "1731",
+            "congress": 113,
+            "introducedDate": "2013-06-26",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/1731?format=json"
+        },
+        {
+            "amendmentNumber": "1730",
+            "congress": 113,
+            "introducedDate": "2013-06-26",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/1730?format=json"
+        },
+        {
+            "amendmentNumber": "1732",
+            "congress": 113,
+            "introducedDate": "2013-06-26",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/1732?format=json"
+        },
+        {
+            "amendmentNumber": "1721",
+            "congress": 113,
+            "introducedDate": "2013-06-26",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/1721?format=json"
+        },
+        {
+            "amendmentNumber": "1723",
+            "congress": 113,
+            "introducedDate": "2013-06-26",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/1723?format=json"
+        },
+        {
+            "amendmentNumber": "1722",
+            "congress": 113,
+            "introducedDate": "2013-06-26",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/1722?format=json"
+        },
+        {
+            "amendmentNumber": "1665",
+            "congress": 113,
+            "introducedDate": "2013-06-25",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/1665?format=json"
+        },
+        {
+            "amendmentNumber": "1664",
+            "congress": 113,
+            "introducedDate": "2013-06-25",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/1664?format=json"
+        },
+        {
+            "amendmentNumber": "1555",
+            "congress": 113,
+            "introducedDate": "2013-06-21",
+            "latestAction": {
+                "actionDate": "2013-06-24",
+                "text": "SA 1555 fell when SA 1554 fell. (consideration: CR S5013)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/1555?format=json"
+        },
+        {
+            "amendmentNumber": "1556",
+            "congress": 113,
+            "introducedDate": "2013-06-21",
+            "latestAction": {
+                "actionDate": "2013-06-24",
+                "text": "SA 1556 fell when SA 1555 fell. (consideration: CR S5013)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/1556?format=json"
+        },
+        {
+            "amendmentNumber": "1552",
+            "congress": 113,
+            "introducedDate": "2013-06-21",
+            "latestAction": {
+                "actionDate": "2013-06-27",
+                "text": "Proposed amendment SA 1552 withdrawn in Senate. (consideration: CR S5329-5330)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/1552?format=json"
+        },
+        {
+            "amendmentNumber": "1551",
+            "congress": 113,
+            "introducedDate": "2013-06-21",
+            "latestAction": {
+                "actionDate": "2013-06-26",
+                "text": "Proposed amendment SA 1551 withdrawn in Senate. (consideration: CR S5215)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/1551?format=json"
+        },
+        {
+            "amendmentNumber": "1553",
+            "congress": 113,
+            "introducedDate": "2013-06-21",
+            "latestAction": {
+                "actionDate": "2013-06-27",
+                "text": "Proposed amendment SA 1553 withdrawn in Senate. (consideration: CR S5329-5330)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/1553?format=json"
+        },
+        {
+            "amendmentNumber": "1554",
+            "congress": 113,
+            "introducedDate": "2013-06-21",
+            "latestAction": {
+                "actionDate": "2013-06-24",
+                "text": "SA 1554 fell when cloture invoked on SA 1183 as modified. (consideration: CR S5013)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/1554?format=json"
+        },
+        {
+            "amendmentNumber": "1176",
+            "congress": 113,
+            "introducedDate": "2013-06-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/1176?format=json"
+        },
+        {
+            "amendmentNumber": "1175",
+            "congress": 113,
+            "introducedDate": "2013-06-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/1175?format=json"
+        },
+        {
+            "amendmentNumber": "1177",
+            "congress": 113,
+            "introducedDate": "2013-06-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/1177?format=json"
+        }
+    ]
+}

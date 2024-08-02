@@ -1,0 +1,105 @@
+{
+    "pagination": {
+        "count": 7
+    },
+    "request": {
+        "bioguideId": "m000860",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "944",
+            "congress": 99,
+            "introducedDate": "1986-06-26",
+            "latestAction": {
+                "actionDate": "1986-06-26",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 84 - 312 (Record Vote No: 208). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/944?format=json"
+        },
+        {
+            "amendmentNumber": "961",
+            "congress": 99,
+            "introducedDate": "1986-07-17",
+            "latestAction": {
+                "actionDate": "1986-07-17",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 108 - 302 (Record Vote No: 225). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/961?format=json"
+        },
+        {
+            "amendmentNumber": "164",
+            "congress": 99,
+            "introducedDate": "1985-06-21",
+            "latestAction": {
+                "actionDate": "1985-06-21",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/164?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-12-10",
+            "latestAction": {
+                "actionDate": "1985-12-17",
+                "text": "Referred to Subcommittee on Legislation and National Security."
+            },
+            "number": "3887",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A bill to amend title 31, United States Code, to require the President, in the annual budget submitted by the President to the Congress, to include information on the accuracy of inflation estimates with respect to the budget for the prior year.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3887?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-12-03",
+            "latestAction": {
+                "actionDate": "1985-12-09",
+                "text": "Referred to Subcommittee on Government Activities and Transportation."
+            },
+            "number": "3846",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to direct the Administrator of General Services to release certain restrictions contained in a conveyance of land to the State of Utah.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3846?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-06-11",
+            "latestAction": {
+                "actionDate": "1985-11-14",
+                "text": "For Further Action See H.R.505."
+            },
+            "number": "2729",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to modify the restrictions on the use of a certain tract of land in the State of Utah, and to provide for the conveyance of the fence located on such tract to the Armory Board, State of Utah.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2729?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-05-16",
+            "latestAction": {
+                "actionDate": "1985-12-26",
+                "text": "Became Public Law No: 99-212."
+            },
+            "number": "2542",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill designating the building located at 125 South State Street, Salt Lake City, Utah, as the \"Wallace F. Bennett Federal Building\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2542?format=json"
+        }
+    ]
+}

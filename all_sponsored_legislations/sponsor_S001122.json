@@ -1,0 +1,363 @@
+{
+    "pagination": {
+        "count": 25
+    },
+    "request": {
+        "bioguideId": "s001122",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "1006",
+            "congress": 99,
+            "introducedDate": "1986-07-29",
+            "latestAction": {
+                "actionDate": "1986-07-29",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 168 - 238 (Record Vote No: 257). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/1006?format=json"
+        },
+        {
+            "amendmentNumber": "968",
+            "congress": 99,
+            "introducedDate": "1986-07-17",
+            "latestAction": {
+                "actionDate": "1986-07-17",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/968?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-09-12",
+            "latestAction": {
+                "actionDate": "1986-09-17",
+                "text": "Referred to Subcommittee on Transportation, Aviation and Materials."
+            },
+            "number": "5515",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Information Age Commission Act of 1986",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5515?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-08-12",
+            "latestAction": {
+                "actionDate": "1986-09-02",
+                "text": "Referred to Subcommittee on Readiness."
+            },
+            "number": "5400",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to amend title 10, United States Code, to require the price of alcoholic beverages and tobacco products sold on military installations to be not less than the prevailing price in the community for such beverages and products.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5400?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-07-24",
+            "latestAction": {
+                "actionDate": "1986-07-28",
+                "text": "Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice."
+            },
+            "number": "5258",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "A bill to amend section 569 of title 28, United States Code, with respect to the duties of United States marshals.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5258?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-11-21",
+            "latestAction": {
+                "actionDate": "1986-06-02",
+                "text": "Executive Comment Received From Education."
+            },
+            "number": "3821",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Equity and Choice Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3821?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-10-30",
+            "latestAction": {
+                "actionDate": "1985-10-30",
+                "text": "Referred to House Committee on The Judiciary."
+            },
+            "number": "3657",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Benjamin H. Fonorow.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3657?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-10-22",
+            "latestAction": {
+                "actionDate": "1985-11-14",
+                "text": "Executive Comment Requested from State."
+            },
+            "number": "3600",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A bill to limit the number of Soviet nationals serving at the Soviet mission to the United Nations, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3600?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-10-16",
+            "latestAction": {
+                "actionDate": "1985-10-16",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "3576",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow deductions from gross income for contributions not in excess of $3,000 for any calendar year to an education savings account established to accumulate savings to pay the elementary, secondary, and post-secondary education expenses of any individual, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3576?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-09-11",
+            "latestAction": {
+                "actionDate": "1986-09-11",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "722",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution to designate the week beginning January 25, 1987, as \"National Productivity Improvement Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/99/hjres/722?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-10-03",
+            "latestAction": {
+                "actionDate": "1985-10-07",
+                "text": "Referred to Subcommittee on Monopolies and Commercial Law."
+            },
+            "number": "414",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A joint resolution proposing an amendment to the Constitution to require that outlays of the United States in any fiscal year be no more than a certain percentage of the gross national product, and for other purposes.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/99/hjres/414?format=json"
+        },
+        {
+            "amendmentNumber": "751",
+            "congress": 100,
+            "introducedDate": "1988-06-15",
+            "latestAction": {
+                "actionDate": "1988-06-15",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 180 - 222 (Record Vote No: 187). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/751?format=json"
+        },
+        {
+            "amendmentNumber": "497",
+            "congress": 100,
+            "introducedDate": "1987-11-18",
+            "latestAction": {
+                "actionDate": "1987-11-18",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/497?format=json"
+        },
+        {
+            "amendmentNumber": "297",
+            "congress": 100,
+            "introducedDate": "1987-06-29",
+            "latestAction": {
+                "actionDate": "1987-06-29",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/297?format=json"
+        },
+        {
+            "amendmentNumber": "251",
+            "congress": 100,
+            "introducedDate": "1987-06-18",
+            "latestAction": {
+                "actionDate": "1987-06-18",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/251?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-08-10",
+            "latestAction": {
+                "actionDate": "1988-10-05",
+                "text": "Received in the Senate and read twice and referred to the Committee on Judiciary."
+            },
+            "number": "5200",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "A bill to amend the Immigration and Nationality Act to limit the period of detention of excludable aliens pending removal in a manner similar to that provided in the case of deportable aliens pending deportation.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/5200?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-06-23",
+            "latestAction": {
+                "actionDate": "1988-06-23",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "4913",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to permit dealers to use the installment method of accounting, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4913?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-03-31",
+            "latestAction": {
+                "actionDate": "1988-08-10",
+                "text": "Clean Bill H.R.5200 Forwarded by Subcommittee to Full Committee in Lieu."
+            },
+            "number": "4349",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "A bill to amend the Immigration and Nationality Act to limit the period of detention of excluable aliens pending removal in the same manner as such detention is limited for deportable aliens pending deportation.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4349?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-09-30",
+            "latestAction": {
+                "actionDate": "1988-05-04",
+                "text": "Referred to Subcommittee on Courts and Administrative Practice."
+            },
+            "number": "3388",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Benjamin H. Fonorow.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3388?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-07-23",
+            "latestAction": {
+                "actionDate": "1987-07-27",
+                "text": "Referred to Subcommittee on Immigration, Refugees, and International Law."
+            },
+            "number": "3014",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "A bill to limit the number of aliens in each fiscal year who may become lawfully admitted to the United States for permanent residence.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3014?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-04-09",
+            "latestAction": {
+                "actionDate": "1987-04-24",
+                "text": "Referred to Subcommittee on Human Rights and International Organizations."
+            },
+            "number": "2083",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A bill to impose travel restrictions on the personnel of certain foreign missions and foreign organizations in the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2083?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-04-09",
+            "latestAction": {
+                "actionDate": "1987-04-24",
+                "text": "Referred to Subcommittee on Human Rights and International Organizations."
+            },
+            "number": "2084",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A bill to require the Secretary of State to include the amount and type of foreign assistance in the report on policies pursued by other countries in international organizations.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2084?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-09-16",
+            "latestAction": {
+                "actionDate": "1988-09-26",
+                "text": "Referred to Subcommittee on Human Rights and International Organizations."
+            },
+            "number": "657",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A joint resolution to ensure financial and management reform in the United Nations.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/657?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-03-11",
+            "latestAction": {
+                "actionDate": "1987-06-17",
+                "text": "See H.J.Res.321."
+            },
+            "number": "184",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A joint resolution proposing an amendment to the Constitution to require that outlays of the United States in any fiscal year be no more than a certain percentage of the gross national product, and for other purposes.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/184?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-04-29",
+            "latestAction": {
+                "actionDate": "1987-05-11",
+                "text": "Referred to Subcommittee on Western Hemisphere Affairs."
+            },
+            "number": "112",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution expressing the sense of Congress regarding the Government of Cuba's decision \"to suspend all formalities regarding the execution\" of the agreement on immigration matters signed by United States and Cuban representatives on December 14, 1984 (hereinafter, the \"Agreement\") and its persistent refusal to resume implementation of that Agreement.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/100/hconres/112?format=json"
+        }
+    ]
+}

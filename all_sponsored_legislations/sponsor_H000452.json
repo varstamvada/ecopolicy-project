@@ -1,0 +1,72 @@
+{
+    "pagination": {
+        "count": 4
+    },
+    "request": {
+        "bioguideId": "h000452",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 104,
+            "introducedDate": "1996-07-18",
+            "latestAction": {
+                "actionDate": "1996-09-26",
+                "text": "Received in the Senate."
+            },
+            "number": "3852",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Comprehensive Methamphetamine Control Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3852?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-12-13",
+            "latestAction": {
+                "actionDate": "1995-12-26",
+                "text": "Referred to the Subcommittee on Aviation."
+            },
+            "number": "2772",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Aircraft Pilot Safety Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2772?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-11-16",
+            "latestAction": {
+                "actionDate": "1996-06-05",
+                "text": "Received in the Senate and read twice and referred to the Committee on Judiciary."
+            },
+            "number": "2650",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Mandatory Federal Prison Drug Treatment Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2650?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-04-07",
+            "latestAction": {
+                "actionDate": "1996-09-26",
+                "text": "Received in the Senate."
+            },
+            "number": "1499",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Telemarketing Fraud Punishment and Prevention Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1499?format=json"
+        }
+    ]
+}

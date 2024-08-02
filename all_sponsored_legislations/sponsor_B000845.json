@@ -1,0 +1,42 @@
+{
+    "pagination": {
+        "count": 2
+    },
+    "request": {
+        "bioguideId": "b000845",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 98,
+            "introducedDate": "1983-10-25",
+            "latestAction": {
+                "actionDate": "1983-11-29",
+                "text": "Referred to Subcommittee on Civil Service and General Services."
+            },
+            "number": "4210",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to designate the United States Post Office and Courthouse Building in Greensboro, North Carolina, as the \"L. Richardson Preyer Federal Building\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4210?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-10-26",
+            "latestAction": {
+                "actionDate": "1984-06-13",
+                "text": "Executive Comment Received From State."
+            },
+            "number": "4218",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend duty-free treatment to Meta-toluic acid (MTA).",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4218?format=json"
+        }
+    ]
+}

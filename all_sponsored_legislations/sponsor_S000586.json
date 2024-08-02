@@ -1,0 +1,1520 @@
+{
+    "pagination": {
+        "count": 105
+    },
+    "request": {
+        "bioguideId": "s000586",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "1042",
+            "congress": 98,
+            "introducedDate": "1984-08-02",
+            "latestAction": {
+                "actionDate": "1984-08-02",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/1042?format=json"
+        },
+        {
+            "amendmentNumber": "749",
+            "congress": 98,
+            "introducedDate": "1984-05-17",
+            "latestAction": {
+                "actionDate": "1984-05-17",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 157 - 229 (Record Vote No: 155). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/749?format=json"
+        },
+        {
+            "amendmentNumber": "409",
+            "congress": 98,
+            "introducedDate": "1983-09-30",
+            "latestAction": {
+                "actionDate": "1983-09-30",
+                "text": "Amendment Failed of Passage in Committee of Whole by Division Vote: 9 - 26. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/409?format=json"
+        },
+        {
+            "amendmentNumber": "169",
+            "congress": 98,
+            "introducedDate": "1983-06-15",
+            "latestAction": {
+                "actionDate": "1983-06-15",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 134 - 283 (Record Vote No: 193). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/169?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-09-25",
+            "latestAction": {
+                "actionDate": "1984-10-05",
+                "text": "Referred to Subcommittee on Elementary, Secondary and Vocational Education."
+            },
+            "number": "6307",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "A bill to provide for the use of safety belts by children in schoolbuses, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/6307?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-03-29",
+            "latestAction": {
+                "actionDate": "1984-03-29",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "5302",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Home Equity Conversions Act of 1984",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5302?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-03-14",
+            "latestAction": {
+                "actionDate": "1984-03-16",
+                "text": "Referred to Subcommittee on Europe and the Middle East."
+            },
+            "number": "5140",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A bill to prohibit the sales of Stinger air defense guided missile systems to Jordan and Saudi Arabia.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5140?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-02-29",
+            "latestAction": {
+                "actionDate": "1984-10-17",
+                "text": "Became Public Law No: 98-486."
+            },
+            "number": "4994",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to exempt from taxation by the District of Columbia certain property of the Jewish War Veterans, U.S.A. National Memorial, Incorporated.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4994?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-11-18",
+            "latestAction": {
+                "actionDate": "1983-11-18",
+                "text": "Referred to House Committee on The Judiciary."
+            },
+            "number": "4562",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "A bill to amend the Immigration and Nationality Act to authorize appropriations for an immigration emergency revolving fund.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4562?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-10-18",
+            "latestAction": {
+                "actionDate": "1983-10-18",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "4150",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide that the inclusion of tax-exempt interest in determining the taxation of social security benefits shall not apply to interest on obligations held by the taxpayer before the date of the enactment of the Social Security Amendments of 1983.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4150?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-01-27",
+            "latestAction": {
+                "actionDate": "1983-10-26",
+                "text": "See H.R.4201."
+            },
+            "number": "1055",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to place methaqualone in schedule I of the Controlled Substances Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/1055?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-05-19",
+            "latestAction": {
+                "actionDate": "1983-05-25",
+                "text": "Resolution Agreed to in House by Yea-Nay Vote: 408 - 0 (Record Vote No: 136)."
+            },
+            "number": "203",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution expressing the support of the House of Representatives on the decision of the Governments of Lebanon and Israel on agreeing to arrangements for the withdrawal of Israeli forces from Lebanon.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/98/hres/203?format=json"
+        },
+        {
+            "amendmentNumber": "1206",
+            "congress": 99,
+            "introducedDate": "1986-09-11",
+            "latestAction": {
+                "actionDate": "1986-09-11",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/1206?format=json"
+        },
+        {
+            "amendmentNumber": "1189",
+            "congress": 99,
+            "introducedDate": "1986-09-11",
+            "latestAction": {
+                "actionDate": "1986-09-11",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/1189?format=json"
+        },
+        {
+            "amendmentNumber": "1188",
+            "congress": 99,
+            "introducedDate": "1986-09-11",
+            "latestAction": {
+                "actionDate": "1986-09-11",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/1188?format=json"
+        },
+        {
+            "amendmentNumber": "270",
+            "congress": 99,
+            "introducedDate": "1985-07-10",
+            "latestAction": {
+                "actionDate": "1985-07-10",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/270?format=json"
+        },
+        {
+            "amendmentNumber": "45",
+            "congress": 99,
+            "introducedDate": "1985-05-09",
+            "latestAction": {
+                "actionDate": "1985-05-09",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/45?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-05-07",
+            "latestAction": {
+                "actionDate": "1986-05-13",
+                "text": "Referred to Subcommittee on Crime."
+            },
+            "number": "4776",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to direct the Attorney General to develop a model statute for States to prohibit the establishment and use of freebase houses.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/4776?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-12-12",
+            "latestAction": {
+                "actionDate": "1986-10-27",
+                "text": "See H.R.5484."
+            },
+            "number": "3936",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Drug Enforcement Amendments Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3936?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-11-07",
+            "latestAction": {
+                "actionDate": "1985-11-12",
+                "text": "Referred to Subcommittee on Crime."
+            },
+            "number": "3712",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to provide for grants under the Bureau of Justice Assistance to local governments for innovative antiterrorism plans for deep draft ports and international airports.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3712?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-09-12",
+            "latestAction": {
+                "actionDate": "1985-09-24",
+                "text": "Referred to Subcommittee on Elementary, Secondary and Vocational Education."
+            },
+            "number": "3305",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "National Schoolbus Safety Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3305?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-08-01",
+            "latestAction": {
+                "actionDate": "1985-08-01",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "3204",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Home Equity Conversions Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3204?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-07-26",
+            "latestAction": {
+                "actionDate": "1985-07-31",
+                "text": "Referred to Subcommittee on Health."
+            },
+            "number": "3089",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend section 1876 of the Social Security Act with respect to administration of the medicare program in enrollments and disenrollments from health maintenance organizations and competitive medical plans and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3089?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-01-03",
+            "latestAction": {
+                "actionDate": "1985-01-03",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "452",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide that the inclusion of tax-exempt interest in determining the taxation of social security benefits shall not apply to interest on obligations held by the taxpayer before the date of the enactment of the Social Security Amendments of 1983 and continuously thereafter.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/452?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-04-29",
+            "latestAction": {
+                "actionDate": "1986-05-09",
+                "text": "Referred to Subcommittee on Census and Population."
+            },
+            "number": "615",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution to designate the week beginning September 7, 1986, as \"Gaucher's Disease Awareness Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/99/hjres/615?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-08-11",
+            "latestAction": {
+                "actionDate": "1986-08-22",
+                "text": "Referred to Subcommittee on Western Hemisphere Affairs."
+            },
+            "number": "379",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution concerning human rights violations in Nicaragua.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/99/hconres/379?format=json"
+        },
+        {
+            "amendmentNumber": "882",
+            "congress": 100,
+            "introducedDate": "1988-09-15",
+            "latestAction": {
+                "actionDate": "1988-09-15",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/882?format=json"
+        },
+        {
+            "amendmentNumber": "710",
+            "congress": 100,
+            "introducedDate": "1988-05-25",
+            "latestAction": {
+                "actionDate": "1988-05-25",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/710?format=json"
+        },
+        {
+            "amendmentNumber": "517",
+            "congress": 100,
+            "introducedDate": "1987-11-19",
+            "latestAction": {
+                "actionDate": "1987-11-19",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/517?format=json"
+        },
+        {
+            "amendmentNumber": "239",
+            "congress": 100,
+            "introducedDate": "1987-06-16",
+            "latestAction": {
+                "actionDate": "1987-06-16",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/239?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-02-18",
+            "latestAction": {
+                "actionDate": "1988-02-22",
+                "text": "Referred to Subcommittee on Crime."
+            },
+            "number": "3978",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Handgun Violence Prevention Act of 1988",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3978?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-10-22",
+            "latestAction": {
+                "actionDate": "1987-10-26",
+                "text": "Referred to Subcommittee on Immigration, Refugees, and International Law."
+            },
+            "number": "3530",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "A bill to provide for additional criminal penalties for deported aliens who reenter the United States, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3530?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-10-22",
+            "latestAction": {
+                "actionDate": "1987-10-27",
+                "text": "Referred to Subcommittee on Immigration, Refugees, and International Law."
+            },
+            "number": "3532",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "A bill to impose criminal penalties against persons aiding aliens violating certain laws to enter the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3532?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-10-22",
+            "latestAction": {
+                "actionDate": "1987-10-26",
+                "text": "Referred to Subcommittee on Immigration, Refugees, and International Law."
+            },
+            "number": "3531",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "A bill to impose criminal penalties upon persons who neglect or refuse to appear before certain proceedings under the Immigration and Nationality Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3531?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-10-21",
+            "latestAction": {
+                "actionDate": "1988-07-06",
+                "text": "Executive Comment Received From Commerce."
+            },
+            "number": "3527",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on calcium carbaspirin.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3527?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-10-22",
+            "latestAction": {
+                "actionDate": "1987-10-26",
+                "text": "Referred to Subcommittee on Immigration, Refugees, and International Law."
+            },
+            "number": "3529",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "A bill to amend the Immigration and Nationality Act to require, pending deportation proceedings, the detention of aliens who have been convicted of aggravated felonies.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3529?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-10-22",
+            "latestAction": {
+                "actionDate": "1987-10-26",
+                "text": "Referred to Subcommittee on Immigration, Refugees, and International Law."
+            },
+            "number": "3533",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "A bill to amend the Immigration and Nationality Act to establish a connection between certain computerized indexes containing information on deportable aliens.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3533?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-09-21",
+            "latestAction": {
+                "actionDate": "1987-09-24",
+                "text": "Referred to Subcommittee on Criminal Justice."
+            },
+            "number": "3316",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend title 18, United States Code, to include sexual exploitation of children as a predicate offense for certain racketeering offenses.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3316?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-09-09",
+            "latestAction": {
+                "actionDate": "1987-09-14",
+                "text": "Referred to Subcommittee on Monopolies and Commercial Law."
+            },
+            "number": "3246",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Foreign Merger Information Act of 1987",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3246?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-09-21",
+            "latestAction": {
+                "actionDate": "1987-09-23",
+                "text": "Referred to Subcommittee on Crime."
+            },
+            "number": "3315",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend section 1201 of title 18 of the United States code to provide a mandatory life sentence in the case of certain kidnapings of persons who have not attained the age of 18 years, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3315?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-03-25",
+            "latestAction": {
+                "actionDate": "1987-06-17",
+                "text": "Executive Comment Requested from Education."
+            },
+            "number": "1815",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "National Schoolbus Safety Act of 1987",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/1815?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-01-20",
+            "latestAction": {
+                "actionDate": "1987-02-10",
+                "text": "Referred to Subcommittee on Crime."
+            },
+            "number": "621",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend the Omnibus Crime Control and Safe Streets Act of 1968 to provide additional tools for the battle against terrorism.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/621?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-07-12",
+            "latestAction": {
+                "actionDate": "1988-07-13",
+                "text": "Referred to Subcommittee on Europe and the Middle East."
+            },
+            "number": "609",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A joint resolution to prohibit the proposed sale to Kuwait of F/A-18 aircraft, Cluster bomb units, SIDEWINDER missiles, SPARROW missiles, HARPOON missiles, and MAVERICK missiles (transmittal number 88-39).",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/609?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-03-15",
+            "latestAction": {
+                "actionDate": "1988-05-26",
+                "text": "Placed on Union Calendar No: 387."
+            },
+            "number": "495",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A joint resolution disapproving the 1988 certification by the President with respect to Paraguay under section 481(h) of the Foreign Assistance Act of 1961.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/495?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-03-15",
+            "latestAction": {
+                "actionDate": "1988-03-17",
+                "text": "Referred to Subcommittee on Trade."
+            },
+            "number": "494",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A joint resolution disapproving the 1988 certification by the President with respect to Bolivia under section 802(b) of the Trade Act of 1974.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/494?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-03-15",
+            "latestAction": {
+                "actionDate": "1988-03-18",
+                "text": "Referred to Subcommittee on Trade."
+            },
+            "number": "498",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A joint resolution disapproving the 1988 certification by the President with respect to Peru under section 802(b) of the Trade Act of 1974.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/498?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-03-15",
+            "latestAction": {
+                "actionDate": "1988-05-05",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "499",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A joint resolution disapproving the 1988 certification by the President with respect to Mexico under section 481(h) of the Foreign Assistance Act of 1961.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/499?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-03-15",
+            "latestAction": {
+                "actionDate": "1988-05-05",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "491",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A joint resolution disapproving the 1988 certification by the President with respect to the Bahamas under section 481(h) of the Foreign Assistance Act of 1961.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/491?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-03-15",
+            "latestAction": {
+                "actionDate": "1988-05-05",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "493",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A joint resolution disapproving the 1988 certification by the President with respect to Bolivia under section 481(h) of the Foreign Assistance Act of 1961.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/493?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-03-15",
+            "latestAction": {
+                "actionDate": "1988-05-05",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "497",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A joint resolution disapproving the 1988 certification by the President with respect to Peru under section 481(h) of the Foreign Assistance Act of 1961.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/497?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-03-15",
+            "latestAction": {
+                "actionDate": "1988-03-18",
+                "text": "Referred to Subcommittee on Trade."
+            },
+            "number": "500",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A joint resolution disapproving the 1988 certification by the President with respect to Mexico under section 802(b) of the Trade Act of 1974.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/500?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-03-15",
+            "latestAction": {
+                "actionDate": "1988-03-17",
+                "text": "Referred to Subcommittee on Trade."
+            },
+            "number": "492",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A joint resolution disapproving the 1988 certification by the President with respect to the Bahamas under section 802(b) of the Trade Act of 1974.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/492?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-03-15",
+            "latestAction": {
+                "actionDate": "1988-03-18",
+                "text": "Referred to Subcommittee on Trade."
+            },
+            "number": "496",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A joint resolution disapproving the 1988 certification by the President with respect to Paraguay under section 802(b) of the Trade Act of 1974.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/496?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-06-03",
+            "latestAction": {
+                "actionDate": "1987-06-04",
+                "text": "Referred to Subcommittee on Europe and the Middle East."
+            },
+            "number": "302",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A joint resolution prohibiting the enhancement or upgrade in the sensitivity of technology of, or the capacity of, Maverick missiles for Saudi Arabia.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/302?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-03-25",
+            "latestAction": {
+                "actionDate": "1987-04-01",
+                "text": "Referred to Subcommittee on International Development Institutions and Finance."
+            },
+            "number": "211",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A joint resolution disapproving the certification by the President with respect to Panama under section 481(h) of the Foreign Assistance Act of 1961.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/211?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-03-25",
+            "latestAction": {
+                "actionDate": "1987-03-27",
+                "text": "Referred to Subcommittee on Trade."
+            },
+            "number": "209",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A joint resolution disapproving the certification by the President with respect to Panama under section 802(b) of the Trade Act of 1974.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/209?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-03-25",
+            "latestAction": {
+                "actionDate": "1988-03-15",
+                "text": "See H.J.Res.500."
+            },
+            "number": "210",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A joint resolution disapproving the certification by the President with respect to Mexico under section 802(b) of the Trade Act of 1974.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/210?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-04-01",
+            "latestAction": {
+                "actionDate": "1987-12-02",
+                "text": "See S.J.Res.122."
+            },
+            "number": "227",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution to designate the week beginning October 18, 1987, as \"Gaucher's Disease Awareness Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/227?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-03-25",
+            "latestAction": {
+                "actionDate": "1987-04-01",
+                "text": "Referred to Subcommittee on International Development Institutions and Finance."
+            },
+            "number": "212",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A joint resolution disapproving the certification by the President with respect to Mexico under section 481(h) of the Foreign Assistance Act of 1961.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/212?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-02-04",
+            "latestAction": {
+                "actionDate": "1988-08-17",
+                "text": "Became Public Law No: 100-400."
+            },
+            "number": "138",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution to authorize and request the President to issue annually a proclamation designating the third Sunday of August of each year as \"National Senior Citizens Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/138?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-06-09",
+            "latestAction": {
+                "actionDate": "1988-06-09",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "313",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution concerning Cuban Human Rights.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/100/hconres/313?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-10-11",
+            "latestAction": {
+                "actionDate": "1990-10-24",
+                "text": "Referred to the Subcommittee on Immigration, Refugees, and International Law."
+            },
+            "number": "5819",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To amend title 28, United States Code, relating to jurisdictional immunities of foreign states, to grant the jurisdiction of the courts of the United States in certain cases involving tortious conduct occurring in a foreign state.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5819?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-09-11",
+            "latestAction": {
+                "actionDate": "1990-09-13",
+                "text": "Referred to the Subcommittee on Economic and Commercial Law."
+            },
+            "number": "5581",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Foreign Merger Information Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5581?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-06-28",
+            "latestAction": {
+                "actionDate": "1990-07-09",
+                "text": "Referred to the Subcommittee on Immigration, Refugees, and International Law."
+            },
+            "number": "5228",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Hossein Alipour and Zehra Alipour.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5228?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-06-21",
+            "latestAction": {
+                "actionDate": "1990-06-27",
+                "text": "Referred to the Subcommittee on Human Resources."
+            },
+            "number": "5142",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Benefits Improvement Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5142?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-06-07",
+            "latestAction": {
+                "actionDate": "1990-06-18",
+                "text": "Referred to the Subcommittee on Arms Control, International Security and Science."
+            },
+            "number": "4995",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To declare that further negotiations between the United States and the Palestine Liberation Organization are prohibited by section 1302 of Public Law 99-83 because the Palestine Liberation Organization has failed to adhere to its renunciation of the use of terrorism.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4995?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-05-23",
+            "latestAction": {
+                "actionDate": "1990-06-07",
+                "text": "Referred to the Subcommittee on Water, Power and Offshore Energy Resources."
+            },
+            "number": "4908",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Offshore Lease Buyback Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4908?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-09-21",
+            "latestAction": {
+                "actionDate": "1990-06-28",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3325",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Ground Transportation Consumer Protection Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3325?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-08-04",
+            "latestAction": {
+                "actionDate": "1989-08-14",
+                "text": "Referred to the Subcommittee on Administrative Law and Governmental Relations."
+            },
+            "number": "3198",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "To amend title 28, United States Code, to allow for jury trials in tort actions against the United States involving death or serious bodily injury.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3198?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-07-11",
+            "latestAction": {
+                "actionDate": "1989-07-17",
+                "text": "Referred to the Subcommittee on Economic and Commercial Law."
+            },
+            "number": "2861",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "To amend title 28, United States Code, to provide for the appointment of an additional district judge for the Southern District of Florida.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2861?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-06-29",
+            "latestAction": {
+                "actionDate": "1990-04-30",
+                "text": "See S.1096."
+            },
+            "number": "2838",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "Florida Seminole Indian Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2838?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-05-24",
+            "latestAction": {
+                "actionDate": "1989-06-09",
+                "text": "Referred to the Subcommittee on Postsecondary Education."
+            },
+            "number": "2487",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Student Loan Abuse Prevention Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2487?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-05-16",
+            "latestAction": {
+                "actionDate": "1989-10-12",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "2378",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend title 28, United States Code, to permit the district courts of the United States to enjoin, suspend, or restrain certain State ad valorem property taxes on interstate gas transmission property, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2378?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-04-26",
+            "latestAction": {
+                "actionDate": "1989-12-07",
+                "text": "Became Public Law No: 101-205."
+            },
+            "number": "2134",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "To amend the Federal Meat Inspection Act to authorize the distribution of wholesome meat for human consumption that has been condemned under that Act to charity and public agencies.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2134?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-28",
+            "latestAction": {
+                "actionDate": "1989-03-27",
+                "text": "Referred to the Subcommittee on Courts, Intellectual Property, and the Administration of Justice."
+            },
+            "number": "1172",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "To amend the Trademark Act of 1946 to prohibit the registration of any trademark comprised of the name of a municipality or other political subdivision of any State of the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/1172?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-28",
+            "latestAction": {
+                "actionDate": "1989-03-27",
+                "text": "Referred to the Subcommittee on Immigration, Refugees, and International Law."
+            },
+            "number": "1173",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "To amend the Immigration and Nationality Act to make available funds to reimburse localities which are impacted by substantial increases in aliens applying for political asylum.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/1173?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-09",
+            "latestAction": {
+                "actionDate": "1990-04-26",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "993",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Handgun Violence Prevention Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/993?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-07",
+            "latestAction": {
+                "actionDate": "1990-08-20",
+                "text": "See H.R.1594."
+            },
+            "number": "914",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on calcium acetylsalicylate (calcium carbaspirin).",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/914?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-06-11",
+            "latestAction": {
+                "actionDate": "1990-06-12",
+                "text": "Referred to the Subcommittee on Arms Control, International Security and Science."
+            },
+            "number": "592",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To prohibit the proposed sale to Saudi Arabia of modifications and systems integration of AWACS E-3 and tanker KE-5 aircraft.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/592?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-06-11",
+            "latestAction": {
+                "actionDate": "1990-06-12",
+                "text": "Referred to the Subcommittee on Arms Control, International Security and Science."
+            },
+            "number": "594",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To prohibit the proposed sale to Saudi Arabia of defense articles and defense services to modernize the Saudi Arabian National Guard.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/594?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-06-11",
+            "latestAction": {
+                "actionDate": "1990-06-12",
+                "text": "Referred to the Subcommittee on Arms Control, International Security and Science."
+            },
+            "number": "593",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To prohibit the proposed sale to Saudi Arabia of M88A1 Recovery Vehicles.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/593?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-06-07",
+            "latestAction": {
+                "actionDate": "1990-08-02",
+                "text": "Became Public Law No: 101-342."
+            },
+            "number": "591",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Designating the third Sunday of August of 1990 as \"National Senior Citizens Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/591?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-06-20",
+            "latestAction": {
+                "actionDate": "1990-10-03",
+                "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 920."
+            },
+            "number": "610",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Designating October 1990 as \"Ending Hunger Month\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/610?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-06-28",
+            "latestAction": {
+                "actionDate": "1989-07-05",
+                "text": "Referred to the Subcommittee on Census and Population."
+            },
+            "number": "341",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Designating November 1989 as \"An End to Hunger Education Month\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/341?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-03-23",
+            "latestAction": {
+                "actionDate": "1989-06-09",
+                "text": "See S.J.Res.73."
+            },
+            "number": "224",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To designate the week beginning October 29, 1989, as \"Gaucher's Disease Awareness Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/224?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-03-23",
+            "latestAction": {
+                "actionDate": "1989-08-16",
+                "text": "Became Public Law No: 101-88."
+            },
+            "number": "225",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To authorize and request the President to issue annually a proclamation designating the third Sunday of August of 1989 as \"National Senior Citizens Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/225?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-01-03",
+            "latestAction": {
+                "actionDate": "1990-05-01",
+                "text": "Executive Comment Received from State."
+            },
+            "number": "14",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Urging the Government of Greece to extradite Mohammed Rashid to the United States.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/101/hconres/14?format=json"
+        },
+        {
+            "amendmentNumber": "765",
+            "congress": 102,
+            "introducedDate": "1992-07-29",
+            "latestAction": {
+                "actionDate": "1992-07-29",
+                "actionTime": "19:00:34",
+                "text": "On agreeing to the Smith (FL) amendment (A004) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/765?format=json"
+        },
+        {
+            "amendmentNumber": "442",
+            "congress": 102,
+            "introducedDate": "1992-02-27",
+            "latestAction": {
+                "actionDate": "1992-02-27",
+                "actionTime": "18:06:03",
+                "text": "On agreeing to the Smith (FL) amendment (A004) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/442?format=json"
+        },
+        {
+            "amendmentNumber": "372",
+            "congress": 102,
+            "introducedDate": "1991-10-30",
+            "latestAction": {
+                "actionDate": "1991-10-30",
+                "actionTime": "21:44:03",
+                "text": "On agreeing to the Smith (FL) amendment (A015) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/372?format=json"
+        },
+        {
+            "amendmentNumber": "338",
+            "congress": 102,
+            "introducedDate": "1991-10-22",
+            "latestAction": {
+                "actionDate": "1991-10-22",
+                "actionTime": "17:06:15",
+                "text": "On agreeing to the Smith (FL) amendment (A019) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/338?format=json"
+        },
+        {
+            "amendmentNumber": "106",
+            "congress": 102,
+            "introducedDate": "1991-06-06",
+            "latestAction": {
+                "actionDate": "1991-06-06",
+                "actionTime": "17:00:00",
+                "text": "On agreeing to the Smith (FL) amendment (A003) Failed by recorded vote: 122 - 296 (Roll No. 140). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/106?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-10-24",
+            "latestAction": {
+                "actionDate": "1991-10-30",
+                "text": "Referred to the Subcommittee on International Law, Immigration, and Refugees."
+            },
+            "number": "3634",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "To amend the Immigration and Nationality Act to authorize the registration of aliens on criminal probation or criminal parole.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3634?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-05-29",
+            "latestAction": {
+                "actionDate": "1991-06-10",
+                "text": "Referred to the Subcommittee on Aviation."
+            },
+            "number": "2486",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Ground Transportation Consumer Protection Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2486?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-05-15",
+            "latestAction": {
+                "actionDate": "1992-09-23",
+                "text": "Placed on the Union Calendar, Calendar No. 516."
+            },
+            "number": "2357",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "To amend title 28, United States Code, relating to jurisdictional immunities of foreign states, to grant the jurisdiction of the courts of the United States in certain cases involving tortious conduct occurring in a foreign state.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2357?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-05-01",
+            "latestAction": {
+                "actionDate": "1991-10-23",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "2184",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "To amend title 28, United States Code, to allow for jury trials in tort actions against the United States involving death or serious bodily injury.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2184?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-04-23",
+            "latestAction": {
+                "actionDate": "1992-09-10",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "2017",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Federal Sunshine in Litigation Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2017?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-04-15",
+            "latestAction": {
+                "actionDate": "1991-06-07",
+                "text": "Referred to the Subcommittee on Crime and Criminal Justice."
+            },
+            "number": "1770",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Handgun Violence Prevention Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1770?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-04-10",
+            "latestAction": {
+                "actionDate": "1992-10-08",
+                "text": "See H.R.776."
+            },
+            "number": "1712",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Offshore Lease Buyback Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1712?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-03-13",
+            "latestAction": {
+                "actionDate": "1991-03-25",
+                "text": "Referred to the Subcommittee on Arms Control, International Security and Science."
+            },
+            "number": "1428",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Concerning transfers of Persian Gulf conflict military equipment to other countries.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1428?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-02-27",
+            "latestAction": {
+                "actionDate": "1991-10-09",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "1166",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Credit Card Grace Period Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1166?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-02-20",
+            "latestAction": {
+                "actionDate": "1991-02-25",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "1027",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to provide for payment of a benefit for the month of the recipient's death.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1027?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-02-20",
+            "latestAction": {
+                "actionDate": "1991-02-26",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "1028",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Benefits Improvement Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1028?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-08-02",
+            "latestAction": {
+                "actionDate": "1991-08-05",
+                "text": "Referred to the Subcommittee on Census and Population."
+            },
+            "number": "321",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Designating October 1991 as \"Ending Hunger Month\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/102/hjres/321?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-03-06",
+            "latestAction": {
+                "actionDate": "1991-08-06",
+                "text": "Became Public Law No: 102-79."
+            },
+            "number": "181",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Designating the third Sunday of August 1991, as \"National Senior Citizens Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/102/hjres/181?format=json"
+        }
+    ]
+}

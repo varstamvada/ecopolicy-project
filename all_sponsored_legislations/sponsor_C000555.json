@@ -1,0 +1,154 @@
+{
+    "pagination": {
+        "count": 10
+    },
+    "request": {
+        "bioguideId": "c000555",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "1005",
+            "congress": 99,
+            "introducedDate": "1986-07-29",
+            "latestAction": {
+                "actionDate": "1986-07-29",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 172 - 237 (Record Vote No: 256). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/1005?format=json"
+        },
+        {
+            "amendmentNumber": "353",
+            "congress": 99,
+            "introducedDate": "1985-07-18",
+            "latestAction": {
+                "actionDate": "1985-07-18",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 193 - 211 (Record Vote No: 246). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/353?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-12-10",
+            "latestAction": {
+                "actionDate": "1985-12-20",
+                "text": "Referred to Subcommittee on Government Activities and Transportation."
+            },
+            "number": "3893",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Unclaimed Property Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3893?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-11-06",
+            "latestAction": {
+                "actionDate": "1985-11-15",
+                "text": "Referred to Subcommittee on International Economic Policy and Trade."
+            },
+            "number": "3704",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Anti-State-Supported Terrorism Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3704?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-10-22",
+            "latestAction": {
+                "actionDate": "1985-11-04",
+                "text": "Referred to Subcommittee on Postsecondary Education."
+            },
+            "number": "3595",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "A bill to provide financial assistance for the Sam J. Ervin, Jr., Program in Public Affairs at the North Carolina State University.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3595?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-05-14",
+            "latestAction": {
+                "actionDate": "1986-05-20",
+                "text": "Other Measure S.1027 (Amended) Passed House in Lieu."
+            },
+            "number": "2505",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Kenneth David Franklin.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2505?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-03-26",
+            "latestAction": {
+                "actionDate": "1985-07-29",
+                "text": "Executive Comment Received From ITC."
+            },
+            "number": "1716",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to lower for a 3-year period the duty on L-Ephedrine hydrochloride.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/1716?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-04-28",
+            "latestAction": {
+                "actionDate": "1986-05-08",
+                "text": "Referred to Subcommittee on Census and Population."
+            },
+            "number": "612",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution to designate the week beginning February 1, 1987, as \"National VITA Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/99/hjres/612?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-10-22",
+            "latestAction": {
+                "actionDate": "1985-12-19",
+                "text": "Became Public Law No: 99-193."
+            },
+            "number": "424",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution to designate the year of 1986 as the \"Year of the Flag\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/99/hjres/424?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-04-10",
+            "latestAction": {
+                "actionDate": "1986-04-17",
+                "text": "Referred to Subcommittee on Department Operations, Research, and Foreign Agriculture."
+            },
+            "number": "413",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A resolution expressing the sense of the House of Representatives with respect to Federal funds for the Cooperative Extension Service of the Department of Agriculture.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/99/hres/413?format=json"
+        }
+    ]
+}

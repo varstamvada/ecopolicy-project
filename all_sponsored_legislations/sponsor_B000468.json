@@ -1,0 +1,2955 @@
+{
+    "pagination": {
+        "count": 1718,
+        "next": "https://api.congress.gov/v3/member/B000468/sponsored-legislation?offset=250&limit=250&format=json"
+    },
+    "request": {
+        "bioguideId": "b000468",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 111,
+            "introducedDate": "2010-08-05",
+            "latestAction": {
+                "actionDate": "2010-08-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "3760",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Automatic IRA Act of 2010",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/3760?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-09",
+            "latestAction": {
+                "actionDate": "2002-07-09",
+                "text": "Senate passed companion measure H.J.Res. 87 in lieu of this measure by Voice Vote."
+            },
+            "number": "34",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A joint resolution approving the site at Yucca Mountain, Nevada, for the development of a repository for the disposal of high-level radioactive waste and spent nuclear fuel, pursuant to the Nuclear Waste Policy Act of 1982.",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/107/sjres/34?format=json"
+        },
+        {
+            "amendmentNumber": "3344",
+            "congress": 112,
+            "introducedDate": "2012-12-17",
+            "latestAction": {
+                "actionDate": "2012-12-28",
+                "text": "Amendment SA 3344, under the order of 12/27/12, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 52 - 43. Record Vote Number: 237. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/3344?format=json"
+        },
+        {
+            "amendmentNumber": "3412",
+            "congress": 112,
+            "introducedDate": "2012-12-20",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/3412?format=json"
+        },
+        {
+            "amendmentNumber": "3331",
+            "congress": 112,
+            "introducedDate": "2012-12-12",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/3331?format=json"
+        },
+        {
+            "amendmentNumber": "3208",
+            "congress": 112,
+            "introducedDate": "2012-11-29",
+            "latestAction": {
+                "actionDate": "2012-12-03",
+                "text": "Amendment SA 3208 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/3208?format=json"
+        },
+        {
+            "amendmentNumber": "2984",
+            "congress": 112,
+            "introducedDate": "2012-11-27",
+            "latestAction": {
+                "actionDate": "2012-11-30",
+                "text": "Amendment SA 2984 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2984?format=json"
+        },
+        {
+            "amendmentNumber": "2869",
+            "congress": 112,
+            "introducedDate": "2012-09-22",
+            "latestAction": {
+                "actionDate": "2012-09-22",
+                "text": "Amendment SA 2869 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2869?format=json"
+        },
+        {
+            "amendmentNumber": "2861",
+            "congress": 112,
+            "introducedDate": "2012-09-22",
+            "latestAction": {
+                "actionDate": "2012-09-22",
+                "text": "Amendment SA 2861 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2861?format=json"
+        },
+        {
+            "amendmentNumber": "2645",
+            "congress": 112,
+            "introducedDate": "2012-07-30",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2645?format=json"
+        },
+        {
+            "amendmentNumber": "2364",
+            "congress": 112,
+            "introducedDate": "2012-06-12",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2364?format=json"
+        },
+        {
+            "amendmentNumber": "2111",
+            "congress": 112,
+            "introducedDate": "2012-05-17",
+            "latestAction": {
+                "actionDate": "2012-05-24",
+                "text": "Amendment SA 2111, under the order of 5/23/12, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 28 - 67. Record Vote Number: 105. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2111?format=json"
+        },
+        {
+            "amendmentNumber": "2076",
+            "congress": 112,
+            "introducedDate": "2012-04-18",
+            "latestAction": {
+                "actionDate": "2012-04-25",
+                "text": "Amendment SA 2076 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/2076?format=json"
+        },
+        {
+            "amendmentNumber": "1811",
+            "congress": 112,
+            "introducedDate": "2012-03-07",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1811?format=json"
+        },
+        {
+            "amendmentNumber": "1759",
+            "congress": 112,
+            "introducedDate": "2012-03-01",
+            "latestAction": {
+                "actionDate": "2012-03-13",
+                "text": "Amendment SA 1759 agreed to in Senate by Yea-Nay Vote. 50 - 47. Record Vote Number: 37. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1759?format=json"
+        },
+        {
+            "amendmentNumber": "1680",
+            "congress": 112,
+            "introducedDate": "2012-02-16",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1680?format=json"
+        },
+        {
+            "amendmentNumber": "1627",
+            "congress": 112,
+            "introducedDate": "2012-02-15",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1627?format=json"
+        },
+        {
+            "amendmentNumber": "1575",
+            "congress": 112,
+            "introducedDate": "2012-02-14",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1575?format=json"
+        },
+        {
+            "amendmentNumber": "1576",
+            "congress": 112,
+            "introducedDate": "2012-02-14",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1576?format=json"
+        },
+        {
+            "amendmentNumber": "1514",
+            "congress": 112,
+            "introducedDate": "2012-02-09",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1514?format=json"
+        },
+        {
+            "amendmentNumber": "1223",
+            "congress": 112,
+            "introducedDate": "2011-11-17",
+            "latestAction": {
+                "actionDate": "2011-11-17",
+                "text": "Amendment SA 1223 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1223?format=json"
+        },
+        {
+            "amendmentNumber": "1117",
+            "congress": 112,
+            "introducedDate": "2011-11-17",
+            "latestAction": {
+                "actionDate": "2011-12-01",
+                "text": "Amendment SA 1117 ruled non-germane by the chair. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1117?format=json"
+        },
+        {
+            "amendmentNumber": "1019",
+            "congress": 112,
+            "introducedDate": "2011-11-16",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/1019?format=json"
+        },
+        {
+            "amendmentNumber": "954",
+            "congress": 112,
+            "introducedDate": "2011-11-15",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/954?format=json"
+        },
+        {
+            "amendmentNumber": "903",
+            "congress": 112,
+            "introducedDate": "2011-10-20",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/903?format=json"
+        },
+        {
+            "amendmentNumber": "867",
+            "congress": 112,
+            "introducedDate": "2011-10-19",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/867?format=json"
+        },
+        {
+            "amendmentNumber": "858",
+            "congress": 112,
+            "introducedDate": "2011-10-19",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/858?format=json"
+        },
+        {
+            "amendmentNumber": "840",
+            "congress": 112,
+            "introducedDate": "2011-10-18",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/840?format=json"
+        },
+        {
+            "amendmentNumber": "831",
+            "congress": 112,
+            "introducedDate": "2011-10-18",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/831?format=json"
+        },
+        {
+            "amendmentNumber": "819",
+            "congress": 112,
+            "introducedDate": "2011-10-18",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/819?format=json"
+        },
+        {
+            "amendmentNumber": "820",
+            "congress": 112,
+            "introducedDate": "2011-10-18",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/820?format=json"
+        },
+        {
+            "amendmentNumber": "771",
+            "congress": 112,
+            "introducedDate": "2011-10-17",
+            "latestAction": {
+                "actionDate": "2011-10-20",
+                "text": "Amendment SA 771 as modified agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/771?format=json"
+        },
+        {
+            "amendmentNumber": "637",
+            "congress": 112,
+            "introducedDate": "2011-09-20",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/637?format=json"
+        },
+        {
+            "amendmentNumber": "638",
+            "congress": 112,
+            "introducedDate": "2011-09-20",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/638?format=json"
+        },
+        {
+            "amendmentNumber": "142",
+            "congress": 112,
+            "introducedDate": "2011-03-03",
+            "latestAction": {
+                "actionDate": "2011-03-03",
+                "text": "Amendment SA 142 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/samdt/142?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-08-01",
+            "latestAction": {
+                "actionDate": "2012-09-12",
+                "text": "Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 112-598."
+            },
+            "number": "3469",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Nuclear Waste Administration Act of 2012",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/3469?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-07-31",
+            "latestAction": {
+                "actionDate": "2012-07-31",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S5734-5735)"
+            },
+            "number": "3459",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Department of Energy High-End Computing Improvement Act of 2012",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/3459?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-07-18",
+            "latestAction": {
+                "actionDate": "2012-07-18",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "3398",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "National Park Service Critical Authorities Act of 2012",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/3398?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-07-18",
+            "latestAction": {
+                "actionDate": "2012-07-18",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "3399",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "National Park Service Study Act of 2012",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/3399?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-06-28",
+            "latestAction": {
+                "actionDate": "2012-06-28",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "3355",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Taxpayer Bill of Rights Act of 2012",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/3355?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-06-28",
+            "latestAction": {
+                "actionDate": "2012-06-28",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "3352",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Expanding Industrial Energy and Water Efficiency Incentives Act of 2012",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/3352?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-06-20",
+            "latestAction": {
+                "actionDate": "2012-06-20",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "3320",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "A bill to authorize the Administrator of the Federal Emergency Management Agency to waive the 30-day waiting period for flood insurance policies purchased for private properties affected by wildfire on Federal lands.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/3320?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-06-14",
+            "latestAction": {
+                "actionDate": "2012-06-27",
+                "text": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 112-578."
+            },
+            "number": "3300",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Manhattan Project National Historical Park Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/3300?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-26",
+            "latestAction": {
+                "actionDate": "2012-04-26",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S2828-2830)"
+            },
+            "number": "2468",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Columbine-Hondo Wilderness Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/2468?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-26",
+            "latestAction": {
+                "actionDate": "2012-05-10",
+                "text": "Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 112-540."
+            },
+            "number": "2374",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Helium Stewardship Act of 2012",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/2374?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-03-01",
+            "latestAction": {
+                "actionDate": "2012-05-17",
+                "text": "Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 112-466."
+            },
+            "number": "2146",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Clean Energy Standard Act of 2012",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/2146?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-12-16",
+            "latestAction": {
+                "actionDate": "2012-12-11",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 561."
+            },
+            "number": "2024",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "Sandia Pueblo Settlement Technical Amendment Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/2024?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-12-16",
+            "latestAction": {
+                "actionDate": "2012-07-26",
+                "text": "Became Public Law No: 112-149."
+            },
+            "number": "2009",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Insular Areas Act of 2011",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/2009?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-11-16",
+            "latestAction": {
+                "actionDate": "2011-11-16",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S7616-7617)"
+            },
+            "number": "1882",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "FAIR Generics Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/1882?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-11-03",
+            "latestAction": {
+                "actionDate": "2011-11-15",
+                "text": "Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 112-188."
+            },
+            "number": "1807",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Energy Research and Development Coordination Act of 2011",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/1807?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-11-02",
+            "latestAction": {
+                "actionDate": "2011-11-02",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1781",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Civil Rights Tax Relief Act of 2011",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/1781?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-10-18",
+            "latestAction": {
+                "actionDate": "2011-10-18",
+                "text": "Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S6667)"
+            },
+            "number": "1730",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Southern New Mexico Economic Development Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/1730?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-10-12",
+            "latestAction": {
+                "actionDate": "2011-10-12",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "1692",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "County Payments Reauthorization Act of 2011",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/1692?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-10-12",
+            "latestAction": {
+                "actionDate": "2012-03-22",
+                "text": "Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held. With printed Hearing: S.Hrg. 112-642."
+            },
+            "number": "1687",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Carson National Forest Boundary Adjustment Act of 2011",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/1687?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-09-14",
+            "latestAction": {
+                "actionDate": "2011-09-14",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1557",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Automatic IRA Act of 2011",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/1557?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-08-30",
+            "latestAction": {
+                "actionDate": "2011-08-30",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 127."
+            },
+            "number": "1510",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Clean Energy Financing Act of 2011",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/1510?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-07-11",
+            "latestAction": {
+                "actionDate": "2011-07-11",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 101."
+            },
+            "number": "1342",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Grid Cyber Security Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/1342?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-07-11",
+            "latestAction": {
+                "actionDate": "2011-07-11",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 102."
+            },
+            "number": "1343",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Energy and Water Integration Act of 2011",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/1343?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-06-23",
+            "latestAction": {
+                "actionDate": "2011-06-23",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "1265",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Land and Water Conservation Authorization and Funding Act of 2011",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/1265?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-06-22",
+            "latestAction": {
+                "actionDate": "2011-06-22",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S4031-4032)"
+            },
+            "number": "1257",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Border Health Security Act of 2011",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/1257?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-06-16",
+            "latestAction": {
+                "actionDate": "2011-06-23",
+                "text": "Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 112-129."
+            },
+            "number": "1225",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Fort Sumner Project Title Conveyance Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/1225?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-06-16",
+            "latestAction": {
+                "actionDate": "2011-06-23",
+                "text": "Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 112-129."
+            },
+            "number": "1224",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "Bureau of Reclamation Fish Recovery Programs Reauthorization Act of 2011",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/1224?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-06-09",
+            "latestAction": {
+                "actionDate": "2011-06-09",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "1179",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Advanced Programs Act of 2011",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/1179?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-06-09",
+            "latestAction": {
+                "actionDate": "2011-06-09",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "1178",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Achievement Through Technology and Innovation Act of 2011",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/1178?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-06-09",
+            "latestAction": {
+                "actionDate": "2011-06-09",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "1177",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Graduation Promise Act of 2011",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/1177?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-06-08",
+            "latestAction": {
+                "actionDate": "2012-02-07",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 316."
+            },
+            "number": "1160",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Department of Energy Administrative Improvement Act of 2011",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/1160?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-05-19",
+            "latestAction": {
+                "actionDate": "2011-05-19",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "1032",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "A bill to provide for additional Federal district judgeships.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/1032?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-05-19",
+            "latestAction": {
+                "actionDate": "2011-08-03",
+                "text": "Subcommittee on Public Lands and Forests. Hearings held. With printed Hearing: S.Hrg. 112-226."
+            },
+            "number": "1024",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Organ Mountains--Dona Ana County Conservation and Protection Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/1024?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-05-17",
+            "latestAction": {
+                "actionDate": "2011-05-17",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S3059)"
+            },
+            "number": "1016",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Municipal Bond Market Support Act of 2011",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/1016?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-05-09",
+            "latestAction": {
+                "actionDate": "2011-05-17",
+                "text": "Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 112-51."
+            },
+            "number": "917",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Outer Continental Shelf Reform Act of 2011",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/917?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-05-09",
+            "latestAction": {
+                "actionDate": "2011-08-30",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 144."
+            },
+            "number": "916",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Oil and Gas Facilitation Act of 2011",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/916?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-05-05",
+            "latestAction": {
+                "actionDate": "2012-01-13",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 282."
+            },
+            "number": "896",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Public Lands Service Corps Act of 2011",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/896?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-05-05",
+            "latestAction": {
+                "actionDate": "2012-04-16",
+                "text": "Placed on the Union Calendar, Calendar No. 296."
+            },
+            "number": "897",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to amend the Surface Mining Control and Reclamation Act of 1977 to clarify that uncertified States and Indian tribes have the authority to use certain payments for certain noncoal reclamation projects and acid mine remediation programs.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/897?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-05-04",
+            "latestAction": {
+                "actionDate": "2011-05-04",
+                "text": "Read twice and referred to the Committee on Environment and Public Works. (text of measure as introduced: CR S2689)"
+            },
+            "number": "885",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Indian School Bus Route Safety Reauthorization Act of 2011",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/885?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-04-14",
+            "latestAction": {
+                "actionDate": "2011-04-14",
+                "text": "Read twice and referred to the Committee on Environment and Public Works."
+            },
+            "number": "837",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Transportation Equity for All Americans Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/837?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-04-14",
+            "latestAction": {
+                "actionDate": "2011-04-14",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "836",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Transportation Access for All Americans Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/836?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-04-04",
+            "latestAction": {
+                "actionDate": "2011-09-06",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 149."
+            },
+            "number": "714",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Federal Land Transaction Facilitation Act Reauthorization of 2011",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/714?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-03-31",
+            "latestAction": {
+                "actionDate": "2011-07-11",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 99."
+            },
+            "number": "699",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Department of Energy Carbon Capture and Sequestration Program Amendments Act of 2011",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/699?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-03-29",
+            "latestAction": {
+                "actionDate": "2012-01-13",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 275."
+            },
+            "number": "667",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Rio Grande del Norte National Conservation Area Establishment Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/667?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-03-15",
+            "latestAction": {
+                "actionDate": "2011-05-18",
+                "text": "Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held. With printed Hearing: S.Hrg. 112-39."
+            },
+            "number": "590",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to convey certain submerged lands to the Commonwealth of the Northern Mariana Islands in order to give that territory the same benefits in its submerged lands as Guam, the Virgin Islands, and American Samoa have in their submerged lands.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/590?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-03-10",
+            "latestAction": {
+                "actionDate": "2011-05-11",
+                "text": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 112-124."
+            },
+            "number": "564",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Valles Caldera National Preserve Management Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/564?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-03-09",
+            "latestAction": {
+                "actionDate": "2011-03-09",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "517",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Katie Sepich Enhanced DNA Collection Act of 2011",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/517?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-03-08",
+            "latestAction": {
+                "actionDate": "2011-08-30",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 137."
+            },
+            "number": "512",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Nuclear Power 2021 Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/512?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-02-17",
+            "latestAction": {
+                "actionDate": "2011-05-18",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 54."
+            },
+            "number": "398",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Implementation of National Consensus Appliance Agreements Act of 2011",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/398?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-02-14",
+            "latestAction": {
+                "actionDate": "2011-06-16",
+                "text": "Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 112-121."
+            },
+            "number": "343",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A bill to amend Title I of PL 99-658 regarding the Compact of Free Association between the Government of the United States of America and the Government of Palau, to approve the results of the 15-year review of the Compact, including the Agreement Between the Government of the United States of America and the Government of the Republic of Palau Following the Compact of Free Association Section 432 Review, and to appropriate funds for the purposes of the amended PL 99-658 for fiscal years ending on or before September 30, 2024, to carry out the agreements resulting from that review.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/343?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-02-14",
+            "latestAction": {
+                "actionDate": "2011-02-14",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S689-690)"
+            },
+            "number": "342",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Republic of the Marshall Islands Supplemental Nuclear Compensation Act of 2011",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/342?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-02-03",
+            "latestAction": {
+                "actionDate": "2011-02-03",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "267",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Lifetime Income Disclosure Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/267?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-01-25",
+            "latestAction": {
+                "actionDate": "2012-09-19",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 522."
+            },
+            "number": "134",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "Mescalero Apache Tribe Leasing Authorization Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/134?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-01-25",
+            "latestAction": {
+                "actionDate": "2011-12-02",
+                "text": "Referred to the Subcommittee on Energy and Environment."
+            },
+            "number": "99",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "American Medical Isotopes Production Act of 2011",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/112/s/99?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-09-22",
+            "latestAction": {
+                "actionDate": "2012-09-22",
+                "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR 9/21/2012 S6679-6684; text as passed Senate: CR 9/21/2012 S6682-6683; text of measure as introduced: CR 9/21/2012 S6633-6634)"
+            },
+            "number": "585",
+            "policyArea": {
+                "name": "Social Sciences and History"
+            },
+            "title": "A resolution recognizing the extraordinary history and heritage of the State of New Mexico, and honoring and commending the State of New Mexico and its people on its centennial anniversary.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/112/sres/585?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-09-22",
+            "latestAction": {
+                "actionDate": "2011-09-26",
+                "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S6008)"
+            },
+            "number": "275",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A resolution designating October 30, 2011, as a national day of remembrance for nuclear weapons program workers.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/112/sres/275?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-02-16",
+            "latestAction": {
+                "actionDate": "2011-02-16",
+                "text": "Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S798)"
+            },
+            "number": "56",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "An original resolution authorizing expenditures by the Committee on Energy and Natural Resources.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/112/sres/56?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-10-18",
+            "latestAction": {
+                "actionDate": "2011-12-07",
+                "actionTime": "18:19:59",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "32",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A concurrent resolution to authorize the Clerk of the House of Representatives to make technical corrections in the enrollment of H.R. 470, an Act to further allocate and expand the availability of hydroelectric power generated at Hoover Dam, and for other purposes.",
+            "type": "SCONRES",
+            "url": "https://api.congress.gov/v3/bill/112/sconres/32?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-10-06",
+            "latestAction": {
+                "actionDate": "1999-10-06",
+                "text": "Read twice and referred to the Committee on HELP."
+            },
+            "number": "1703",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "A bill to establish America's education goals.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/106/s/1703?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-09-29",
+            "latestAction": {
+                "actionDate": "2010-09-29",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S7814-7832)"
+            },
+            "number": "3925",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Implementation of National Consensus Appliance Agreements Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/3925?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-09-29",
+            "latestAction": {
+                "actionDate": "2010-09-29",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "3935",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Advanced Energy Tax Incentives Act of 2010",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/3935?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-03-25",
+            "latestAction": {
+                "actionDate": "2010-03-25",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S2121-2127)"
+            },
+            "number": "3177",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Home Star Energy Retrofit Act of 2010",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/3177?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-05-27",
+            "latestAction": {
+                "actionDate": "2010-05-27",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S4531-4539)"
+            },
+            "number": "3434",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Home Star Energy Retrofit Act of 2010",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/3434?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-09-21",
+            "latestAction": {
+                "actionDate": "2010-09-22",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 576."
+            },
+            "number": "3813",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Renewable Electricity Promotion Act of 2010",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/3813?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-03-02",
+            "latestAction": {
+                "actionDate": "2010-03-10",
+                "text": "Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 111-402."
+            },
+            "number": "3059",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "National Energy Efficiency Enhancement Act of 2010",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/3059?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-07-16",
+            "latestAction": {
+                "actionDate": "2009-07-16",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 110."
+            },
+            "number": "1462",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "American Clean Energy Leadership Act of 2009",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/1462?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-03-16",
+            "latestAction": {
+                "actionDate": "2009-03-19",
+                "text": "Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 111-24."
+            },
+            "number": "598",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Appliance Standards Improvement Act of 2009",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/598?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-02",
+            "latestAction": {
+                "actionDate": "2009-04-02",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S4374-4379)"
+            },
+            "number": "818",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "A bill to reauthorize the Enhancing Education Through Technology Act of 2001, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/818?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-08-03",
+            "latestAction": {
+                "actionDate": "2007-08-03",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "1996",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "A bill to reauthorize the Enhancing Education Through Technology Act of 2001, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/110/s/1996?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-05-02",
+            "latestAction": {
+                "actionDate": "2002-05-02",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S3874)"
+            },
+            "number": "2449",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Federal Responsibility for Immigrant Health Act of 2002",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2449?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-01-25",
+            "latestAction": {
+                "actionDate": "2005-10-26",
+                "text": "Became Public Law No: 109-94."
+            },
+            "number": "156",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Ojito Wilderness Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/156?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-09-24",
+            "latestAction": {
+                "actionDate": "2004-02-12",
+                "text": "Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held. With printed Hearing: S.Hrg. 108-416."
+            },
+            "number": "1649",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Ojito Wilderness Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/1649?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-03-14",
+            "latestAction": {
+                "actionDate": "2002-10-17",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 738."
+            },
+            "number": "2018",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "T'uf Shur Bien Preservation Trust Area Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2018?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-04",
+            "latestAction": {
+                "actionDate": "1999-02-04",
+                "text": "Read twice and referred to the Committee on HELP."
+            },
+            "number": "367",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Radiation Exposure Compensation Improvement Act of 1999",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/106/s/367?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-01-07",
+            "latestAction": {
+                "actionDate": "2009-03-11",
+                "actionTime": "12:39:01",
+                "text": "On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 282 - 144 (Roll no. 117)."
+            },
+            "number": "22",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Omnibus Public Land Management Act of 2009",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/22?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-04-18",
+            "latestAction": {
+                "actionDate": "2005-04-18",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S3830-3831)"
+            },
+            "number": "834",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Limited English Proficiency and Integrated Workforce Training Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/834?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-04-18",
+            "latestAction": {
+                "actionDate": "2005-04-18",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S3829-3830)"
+            },
+            "number": "833",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "WING Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/833?format=json"
+        },
+        {
+            "amendmentNumber": "5180",
+            "congress": 109,
+            "introducedDate": "2006-11-16",
+            "latestAction": {
+                "actionDate": "2006-11-16",
+                "text": "Amendment SA 5180 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/5180?format=json"
+        },
+        {
+            "amendmentNumber": "5188",
+            "congress": 109,
+            "introducedDate": "2006-11-16",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/5188?format=json"
+        },
+        {
+            "amendmentNumber": "5174",
+            "congress": 109,
+            "introducedDate": "2006-11-16",
+            "latestAction": {
+                "actionDate": "2006-11-16",
+                "text": "Amendment SA 5174 not agreed to in Senate by Yea-Nay Vote. 26 - 74. Record Vote Number: 265. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/5174?format=json"
+        },
+        {
+            "amendmentNumber": "5179",
+            "congress": 109,
+            "introducedDate": "2006-11-16",
+            "latestAction": {
+                "actionDate": "2006-11-16",
+                "text": "Amendment SA 5179 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/5179?format=json"
+        },
+        {
+            "amendmentNumber": "5105",
+            "congress": 109,
+            "introducedDate": "2006-09-28",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/5105?format=json"
+        },
+        {
+            "amendmentNumber": "5041",
+            "congress": 109,
+            "introducedDate": "2006-09-26",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/5041?format=json"
+        },
+        {
+            "amendmentNumber": "5023",
+            "congress": 109,
+            "introducedDate": "2006-09-20",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/5023?format=json"
+        },
+        {
+            "amendmentNumber": "4928",
+            "congress": 109,
+            "introducedDate": "2006-09-11",
+            "latestAction": {
+                "actionDate": "2006-09-13",
+                "text": "Amendment SA 4928 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4928?format=json"
+        },
+        {
+            "amendmentNumber": "4914",
+            "congress": 109,
+            "introducedDate": "2006-09-07",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4914?format=json"
+        },
+        {
+            "amendmentNumber": "4915",
+            "congress": 109,
+            "introducedDate": "2006-09-07",
+            "latestAction": {
+                "actionDate": "2006-09-07",
+                "text": "Amendment SA 4915 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4915?format=json"
+        },
+        {
+            "amendmentNumber": "4816",
+            "congress": 109,
+            "introducedDate": "2006-08-02",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4816?format=json"
+        },
+        {
+            "amendmentNumber": "4817",
+            "congress": 109,
+            "introducedDate": "2006-08-02",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4817?format=json"
+        },
+        {
+            "amendmentNumber": "4814",
+            "congress": 109,
+            "introducedDate": "2006-08-02",
+            "latestAction": {
+                "actionDate": "2006-08-02",
+                "text": "Amendment SA 4814 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4814?format=json"
+        },
+        {
+            "amendmentNumber": "4815",
+            "congress": 109,
+            "introducedDate": "2006-08-02",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4815?format=json"
+        },
+        {
+            "amendmentNumber": "4692",
+            "congress": 109,
+            "introducedDate": "2006-07-25",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4692?format=json"
+        },
+        {
+            "amendmentNumber": "4719",
+            "congress": 109,
+            "introducedDate": "2006-07-27",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4719?format=json"
+        },
+        {
+            "amendmentNumber": "4591",
+            "congress": 109,
+            "introducedDate": "2006-07-12",
+            "latestAction": {
+                "actionDate": "2006-07-12",
+                "text": "Amendment SA 4591 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4591?format=json"
+        },
+        {
+            "amendmentNumber": "4436",
+            "congress": 109,
+            "introducedDate": "2006-06-21",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4436?format=json"
+        },
+        {
+            "amendmentNumber": "4437",
+            "congress": 109,
+            "introducedDate": "2006-06-21",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4437?format=json"
+        },
+        {
+            "amendmentNumber": "4378",
+            "congress": 109,
+            "introducedDate": "2006-06-20",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4378?format=json"
+        },
+        {
+            "amendmentNumber": "4435",
+            "congress": 109,
+            "introducedDate": "2006-06-21",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4435?format=json"
+        },
+        {
+            "amendmentNumber": "4317",
+            "congress": 109,
+            "introducedDate": "2006-06-19",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4317?format=json"
+        },
+        {
+            "amendmentNumber": "4343",
+            "congress": 109,
+            "introducedDate": "2006-06-20",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4343?format=json"
+        },
+        {
+            "amendmentNumber": "4359",
+            "congress": 109,
+            "introducedDate": "2006-06-20",
+            "latestAction": {
+                "actionDate": "2006-06-20",
+                "text": "Amendment SA 4359 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4359?format=json"
+        },
+        {
+            "amendmentNumber": "4222",
+            "congress": 109,
+            "introducedDate": "2006-06-14",
+            "latestAction": {
+                "actionDate": "2006-06-22",
+                "text": "Amendment SA 4222 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4222?format=json"
+        },
+        {
+            "amendmentNumber": "4182",
+            "congress": 109,
+            "introducedDate": "2006-05-23",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4182?format=json"
+        },
+        {
+            "amendmentNumber": "4221",
+            "congress": 109,
+            "introducedDate": "2006-06-14",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4221?format=json"
+        },
+        {
+            "amendmentNumber": "4287",
+            "congress": 109,
+            "introducedDate": "2006-06-15",
+            "latestAction": {
+                "actionDate": "2006-06-15",
+                "text": "Amendment SA 4287 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4287?format=json"
+        },
+        {
+            "amendmentNumber": "4223",
+            "congress": 109,
+            "introducedDate": "2006-06-14",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4223?format=json"
+        },
+        {
+            "amendmentNumber": "4181",
+            "congress": 109,
+            "introducedDate": "2006-05-23",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4181?format=json"
+        },
+        {
+            "amendmentNumber": "4132",
+            "congress": 109,
+            "introducedDate": "2006-05-23",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4132?format=json"
+        },
+        {
+            "amendmentNumber": "4098",
+            "congress": 109,
+            "introducedDate": "2006-05-22",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4098?format=json"
+        },
+        {
+            "amendmentNumber": "4131",
+            "congress": 109,
+            "introducedDate": "2006-05-23",
+            "latestAction": {
+                "actionDate": "2006-05-25",
+                "text": "Amendment SA 4131 agreed to in Senate by Yea-Nay Vote. 51 - 47. Record Vote Number: 152. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4131?format=json"
+        },
+        {
+            "amendmentNumber": "3982",
+            "congress": 109,
+            "introducedDate": "2006-05-15",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/3982?format=json"
+        },
+        {
+            "amendmentNumber": "3981",
+            "congress": 109,
+            "introducedDate": "2006-05-15",
+            "latestAction": {
+                "actionDate": "2006-05-16",
+                "text": "Amendment SA 3981 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/3981?format=json"
+        },
+        {
+            "amendmentNumber": "4055",
+            "congress": 109,
+            "introducedDate": "2006-05-17",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4055?format=json"
+        },
+        {
+            "amendmentNumber": "3983",
+            "congress": 109,
+            "introducedDate": "2006-05-15",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/3983?format=json"
+        },
+        {
+            "amendmentNumber": "3734",
+            "congress": 109,
+            "introducedDate": "2006-05-01",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/3734?format=json"
+        },
+        {
+            "amendmentNumber": "3430",
+            "congress": 109,
+            "introducedDate": "2006-04-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/3430?format=json"
+        },
+        {
+            "amendmentNumber": "3412",
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/3412?format=json"
+        },
+        {
+            "amendmentNumber": "3428",
+            "congress": 109,
+            "introducedDate": "2006-04-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/3428?format=json"
+        },
+        {
+            "amendmentNumber": "3429",
+            "congress": 109,
+            "introducedDate": "2006-04-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/3429?format=json"
+        },
+        {
+            "amendmentNumber": "3348",
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/3348?format=json"
+        },
+        {
+            "amendmentNumber": "3427",
+            "congress": 109,
+            "introducedDate": "2006-04-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/3427?format=json"
+        },
+        {
+            "amendmentNumber": "3298",
+            "congress": 109,
+            "introducedDate": "2006-04-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/3298?format=json"
+        },
+        {
+            "amendmentNumber": "3347",
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/3347?format=json"
+        },
+        {
+            "amendmentNumber": "3297",
+            "congress": 109,
+            "introducedDate": "2006-04-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/3297?format=json"
+        },
+        {
+            "amendmentNumber": "3212",
+            "congress": 109,
+            "introducedDate": "2006-03-30",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/3212?format=json"
+        },
+        {
+            "amendmentNumber": "3210",
+            "congress": 109,
+            "introducedDate": "2006-03-30",
+            "latestAction": {
+                "actionDate": "2006-04-03",
+                "text": "Amendment SA 3210 as modified agreed to in Senate by Yea-Nay Vote. 84 - 6. Record Vote Number: 84. (text as modified: CR S2719-2720)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/3210?format=json"
+        },
+        {
+            "amendmentNumber": "3121",
+            "congress": 109,
+            "introducedDate": "2006-03-15",
+            "latestAction": {
+                "actionDate": "2006-03-16",
+                "text": "Amendment SA 3121 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 70. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/3121?format=json"
+        },
+        {
+            "amendmentNumber": "3039",
+            "congress": 109,
+            "introducedDate": "2006-03-14",
+            "latestAction": {
+                "actionDate": "2006-03-14",
+                "text": "Amendment SA 3039 not agreed to in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 42. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/3039?format=json"
+        },
+        {
+            "amendmentNumber": "2698",
+            "congress": 109,
+            "introducedDate": "2006-02-01",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/2698?format=json"
+        },
+        {
+            "amendmentNumber": "2642",
+            "congress": 109,
+            "introducedDate": "2005-11-17",
+            "latestAction": {
+                "actionDate": "2005-11-17",
+                "text": "Amendment SA 2642 not agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/2642?format=json"
+        },
+        {
+            "amendmentNumber": "2641",
+            "congress": 109,
+            "introducedDate": "2005-11-17",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/2641?format=json"
+        },
+        {
+            "amendmentNumber": "2517",
+            "congress": 109,
+            "introducedDate": "2005-11-10",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/2517?format=json"
+        },
+        {
+            "amendmentNumber": "2489",
+            "congress": 109,
+            "introducedDate": "2005-11-09",
+            "latestAction": {
+                "actionDate": "2005-11-09",
+                "text": "Amendment SA 2489 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/2489?format=json"
+        },
+        {
+            "amendmentNumber": "2523",
+            "congress": 109,
+            "introducedDate": "2005-11-14",
+            "latestAction": {
+                "actionDate": "2005-11-15",
+                "text": "Amendment SA 2523 not agreed to in Senate by Yea-Nay Vote. 44 - 54. Record Vote Number: 324. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/2523?format=json"
+        },
+        {
+            "amendmentNumber": "2398",
+            "congress": 109,
+            "introducedDate": "2005-11-02",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/2398?format=json"
+        },
+        {
+            "amendmentNumber": "2394",
+            "congress": 109,
+            "introducedDate": "2005-11-02",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/2394?format=json"
+        },
+        {
+            "amendmentNumber": "2364",
+            "congress": 109,
+            "introducedDate": "2005-11-02",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/2364?format=json"
+        },
+        {
+            "amendmentNumber": "2399",
+            "congress": 109,
+            "introducedDate": "2005-11-02",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/2399?format=json"
+        },
+        {
+            "amendmentNumber": "2395",
+            "congress": 109,
+            "introducedDate": "2005-11-02",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/2395?format=json"
+        },
+        {
+            "amendmentNumber": "2365",
+            "congress": 109,
+            "introducedDate": "2005-11-02",
+            "latestAction": {
+                "actionDate": "2005-11-03",
+                "text": "Amendment SA 2365 as modified agreed to in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 291. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/2365?format=json"
+        },
+        {
+            "amendmentNumber": "2262",
+            "congress": 109,
+            "introducedDate": "2005-10-25",
+            "latestAction": {
+                "actionDate": "2005-10-27",
+                "text": "Amendment SA 2262 as modified agreed to in Senate by Voice Vote. (text as modified: CR S11983)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/2262?format=json"
+        },
+        {
+            "amendmentNumber": "2321",
+            "congress": 109,
+            "introducedDate": "2005-10-26",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/2321?format=json"
+        },
+        {
+            "amendmentNumber": "2218",
+            "congress": 109,
+            "introducedDate": "2005-10-25",
+            "latestAction": {
+                "actionDate": "2005-10-27",
+                "text": "Amendment SA 2218 as modified agreed to in Senate by Voice Vote. (text as modified: CR S11973)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/2218?format=json"
+        },
+        {
+            "amendmentNumber": "2192",
+            "congress": 109,
+            "introducedDate": "2005-10-20",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/2192?format=json"
+        },
+        {
+            "amendmentNumber": "2219",
+            "congress": 109,
+            "introducedDate": "2005-10-25",
+            "latestAction": {
+                "actionDate": "2005-10-27",
+                "text": "Amendment SA 2219 as modified agreed to in Senate by Voice Vote. (text as modified: CR S11958)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/2219?format=json"
+        },
+        {
+            "amendmentNumber": "2065",
+            "congress": 109,
+            "introducedDate": "2005-10-17",
+            "latestAction": {
+                "actionDate": "2005-10-20",
+                "text": "Amendment SA 2065 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/2065?format=json"
+        },
+        {
+            "amendmentNumber": "1895",
+            "congress": 109,
+            "introducedDate": "2005-09-29",
+            "latestAction": {
+                "actionDate": "2005-10-05",
+                "text": "Amendment SA 1895 agreed to in Senate by Voice Vote. (text as modified: CR S11077)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/1895?format=json"
+        },
+        {
+            "amendmentNumber": "1793",
+            "congress": 109,
+            "introducedDate": "2005-09-21",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/1793?format=json"
+        },
+        {
+            "amendmentNumber": "1797",
+            "congress": 109,
+            "introducedDate": "2005-09-21",
+            "latestAction": {
+                "actionDate": "2005-09-21",
+                "text": "Amendment SA 1797 agreed to in Senate by Yea-Nay Vote. 66 - 29. Record Vote Number: 239. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/1797?format=json"
+        },
+        {
+            "amendmentNumber": "1733",
+            "congress": 109,
+            "introducedDate": "2005-09-19",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/1733?format=json"
+        },
+        {
+            "amendmentNumber": "1706",
+            "congress": 109,
+            "introducedDate": "2005-09-14",
+            "latestAction": {
+                "actionDate": "2005-09-15",
+                "text": "Proposed amendment SA 1706 withdrawn in Senate. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/1706?format=json"
+        },
+        {
+            "amendmentNumber": "1668",
+            "congress": 109,
+            "introducedDate": "2005-09-08",
+            "latestAction": {
+                "actionDate": "2005-09-09",
+                "text": "Amendment SA 1668 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/1668?format=json"
+        },
+        {
+            "amendmentNumber": "1592",
+            "congress": 109,
+            "introducedDate": "2005-07-26",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/1592?format=json"
+        },
+        {
+            "amendmentNumber": "1585",
+            "congress": 109,
+            "introducedDate": "2005-07-26",
+            "latestAction": {
+                "actionDate": "2005-07-26",
+                "text": "Amendment SA 1585 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/1585?format=json"
+        },
+        {
+            "amendmentNumber": "1440",
+            "congress": 109,
+            "introducedDate": "2005-07-25",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/1440?format=json"
+        },
+        {
+            "amendmentNumber": "1378",
+            "congress": 109,
+            "introducedDate": "2005-07-21",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/1378?format=json"
+        },
+        {
+            "amendmentNumber": "1439",
+            "congress": 109,
+            "introducedDate": "2005-07-25",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/1439?format=json"
+        },
+        {
+            "amendmentNumber": "1056",
+            "congress": 109,
+            "introducedDate": "2005-06-27",
+            "latestAction": {
+                "actionDate": "2005-06-28",
+                "text": "Proposed amendment SA 1056 withdrawn in Senate. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/1056?format=json"
+        },
+        {
+            "amendmentNumber": "1030",
+            "congress": 109,
+            "introducedDate": "2005-06-27",
+            "latestAction": {
+                "actionDate": "2005-06-28",
+                "text": "Amendment SA 1030 as modified agreed to in Senate by Unanimous Consent. (consideration: CR S7511-7512; text as modified: CR S7512)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/1030?format=json"
+        },
+        {
+            "amendmentNumber": "1058",
+            "congress": 109,
+            "introducedDate": "2005-06-27",
+            "latestAction": {
+                "actionDate": "2005-06-28",
+                "text": "Amendment SA 1058 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/1058?format=json"
+        },
+        {
+            "amendmentNumber": "1057",
+            "congress": 109,
+            "introducedDate": "2005-06-27",
+            "latestAction": {
+                "actionDate": "2005-06-28",
+                "text": "Proposed amendment SA 1057 withdrawn in Senate. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/1057?format=json"
+        },
+        {
+            "amendmentNumber": "1054",
+            "congress": 109,
+            "introducedDate": "2005-06-27",
+            "latestAction": {
+                "actionDate": "2005-06-28",
+                "text": "Proposed amendment SA 1054 withdrawn in Senate. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/1054?format=json"
+        },
+        {
+            "amendmentNumber": "1031",
+            "congress": 109,
+            "introducedDate": "2005-06-27",
+            "latestAction": {
+                "actionDate": "2005-06-28",
+                "text": "Amendment SA 1031 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/1031?format=json"
+        },
+        {
+            "amendmentNumber": "1055",
+            "congress": 109,
+            "introducedDate": "2005-06-27",
+            "latestAction": {
+                "actionDate": "2005-06-28",
+                "text": "Amendment SA 1055 as modified agreed to in Senate by Unanimous Consent. (consideration: CR S7511-7512; text as modified: CR S7512)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/1055?format=json"
+        },
+        {
+            "amendmentNumber": "936",
+            "congress": 109,
+            "introducedDate": "2005-06-22",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/936?format=json"
+        },
+        {
+            "amendmentNumber": "868",
+            "congress": 109,
+            "introducedDate": "2005-06-22",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/868?format=json"
+        },
+        {
+            "amendmentNumber": "848",
+            "congress": 109,
+            "introducedDate": "2005-06-22",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/848?format=json"
+        },
+        {
+            "amendmentNumber": "937",
+            "congress": 109,
+            "introducedDate": "2005-06-22",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/937?format=json"
+        },
+        {
+            "amendmentNumber": "935",
+            "congress": 109,
+            "introducedDate": "2005-06-22",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/935?format=json"
+        },
+        {
+            "amendmentNumber": "883",
+            "congress": 109,
+            "introducedDate": "2005-06-22",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/883?format=json"
+        },
+        {
+            "amendmentNumber": "866",
+            "congress": 109,
+            "introducedDate": "2005-06-22",
+            "latestAction": {
+                "actionDate": "2005-06-22",
+                "text": "Amendment SA 866 as modified agreed to in Senate by Voice Vote. (text as modified: CR S7033)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/866?format=json"
+        },
+        {
+            "amendmentNumber": "867",
+            "congress": 109,
+            "introducedDate": "2005-06-22",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/867?format=json"
+        },
+        {
+            "amendmentNumber": "791",
+            "congress": 109,
+            "introducedDate": "2005-06-16",
+            "latestAction": {
+                "actionDate": "2005-06-16",
+                "text": "Amendment SA 791 agreed to in Senate by Yea-Nay Vote. 52 - 48. Record Vote Number: 141. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/791?format=json"
+        },
+        {
+            "amendmentNumber": "590",
+            "congress": 109,
+            "introducedDate": "2005-04-27",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/590?format=json"
+        },
+        {
+            "amendmentNumber": "589",
+            "congress": 109,
+            "introducedDate": "2005-04-27",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/589?format=json"
+        },
+        {
+            "amendmentNumber": "599",
+            "congress": 109,
+            "introducedDate": "2005-05-09",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/599?format=json"
+        },
+        {
+            "amendmentNumber": "478",
+            "congress": 109,
+            "introducedDate": "2005-04-18",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/478?format=json"
+        },
+        {
+            "amendmentNumber": "483",
+            "congress": 109,
+            "introducedDate": "2005-04-18",
+            "latestAction": {
+                "actionDate": "2005-04-20",
+                "text": "Amendment SA 483 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/483?format=json"
+        },
+        {
+            "amendmentNumber": "369",
+            "congress": 109,
+            "introducedDate": "2005-04-13",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/369?format=json"
+        },
+        {
+            "amendmentNumber": "102",
+            "congress": 109,
+            "introducedDate": "2005-03-07",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/102?format=json"
+        },
+        {
+            "amendmentNumber": "143",
+            "congress": 109,
+            "introducedDate": "2005-03-14",
+            "latestAction": {
+                "actionDate": "2005-03-14",
+                "text": "Amendment SA 143 not agreed to in Senate by Yea-Nay Vote. 44 - 49. Record Vote Number: 45. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/143?format=json"
+        },
+        {
+            "amendmentNumber": "51",
+            "congress": 109,
+            "introducedDate": "2005-03-04",
+            "latestAction": {
+                "actionDate": "2005-03-09",
+                "text": "Proposed amendment SA 51 withdrawn in Senate. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/51?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-12-07",
+            "latestAction": {
+                "actionDate": "2006-12-07",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "4108",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Northwestern New Mexico Rural Water Projects Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/4108?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-09-27",
+            "latestAction": {
+                "actionDate": "2006-09-27",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "3952",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Automatic IRA Act of 2006",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3952?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-09-28",
+            "latestAction": {
+                "actionDate": "2006-09-28",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S10474-10475)"
+            },
+            "number": "3975",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Community Health Workers Act of 2006",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3975?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-08-03",
+            "latestAction": {
+                "actionDate": "2006-08-03",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced:  CR S8832-8833)"
+            },
+            "number": "3819",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Strengthening the Safety Net Act of 2006",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3819?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-07-17",
+            "latestAction": {
+                "actionDate": "2006-07-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "3677",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare Independent Living Act of 2006",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3677?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-07-12",
+            "latestAction": {
+                "actionDate": "2006-07-12",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S7425-7426)"
+            },
+            "number": "3650",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Helping Fill the Medicare Rx Gap Act of 2006",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3650?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-06-29",
+            "latestAction": {
+                "actionDate": "2006-09-27",
+                "text": "Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held. With printed Hearing: S.Hrg. 109-778."
+            },
+            "number": "3599",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Prehistoric Trackways National Monument Establishment Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3599?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-06-29",
+            "latestAction": {
+                "actionDate": "2006-06-29",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S6792-6793)"
+            },
+            "number": "3606",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Save Our Safety Net Act of 2005",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3606?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-06-15",
+            "latestAction": {
+                "actionDate": "2006-12-06",
+                "text": "Sponsor introductory remarks on measure. (CR S11244-11245)"
+            },
+            "number": "3516",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Rural Equity Payment Index Reform Extension Act of 2006",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3516?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-25",
+            "latestAction": {
+                "actionDate": "2006-05-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "3231",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on certain structures, parts, and components for use in an isotopic separation facility.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3231?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-25",
+            "latestAction": {
+                "actionDate": "2006-05-25",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced:  CR S5243-5245)"
+            },
+            "number": "3171",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "United States Direct Investment Act of 2006",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3171?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-17",
+            "latestAction": {
+                "actionDate": "2006-05-17",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S4699-4700)"
+            },
+            "number": "2825",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Border Health Security Act of 2006",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2825?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-04",
+            "latestAction": {
+                "actionDate": "2006-05-04",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S4068-4072)"
+            },
+            "number": "2748",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Enhanced Energy Security Tax Incentives Act of 2006",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2748?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-04",
+            "latestAction": {
+                "actionDate": "2006-06-22",
+                "text": "Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 109-666."
+            },
+            "number": "2747",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Enhanced Energy Security Act of 2006",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2747?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-25",
+            "latestAction": {
+                "actionDate": "2006-04-25",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "2643",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Native American Methamphetamine Enforcement and Treatment Act of 2006",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2643?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-03-01",
+            "latestAction": {
+                "actionDate": "2006-03-01",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "2346",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to amend the Ojito Wilderness Act to make a technical correction.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2346?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-11-18",
+            "latestAction": {
+                "actionDate": "2005-11-18",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S13384-13385)"
+            },
+            "number": "2074",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicaid Indian Health Act of 2005",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2074?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-10-17",
+            "latestAction": {
+                "actionDate": "2005-10-17",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "1875",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Border Law Enforcement Relief Act of 2005",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1875?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-09-30",
+            "latestAction": {
+                "actionDate": "2005-09-30",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S10803-10805)"
+            },
+            "number": "1808",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Medicare Beneficiary Assistance Improvement Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1808?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-09-29",
+            "latestAction": {
+                "actionDate": "2005-09-29",
+                "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S10735)"
+            },
+            "number": "1793",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to extend certain apportionments to primary airports.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1793?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-09-20",
+            "latestAction": {
+                "actionDate": "2005-09-20",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "1734",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Valle Vidal Preservation Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1734?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-29",
+            "latestAction": {
+                "actionDate": "2005-07-29",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S9500-9505)"
+            },
+            "number": "1581",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Science Park Administration Act of 2005",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1581?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-29",
+            "latestAction": {
+                "actionDate": "2005-07-29",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S9510)"
+            },
+            "number": "1589",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Affordability in Medicare Premiums Act of 2005",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1589?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-29",
+            "latestAction": {
+                "actionDate": "2005-07-29",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S9509)"
+            },
+            "number": "1587",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Children's Health Equity Technical Amendment Act of 2005",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1587?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-29",
+            "latestAction": {
+                "actionDate": "2005-07-29",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S9508)"
+            },
+            "number": "1585",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicaid Health Plan Rebate Act of 2005",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1585?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-29",
+            "latestAction": {
+                "actionDate": "2005-07-29",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S9496-9497)"
+            },
+            "number": "1575",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Nurse Faculty Education Act of 2005",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1575?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-06-16",
+            "latestAction": {
+                "actionDate": "2005-06-16",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S6764-6766)"
+            },
+            "number": "1267",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Gearing Up for Academic Success Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1267?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-06-09",
+            "latestAction": {
+                "actionDate": "2005-06-09",
+                "text": "Read twice and referred to the Committee on Foreign Relations. (text of measure as introduced: CR S6313)"
+            },
+            "number": "1211",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Foreign Science and Technology Assessment Act of 2005",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1211?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-06-09",
+            "latestAction": {
+                "actionDate": "2005-06-09",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S6322)"
+            },
+            "number": "1217",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Ending the Medicare Disability Waiting Period Act of 2005",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1217?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-05-11",
+            "latestAction": {
+                "actionDate": "2005-05-11",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S4957)"
+            },
+            "number": "1007",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicaid Formula Fairness Act of 2005",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1007?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-04-28",
+            "latestAction": {
+                "actionDate": "2005-04-28",
+                "text": "Read twice and referred to the Committee on Indian Affairs. (text of measure as introduced: CR S4589)"
+            },
+            "number": "972",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "Albuquerque Indian Health Center Act of 2005",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/972?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-04-21",
+            "latestAction": {
+                "actionDate": "2005-04-21",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S4119-4120)"
+            },
+            "number": "875",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Save More for Retirement Act of 2005",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/875?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-04-18",
+            "latestAction": {
+                "actionDate": "2006-06-28",
+                "text": "Committee on Finance. Measure incorporated into measure S.1321 ordered to be reported."
+            },
+            "number": "832",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Taxpayer Protection and Assistance Act of 2005",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/832?format=json"
+        }
+    ]
+}

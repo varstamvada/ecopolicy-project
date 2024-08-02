@@ -1,0 +1,126 @@
+{
+    "pagination": {
+        "count": 8
+    },
+    "request": {
+        "bioguideId": "b001238",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "223",
+            "congress": 108,
+            "introducedDate": "2003-07-14",
+            "latestAction": {
+                "actionDate": "2003-07-14",
+                "actionTime": "12:54:44",
+                "text": "On agreeing to the Ballance amendment (A001) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/hamdt/223?format=json"
+        },
+        {
+            "amendmentNumber": "105",
+            "congress": 108,
+            "introducedDate": "2003-05-01",
+            "latestAction": {
+                "actionDate": "2003-05-01",
+                "actionTime": "12:51:54",
+                "text": "On agreeing to the Ballance amendment (A005) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/hamdt/105?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-03-30",
+            "latestAction": {
+                "actionDate": "2004-04-30",
+                "text": "Referred to the Subcommittee on Education Reform."
+            },
+            "number": "4063",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "No School Left Behind Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/4063?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-03-16",
+            "latestAction": {
+                "actionDate": "2004-03-29",
+                "text": "Referred to the Subcommittee on Education Reform."
+            },
+            "number": "3975",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Respecting Our Leaders in Education Model Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3975?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-10-21",
+            "latestAction": {
+                "actionDate": "2004-06-25",
+                "text": "Became Public Law No: 108-247."
+            },
+            "number": "3353",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To designate the facility of the United States Postal Service located at 525 Main Street in Tarboro, North Carolina, as the \"George Henry White Post Office Building\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3353?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-07-25",
+            "latestAction": {
+                "actionDate": "2003-07-27",
+                "text": "Executive Comment Requested from Interior."
+            },
+            "number": "2925",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Northeastern North Carolina Heritage Area Study Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2925?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-05-15",
+            "latestAction": {
+                "actionDate": "2004-12-21",
+                "text": "Became Public Law No: 108-460."
+            },
+            "number": "2119",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To provide for the conveyance of Federal lands, improvements, equipment, and resource materials at the Oxford Research Station in Granville County, North Carolina, to the State of North Carolina.\r\n\r",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2119?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-01-28",
+            "latestAction": {
+                "actionDate": "2003-02-27",
+                "text": "Referred to the Subcommittee on Housing and Community Opportunity."
+            },
+            "number": "406",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "To authorize the Secretary of Agriculture to use unobligated funds from a housing demonstration program in the State of North Carolina to make grants under section 504 of the Housing Act of 1949 in such State.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/406?format=json"
+        }
+    ]
+}

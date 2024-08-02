@@ -1,0 +1,99 @@
+{
+    "pagination": {
+        "count": 6
+    },
+    "request": {
+        "bioguideId": "c001131",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "919",
+            "congress": 118,
+            "introducedDate": "2024-05-22",
+            "latestAction": {
+                "actionDate": "2024-05-22",
+                "actionTime": "17:23:46",
+                "text": "On agreeing to the Casar amendment (A001) Failed by recorded vote: 204 - 209 (Roll no. 223)."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/hamdt/919?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-02-14",
+            "latestAction": {
+                "actionDate": "2024-02-16",
+                "text": "Referred to the Subcommittee on Energy, Climate and Grid Security."
+            },
+            "number": "7348",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Connect the Grid Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/7348?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-09-26",
+            "latestAction": {
+                "actionDate": "2024-01-11",
+                "text": "Referred to the Subcommittee on Nutrition, Foreign Agriculture, and Horticulture."
+            },
+            "number": "5701",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "No Photo for Food Act of 2023",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/5701?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-07-27",
+            "latestAction": {
+                "actionDate": "2023-07-27",
+                "text": "Referred to the Committee on Agriculture, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "4979",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Fairness for Small-Scale Farmers and Ranchers Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/4979?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-07-27",
+            "latestAction": {
+                "actionDate": "2023-09-26",
+                "text": "Referred to the Subcommittee on Livestock, Dairy, and Poultry."
+            },
+            "number": "4978",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Agricultural Worker Justice Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/4978?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-04-25",
+            "latestAction": {
+                "actionDate": "2023-04-25",
+                "text": "Referred to the House Committee on Agriculture."
+            },
+            "number": "2822",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Child Labor Exploitation Accountability Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/2822?format=json"
+        }
+    ]
+}

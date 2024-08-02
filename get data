@@ -1,0 +1,43 @@
+get data
+
+
+1. In a file called csv testbills.csv there are column for bbioguideId,congress,type,number,introducedDate,actionDate,PolicyArea_name	Latest_Action_text,url,congress_type_number,title															
+2. The introducedDate is in the format yyyy-mm-dd
+3. Go through each row and if the dates is newer than 2000-01-01 create a url https://api.congress.gov/v3/bill/<congress>/<type>/<number>/text?format=json&api_key=TcAsfbl78LnPadowZCoBIL25bFdTArErtcqSKt9J
+4. the response json will look like this
+
+{
+    "pagination": {
+        "count": 1
+    },
+    "request": {
+        "billNumber": "1292",
+        "billType": "s",
+        "billUrl": "https://api.congress.gov/v3/bill/112/s/1292?format=json",
+        "congress": "112",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "textVersions": [
+        {
+            "date": "2011-06-29T04:00:00Z",
+            "formats": [
+                {
+                    "type": "Formatted Text",
+                    "url": "https://www.congress.gov/112/bills/s1292/BILLS-112s1292is.htm"
+                },
+                {
+                    "type": "PDF",
+                    "url": "https://www.congress.gov/112/bills/s1292/BILLS-112s1292is.pdf"
+                },
+                {
+                    "type": "Formatted XML",
+                    "url": "https://www.congress.gov/112/bills/s1292/BILLS-112s1292is.xml"
+                }
+            ],
+            "type": "Introduced in Senate"
+        }
+    ]
+}
+
+5. Then follow the link after "type": "Formatted Text", "url": < URL> and fetch the text from that link and create a new file for each row and put it in a file with the format BILLS-<congresss><type><number>.txt

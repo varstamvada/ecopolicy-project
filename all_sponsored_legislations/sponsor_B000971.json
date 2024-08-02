@@ -1,0 +1,720 @@
+{
+    "pagination": {
+        "count": 49
+    },
+    "request": {
+        "bioguideId": "b000971",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "1164",
+            "congress": 99,
+            "introducedDate": "1986-08-14",
+            "latestAction": {
+                "actionDate": "1986-08-14",
+                "text": "Amendment Withdrawn in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/1164?format=json"
+        },
+        {
+            "amendmentNumber": "654",
+            "congress": 99,
+            "introducedDate": "1985-12-04",
+            "latestAction": {
+                "actionDate": "1985-12-04",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/654?format=json"
+        },
+        {
+            "amendmentNumber": "489",
+            "congress": 99,
+            "introducedDate": "1985-10-03",
+            "latestAction": {
+                "actionDate": "1985-10-03",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/489?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-08-07",
+            "latestAction": {
+                "actionDate": "1986-09-11",
+                "text": "See H.R.5407."
+            },
+            "number": "5354",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Optimal Grain Grading Act of 1986",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5354?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-02-26",
+            "latestAction": {
+                "actionDate": "1986-02-26",
+                "text": "Referred to Subcommittee on Financial Institutions Supervision, Regulation and Insurance."
+            },
+            "number": "4241",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Agricultural Loan Assistance Act of 1986",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/4241?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-10-24",
+            "latestAction": {
+                "actionDate": "1985-10-24",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "3615",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Agricultural IDB Protection Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3615?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-10-02",
+            "latestAction": {
+                "actionDate": "1985-10-15",
+                "text": "Referred to Subcommittee on Postsecondary Education."
+            },
+            "number": "3476",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "National Higher Education and Economic Development Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3476?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-06-06",
+            "latestAction": {
+                "actionDate": "1985-06-17",
+                "text": "Referred to Subcommittee on Postsecondary Education."
+            },
+            "number": "2687",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "A bill to amend the Higher Education Act of 1965 to reduce the default rate on student loans, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2687?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-05-22",
+            "latestAction": {
+                "actionDate": "1985-05-31",
+                "text": "Referred to Subcommittee on Wheat, Soybeans, and Feed Grains."
+            },
+            "number": "2581",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to amend the Agricultural Act of 1949 to modify the producer reserve program to ensure appropriate levels of orderly marketing of stored wheat and feed grains.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2581?format=json"
+        },
+        {
+            "amendmentNumber": "778",
+            "congress": 100,
+            "introducedDate": "1988-06-28",
+            "latestAction": {
+                "actionDate": "1988-06-28",
+                "text": "Amendment Passed House. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/778?format=json"
+        },
+        {
+            "amendmentNumber": "779",
+            "congress": 100,
+            "introducedDate": "1988-06-28",
+            "latestAction": {
+                "actionDate": "1988-06-28",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/779?format=json"
+        },
+        {
+            "amendmentNumber": "188",
+            "congress": 100,
+            "introducedDate": "1987-06-04",
+            "latestAction": {
+                "actionDate": "1987-06-04",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 124 - 278 (Record Vote No: 166). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/188?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-10-20",
+            "latestAction": {
+                "actionDate": "1988-10-21",
+                "text": "Received in the Senate and read twice and referred to the Committee on Environment and Public Works."
+            },
+            "number": "5553",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to designate the Federal Building and United States Courthouse located at 301 West Main Street in Benton, Illinois, as the \"Kenneth J.  Gray Federal Building and United States Courthouse\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/5553?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-07-14",
+            "latestAction": {
+                "actionDate": "1988-08-08",
+                "text": "Referred to Subcommittee on Energy and Power."
+            },
+            "number": "5053",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to permit changes in the maximum lawful price for the sale of the old Outer Continental Shelf natural gas.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/5053?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-03-31",
+            "latestAction": {
+                "actionDate": "1988-04-07",
+                "text": "Referred to Subcommittee on Wheat, Soybeans, and Feed Grains."
+            },
+            "number": "4329",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "State Grain Fund Protection Act of 1988",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4329?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-09-16",
+            "latestAction": {
+                "actionDate": "1988-03-17",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3288",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Children's Television Advertising Practices Act of 1987",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3288?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-07-01",
+            "latestAction": {
+                "actionDate": "1988-10-06",
+                "text": "Became Public Law No: 100-473."
+            },
+            "number": "2858",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Regulatory Fairness Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2858?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-06-17",
+            "latestAction": {
+                "actionDate": "1987-06-17",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "2702",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to provide that individuals who separated from service on account of early retirement before the date of the enactment of the Tax Reform Act of 1986 will be exempt from the additional tax on early distributions from qualified retirement plans.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2702?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-03-03",
+            "latestAction": {
+                "actionDate": "1987-03-03",
+                "text": "Referred to Subcommittee on Financial Institutions Supervision, Regulation and Insurance."
+            },
+            "number": "1346",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Agricultural Loan Assistance Act of 1987",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/1346?format=json"
+        },
+        {
+            "amendmentNumber": "55",
+            "congress": 101,
+            "introducedDate": "1989-06-07",
+            "latestAction": {
+                "actionDate": "1989-06-07",
+                "actionTime": "18:35:15",
+                "text": "On agreeing to the Bruce amendment (A002) Agreed to by recorded vote: 262 - 155 (Roll no. 79). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/55?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-10-27",
+            "latestAction": {
+                "actionDate": "1990-12-03",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "5961",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend part B of title XVIII of the Social Security Act to permit beneficiaries to obtain upgraded items of equipment.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5961?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-10-23",
+            "latestAction": {
+                "actionDate": "1990-10-23",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5904",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to provide tax relief to utilities installing acid rain reduction equipment.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5904?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-10-22",
+            "latestAction": {
+                "actionDate": "1990-12-03",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "5890",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicaid Access Improvement Amendments of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5890?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-09-17",
+            "latestAction": {
+                "actionDate": "1990-09-24",
+                "text": "Referred to the Subcommittee on Transportation and Hazardous Materials."
+            },
+            "number": "5632",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Plastic Recycling Assistance Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5632?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-06-21",
+            "latestAction": {
+                "actionDate": "1990-11-15",
+                "text": "Became Public Law No: 101-557."
+            },
+            "number": "5112",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Home Health Care and Alzheimer's Disease Amendments of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5112?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-06-21",
+            "latestAction": {
+                "actionDate": "1990-11-15",
+                "text": "Became Public Law No: 101-558."
+            },
+            "number": "5113",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Injury Control Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5113?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-06-19",
+            "latestAction": {
+                "actionDate": "1990-06-20",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "5073",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Injury Prevention and Control Amendments of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5073?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-06-14",
+            "latestAction": {
+                "actionDate": "1990-07-02",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "5042",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Home Health Care Demonstration Projects Extension Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5042?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-04-04",
+            "latestAction": {
+                "actionDate": "1990-04-23",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "4484",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Allied Health Professionals Promotion Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4484?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-04-04",
+            "latestAction": {
+                "actionDate": "1990-04-23",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "4485",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare Certified Registered Nurse Anesthetist Payment Amendments of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4485?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-01-25",
+            "latestAction": {
+                "actionDate": "1990-02-12",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "3899",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare Certified Registered Nurse Anesthetist Payment Amendments of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3899?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-10-24",
+            "latestAction": {
+                "actionDate": "1990-08-20",
+                "text": "See H.R.1594."
+            },
+            "number": "3509",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To change the tariff treatment of certain brooms wholly or in part of broom corn.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3509?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-10-16",
+            "latestAction": {
+                "actionDate": "1989-10-27",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "3471",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Allied Health Professionals Promotion Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3471?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-07-17",
+            "latestAction": {
+                "actionDate": "1990-05-23",
+                "text": "For Further Action See H.R.3030."
+            },
+            "number": "2909",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Clean Fuels and Environmental Protection Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2909?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-05-09",
+            "latestAction": {
+                "actionDate": "1989-05-09",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2271",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to provide that individuals who separated from service on account of early retirement before the date of the enactment of the Tax Reform Act of 1986 will be exempt from the additional tax on early distributions from qualified retirement plans.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2271?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-02",
+            "latestAction": {
+                "actionDate": "1989-02-06",
+                "text": "Referred to the Subcommittee on Wheat, Soybeans, and Feed Grains."
+            },
+            "number": "768",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "State Grain Fund Protection Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/768?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-10-01",
+            "latestAction": {
+                "actionDate": "1990-10-01",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "377",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Regarding the negotiation of a free trade agreement with Mexico.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/101/hconres/377?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-04-30",
+            "latestAction": {
+                "actionDate": "1992-05-06",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5033",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To reliquidate certain entries on which excessive countervailing duties were paid, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5033?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-02-25",
+            "latestAction": {
+                "actionDate": "1992-02-25",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4299",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 in order to provide an incentive for business to invest in pollution abatement property and related assets.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4299?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-09-12",
+            "latestAction": {
+                "actionDate": "1991-09-12",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3319",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to treat as sale proceeds of a residence amounts paid by the Secretary of Defense representing the reduction in the value of the residence on account of a military base closing.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3319?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-08-02",
+            "latestAction": {
+                "actionDate": "1991-09-09",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "3216",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Food Quality Protection Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3216?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-07-11",
+            "latestAction": {
+                "actionDate": "1992-10-08",
+                "text": "For Further Action See H.R.776."
+            },
+            "number": "2871",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Clean Coal Technology Efficiency Improvement Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2871?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-06-18",
+            "latestAction": {
+                "actionDate": "1991-07-09",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "2661",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Maternal and Early Childhood Health Care Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2661?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-05-17",
+            "latestAction": {
+                "actionDate": "1992-07-23",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "2378",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Consumer Protection Standards for Long Term Care Insurance Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2378?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-03-21",
+            "latestAction": {
+                "actionDate": "1991-04-08",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "1544",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XIX of the Social Security Act to assure minimum payment adjustments for disproportionate share hospitals.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1544?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-03-19",
+            "latestAction": {
+                "actionDate": "1991-04-08",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "1466",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Allied Health Professionals Promotion Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1466?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-03-07",
+            "latestAction": {
+                "actionDate": "1991-03-18",
+                "text": "Referred to the Subcommittee on Transportation and Hazardous Materials."
+            },
+            "number": "1318",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Plastic Recycling Assistance Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1318?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-02-21",
+            "latestAction": {
+                "actionDate": "1991-02-21",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1054",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Environmental Tax Credit Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1054?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-01-28",
+            "latestAction": {
+                "actionDate": "1992-02-04",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "331",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Expressing the sense of the House of Representatives regarding the opening of Japanese markets, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/102/hres/331?format=json"
+        }
+    ]
+}

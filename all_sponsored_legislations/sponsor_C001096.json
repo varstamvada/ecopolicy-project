@@ -1,0 +1,2383 @@
+{
+    "pagination": {
+        "count": 211
+    },
+    "request": {
+        "bioguideId": "c001096",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "2362",
+            "congress": 118,
+            "introducedDate": "2024-07-11",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/samdt/2362?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-07-10",
+            "latestAction": {
+                "actionDate": "2024-07-10",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "4652",
+            "policyArea": {
+                "name": null
+            },
+            "title": "A bill to amend chapter 44 of title 18, United States Code, to update certain procedures applicable to commerce in firearms and remove certain Federal restrictions on interstate firearms transactions.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/4652?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-06-11",
+            "latestAction": {
+                "actionDate": "2024-06-11",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "4493",
+            "policyArea": {
+                "name": null
+            },
+            "title": "A bill to amend the Securities Exchange Act of 1934 to create a safe harbor for finders and private placement brokers, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/4493?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-05-23",
+            "latestAction": {
+                "actionDate": "2024-05-23",
+                "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "4404",
+            "policyArea": {
+                "name": null
+            },
+            "title": "A bill to designate the facility of the United States Postal Service located at 840 Front Street in Casselton, North Dakota, as the \"Commander Delbert Austin Olson Post Office\".",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/4404?format=json"
+        },
+        {
+            "amendmentNumber": "1532",
+            "congress": 118,
+            "introducedDate": "2024-02-09",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/samdt/1532?format=json"
+        },
+        {
+            "amendmentNumber": "212",
+            "congress": 118,
+            "introducedDate": "2023-07-12",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/samdt/212?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-03-19",
+            "latestAction": {
+                "actionDate": "2024-03-19",
+                "text": "Referred to the Committee on Foreign Relations."
+            },
+            "number": "591",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution reaffirming the deep and steadfast partnership between, and the ties that bind, the United States and Canada in support of economic and national security.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/118/sres/591?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-11-13",
+            "latestAction": {
+                "actionDate": "2023-11-13",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "3291",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "EAGLE Act of 2023",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/3291?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-10-31",
+            "latestAction": {
+                "actionDate": "2023-10-31",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "3172",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to include certain over-the-counter dietary supplement products and foods for special dietary uses as qualified medical expenses.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/3172?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-03-24",
+            "latestAction": {
+                "actionDate": "2022-04-05",
+                "text": "Committee on Banking, Housing, and Urban Affairs. Hearings held."
+            },
+            "number": "3923",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Dodd-Frank Material Disclosure Improvement Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/117/s/3923?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-08-01",
+            "latestAction": {
+                "actionDate": "2022-08-01",
+                "text": "Read twice and referred to the Committee on Environment and Public Works."
+            },
+            "number": "4695",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Western Water Cooperative Committee Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/117/s/4695?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-07-11",
+            "latestAction": {
+                "actionDate": "2019-11-19",
+                "text": "Referred to the Subcommittee on National Parks, Forests, and Public Lands."
+            },
+            "number": "2099",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "White Horse Hill National Game Preserve Designation Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/116/s/2099?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-02-07",
+            "latestAction": {
+                "actionDate": "2023-02-07",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "293",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Fair Access to Banking Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/293?format=json"
+        },
+        {
+            "amendmentNumber": "1644",
+            "congress": 118,
+            "introducedDate": "2024-03-07",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/samdt/1644?format=json"
+        },
+        {
+            "amendmentNumber": "1241",
+            "congress": 118,
+            "introducedDate": "2023-09-18",
+            "latestAction": {
+                "actionDate": "2023-11-01",
+                "text": "Proposed amendment SA 1241 withdrawn in Senate."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/samdt/1241?format=json"
+        },
+        {
+            "amendmentNumber": "1198",
+            "congress": 118,
+            "introducedDate": "2023-09-14",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/samdt/1198?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-04-27",
+            "latestAction": {
+                "actionDate": "2023-04-27",
+                "text": "Read twice and referred to the Committee on Environment and Public Works."
+            },
+            "number": "1358",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "LAKES Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/1358?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-03-06",
+            "latestAction": {
+                "actionDate": "2024-05-22",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 403."
+            },
+            "number": "3880",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "FASTA Reform Act of 2024",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/3880?format=json"
+        },
+        {
+            "amendmentNumber": "1610",
+            "congress": 118,
+            "introducedDate": "2024-02-11",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/samdt/1610?format=json"
+        },
+        {
+            "amendmentNumber": "1458",
+            "congress": 118,
+            "introducedDate": "2024-02-09",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/samdt/1458?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-01-18",
+            "latestAction": {
+                "actionDate": "2024-01-18",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "3622",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Unborn Child Support Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/3622?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-02-08",
+            "latestAction": {
+                "actionDate": "2024-02-08",
+                "text": "Read twice and referred to the Committee on Veterans' Affairs."
+            },
+            "number": "3768",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Supporting Rural Veterans Access to Healthcare Services Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/3768?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-02-08",
+            "latestAction": {
+                "actionDate": "2024-02-08",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "3783",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "CFIUS State's Right to Know Act of 2024",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/3783?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-02-07",
+            "latestAction": {
+                "actionDate": "2024-04-15",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "61",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Highway Administration relating to \"National Performance Management Measures; Assessing Performance of the National Highway System, Greenhouse Gas Emissions Measure\".",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/118/sjres/61?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-05-09",
+            "latestAction": {
+                "actionDate": "2023-05-09",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "1501",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Bank Service Company Examination Coordination Act of 2023",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/1501?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-04-19",
+            "latestAction": {
+                "actionDate": "2023-04-19",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "1212",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Securing and Enabling Commerce Using Remote and Electronic Notarization Act of 2023",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/1212?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-02-16",
+            "latestAction": {
+                "actionDate": "2023-07-19",
+                "text": "Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held."
+            },
+            "number": "461",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "A bill to make certain irrigation districts eligible for Pick-Sloan Missouri Basin Program pumping power, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/461?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-09-29",
+            "latestAction": {
+                "actionDate": "2022-09-29",
+                "text": "Referred to the Committee on Foreign Relations. (text: CR S5559)"
+            },
+            "number": "821",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution condemning the arrest of Cardinal Zen in Hong Kong, and reaffirming the commitment of the Senate to supporting democracy, autonomy, religious freedom, and human rights in Hong Kong.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/117/sres/821?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-05-13",
+            "latestAction": {
+                "actionDate": "2021-05-13",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "1625",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Securing and Enabling Commerce Using Remote and Electronic Notarization Act of 2021",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/117/s/1625?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-01-10",
+            "latestAction": {
+                "actionDate": "2022-01-18",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 239."
+            },
+            "number": "3459",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to prohibit a Federal agency from promulgating any rule or guidance that bans hydraulic fracturing in the United States, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/117/s/3459?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-03-24",
+            "latestAction": {
+                "actionDate": "2022-04-05",
+                "text": "Committee on Banking, Housing, and Urban Affairs. Hearings held."
+            },
+            "number": "3922",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Unlocking Capital for Small Businesses Act of 2022",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/117/s/3922?format=json"
+        },
+        {
+            "amendmentNumber": "6448",
+            "congress": 117,
+            "introducedDate": "2022-10-11",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/6448?format=json"
+        },
+        {
+            "amendmentNumber": "6368",
+            "congress": 117,
+            "introducedDate": "2022-09-29",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/6368?format=json"
+        },
+        {
+            "amendmentNumber": "6240",
+            "congress": 117,
+            "introducedDate": "2022-09-29",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/6240?format=json"
+        },
+        {
+            "amendmentNumber": "6171",
+            "congress": 117,
+            "introducedDate": "2022-09-29",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/6171?format=json"
+        },
+        {
+            "amendmentNumber": "6067",
+            "congress": 117,
+            "introducedDate": "2022-09-29",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/6067?format=json"
+        },
+        {
+            "amendmentNumber": "6069",
+            "congress": 117,
+            "introducedDate": "2022-09-29",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/6069?format=json"
+        },
+        {
+            "amendmentNumber": "6068",
+            "congress": 117,
+            "introducedDate": "2022-09-29",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/6068?format=json"
+        },
+        {
+            "amendmentNumber": "6056",
+            "congress": 117,
+            "introducedDate": "2022-09-29",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/6056?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-07-20",
+            "latestAction": {
+                "actionDate": "2022-07-20",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "4567",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "EAGLE Act of 2022",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/117/s/4567?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-12-07",
+            "latestAction": {
+                "actionDate": "2021-12-07",
+                "text": "Read twice and referred to the Committee on Veterans' Affairs."
+            },
+            "number": "3323",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veterans Justice Outreach Improvement Act of 2021",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/117/s/3323?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-06-06",
+            "latestAction": {
+                "actionDate": "2022-06-06",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "4352",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Travel Nursing Agency Transparency Study Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/117/s/4352?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-05-11",
+            "latestAction": {
+                "actionDate": "2022-05-25",
+                "text": "Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held."
+            },
+            "number": "1554",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "A bill to make certain irrigation districts eligible for Pick-Sloan Missouri Basin Program pumping power, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/117/s/1554?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-04-04",
+            "latestAction": {
+                "actionDate": "2022-04-04",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "3989",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Landowner Easement Rights Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/117/s/3989?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-03-03",
+            "latestAction": {
+                "actionDate": "2021-03-18",
+                "text": "Committee on Banking, Housing, and Urban Affairs. Hearings held."
+            },
+            "number": "563",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Fair Access to Banking Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/117/s/563?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-07-22",
+            "latestAction": {
+                "actionDate": "2022-03-02",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 299."
+            },
+            "number": "2433",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Federal Land Asset Inventory Reform Act of 2021",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/117/s/2433?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-05-20",
+            "latestAction": {
+                "actionDate": "2021-05-20",
+                "text": "Read twice and referred to the Committee on Foreign Relations."
+            },
+            "number": "1764",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "POWERS Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/117/s/1764?format=json"
+        },
+        {
+            "amendmentNumber": "5371",
+            "congress": 117,
+            "introducedDate": "2022-08-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/5371?format=json"
+        },
+        {
+            "amendmentNumber": "5379",
+            "congress": 117,
+            "introducedDate": "2022-08-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/5379?format=json"
+        },
+        {
+            "amendmentNumber": "5378",
+            "congress": 117,
+            "introducedDate": "2022-08-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/5378?format=json"
+        },
+        {
+            "amendmentNumber": "5377",
+            "congress": 117,
+            "introducedDate": "2022-08-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/5377?format=json"
+        },
+        {
+            "amendmentNumber": "5376",
+            "congress": 117,
+            "introducedDate": "2022-08-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/5376?format=json"
+        },
+        {
+            "amendmentNumber": "5375",
+            "congress": 117,
+            "introducedDate": "2022-08-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/5375?format=json"
+        },
+        {
+            "amendmentNumber": "5374",
+            "congress": 117,
+            "introducedDate": "2022-08-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/5374?format=json"
+        },
+        {
+            "amendmentNumber": "5373",
+            "congress": 117,
+            "introducedDate": "2022-08-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/5373?format=json"
+        },
+        {
+            "amendmentNumber": "5372",
+            "congress": 117,
+            "introducedDate": "2022-08-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/5372?format=json"
+        },
+        {
+            "amendmentNumber": "5370",
+            "congress": 117,
+            "introducedDate": "2022-08-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/5370?format=json"
+        },
+        {
+            "amendmentNumber": "5369",
+            "congress": 117,
+            "introducedDate": "2022-08-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/5369?format=json"
+        },
+        {
+            "amendmentNumber": "5368",
+            "congress": 117,
+            "introducedDate": "2022-08-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/5368?format=json"
+        },
+        {
+            "amendmentNumber": "5367",
+            "congress": 117,
+            "introducedDate": "2022-08-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/5367?format=json"
+        },
+        {
+            "amendmentNumber": "5366",
+            "congress": 117,
+            "introducedDate": "2022-08-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/5366?format=json"
+        },
+        {
+            "amendmentNumber": "5365",
+            "congress": 117,
+            "introducedDate": "2022-08-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/5365?format=json"
+        },
+        {
+            "amendmentNumber": "5363",
+            "congress": 117,
+            "introducedDate": "2022-08-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/5363?format=json"
+        },
+        {
+            "amendmentNumber": "5364",
+            "congress": 117,
+            "introducedDate": "2022-08-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/5364?format=json"
+        },
+        {
+            "amendmentNumber": "5362",
+            "congress": 117,
+            "introducedDate": "2022-08-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/5362?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-07-13",
+            "latestAction": {
+                "actionDate": "2022-07-13",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "4512",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Unborn Child Support Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/117/s/4512?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-04-20",
+            "latestAction": {
+                "actionDate": "2021-04-20",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "1230",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Bank Service Company Examination Coordination Act of 2021",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/117/s/1230?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2020-03-18",
+            "latestAction": {
+                "actionDate": "2020-03-18",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "3533",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Securing and Enabling Commerce Using Remote and Electronic Notarization Act of 2020",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/116/s/3533?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-02-12",
+            "latestAction": {
+                "actionDate": "2019-02-12",
+                "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+            },
+            "number": "454",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Office of Rural Broadband Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/116/s/454?format=json"
+        },
+        {
+            "amendmentNumber": "4768",
+            "congress": 117,
+            "introducedDate": "2021-11-17",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/4768?format=json"
+        },
+        {
+            "amendmentNumber": "4229",
+            "congress": 117,
+            "introducedDate": "2021-11-03",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/4229?format=json"
+        },
+        {
+            "amendmentNumber": "4073",
+            "congress": 117,
+            "introducedDate": "2021-11-01",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/4073?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-08-10",
+            "latestAction": {
+                "actionDate": "2021-08-10",
+                "text": "Read twice and referred to the Committee on Rules and Administration."
+            },
+            "number": "2696",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Vaccine Passport and Voter ID Harmonization Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/117/s/2696?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-05-17",
+            "latestAction": {
+                "actionDate": "2021-05-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1654",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to include certain over-the-counter dietary supplement products as qualified medical expenses.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/117/s/1654?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2020-08-06",
+            "latestAction": {
+                "actionDate": "2020-08-06",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "4463",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to include certain over-the-counter dietary supplement products as qualified medical expenses.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/116/s/4463?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2020-07-30",
+            "latestAction": {
+                "actionDate": "2020-07-30",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "4389",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "A bill to make certain irrigation districts eligible for Pick-Sloan Missouri Basin Program pumping power, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/116/s/4389?format=json"
+        },
+        {
+            "amendmentNumber": "3158",
+            "congress": 117,
+            "introducedDate": "2021-08-10",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/3158?format=json"
+        },
+        {
+            "amendmentNumber": "3157",
+            "congress": 117,
+            "introducedDate": "2021-08-10",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/3157?format=json"
+        },
+        {
+            "amendmentNumber": "3156",
+            "congress": 117,
+            "introducedDate": "2021-08-10",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/3156?format=json"
+        },
+        {
+            "amendmentNumber": "3155",
+            "congress": 117,
+            "introducedDate": "2021-08-10",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/3155?format=json"
+        },
+        {
+            "amendmentNumber": "3154",
+            "congress": 117,
+            "introducedDate": "2021-08-10",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/3154?format=json"
+        },
+        {
+            "amendmentNumber": "3153",
+            "congress": 117,
+            "introducedDate": "2021-08-10",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/3153?format=json"
+        },
+        {
+            "amendmentNumber": "3152",
+            "congress": 117,
+            "introducedDate": "2021-08-10",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/3152?format=json"
+        },
+        {
+            "amendmentNumber": "3151",
+            "congress": 117,
+            "introducedDate": "2021-08-10",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/3151?format=json"
+        },
+        {
+            "amendmentNumber": "3164",
+            "congress": 117,
+            "introducedDate": "2021-08-10",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/3164?format=json"
+        },
+        {
+            "amendmentNumber": "3169",
+            "congress": 117,
+            "introducedDate": "2021-08-10",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/3169?format=json"
+        },
+        {
+            "amendmentNumber": "3168",
+            "congress": 117,
+            "introducedDate": "2021-08-10",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/3168?format=json"
+        },
+        {
+            "amendmentNumber": "3167",
+            "congress": 117,
+            "introducedDate": "2021-08-10",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/3167?format=json"
+        },
+        {
+            "amendmentNumber": "3166",
+            "congress": 117,
+            "introducedDate": "2021-08-10",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/3166?format=json"
+        },
+        {
+            "amendmentNumber": "3165",
+            "congress": 117,
+            "introducedDate": "2021-08-10",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/3165?format=json"
+        },
+        {
+            "amendmentNumber": "3163",
+            "congress": 117,
+            "introducedDate": "2021-08-10",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/3163?format=json"
+        },
+        {
+            "amendmentNumber": "3162",
+            "congress": 117,
+            "introducedDate": "2021-08-10",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/3162?format=json"
+        },
+        {
+            "amendmentNumber": "3161",
+            "congress": 117,
+            "introducedDate": "2021-08-10",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/3161?format=json"
+        },
+        {
+            "amendmentNumber": "3160",
+            "congress": 117,
+            "introducedDate": "2021-08-10",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/3160?format=json"
+        },
+        {
+            "amendmentNumber": "3159",
+            "congress": 117,
+            "introducedDate": "2021-08-10",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/3159?format=json"
+        },
+        {
+            "amendmentNumber": "3105",
+            "congress": 117,
+            "introducedDate": "2021-08-10",
+            "latestAction": {
+                "actionDate": "2021-08-10",
+                "text": "Amendment SA 3105 agreed to in Senate by Yea-Nay Vote. 57 - 42. Record Vote Number: 323. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/3105?format=json"
+        },
+        {
+            "amendmentNumber": "2161",
+            "congress": 117,
+            "introducedDate": "2021-08-02",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/2161?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2020-01-28",
+            "latestAction": {
+                "actionDate": "2020-01-28",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "3236",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Unborn Child Support Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/116/s/3236?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": {
+                "actionDate": "2021-02-04",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "243",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Legacy IRA Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/117/s/243?format=json"
+        },
+        {
+            "amendmentNumber": "1189",
+            "congress": 117,
+            "introducedDate": "2021-03-05",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/1189?format=json"
+        },
+        {
+            "amendmentNumber": "965",
+            "congress": 117,
+            "introducedDate": "2021-03-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/965?format=json"
+        },
+        {
+            "amendmentNumber": "961",
+            "congress": 117,
+            "introducedDate": "2021-03-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/961?format=json"
+        },
+        {
+            "amendmentNumber": "967",
+            "congress": 117,
+            "introducedDate": "2021-03-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/967?format=json"
+        },
+        {
+            "amendmentNumber": "966",
+            "congress": 117,
+            "introducedDate": "2021-03-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/966?format=json"
+        },
+        {
+            "amendmentNumber": "964",
+            "congress": 117,
+            "introducedDate": "2021-03-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/964?format=json"
+        },
+        {
+            "amendmentNumber": "963",
+            "congress": 117,
+            "introducedDate": "2021-03-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/963?format=json"
+        },
+        {
+            "amendmentNumber": "962",
+            "congress": 117,
+            "introducedDate": "2021-03-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/962?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2020-03-16",
+            "latestAction": {
+                "actionDate": "2020-03-16",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "3502",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Community Bank Regulatory Relief Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/116/s/3502?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-03-14",
+            "latestAction": {
+                "actionDate": "2019-06-19",
+                "text": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 116-308."
+            },
+            "number": "849",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "U.S.S. Frank E. Evans Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/116/s/849?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-06-26",
+            "latestAction": {
+                "actionDate": "2019-06-26",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "1993",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Patient Rights Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/116/s/1993?format=json"
+        },
+        {
+            "amendmentNumber": "584",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/584?format=json"
+        },
+        {
+            "amendmentNumber": "582",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/582?format=json"
+        },
+        {
+            "amendmentNumber": "577",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/577?format=json"
+        },
+        {
+            "amendmentNumber": "576",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/576?format=json"
+        },
+        {
+            "amendmentNumber": "575",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/575?format=json"
+        },
+        {
+            "amendmentNumber": "593",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/593?format=json"
+        },
+        {
+            "amendmentNumber": "588",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/588?format=json"
+        },
+        {
+            "amendmentNumber": "587",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/587?format=json"
+        },
+        {
+            "amendmentNumber": "585",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/585?format=json"
+        },
+        {
+            "amendmentNumber": "581",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/581?format=json"
+        },
+        {
+            "amendmentNumber": "580",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/580?format=json"
+        },
+        {
+            "amendmentNumber": "579",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/579?format=json"
+        },
+        {
+            "amendmentNumber": "578",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/578?format=json"
+        },
+        {
+            "amendmentNumber": "574",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/574?format=json"
+        },
+        {
+            "amendmentNumber": "573",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/573?format=json"
+        },
+        {
+            "amendmentNumber": "572",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/572?format=json"
+        },
+        {
+            "amendmentNumber": "571",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/571?format=json"
+        },
+        {
+            "amendmentNumber": "570",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/570?format=json"
+        },
+        {
+            "amendmentNumber": "569",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/569?format=json"
+        },
+        {
+            "amendmentNumber": "568",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/568?format=json"
+        },
+        {
+            "amendmentNumber": "567",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/567?format=json"
+        },
+        {
+            "amendmentNumber": "566",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/566?format=json"
+        },
+        {
+            "amendmentNumber": "565",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/565?format=json"
+        },
+        {
+            "amendmentNumber": "564",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/564?format=json"
+        },
+        {
+            "amendmentNumber": "583",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/583?format=json"
+        },
+        {
+            "amendmentNumber": "586",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/586?format=json"
+        },
+        {
+            "amendmentNumber": "590",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/590?format=json"
+        },
+        {
+            "amendmentNumber": "592",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/592?format=json"
+        },
+        {
+            "amendmentNumber": "591",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/591?format=json"
+        },
+        {
+            "amendmentNumber": "589",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/589?format=json"
+        },
+        {
+            "amendmentNumber": "784",
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/117/samdt/784?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2020-07-02",
+            "latestAction": {
+                "actionDate": "2020-07-02",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "4154",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Bank Service Company Examination Coordination Act of 2020",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/116/s/4154?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2020-06-30",
+            "latestAction": {
+                "actionDate": "2020-06-30",
+                "text": "Read twice and referred to the Committee on Small Business and Entrepreneurship."
+            },
+            "number": "4117",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Paycheck Protection Small Business Forgiveness Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/116/s/4117?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-04-30",
+            "latestAction": {
+                "actionDate": "2019-04-30",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1257",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Legacy IRA Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/116/s/1257?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2020-09-17",
+            "latestAction": {
+                "actionDate": "2020-09-17",
+                "text": "Referred to the Committee on the Judiciary. (text: CR S5714)"
+            },
+            "number": "710",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A resolution commemorating the High Holidays celebrated and commemorated by the Jewish people in the United States, in Israel, and around the world, and recognizing the many accomplishments and contributions of the Jewish community in the United States.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/116/sres/710?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-05-02",
+            "latestAction": {
+                "actionDate": "2020-09-16",
+                "text": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held."
+            },
+            "number": "1295",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Federal Land Asset Inventory Reform Act of 2019",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/116/s/1295?format=json"
+        },
+        {
+            "amendmentNumber": "2632",
+            "congress": 116,
+            "introducedDate": "2020-08-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/116/samdt/2632?format=json"
+        },
+        {
+            "amendmentNumber": "2574",
+            "congress": 116,
+            "introducedDate": "2020-08-05",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/116/samdt/2574?format=json"
+        },
+        {
+            "amendmentNumber": "2575",
+            "congress": 116,
+            "introducedDate": "2020-08-05",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/116/samdt/2575?format=json"
+        },
+        {
+            "amendmentNumber": "2576",
+            "congress": 116,
+            "introducedDate": "2020-08-05",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/116/samdt/2576?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-07-31",
+            "latestAction": {
+                "actionDate": "2019-12-13",
+                "actionTime": "16:02:00",
+                "text": "Held at the desk."
+            },
+            "number": "23",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution honoring the 75th Anniversary of the Battle of the Bulge fought during World War II, recognizing the valiant efforts of the Allied Forces in December 1944, and remembering those who made the ultimate sacrifice, all of which contributed to the Allied victory in the European Theater.",
+            "type": "SCONRES",
+            "url": "https://api.congress.gov/v3/bill/116/sconres/23?format=json"
+        },
+        {
+            "amendmentNumber": "2398",
+            "congress": 116,
+            "introducedDate": "2020-07-01",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/116/samdt/2398?format=json"
+        },
+        {
+            "amendmentNumber": "2339",
+            "congress": 116,
+            "introducedDate": "2020-06-30",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/116/samdt/2339?format=json"
+        },
+        {
+            "amendmentNumber": "2332",
+            "congress": 116,
+            "introducedDate": "2020-06-30",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/116/samdt/2332?format=json"
+        },
+        {
+            "amendmentNumber": "2175",
+            "congress": 116,
+            "introducedDate": "2020-06-25",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/116/samdt/2175?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2020-03-24",
+            "latestAction": {
+                "actionDate": "2020-03-24",
+                "text": "Read twice and referred to the Committee on Foreign Relations."
+            },
+            "number": "3572",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Strained Partnership Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/116/s/3572?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2020-03-25",
+            "latestAction": {
+                "actionDate": "2020-03-25",
+                "text": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S2063)"
+            },
+            "number": "554",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A resolution recognizing the contributions of health care professionals during the 2020 Coronavirus pandemic.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/116/sres/554?format=json"
+        },
+        {
+            "amendmentNumber": "1574",
+            "congress": 116,
+            "introducedDate": "2020-03-24",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/116/samdt/1574?format=json"
+        },
+        {
+            "amendmentNumber": "1476",
+            "congress": 116,
+            "introducedDate": "2020-03-03",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/116/samdt/1476?format=json"
+        },
+        {
+            "amendmentNumber": "1475",
+            "congress": 116,
+            "introducedDate": "2020-03-03",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/116/samdt/1475?format=json"
+        },
+        {
+            "amendmentNumber": "1465",
+            "congress": 116,
+            "introducedDate": "2020-03-03",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/116/samdt/1465?format=json"
+        },
+        {
+            "amendmentNumber": "1463",
+            "congress": 116,
+            "introducedDate": "2020-03-03",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/116/samdt/1463?format=json"
+        },
+        {
+            "amendmentNumber": "1464",
+            "congress": 116,
+            "introducedDate": "2020-03-03",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/116/samdt/1464?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-07-31",
+            "latestAction": {
+                "actionDate": "2019-07-31",
+                "text": "Read twice and referred to the Committee on Veterans' Affairs."
+            },
+            "number": "2392",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "VREASA",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/116/s/2392?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-07-25",
+            "latestAction": {
+                "actionDate": "2019-07-25",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "2293",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Export-Import Bank Reauthorization Act of 2019",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/116/s/2293?format=json"
+        },
+        {
+            "amendmentNumber": "1256",
+            "congress": 116,
+            "introducedDate": "2019-12-12",
+            "latestAction": {
+                "actionDate": "2019-12-12",
+                "text": "Amendment SA 1256 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/116/samdt/1256?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-03-14",
+            "latestAction": {
+                "actionDate": "2019-03-14",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "821",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Freedom Financing Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/116/s/821?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-04-10",
+            "latestAction": {
+                "actionDate": "2019-04-10",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1134",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Nuclear Powers America Act of 2019",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/116/s/1134?format=json"
+        },
+        {
+            "amendmentNumber": "427",
+            "congress": 116,
+            "introducedDate": "2019-06-13",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/116/samdt/427?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-04-04",
+            "latestAction": {
+                "actionDate": "2019-04-04",
+                "text": "Referred to the Committee on the Judiciary. (text: CR S2279)"
+            },
+            "number": "143",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "A resolution recognizing Israeli-American culture and heritage and the contributions of the Israeli-American community to the United States.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/116/sres/143?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-04-30",
+            "latestAction": {
+                "actionDate": "2014-12-22",
+                "text": "Placed on the Union Calendar, Calendar No. 530."
+            },
+            "number": "4534",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "Native American Children's Safety Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4534?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-03-25",
+            "latestAction": {
+                "actionDate": "2014-06-20",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "4293",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Natural Gas Gathering Enhancement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4293?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-01-09",
+            "latestAction": {
+                "actionDate": "2014-01-09",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "3834",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Flood Safe Basements Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3834?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-02-15",
+            "latestAction": {
+                "actionDate": "2013-12-26",
+                "text": "Became Public Law No: 113-69."
+            },
+            "number": "767",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To amend the Energy Policy Act of 2005 to modify the Pilot Project offices of the Federal Permit Streamlining Pilot Project.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/767?format=json"
+        },
+        {
+            "amendmentNumber": "171",
+            "congress": 116,
+            "introducedDate": "2019-02-11",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/116/samdt/171?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-06-20",
+            "latestAction": {
+                "actionDate": "2018-06-20",
+                "text": "Referred to the House Committee on Transportation and Infrastructure."
+            },
+            "number": "6159",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To require the Secretary of Transportation to conduct a study about the impact of electronic logging devices and report the findings to Congress.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/6159?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-06-19",
+            "latestAction": {
+                "actionDate": "2018-06-19",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "6150",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Promoting Rural Exports Act of 2018",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/6150?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-06-12",
+            "latestAction": {
+                "actionDate": "2018-06-12",
+                "text": "Referred to the Committee on Agriculture, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "6073",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "RURAL Broadband Act of 2018",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/6073?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-06-07",
+            "latestAction": {
+                "actionDate": "2018-08-14",
+                "text": "Placed on the Union Calendar, Calendar No. 697."
+            },
+            "number": "6039",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To establish a procedure for the conveyance of certain Federal property around the Jamestown Reservoir in the State of North Dakota, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/6039?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-06-07",
+            "latestAction": {
+                "actionDate": "2018-08-14",
+                "text": "Placed on the Union Calendar, Calendar No. 696."
+            },
+            "number": "6038",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To establish a procedure for the conveyance of certain Federal property around the Dickinson Reservoir in the State of North Dakota.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/6038?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-05-07",
+            "latestAction": {
+                "actionDate": "2018-05-08",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "5689",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To direct the Secretary of Defense to provide for the inclusion of the names of the crew members of the USS Frank E. Evans killed on June 3, 1969 on the Vietnam Veterans Memorial.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/5689?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-03-05",
+            "latestAction": {
+                "actionDate": "2018-03-05",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5159",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Clean Coal Jobs Act of 2018",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/5159?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-01-19",
+            "latestAction": {
+                "actionDate": "2018-01-19",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4857",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "CO2 Regulatory Certainty Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4857?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-01-18",
+            "latestAction": {
+                "actionDate": "2018-01-19",
+                "text": "Referred to the Subcommittee on Communications and Technology."
+            },
+            "number": "4832",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "RESTORED Act of 2018",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4832?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-01-16",
+            "latestAction": {
+                "actionDate": "2018-01-16",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4799",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To require the Secretary of the Treasury to determine improvements in the filing process for the excise tax on the use of heavy highway motor vehicles.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4799?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-12-14",
+            "latestAction": {
+                "actionDate": "2018-01-24",
+                "text": "Referred to the Subcommittee on General Farm Commodities and Risk Management."
+            },
+            "number": "4654",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "To amend the Agricultural Act of 2014 to require the Secretary of Agriculture to use certain data in determining an actual or benchmark county yield, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4654?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-10-05",
+            "latestAction": {
+                "actionDate": "2017-10-06",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3976",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Access to Marketplace Insurance Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/3976?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-06-15",
+            "latestAction": {
+                "actionDate": "2017-11-01",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+            },
+            "number": "2921",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "National Forest System Vegetation Management Pilot Program Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/2921?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-04-27",
+            "latestAction": {
+                "actionDate": "2017-09-25",
+                "text": "Placed on the Union Calendar, Calendar No. 232."
+            },
+            "number": "2199",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Federal Land Asset Inventory Reform Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/2199?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-04-26",
+            "latestAction": {
+                "actionDate": "2018-03-27",
+                "text": "Became Public Law No: 115-157."
+            },
+            "number": "2154",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "An act to rename the Red River Valley Agricultural Research Center in Fargo, North Dakota, as the Edward T. Schafer Agricultural Research Center",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/2154?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-01-06",
+            "latestAction": {
+                "actionDate": "2015-01-12",
+                "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 3."
+            },
+            "number": "3",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Keystone XL Pipeline Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-04-06",
+            "latestAction": {
+                "actionDate": "2017-04-06",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2010",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "CO2 Regulatory Certainty Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/2010?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-03-02",
+            "latestAction": {
+                "actionDate": "2017-03-03",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "1336",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XIX of the Social Security Act to provide States with flexibility in providing choice of coverage through managed care under Medicaid.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/1336?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-03-02",
+            "latestAction": {
+                "actionDate": "2017-03-02",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1337",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Legacy IRA Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/1337?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-02-16",
+            "latestAction": {
+                "actionDate": "2017-02-17",
+                "text": "Referred to the Subcommittee on Communications and Technology."
+            },
+            "number": "1139",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "PSC Oversight Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/1139?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-02-07",
+            "latestAction": {
+                "actionDate": "2017-02-07",
+                "text": "Referred to the House Committee on Natural Resources."
+            },
+            "number": "68",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Providing for congressional disapproval under chapter 8 of title 5 of the United States Code of a rule submitted by the Bureau of Land Management relating to standards for measurement and reporting of gas removed or sold from Federal and Indian lands and areas subject to communitization agreements.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/115/hjres/68?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-01-30",
+            "latestAction": {
+                "actionDate": "2017-01-31",
+                "text": "Referred to the Subcommittee on Highways and Transit."
+            },
+            "number": "738",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To amend title 23, United States Code, with respect to vehicle weight limitations in North Dakota, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/738?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-01-30",
+            "latestAction": {
+                "actionDate": "2017-01-30",
+                "text": "Referred to the House Committee on Natural Resources."
+            },
+            "number": "45",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Disapproving the rule submitted by the United States Fish and Wildlife Service of the Department of the Interior relating to management of non-Federal oil and gas rights.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/115/hjres/45?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-01-13",
+            "latestAction": {
+                "actionDate": "2017-01-13",
+                "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "545",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "United States Commission on the Organization of Petroleum Exporting Countries Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/545?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-01-12",
+            "latestAction": {
+                "actionDate": "2017-01-12",
+                "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "498",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Cuba DATA Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/498?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-01-03",
+            "latestAction": {
+                "actionDate": "2017-01-25",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "10",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Recognizing linemen, the profession of linemen, the contributions of these brave men and women who protect public safety, and expressing support for the designation of April 18, 2017, as National Lineman Appreciation Day.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/115/hres/10?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-09-28",
+            "latestAction": {
+                "actionDate": "2016-09-28",
+                "text": "Referred to the House Committee on Transportation and Infrastructure."
+            },
+            "number": "6235",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to transfer certain land from the Secretary of the Army, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/6235?format=json"
+        },
+        {
+            "amendmentNumber": "1322",
+            "congress": 114,
+            "introducedDate": "2016-07-12",
+            "latestAction": {
+                "actionDate": "2016-07-12",
+                "actionTime": "23:58:59",
+                "text": "On agreeing to the Cramer amendment (A043) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/114/hamdt/1322?format=json"
+        },
+        {
+            "amendmentNumber": "862",
+            "congress": 114,
+            "introducedDate": "2015-12-02",
+            "latestAction": {
+                "actionDate": "2015-12-03",
+                "actionTime": "10:58:47",
+                "text": "On agreeing to the Cramer amendment (A024) Agreed to by recorded vote: 252 - 170 (Roll no. 668). (consideration: CR H8983-8984)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/114/hamdt/862?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-11-19",
+            "latestAction": {
+                "actionDate": "2015-12-03",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4103",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "CAHV Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/4103?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-10-09",
+            "latestAction": {
+                "actionDate": "2015-10-16",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3742",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Access to Marketplace Insurance Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3742?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-10-09",
+            "latestAction": {
+                "actionDate": "2015-10-09",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "3743",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "SERVER Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3743?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-07-14",
+            "latestAction": {
+                "actionDate": "2015-07-17",
+                "text": "Referred to the Subcommittee on Communications and Technology."
+            },
+            "number": "3055",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Cuba DATA Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3055?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-05-14",
+            "latestAction": {
+                "actionDate": "2015-05-15",
+                "text": "Referred to the Subcommittee on Environment and the Economy."
+            },
+            "number": "2328",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Lead Exposure Reduction Amendments Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/2328?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-03-25",
+            "latestAction": {
+                "actionDate": "2015-04-08",
+                "text": "Referred to the Subcommittee on Water, Power and Oceans."
+            },
+            "number": "1616",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Natural Gas Gathering Enhancement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/1616?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-02-27",
+            "latestAction": {
+                "actionDate": "2015-06-02",
+                "text": "Received in the Senate."
+            },
+            "number": "1168",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "Native American Children's Safety Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/1168?format=json"
+        }
+    ]
+}

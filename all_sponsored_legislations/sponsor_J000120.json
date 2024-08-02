@@ -1,0 +1,39 @@
+{
+    "pagination": {
+        "count": 2
+    },
+    "request": {
+        "bioguideId": "j000120",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "594",
+            "congress": 103,
+            "introducedDate": "1994-05-26",
+            "latestAction": {
+                "actionDate": "1994-05-26",
+                "actionTime": "14:42:27",
+                "text": "On agreeing to the Johnson (GA) amendment (A005) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/594?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-08-06",
+            "latestAction": {
+                "actionDate": "1994-10-05",
+                "text": "For Further Action See H.R.5044."
+            },
+            "number": "2949",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To establish the Augusta Canal National Heritage Corridor in the State of Georgia, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2949?format=json"
+        }
+    ]
+}

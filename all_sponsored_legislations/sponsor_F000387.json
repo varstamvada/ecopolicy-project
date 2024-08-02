@@ -1,0 +1,87 @@
+{
+    "pagination": {
+        "count": 5
+    },
+    "request": {
+        "bioguideId": "f000387",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 104,
+            "introducedDate": "1996-07-23",
+            "latestAction": {
+                "actionDate": "1996-07-31",
+                "text": "Received in the Senate and read twice and referred to the Committee on Labor and Human Resources."
+            },
+            "number": "3867",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Developmental Disabilities Assistance and Bill of Rights Act Amendments of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3867?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-05-01",
+            "latestAction": {
+                "actionDate": "1996-05-17",
+                "text": "Referred to the Subcommittee on Crime."
+            },
+            "number": "3382",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Safe Streets Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3382?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-11-09",
+            "latestAction": {
+                "actionDate": "1995-12-11",
+                "text": "Referred to the Subcommittee on the Constitution."
+            },
+            "number": "2603",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To restore the traditional observance of Memorial Day.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2603?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-07-20",
+            "latestAction": {
+                "actionDate": "1995-07-28",
+                "text": "Referred to the Subcommittee on Crime."
+            },
+            "number": "2079",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To provide amnesty from criminal and civil tax penalties for individuals who, within the 6-month amnesty period, notify the Internal Revenue Service of previous nonpayments or underpayments of Federal income tax and pay such underpayments in full.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2079?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-05-10",
+            "latestAction": {
+                "actionDate": "1996-05-23",
+                "text": "Referred to the Subcommittee on Telecommunications and Finance."
+            },
+            "number": "175",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Telephone Number Ownership Act of 1996",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/104/hconres/175?format=json"
+        }
+    ]
+}

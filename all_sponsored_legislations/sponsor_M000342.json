@@ -1,0 +1,939 @@
+{
+    "pagination": {
+        "count": 63
+    },
+    "request": {
+        "bioguideId": "m000342",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "167",
+            "congress": 98,
+            "introducedDate": "1983-06-14",
+            "latestAction": {
+                "actionDate": "1983-06-14",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 171 - 252 (Record Vote No: 189). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/167?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-08-09",
+            "latestAction": {
+                "actionDate": "1984-08-17",
+                "text": "Referred to Subcommittee on Administrative Law and Governmental Relations."
+            },
+            "number": "6119",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to recognize the organization known as the 82nd Airborne Division Association, Incorporated.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/6119?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-09-20",
+            "latestAction": {
+                "actionDate": "1983-09-30",
+                "text": "Referred to Subcommittee on International Trade, Investment and Monetary Policy."
+            },
+            "number": "3936",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A bill to prohibit new loans to be made to Communist countries, and to provide for the purchase by the United States of outstanding loans to such countries.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/3936?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-02-25",
+            "latestAction": {
+                "actionDate": "1983-02-25",
+                "text": "Referred to House Committee on The Judiciary."
+            },
+            "number": "1698",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Dr. Honesto K. Fenol, Rosabella Montes-Fenol, and Lawrence Mark Fenol.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/1698?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-09-12",
+            "latestAction": {
+                "actionDate": "1986-09-12",
+                "text": "Referred to Subcommittee on Consumer Affairs and Coinage."
+            },
+            "number": "5510",
+            "policyArea": {
+                "name": "Arts, Culture, Religion"
+            },
+            "title": "A bill to award a congressional gold medal to Red Skelton.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5510?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-06-26",
+            "latestAction": {
+                "actionDate": "1986-07-14",
+                "text": "Referred to Subcommittee on Commerce, Transportation and Tourism."
+            },
+            "number": "5141",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "A bill to amend the Toxic Substances Control Act to establish certain requirements regarding the disposal of polychlorinated biphenyls, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5141?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-06-19",
+            "latestAction": {
+                "actionDate": "1986-06-30",
+                "text": "Referred to Subcommittee on Investigations."
+            },
+            "number": "5066",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend title 10, United States Code, to establish certain requirements with respect to contracts with defense firms in which certain foreign governments own or control a significant interest, and to prohibit the award of engineer equipment acquisition contracts to firms in which the Libyan Government owns or controls an interest.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5066?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-05-07",
+            "latestAction": {
+                "actionDate": "1986-05-13",
+                "text": "Referred to Subcommittee on Legislation and National Security."
+            },
+            "number": "4772",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to require the preparation of domestic industry impact statements before Federal assistance is furnished that would result in the production abroad of manufactured goods, minerals, or services.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/4772?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-05-07",
+            "latestAction": {
+                "actionDate": "1986-05-07",
+                "text": "Referred to House Committee on Armed Services."
+            },
+            "number": "4773",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to prohibit the awarding of a defense contract for the purchase of crawler tractors to any firm in which the Libyan Government or Libyan nationals own or control an interest of more than 10 percent (or to any subsidiary of such a firm).",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/4773?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-11-21",
+            "latestAction": {
+                "actionDate": "1985-12-06",
+                "text": "Referred to Subcommittee on Commerce, Transportation and Tourism."
+            },
+            "number": "3816",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "A bill to amend the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 to require the States to conduct inventories of solid waste disposal sites containing hazardous substances.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3816?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-10-31",
+            "latestAction": {
+                "actionDate": "1985-11-06",
+                "text": "Referred to Subcommittee on Military Personnel and Compensation."
+            },
+            "number": "3666",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to require the Secretary of Defense to assign a senior medical officer of the Armed Forces as the chief medical officer of the United States European Command.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3666?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-04-10",
+            "latestAction": {
+                "actionDate": "1986-05-14",
+                "text": "Received in the Senate and referred to the Committee on Armed Services."
+            },
+            "number": "315",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A concurrent resolution to express the sense of Congress that the Secretary of Defense should defer the final award of a contract with respect to Defense Construction Supply Center Solicitation numbered DLA700-85-B-4-4607 (for the purchase of 178 crawler tractors) until Congress completes consideration of the Department of Defense Authorization Act, 1987.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/99/hconres/315?format=json"
+        },
+        {
+            "amendmentNumber": "118",
+            "congress": 100,
+            "introducedDate": "1987-05-12",
+            "latestAction": {
+                "actionDate": "1987-05-12",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 203 - 216 (Record Vote No: 112). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/118?format=json"
+        },
+        {
+            "amendmentNumber": "105",
+            "congress": 100,
+            "introducedDate": "1987-05-11",
+            "latestAction": {
+                "actionDate": "1987-05-11",
+                "text": "Amendment Withdrawn in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/105?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-09-26",
+            "latestAction": {
+                "actionDate": "1988-09-26",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "5386",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend title 5, of the United States Code to except certain marine traffic controllers employed by the Panama Canal Commission from the limitation on the rate at which overtime compensation may be paid.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/5386?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-09-13",
+            "latestAction": {
+                "actionDate": "1988-11-03",
+                "text": "Referred to Subcommittee on Energy and the Environment."
+            },
+            "number": "5282",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Interim Abandoned Mines Reclamation Act of 1988",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/5282?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-04-28",
+            "latestAction": {
+                "actionDate": "1988-09-07",
+                "text": "Received in the Senate and read twice and referred to the Committee on Governmental Affairs."
+            },
+            "number": "4478",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Deceptive Mailings Prevention Act of 1988",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4478?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-03-31",
+            "latestAction": {
+                "actionDate": "1988-05-24",
+                "text": "Executive Comment Requested from Interior."
+            },
+            "number": "4344",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to direct the Secretary of the Interior to accept the donation of the tract of land known as Fort Knox II and to add such tract to the George Rogers Clark National Historical Park.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4344?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-06-15",
+            "latestAction": {
+                "actionDate": "1987-06-29",
+                "text": "Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials."
+            },
+            "number": "2685",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "A bill to amend the Toxic Substances Control Act to establish certain requirements regarding the disposal of polychlorinated biphenyls, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2685?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-03-25",
+            "latestAction": {
+                "actionDate": "1987-03-31",
+                "text": "Referred to Subcommittee on Administrative Law and Governmental Relations."
+            },
+            "number": "1782",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to recognize the organization known as the 82nd Airborne Division Association, Incorporated.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/1782?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-04-30",
+            "latestAction": {
+                "actionDate": "1987-05-11",
+                "text": "Referred to Subcommittee on Asian and Pacific Affairs."
+            },
+            "number": "114",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution urging the President to implement a new policy with respect to the countries of Indochina in order to resolve the issue of American prisoners of war and Americans missing in action.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/100/hconres/114?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-09-13",
+            "latestAction": {
+                "actionDate": "1990-09-18",
+                "text": "Received in the Senate and read twice and referred to the Committee on Governmental Affairs."
+            },
+            "number": "5611",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend title 39, United States Code, to allow free mailing privileges to be extended to members of the Armed Forces while engaged in temporary military operations under arduous circumstances.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5611?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-09-10",
+            "latestAction": {
+                "actionDate": "1990-09-12",
+                "text": "Referred to the Subcommittee on Postal Personnel and Modernization."
+            },
+            "number": "5563",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend title 39, United States Code, to allow free mailing privileges to be extended to members of the Armed Forces while engaged in temporary military operations under arduous circumstances.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5563?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-07-20",
+            "latestAction": {
+                "actionDate": "1990-07-26",
+                "text": "Referred to the Subcommittee on Investigations."
+            },
+            "number": "5335",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Defense Budgeting and Full-Cost Disclosure Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5335?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-06-28",
+            "latestAction": {
+                "actionDate": "1990-10-31",
+                "text": "Became Public Law No: 101-493."
+            },
+            "number": "5209",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Drug and Household Substance Mailing Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5209?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-03-01",
+            "latestAction": {
+                "actionDate": "1990-04-26",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "4159",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend title 39, United States Code, to provide clarification relating to the factors which are to be considered by the Postal Rate Commission whenever it receives a request from the Postal Service to change postal rates or fees, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4159?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-03-01",
+            "latestAction": {
+                "actionDate": "1990-04-04",
+                "text": "Referred to the Subcommittee on Labor Standards."
+            },
+            "number": "4160",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Black Lung Benefits Equity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4160?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-11-21",
+            "latestAction": {
+                "actionDate": "1990-06-21",
+                "text": "Subcommittee on Postal Personnel and Modernization Discharged."
+            },
+            "number": "3805",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Unsolicited Sexually Oriented Advertisements Prevention Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3805?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-11-21",
+            "latestAction": {
+                "actionDate": "1989-11-21",
+                "text": "Referred to the Subcommittee on Department Operations, Research, and Foreign Agriculture."
+            },
+            "number": "3806",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Competitive Agricultural Research Grant Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3806?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-05-11",
+            "latestAction": {
+                "actionDate": "1990-11-06",
+                "text": "Became Public Law No: 101-524."
+            },
+            "number": "2331",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Deceptive Mailings Prevention Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2331?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-01-19",
+            "latestAction": {
+                "actionDate": "1989-10-23",
+                "text": "See H.R.2095."
+            },
+            "number": "538",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Interim Abandoned Mines Reclamation Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/538?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-01-03",
+            "latestAction": {
+                "actionDate": "1989-03-27",
+                "text": "Referred to the Subcommittee on Administrative Law and Governmental Relations."
+            },
+            "number": "82",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To recognize the organization known as the 82nd Airborne Division Association, Incorporated.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/82?format=json"
+        },
+        {
+            "amendmentNumber": "25",
+            "congress": 102,
+            "introducedDate": "1991-03-13",
+            "latestAction": {
+                "actionDate": "1991-03-13",
+                "actionTime": "16:43:32",
+                "text": "On agreeing to the McCloskey amendment (A007) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/25?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-07-09",
+            "latestAction": {
+                "actionDate": "1992-10-23",
+                "text": "Became Public Law No: 102-452."
+            },
+            "number": "5602",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Granting the consent of the Congress to the Interstate Rail Passenger Network Compact.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5602?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-02-04",
+            "latestAction": {
+                "actionDate": "1992-02-12",
+                "text": "Executive Comment Requested from OMB, OPM."
+            },
+            "number": "4159",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Temporary Employees Benefits Equity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4159?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-10-29",
+            "latestAction": {
+                "actionDate": "1991-12-04",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "3649",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Comprehensive Qualified Medicare Beneficiary Reform and Implementation Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3649?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-10-10",
+            "latestAction": {
+                "actionDate": "1991-10-18",
+                "text": "Referred to the Subcommittee on Transportation and Hazardous Materials."
+            },
+            "number": "3547",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To amend the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 to prohibit the use of solid waste as fuel for any incinerator being used for the destruction of polychlorinated biphenyls or other hazardous substances and to require the Environmental Protection Agency to review and research methods of disposal and storage of polychlorinated biphenyls.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3547?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-07-31",
+            "latestAction": {
+                "actionDate": "1991-09-09",
+                "text": "Referred to the Subcommittee on Commerce, Consumer Protection and Competitiveness."
+            },
+            "number": "3137",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend the McCarran-Ferguson Act and the Employee Retirement Income Security Act of 1974 to assure that the medicaid program is treated as payer of last resort.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3137?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-07-10",
+            "latestAction": {
+                "actionDate": "1991-07-26",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "2855",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XVIII of the Social Security Act to direct the Secretary of Health and Human Services to determine whether individuals entitled to benefits under the medicare program meet the requirements for status as qualified medicare beneficiaries under the medicaid program, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2855?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-03-06",
+            "latestAction": {
+                "actionDate": "1991-03-21",
+                "text": "Referred to the Subcommittee on Postsecondary Education."
+            },
+            "number": "1302",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Desert Shield and Desert Storm Military Personnel Student Financial Aid Fairness Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1302?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-02-04",
+            "latestAction": {
+                "actionDate": "1991-02-07",
+                "text": "Referred to the Subcommittee on Military Personnel and Compensation."
+            },
+            "number": "789",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 10, United States Code, to require the Armed Forces to provide not less than 10 minutes of free telephone calls a month for a member of the Armed Forces serving in a combat zone.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/789?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-01-03",
+            "latestAction": {
+                "actionDate": "1991-07-24",
+                "text": "Unfavorable Executive Comment Received from Labor."
+            },
+            "number": "451",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Black Lung Benefits Equity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/451?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-05-14",
+            "latestAction": {
+                "actionDate": "1991-05-16",
+                "text": "Referred to the Subcommittee on Census and Population."
+            },
+            "number": "253",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Designating the week beginning on October 6, 1991, as \"American Magazine Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/102/hjres/253?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-07-02",
+            "latestAction": {
+                "actionDate": "1992-07-10",
+                "text": "Referred to the Subcommittee on Legislation and National Security."
+            },
+            "number": "345",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Concerning declassification and release of information relating to United States military personnel held involuntarily in Indochina.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/102/hconres/345?format=json"
+        },
+        {
+            "amendmentNumber": "611",
+            "congress": 103,
+            "introducedDate": "1994-06-09",
+            "latestAction": {
+                "actionDate": "1994-06-09",
+                "actionTime": "13:02:29",
+                "text": "On agreeing to the McCloskey amendment (A025) Agreed to by recorded vote: 244 - 178 (Roll no. 222). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/611?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-09-23",
+            "latestAction": {
+                "actionDate": "1994-09-27",
+                "text": "Referred to the Subcommittee on Civil Service."
+            },
+            "number": "5090",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Temporary Employee Placement Assistance Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/5090?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-09-26",
+            "latestAction": {
+                "actionDate": "1994-10-08",
+                "text": "Read twice and referred to the Committee on Governmental Affairs."
+            },
+            "number": "5103",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "To amend title 31, United States Code, to provide for an Executive Director of the General Accounting Office Personnel Appeals Board, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/5103?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-05-03",
+            "latestAction": {
+                "actionDate": "1994-05-17",
+                "text": "Referred to the Subcommittee on International Security, International Organizations and Human Rights."
+            },
+            "number": "4332",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To set forth the policy of the United States for nuclear nonproliferation.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4332?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-03-24",
+            "latestAction": {
+                "actionDate": "1994-08-11",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "4145",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "To require the Attorney General and the Secretary of State to designate Ireland as a pilot program country for purposes of the visa waiver pilot program.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4145?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-03-08",
+            "latestAction": {
+                "actionDate": "1994-03-24",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3975",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Department of Defense Overseas Educators Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3975?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-11-04",
+            "latestAction": {
+                "actionDate": "1993-11-09",
+                "text": "Referred to the Subcommittee on Compensation and Employee Benefits."
+            },
+            "number": "3452",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To provide that service performed in or under any of certain nonappropriated fund instrumentalities of the Government be creditable for purposes of the Federal Employees' Retirement System.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3452?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-11-10",
+            "latestAction": {
+                "actionDate": "1994-10-31",
+                "text": "Became Public Law No: 103-425."
+            },
+            "number": "3499",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend the Defense Department Overseas Teachers Pay and Personnel Practices Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3499?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-08-06",
+            "latestAction": {
+                "actionDate": "1993-08-06",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2971",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To permit the recovery of certain overpayments of tax on disability payments received on severance from the military.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2971?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-08-06",
+            "latestAction": {
+                "actionDate": "1994-10-29",
+                "text": "Became Public Law No: 103-424."
+            },
+            "number": "2970",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "An Act to authorize appropriations for the United States Office of Special Counsel, the Merit Systems Protection Board, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2970?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-07-15",
+            "latestAction": {
+                "actionDate": "1994-07-19",
+                "text": "Sponsor introductory remarks on measure. (CR H5778)"
+            },
+            "number": "2648",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "James Hudson Temporary Employee Equity Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2648?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-20",
+            "latestAction": {
+                "actionDate": "1993-04-30",
+                "text": "Referred to the Subcommittee on Transportation and Hazardous Materials."
+            },
+            "number": "1740",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To amend the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 to prohibit the use of solid waste as fuel for any incinerator being used for the destruction of polychlorinated biphenyls or other hazardous substances and to require the Environmental Protection Agency to review and research methods of disposal and storage of polychlorinated biphenyls.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1740?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-09",
+            "latestAction": {
+                "actionDate": "1993-03-29",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "1263",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XVIII of the Social Security Act to direct the Secretary of Health and Human Services to determine whether individuals entitled to benefits under the medicare program meet the requirements for status as qualified medicare beneficiaries under the medicaid program, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1263?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-01-26",
+            "latestAction": {
+                "actionDate": "1993-05-13",
+                "text": "Ordered to be Reported."
+            },
+            "number": "576",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend title 39, United States Code, to provide the authority to extend to essential civilian personnel serving in support of military operations abroad, the same mailing privileges as are available to members of the Armed Forces serving in the same area.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/576?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-01-05",
+            "latestAction": {
+                "actionDate": "1993-02-02",
+                "text": "Referred to the Subcommittee on Labor Standards, Occupational Health and Safety."
+            },
+            "number": "266",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Black Lung Benefits Equity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/266?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-11-03",
+            "latestAction": {
+                "actionDate": "1993-11-03",
+                "text": "Referred to the House Committee on Post Office and Civil Service."
+            },
+            "number": "286",
+            "policyArea": {
+                "name": "Arts, Culture, Religion"
+            },
+            "title": "Designating June 7, 1994, through June 14, 1994, as \"National Flag Celebration Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/286?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-20",
+            "latestAction": {
+                "actionDate": "1993-04-20",
+                "text": "Referred to the House Committee on Post Office and Civil Service."
+            },
+            "number": "179",
+            "policyArea": {
+                "name": "Arts, Culture, Religion"
+            },
+            "title": "Designating June 7, 1993, through June 14, 1993, as \"National Flag Celebration Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/179?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-16",
+            "latestAction": {
+                "actionDate": "1993-03-16",
+                "text": "Referred to the House Committee on Post Office and Civil Service."
+            },
+            "number": "154",
+            "policyArea": {
+                "name": "Arts, Culture, Religion"
+            },
+            "title": "To designate the week of June 7, 1993, through June 14, 1993, as \"National Flag Celebration Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/154?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-11-22",
+            "latestAction": {
+                "actionDate": "1993-11-23",
+                "text": "Received in the Senate and referred to the Committee on Foreign Relations."
+            },
+            "number": "189",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of the Congress that every effort should be made to avert a humanitarian disaster in Bosnia-Herzegovina and the other former Yugoslav republics during the winter of 1993-1994.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/103/hconres/189?format=json"
+        }
+    ]
+}

@@ -1,0 +1,1763 @@
+{
+    "pagination": {
+        "count": 120
+    },
+    "request": {
+        "bioguideId": "r000580",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "1058",
+            "congress": 113,
+            "introducedDate": "2014-07-14",
+            "latestAction": {
+                "actionDate": "2014-07-15",
+                "actionTime": "14:58:13",
+                "text": "On agreeing to the Roskam amendment (A007) Agreed to by recorded vote: 338 - 80 (Roll no. 410). (consideration: CR H6243-6244)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/1058?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-03-11",
+            "latestAction": {
+                "actionDate": "2014-03-14",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4187",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "DISARM Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4187?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-03-06",
+            "latestAction": {
+                "actionDate": "2014-06-13",
+                "text": "Referred to the Subcommittee on Health, Employment, Labor, and Pensions."
+            },
+            "number": "4158",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "SIGMA Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4158?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-02-06",
+            "latestAction": {
+                "actionDate": "2014-02-06",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "4009",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Protect Academic Freedom Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4009?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-07-22",
+            "latestAction": {
+                "actionDate": "2013-08-01",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Finance."
+            },
+            "number": "2768",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Taxpayer Bill of Rights Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2768?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-07-22",
+            "latestAction": {
+                "actionDate": "2013-08-01",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Finance."
+            },
+            "number": "2769",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Stop Playing on Citizens' Cash Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2769?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-07-17",
+            "latestAction": {
+                "actionDate": "2013-07-17",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "2717",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "United States-Israel Missile Defense Cooperation Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2717?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-07-16",
+            "latestAction": {
+                "actionDate": "2013-07-16",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "2701",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "United States-Israel Missile Defense Cooperation Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2701?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-06-27",
+            "latestAction": {
+                "actionDate": "2013-06-27",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2533",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Stop Playing on Citizen's Cash Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2533?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-06-27",
+            "latestAction": {
+                "actionDate": "2013-06-27",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2532",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "IRS Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2532?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-06-27",
+            "latestAction": {
+                "actionDate": "2014-02-27",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2531",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Protecting Taxpayers from Intrusive IRS Requests Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2531?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-06-27",
+            "latestAction": {
+                "actionDate": "2014-02-27",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2530",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Taxpayer Transparency and Efficient Audit Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2530?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-06-10",
+            "latestAction": {
+                "actionDate": "2013-06-25",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2305",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "PRIME Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2305?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-05-22",
+            "latestAction": {
+                "actionDate": "2013-06-03",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2085",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Diagnostic Innovation Testing and Knowledge Advancement Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2085?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-04-26",
+            "latestAction": {
+                "actionDate": "2013-06-14",
+                "text": "Referred to the Subcommittee on Immigration and Border Security."
+            },
+            "number": "1812",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Partner with Korea Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/1812?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-02-05",
+            "latestAction": {
+                "actionDate": "2013-02-05",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "495",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Free File Program Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/495?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-12-12",
+            "latestAction": {
+                "actionDate": "2014-01-10",
+                "text": "Referred to the Subcommittee on Terrorism, Nonproliferation, and Trade."
+            },
+            "number": "445",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Urging the P5+1 to only accept a final nuclear agreement with Iran that definitively prevents Iran from acquiring a nuclear weapons capability, ceases Iran's construction of advanced missiles and warheads, suspends Iran's support for terrorist organizations, and reduces human rights violations within Iran.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/445?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-06-27",
+            "latestAction": {
+                "actionDate": "2013-06-27",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "280",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Taxpayer Bill of Rights Resolution",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/280?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-04-23",
+            "latestAction": {
+                "actionDate": "2013-05-06",
+                "text": "Referred to the Subcommittee on Middle East and North Africa."
+            },
+            "number": "177",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Urging the Palestinian Authority and President Mahmoud Abbas to clarify a presidential succession plan, expand political freedom in the West Bank, and take preventative measures to limit the possibility of a Hamas takeover in the West Bank.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/177?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-09-20",
+            "latestAction": {
+                "actionDate": "2012-09-26",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "6446",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Improving Diagnostic Innovations Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6446?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-11-10",
+            "latestAction": {
+                "actionDate": "2011-11-21",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "3399",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare and Medicaid FAST Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3399?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-10-04",
+            "latestAction": {
+                "actionDate": "2011-10-04",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3091",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To make permanent the individual income tax rates for capital gains and dividends.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3091?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-07-15",
+            "latestAction": {
+                "actionDate": "2011-07-15",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2569",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Free File Program Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2569?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-07-08",
+            "latestAction": {
+                "actionDate": "2011-07-08",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2478",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to exclude from gross income amounts received for services by a student at a work-college.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2478?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-06-03",
+            "latestAction": {
+                "actionDate": "2012-10-05",
+                "text": "Became Public Law No: 112-181."
+            },
+            "number": "2139",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Lions Clubs International Century of Service Commemorative Coin Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2139?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-08-28",
+            "latestAction": {
+                "actionDate": "2018-09-17",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Finance."
+            },
+            "number": "6690",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Fighting Fraud to Protect Care for Seniors Act of 2018",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/6690?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-07-06",
+            "latestAction": {
+                "actionDate": "2018-07-26",
+                "text": "Received in the Senate."
+            },
+            "number": "6311",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Increasing Access to Lower Premium Plans and Expanding Health Savings Accounts Act of 2018",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/6311?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-06-29",
+            "latestAction": {
+                "actionDate": "2018-07-19",
+                "text": "Placed on the Union Calendar, Calendar No. 654."
+            },
+            "number": "6301",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Promoting High-Value Health Care Through Flexibility for High Deductible Health Plans Act of 2018",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/6301?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-06-20",
+            "latestAction": {
+                "actionDate": "2018-12-21",
+                "text": "Became Public Law No: 115-365."
+            },
+            "number": "6167",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "An act to designate the facility of the United States Postal Service located at 5707 South Cass Avenue in Westmont, Illinois, as the \"James William Robinson Jr. Memorial Post Office Building\"",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/6167?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-05-23",
+            "latestAction": {
+                "actionDate": "2018-10-19",
+                "text": "Referred to the Subcommittee on Higher Education and Workforce Development."
+            },
+            "number": "5924",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Anti-Semitism Awareness Act of 2018",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/5924?format=json"
+        },
+        {
+            "amendmentNumber": "630",
+            "congress": 115,
+            "introducedDate": "2018-05-18",
+            "latestAction": {
+                "actionDate": "2018-05-18",
+                "actionTime": "11:30:38",
+                "text": "On agreeing to the Roskam amendment (A045) Agreed to by recorded vote: 359 - 51 (Roll no. 202). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/115/hamdt/630?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-05-11",
+            "latestAction": {
+                "actionDate": "2018-06-20",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Finance."
+            },
+            "number": "5773",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Preventing Addiction for Susceptible Seniors Act of 2018",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/5773?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-05-09",
+            "latestAction": {
+                "actionDate": "2018-05-23",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "5725",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "BEST Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/5725?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-05-09",
+            "latestAction": {
+                "actionDate": "2018-06-12",
+                "text": "Placed on the Union Calendar, Calendar No. 574."
+            },
+            "number": "5716",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "COMPASS Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/5716?format=json"
+        },
+        {
+            "amendmentNumber": "548",
+            "congress": 115,
+            "introducedDate": "2018-04-26",
+            "latestAction": {
+                "actionDate": "2018-04-26",
+                "actionTime": "14:04:25",
+                "text": "On agreeing to the Roskam amendment (A003) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/115/hamdt/548?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-02-02",
+            "latestAction": {
+                "actionDate": "2018-02-02",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4916",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Preventing IRS Abuse and Protecting Free Speech Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4916?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-01-18",
+            "latestAction": {
+                "actionDate": "2018-01-23",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "4821",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Iran Freedom Policy and Sanctions Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4821?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-12-05",
+            "latestAction": {
+                "actionDate": "2017-12-08",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4554",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare Common Access Card Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4554?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-11-01",
+            "latestAction": {
+                "actionDate": "2017-11-16",
+                "text": "Referred to the Subcommittee on Livestock and Foreign Agriculture."
+            },
+            "number": "4202",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "PACE Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4202?format=json"
+        },
+        {
+            "amendmentNumber": "431",
+            "congress": 115,
+            "introducedDate": "2017-09-13",
+            "latestAction": {
+                "actionDate": "2017-09-13",
+                "actionTime": "14:34:02",
+                "text": "On agreeing to the Roskam amendment (A159) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/115/hamdt/431?format=json"
+        },
+        {
+            "amendmentNumber": "430",
+            "congress": 115,
+            "introducedDate": "2017-09-13",
+            "latestAction": {
+                "actionDate": "2017-09-13",
+                "actionTime": "14:27:19",
+                "text": "On agreeing to the Roskam amendment (A158) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/115/hamdt/430?format=json"
+        },
+        {
+            "amendmentNumber": "392",
+            "congress": 115,
+            "introducedDate": "2017-09-12",
+            "latestAction": {
+                "actionDate": "2017-09-12",
+                "actionTime": "16:40:30",
+                "text": "On agreeing to the Roskam amendment (A120) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/115/hamdt/392?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-08-04",
+            "latestAction": {
+                "actionDate": "2017-08-04",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3641",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Free File Permanence Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/3641?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-05-03",
+            "latestAction": {
+                "actionDate": "2017-05-03",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2341",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "SERVE Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/2341?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-04-20",
+            "latestAction": {
+                "actionDate": "2017-05-01",
+                "text": "Referred to the Subcommittee on Immigration and Border Security."
+            },
+            "number": "2106",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Partner with Korea Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/2106?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-03-30",
+            "latestAction": {
+                "actionDate": "2017-09-06",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Finance."
+            },
+            "number": "1843",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Restraining Excessive Seizure of Property through the Exploitation of Civil Asset Forfeiture Tools Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/1843?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-03-23",
+            "latestAction": {
+                "actionDate": "2018-06-28",
+                "text": "Committee Agreed to Seek Consideration Under Suspension of the Rules, by Unanimous Consent."
+            },
+            "number": "1697",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Israel Anti-Boycott Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/1697?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-03-21",
+            "latestAction": {
+                "actionDate": "2017-03-21",
+                "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "1659",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Stop Taxing Death and Disability Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/1659?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-02-01",
+            "latestAction": {
+                "actionDate": "2017-02-06",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "808",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Iran Nonnuclear Sanctions Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/808?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-01-13",
+            "latestAction": {
+                "actionDate": "2017-01-13",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "566",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Terror-Free Skies Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/566?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-12-01",
+            "latestAction": {
+                "actionDate": "2016-12-22",
+                "text": "Referred to the Subcommittee on the Constitution and Civil Justice."
+            },
+            "number": "6421",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Anti-Semitism Awareness Act of 2016",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/6421?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-12-01",
+            "latestAction": {
+                "actionDate": "2016-12-01",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "6422",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Commuter Access Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/6422?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-11-14",
+            "latestAction": {
+                "actionDate": "2016-11-14",
+                "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "6298",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Protecting Israel Against Economic Discrimination Act of 2016",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/6298?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-07-11",
+            "latestAction": {
+                "actionDate": "2016-11-14",
+                "text": "Placed on the Union Calendar, Calendar No. 642."
+            },
+            "number": "5715",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "No Ex-Im Assistance for Terrorism Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5715?format=json"
+        },
+        {
+            "amendmentNumber": "1263",
+            "congress": 114,
+            "introducedDate": "2016-07-07",
+            "latestAction": {
+                "actionDate": "2016-07-07",
+                "actionTime": "18:54:26",
+                "text": "On agreeing to the Roskam amendment (A038) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/114/hamdt/1263?format=json"
+        },
+        {
+            "amendmentNumber": "1262",
+            "congress": 114,
+            "introducedDate": "2016-07-07",
+            "latestAction": {
+                "actionDate": "2016-07-07",
+                "actionTime": "18:43:55",
+                "text": "On agreeing to the Roskam amendment (A037) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/114/hamdt/1262?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-06-28",
+            "latestAction": {
+                "actionDate": "2016-07-07",
+                "text": "Hearings Held by the Subcommittee on Monetary Policy and Trade Prior to Referral."
+            },
+            "number": "5608",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "No Ex-Im Financing for Iran Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5608?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-06-21",
+            "latestAction": {
+                "actionDate": "2016-06-21",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5550",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "No Dollars for Ayatollahs Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5550?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-06-16",
+            "latestAction": {
+                "actionDate": "2016-09-26",
+                "text": "Received in the Senate."
+            },
+            "number": "5523",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Clyde-Hirsch-Sowers RESPECT Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5523?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-05-12",
+            "latestAction": {
+                "actionDate": "2016-12-08",
+                "text": "Placed on the Union Calendar, Calendar No. 674."
+            },
+            "number": "5204",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Stop Taxing Death and Disability Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5204?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-05-06",
+            "latestAction": {
+                "actionDate": "2016-05-06",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5171",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Legacy IRA Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5171?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-04-29",
+            "latestAction": {
+                "actionDate": "2016-04-29",
+                "text": "Referred to the Committee on Armed Services, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "5139",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "No Defense Contracts for Terror Profiteers Act of 2016",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5139?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-04-26",
+            "latestAction": {
+                "actionDate": "2016-06-15",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Finance."
+            },
+            "number": "5053",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Preventing IRS Abuse and Protecting Free Speech Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5053?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-04-19",
+            "latestAction": {
+                "actionDate": "2016-04-19",
+                "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "4995",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Preventing Iran's Access to United States Dollars Act of 2016",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/4995?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-04-14",
+            "latestAction": {
+                "actionDate": "2016-04-14",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4938",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Free File Act of 2016",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/4938?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-03-23",
+            "latestAction": {
+                "actionDate": "2016-03-30",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4853",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "SAFE Act of 2016",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/4853?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-12-15",
+            "latestAction": {
+                "actionDate": "2015-12-15",
+                "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "4258",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Quarantining the Ayatollah's State-Sponsored Aggression and Militancy (QASSAM) Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/4258?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-12-18",
+            "latestAction": {
+                "actionDate": "2016-04-20",
+                "text": "Placed on the Union Calendar, Calendar No. 392."
+            },
+            "number": "4294",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "SAVERS Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/4294?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-12-01",
+            "latestAction": {
+                "actionDate": "2015-12-02",
+                "text": "Sponsor introductory remarks on measure. (CR H8864-8865)"
+            },
+            "number": "100",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of the Congress regarding the right of States and local governments to maintain economic sanctions against Iran.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/114/hconres/100?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-10-08",
+            "latestAction": {
+                "actionDate": "2015-10-09",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3718",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Preventing and Reducing Improper Medicare and Medicaid Expenditures to Restore Integrity to Benefits Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3718?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-02-25",
+            "latestAction": {
+                "actionDate": "2015-04-16",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Finance."
+            },
+            "number": "1058",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Taxpayer Bill of Rights Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/1058?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-02-25",
+            "latestAction": {
+                "actionDate": "2015-02-25",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1059",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Protecting Taxpayers from Intrusive IRS Requests Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/1059?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-02-20",
+            "latestAction": {
+                "actionDate": "2015-03-31",
+                "text": "Referred to the Subcommittee on Immigration and Border Security."
+            },
+            "number": "1019",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Partner with Korea Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/1019?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-02-09",
+            "latestAction": {
+                "actionDate": "2015-02-27",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "818",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "PRIME Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/818?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-02-10",
+            "latestAction": {
+                "actionDate": "2015-03-17",
+                "text": "Referred to the Subcommittee on the Constitution and Civil Justice."
+            },
+            "number": "825",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "United States-Israel Trade and Commercial Enhancement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/825?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-07-16",
+            "latestAction": {
+                "actionDate": "2015-07-16",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "367",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of the House of Representatives in disapproval of the Joint Comprehensive Plan of Action agreed to by the P5+1 and Iran on July 14, 2015.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/114/hres/367?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-09-09",
+            "latestAction": {
+                "actionDate": "2016-07-14",
+                "text": "Read twice and referred to the Committee on Foreign Relations."
+            },
+            "number": "3460",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To suspend until January 21, 2017, the authority of the President to waive, suspend, reduce, provide relief from, or otherwise limit the application of sanctions pursuant to an agreement related to the nuclear program of Iran.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3460?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-07-27",
+            "latestAction": {
+                "actionDate": "2015-08-07",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3220",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare Common Access Card Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3220?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-05-18",
+            "latestAction": {
+                "actionDate": "2015-11-16",
+                "text": "Referred to the Subcommittee on Health, Employment, Labor, and Pensions."
+            },
+            "number": "2400",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "SIGMA Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/2400?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-02-26",
+            "latestAction": {
+                "actionDate": "2015-04-16",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Finance."
+            },
+            "number": "1104",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Fair Treatment for All Gifts Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/1104?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-01-22",
+            "latestAction": {
+                "actionDate": "2015-02-05",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "512",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "DISARM Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/512?format=json"
+        },
+        {
+            "amendmentNumber": "549",
+            "congress": 111,
+            "introducedDate": "2010-02-03",
+            "latestAction": {
+                "actionDate": "2010-02-03",
+                "actionTime": "14:01:29",
+                "text": "On agreeing to the Roskam amendment (A005) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/hamdt/549?format=json"
+        },
+        {
+            "amendmentNumber": "176",
+            "congress": 111,
+            "introducedDate": "2009-06-04",
+            "latestAction": {
+                "actionDate": "2009-06-04",
+                "actionTime": "15:26:42",
+                "text": "On agreeing to the Roskam amendment (A014) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/hamdt/176?format=json"
+        },
+        {
+            "amendmentNumber": "84",
+            "congress": 111,
+            "introducedDate": "2009-04-23",
+            "latestAction": {
+                "actionDate": "2009-04-23",
+                "actionTime": "13:19:51",
+                "text": "On agreeing to the Roskam amendment (A009) Failed by recorded vote: 194 - 236 (Roll no. 202). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/hamdt/84?format=json"
+        },
+        {
+            "amendmentNumber": "44",
+            "congress": 111,
+            "introducedDate": "2009-03-18",
+            "latestAction": {
+                "actionDate": "2009-03-18",
+                "actionTime": "14:35:47",
+                "text": "On agreeing to the Roskam amendment (A007) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/hamdt/44?format=json"
+        },
+        {
+            "amendmentNumber": "34",
+            "congress": 111,
+            "introducedDate": "2009-03-12",
+            "latestAction": {
+                "actionDate": "2009-03-12",
+                "actionTime": "12:55:38",
+                "text": "On agreeing to the Roskam amendment (A007) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/hamdt/34?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-09-29",
+            "latestAction": {
+                "actionDate": "2010-12-20",
+                "text": "Referred to the Subcommittee on Commercial and Administrative Law."
+            },
+            "number": "6378",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Fighting Fraud and Abuse to Save Taxpayers' Dollars Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/6378?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-06-16",
+            "latestAction": {
+                "actionDate": "2010-06-16",
+                "text": "Referred to House Ways and Means"
+            },
+            "number": "5546",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To provide for the establishment of a fraud, waste, and abuse detection and mitigation program for the Medicare Program under title XVIII of the Social Security Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5546?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-05-11",
+            "latestAction": {
+                "actionDate": "2010-05-14",
+                "text": "Referred to the Subcommittee on Economic Opportunity."
+            },
+            "number": "5274",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 38, United States Code, to clarify the requirements for verifying a small business concern owned and controlled by a veteran.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5274?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-01-20",
+            "latestAction": {
+                "actionDate": "2010-01-20",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "4483",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "Protecting Taxpayers from Excessive Compensation Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4483?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-12-19",
+            "latestAction": {
+                "actionDate": "2009-12-19",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4411",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to make permanent accelerated depreciation of natural gas distribution property and to clarify to which property such treatment applies.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4411?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-02-11",
+            "latestAction": {
+                "actionDate": "2009-02-12",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "999",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Keeping America's Food Safe Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/999?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-02-04",
+            "latestAction": {
+                "actionDate": "2009-03-16",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "898",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "State and Local Criminal Forensic Laboratory Enhancement Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/898?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-01-26",
+            "latestAction": {
+                "actionDate": "2009-01-27",
+                "text": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials."
+            },
+            "number": "693",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To designate a rail right-of-way as a corridor for inter-suburban commuter rail, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/693?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-01-07",
+            "latestAction": {
+                "actionDate": "2009-01-07",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "281",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Transparency in Corporate Filings Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/281?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-09-14",
+            "latestAction": {
+                "actionDate": "2010-09-30",
+                "actionTime": "00:35:18",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "1617",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Supporting the goals and purpose of Gold Star Mothers Day, which is observed on the last Sunday in September of each year in remembrance of the supreme sacrifice made by mothers who lose a son or daughter serving in the Armed Forces.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/1617?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-06-30",
+            "latestAction": {
+                "actionDate": "2010-06-30",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "1497",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Condemning the inclusion of inflammatory and inaccurate content in Iranian textbooks that is aimed at indoctrinating and radicalizing students with anti-Israeli, anti-Semitic, and anti-Western sentiment and at restricting the rights of women.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/1497?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-06-04",
+            "latestAction": {
+                "actionDate": "2009-07-31",
+                "actionTime": "14:16:21",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "513",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Supporting the goals and purpose of Gold Star Mothers Day, which is observed on the last Sunday in September of each year in remembrance of the supreme sacrifice made by mothers who lose a son or daughter serving in the Armed Forces.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/513?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-05-19",
+            "latestAction": {
+                "actionDate": "2009-09-14",
+                "actionTime": "19:07:03",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "459",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Expressing support for designation of \"National Safety Month\".",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/459?format=json"
+        },
+        {
+            "amendmentNumber": "888",
+            "congress": 110,
+            "introducedDate": "2007-11-08",
+            "latestAction": {
+                "actionDate": "2007-11-08",
+                "actionTime": "18:49:55",
+                "text": "On agreeing to the Roskam amendment (A004) Failed by recorded vote: 172 - 245 (Roll no. 1070). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/hamdt/888?format=json"
+        },
+        {
+            "amendmentNumber": "886",
+            "congress": 110,
+            "introducedDate": "2007-11-08",
+            "latestAction": {
+                "actionDate": "2007-11-08",
+                "actionTime": "18:41:45",
+                "text": "On agreeing to the Roskam amendment (A002) Failed by recorded vote: 168 - 249 (Roll no. 1069). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/hamdt/886?format=json"
+        },
+        {
+            "amendmentNumber": "211",
+            "congress": 110,
+            "introducedDate": "2007-05-17",
+            "latestAction": {
+                "actionDate": "2007-05-17",
+                "actionTime": "21:42:03",
+                "text": "On agreeing to the Roskam amendment (A009) Failed by recorded vote: 173 - 245 (Roll no. 382). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/hamdt/211?format=json"
+        },
+        {
+            "amendmentNumber": "89",
+            "congress": 110,
+            "introducedDate": "2007-04-18",
+            "latestAction": {
+                "actionDate": "2007-04-18",
+                "actionTime": "18:33:57",
+                "text": "On agreeing to the Roskam amendment (A002) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/hamdt/89?format=json"
+        },
+        {
+            "amendmentNumber": "8",
+            "congress": 110,
+            "introducedDate": "2007-02-08",
+            "latestAction": {
+                "actionDate": "2007-02-08",
+                "actionTime": "12:57:11",
+                "text": "On agreeing to the Roskam amendment (A007) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/hamdt/8?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-10-03",
+            "latestAction": {
+                "actionDate": "2008-10-03",
+                "text": "Referred to the Subcommittee on Energy and Air Quality."
+            },
+            "number": "7268",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To amend the Clean Air Act to clarify that certain conversions of engines and motor vehicles from conventional fuels to clean alternative fuels will not require additional certifications, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/7268?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-09-10",
+            "latestAction": {
+                "actionDate": "2008-09-17",
+                "text": "Referred to the Subcommittee on Energy and Environment."
+            },
+            "number": "6868",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Energy View Into Securing Independence for Our Nation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6868?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-08-01",
+            "latestAction": {
+                "actionDate": "2008-09-17",
+                "text": "Referred to the Subcommittee on Energy and Environment."
+            },
+            "number": "6824",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Energy View Into Securing Independence for Our Nation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6824?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-07-10",
+            "latestAction": {
+                "actionDate": "2008-07-11",
+                "text": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials."
+            },
+            "number": "6476",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To designate a rail right-of-way as a corridor for inter-suburban commuter rail, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6476?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-04-16",
+            "latestAction": {
+                "actionDate": "2008-04-16",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "5827",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Keeping America's Food Safe Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/5827?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-02-07",
+            "latestAction": {
+                "actionDate": "2008-02-18",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5330",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To provide for the liquidation or reliquidation of certain entries of bulk aspirin.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/5330?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-10-31",
+            "latestAction": {
+                "actionDate": "2008-03-25",
+                "text": "Referred to the Subcommittee on Domestic and International Monetary Policy, Trade, and Technology."
+            },
+            "number": "4036",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Cents and Sensibility Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4036?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-09-07",
+            "latestAction": {
+                "actionDate": "2007-12-10",
+                "text": "Referred to the Subcommittee on Capital Markets, Insurance and Government Sponsored Enterprises."
+            },
+            "number": "3504",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Transparency in Corporate Filings Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3504?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-09-07",
+            "latestAction": {
+                "actionDate": "2007-12-07",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "3505",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Securities Law Technical Corrections Act of 2007",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3505?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-07-24",
+            "latestAction": {
+                "actionDate": "2007-08-10",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "3151",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "State and Local Criminal Forensic Laboratory Enhancement Act of 2007",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3151?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-04-19",
+            "latestAction": {
+                "actionDate": "2007-04-19",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "1967",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Financial Privacy Notice Relief Act of 2007",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/1967?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-02-28",
+            "latestAction": {
+                "actionDate": "2007-03-19",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "1249",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "To include dehydroepiandrosterone as an anabolic steroid.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/1249?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-08-01",
+            "latestAction": {
+                "actionDate": "2008-08-01",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "1412",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Expressing support for the designation of a Pink Prayer Day and applauding the actions of medical professionals and other caregivers, researchers, patients and their families, and others who strive to combat and raise public awareness of breast cancer.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/1412?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-07-24",
+            "latestAction": {
+                "actionDate": "2008-07-24",
+                "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "1380",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Commending Federal and local law enforcement for their efforts to crack down on illegal immigration in the Chicagoland suburbs and calling on the Governor of the State of Illinois to immediately implement employee verification technology to curb rising trends in illegal immigration in the State of Illinois.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/1380?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-04",
+            "latestAction": {
+                "actionDate": "2007-12-17",
+                "actionTime": "15:40:12",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "843",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Mourning the passing of Congressman Henry J. Hyde and celebrating his leadership and service to the people of Illinois and the United States of America.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/843?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-08-01",
+            "latestAction": {
+                "actionDate": "2007-09-24",
+                "actionTime": "14:52:22",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "605",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Supporting the goals and ideals of Gold Star Mothers Day.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/605?format=json"
+        }
+    ]
+}

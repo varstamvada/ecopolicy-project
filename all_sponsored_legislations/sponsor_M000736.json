@@ -1,0 +1,649 @@
+{
+    "pagination": {
+        "count": 45
+    },
+    "request": {
+        "bioguideId": "m000736",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "298",
+            "congress": 99,
+            "introducedDate": "1985-07-11",
+            "latestAction": {
+                "actionDate": "1985-07-11",
+                "text": "Amendment Passed in Committee of the Whole by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/298?format=json"
+        },
+        {
+            "amendmentNumber": "291",
+            "congress": 99,
+            "introducedDate": "1985-07-11",
+            "latestAction": {
+                "actionDate": "1985-07-11",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/291?format=json"
+        },
+        {
+            "amendmentNumber": "266",
+            "congress": 99,
+            "introducedDate": "1985-07-10",
+            "latestAction": {
+                "actionDate": "1985-07-10",
+                "text": "Amendment Passed (Amended) in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/266?format=json"
+        },
+        {
+            "amendmentNumber": "694",
+            "congress": 100,
+            "introducedDate": "1988-05-18",
+            "latestAction": {
+                "actionDate": "1988-05-18",
+                "text": "Amendment Passed in Committee of the Whole by Recorded Vote: 384 - 30 (Record Vote No: 137). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/694?format=json"
+        },
+        {
+            "amendmentNumber": "19",
+            "congress": 100,
+            "introducedDate": "1987-03-05",
+            "latestAction": {
+                "actionDate": "1987-03-05",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/19?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-06-16",
+            "latestAction": {
+                "actionDate": "1988-07-29",
+                "text": "Referred to Subcommittee on National Parks and Public Lands."
+            },
+            "number": "4839",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill designating the Pratt River as a wild river.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4839?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-12-22",
+            "latestAction": {
+                "actionDate": "1987-12-22",
+                "text": "Referred to Subcommittee on SBA, and the General Economy."
+            },
+            "number": "3835",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "A bill to amend the Small Business Investment Act of 1958 to permit prepayment of loans made to State and local development companies, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3835?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-11-10",
+            "latestAction": {
+                "actionDate": "1987-11-24",
+                "text": "Referred to Subcommittee on Merchant Marine."
+            },
+            "number": "3642",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill to clear certain impediments to the licensing of a vessel for employment in the coastwise trade and fisheries of the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3642?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-05-18",
+            "latestAction": {
+                "actionDate": "1987-08-07",
+                "text": "Executive Comment Received From ITC."
+            },
+            "number": "2444",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on certain luggage frames of aluminum until January 1, 1990.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2444?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-06-23",
+            "latestAction": {
+                "actionDate": "1988-06-24",
+                "text": "Referred to Subcommittee on Census and Population."
+            },
+            "number": "599",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution to designate the week beginning November 6, 1988, as \"National Filipino American History Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/599?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-03-16",
+            "latestAction": {
+                "actionDate": "1988-07-26",
+                "text": "Executive Comment Received From State."
+            },
+            "number": "402",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A resolution calling for the United States to require appropriate position-fixing and identification equipment on foreign fishing vessels operating in the United States Exclusive Economic Zone in the Bering Sea and North Pacific Ocean or fishing in international waters adjacent to the United States Exclusive Economic Zone in the Bering Sea and North Pacific Ocean.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/100/hres/402?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-06-10",
+            "latestAction": {
+                "actionDate": "1987-09-15",
+                "text": "Resolution Agreed to in House by Yea-Nay Vote: 400 - 0 (Record Vote No: 315)."
+            },
+            "number": "192",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution concerning the denial of freedom of religion and other human rights in Soviet-occupied Lithuania.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/100/hres/192?format=json"
+        },
+        {
+            "amendmentNumber": "882",
+            "congress": 101,
+            "introducedDate": "1990-10-17",
+            "latestAction": {
+                "actionDate": "1990-10-17",
+                "actionTime": "19:54:00",
+                "text": "On agreeing to the Miller (WA) amendment (A006) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/882?format=json"
+        },
+        {
+            "amendmentNumber": "497",
+            "congress": 101,
+            "introducedDate": "1990-06-06",
+            "latestAction": {
+                "actionDate": "1990-06-06",
+                "actionTime": "21:41:24",
+                "text": "On agreeing to the Miller (WA) amendment (A026) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/497?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-09-26",
+            "latestAction": {
+                "actionDate": "1990-11-16",
+                "text": "See H.R.4009."
+            },
+            "number": "5729",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To authorize a certificate of documentation for the vessel SYRINGA.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5729?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-07-18",
+            "latestAction": {
+                "actionDate": "1990-11-16",
+                "text": "See H.R.4009."
+            },
+            "number": "5310",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To remove certain prohibitions to the licensing of a vessel for employment in the coastwise trade of the United States for the vessel FV Ocean Prowler.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5310?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-06-21",
+            "latestAction": {
+                "actionDate": "1990-08-17",
+                "text": "Referred to the Subcommittee on Elementary, Secondary and Vocational Education."
+            },
+            "number": "5128",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Homeless Children's Education Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5128?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-06-21",
+            "latestAction": {
+                "actionDate": "1990-07-03",
+                "text": "Referred to the Subcommittee on Human Rights and International Organizations."
+            },
+            "number": "5129",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To encourage liberalization inside the People's Republic of China and Tibet.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5129?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-05-24",
+            "latestAction": {
+                "actionDate": "1990-08-17",
+                "text": "Referred to the Subcommittee on Elementary, Secondary and Vocational Education."
+            },
+            "number": "4934",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Homeless Children's Education Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4934?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-05-15",
+            "latestAction": {
+                "actionDate": "1990-11-05",
+                "text": "See H.R.5835 (Title IX)."
+            },
+            "number": "4818",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Aviation Noise Abatement Policy Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4818?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-03-22",
+            "latestAction": {
+                "actionDate": "1990-11-16",
+                "text": "See H.R.4009."
+            },
+            "number": "4377",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To clear certain impediments to the licensing of a vessel for employment in the coastwise trade and fisheries of the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4377?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-03-06",
+            "latestAction": {
+                "actionDate": "1990-11-16",
+                "text": "See H.R.4009."
+            },
+            "number": "4204",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To deem the S/V Zodiac to be less than 100 gross tons, so as to allow the Secretary of the department in which the Coast Guard is operating to inspect that vessel under regulations permitting wooden hulled ships to carry passengers.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4204?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-03-06",
+            "latestAction": {
+                "actionDate": "1990-03-19",
+                "text": "Referred to the Subcommittee on Europe and the Middle East."
+            },
+            "number": "4192",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Eastern European Economic Cooperation and Political Freedom Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4192?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-10-16",
+            "latestAction": {
+                "actionDate": "1990-11-16",
+                "text": "See H.R.4009."
+            },
+            "number": "3476",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To remove certain prohibitions to the licensing of a vessel for employment in the coastwise trade of the United States for the vessel ARCTIC SOUNDER.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3476?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-05-16",
+            "latestAction": {
+                "actionDate": "1989-05-26",
+                "text": "Referred to the Subcommittee on Europe and the Middle East."
+            },
+            "number": "2366",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Slepak Principles Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2366?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-04-11",
+            "latestAction": {
+                "actionDate": "1990-08-20",
+                "text": "See H.R.1594."
+            },
+            "number": "1766",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on certain luggage frames of aluminum.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/1766?format=json"
+        },
+        {
+            "amendmentNumber": "796",
+            "congress": 102,
+            "introducedDate": "1992-08-05",
+            "latestAction": {
+                "actionDate": "1992-08-05",
+                "actionTime": "16:35:52",
+                "text": "On agreeing to the Miller (WA) amendment (A007) Failed by recorded vote: 184 - 230 (Roll no. 367). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/796?format=json"
+        },
+        {
+            "amendmentNumber": "660",
+            "congress": 102,
+            "introducedDate": "1992-06-30",
+            "latestAction": {
+                "actionDate": "1992-06-30",
+                "actionTime": "17:35:54",
+                "text": "On agreeing to the Miller (WA) amendment (A008) as amended Agreed to by recorded vote: 410 - 4 (Roll no. 246). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/660?format=json"
+        },
+        {
+            "amendmentNumber": "169",
+            "congress": 102,
+            "introducedDate": "1991-06-19",
+            "latestAction": {
+                "actionDate": "1991-06-19",
+                "actionTime": "13:34:07",
+                "text": "On agreeing to the Miller (WA) amendment (A025) Agreed to by recorded vote: 410 - 8 (Roll no. 170). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/169?format=json"
+        },
+        {
+            "amendmentNumber": "120",
+            "congress": 102,
+            "introducedDate": "1991-06-11",
+            "latestAction": {
+                "actionDate": "1991-06-11",
+                "actionTime": "16:52:02",
+                "text": "On agreeing to the Miller (WA) amendment (A007) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/120?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-10-05",
+            "latestAction": {
+                "actionDate": "1992-10-05",
+                "text": "Referred to the Subcommittee On Merchant Marine."
+            },
+            "number": "6148",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Fishing Safety, Conservation, and Productivity Improvement Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/6148?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-10-02",
+            "latestAction": {
+                "actionDate": "1992-10-05",
+                "text": "Referred to the Subcommittee on Administrative Law and Governmental Relations."
+            },
+            "number": "6104",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "To amend title 31, United States Code, to reduce the time period within which a member of the uniformed services or a Federal employee may make a claim against the Federal Government for losses to personal property incident to service when the personal property is in a commercial shipment or storage arranged or reimbursed by the Government.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/6104?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-10-02",
+            "latestAction": {
+                "actionDate": "1992-10-30",
+                "text": "Referred to the Subcommittee on National Parks and Public Lands."
+            },
+            "number": "6103",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Wenatchee River Fisheries and Recreational Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/6103?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-09-25",
+            "latestAction": {
+                "actionDate": "1992-10-05",
+                "text": "Referred to the Subcommittee on Western Hemisphere Affairs."
+            },
+            "number": "6040",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To authorize United States participation in the Cascadia Corridor Commission.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/6040?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-10-01",
+            "latestAction": {
+                "actionDate": "1992-10-08",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "6077",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Concerning United States participation in a Cascadia Corridor commission.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/6077?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-06-18",
+            "latestAction": {
+                "actionDate": "1992-07-20",
+                "text": "Referred to the Subcommittee on Postsecondary Education."
+            },
+            "number": "5442",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Foreign Language Economic Enhancement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5442?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-11-26",
+            "latestAction": {
+                "actionDate": "1991-12-09",
+                "text": "Referred to the Subcommittee On Merchant Marine."
+            },
+            "number": "4006",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Puget Sound Cruise Ship Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4006?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-10-24",
+            "latestAction": {
+                "actionDate": "1991-11-07",
+                "text": "Executive Comment Requested from DOT."
+            },
+            "number": "3639",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Aviation Noise Abatement Policy Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3639?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-04-11",
+            "latestAction": {
+                "actionDate": "1991-04-22",
+                "text": "Referred to the Subcommittee on Energy and the Environment."
+            },
+            "number": "1742",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To provide for the transfer of property for the Warren G. Magnuson Park in the city of Seattle, Washington, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1742?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-03-21",
+            "latestAction": {
+                "actionDate": "1991-04-03",
+                "text": "Referred to the Subcommittee on Human Rights and International Organizations."
+            },
+            "number": "1571",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To encourage liberalization inside the People's Republic of China and Tibet.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1571?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-03-06",
+            "latestAction": {
+                "actionDate": "1991-03-26",
+                "text": "Referred to the Subcommittee on Fisheries and Wildlife Conservation and the Environment."
+            },
+            "number": "1307",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Fishing Vessel Safety and Environmental Compliance Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1307?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-02-27",
+            "latestAction": {
+                "actionDate": "1991-03-11",
+                "text": "Referred to the Subcommittee on Asian and Pacific Affairs."
+            },
+            "number": "1147",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To direct the heads of agencies to disclose information concerning United States personnel classified as prisoners of war or missing in action after 1940, including from World War II, the Korean conflict, and the Vietnam conflict.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1147?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-10-06",
+            "latestAction": {
+                "actionDate": "1992-10-09",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "383",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Concerning United States participation in a Cascadia Corridor commission.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/102/hconres/383?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-10-05",
+            "latestAction": {
+                "actionDate": "1992-10-05",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "378",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Concerning United States participation in a Cascadia Corridor Commission.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/102/hconres/378?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-07-17",
+            "latestAction": {
+                "actionDate": "1991-07-30",
+                "text": "Referred to the Subcommittee on Asian and Pacific Affairs."
+            },
+            "number": "183",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Concerning the cooperation of the People's Republic of China in efforts to obtain information regarding the status of members of the Armed Forces of the United States who served in the Korean and Vietnam conflicts.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/102/hconres/183?format=json"
+        }
+    ]
+}

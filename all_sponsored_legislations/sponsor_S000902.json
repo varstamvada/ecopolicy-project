@@ -1,0 +1,102 @@
+{
+    "pagination": {
+        "count": 6
+    },
+    "request": {
+        "bioguideId": "s000902",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 96,
+            "introducedDate": "1980-06-05",
+            "latestAction": {
+                "actionDate": "1980-06-05",
+                "text": "Referred to House Committee on Government Operations."
+            },
+            "number": "7517",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal Procurement and Employment Impact Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/7517?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-02-05",
+            "latestAction": {
+                "actionDate": "1980-02-05",
+                "text": "Referred to House Committee on Government Operations."
+            },
+            "number": "6425",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal Procurement and Employment Impact Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/6425?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-09-26",
+            "latestAction": {
+                "actionDate": "1979-09-26",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "5412",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "A bill to amend the Comprehensive Employment and Training Act to make certain extensions in the period of eligibility for public service employment.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/5412?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-05-04",
+            "latestAction": {
+                "actionDate": "1979-05-04",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "3952",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Federal Correctional Ombudsman Act of 1979",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/3952?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-02-21",
+            "latestAction": {
+                "actionDate": "1980-02-21",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "500",
+            "policyArea": {
+                "name": "Social Sciences and History"
+            },
+            "title": "A joint resolution to designate February 1981 as \"Black History Month\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/96/hjres/500?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-04-17",
+            "latestAction": {
+                "actionDate": "1980-04-17",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "640",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution expressing the sense of the House of Representatives that the Soviet authorities should permit Veniamin Bogomolny to emigrate from the Soviet Union to join his parents in Israel and that the Soviet authorities should permit Jews in the Soviet Union to join their families in Israel and other nations.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/96/hres/640?format=json"
+        }
+    ]
+}

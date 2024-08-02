@@ -1,0 +1,87 @@
+{
+    "pagination": {
+        "count": 5
+    },
+    "request": {
+        "bioguideId": "s000213",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-11",
+            "latestAction": {
+                "actionDate": "1996-09-28",
+                "text": "For Further Action See H.R.4236."
+            },
+            "number": "4059",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To provide for the acquisition of certain property on Santa Cruz Island.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/4059?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-05-08",
+            "latestAction": {
+                "actionDate": "1996-06-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "3415",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to repeal the 4.3-cent increase in the transportation motor fuels excise tax rates enacted by the Omnibus Budget Reconciliation Act of 1993 and dedicated to the general fund of the Treasury.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3415?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-10-13",
+            "latestAction": {
+                "actionDate": "1995-12-22",
+                "text": "Became Public Law No: 104-68."
+            },
+            "number": "2481",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To designate the Federal Triangle Project under construction at 14th Street and Pennsylvania Avenue, Northwest, in the District of Columbia, as the \"Ronald Reagan Building and International Trade Center\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2481?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-05-25",
+            "latestAction": {
+                "actionDate": "1995-06-08",
+                "text": "Referred to the Subcommittee on Aviation."
+            },
+            "number": "1737",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "National Spaceport Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1737?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-05-12",
+            "latestAction": {
+                "actionDate": "1995-05-25",
+                "text": "Referred to the Subcommittee on Aviation."
+            },
+            "number": "1631",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "National Spaceport Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1631?format=json"
+        }
+    ]
+}

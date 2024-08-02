@@ -1,0 +1,102 @@
+{
+    "pagination": {
+        "count": 6
+    },
+    "request": {
+        "bioguideId": "j000149",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 105,
+            "introducedDate": "1998-07-21",
+            "latestAction": {
+                "actionDate": "1998-07-21",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "4295",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Juan Antonio Manrique.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/4295?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-05-21",
+            "latestAction": {
+                "actionDate": "1998-05-21",
+                "text": "Referred to the Subcommittee on Courts and Intellectual Property."
+            },
+            "number": "3931",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Wisconsin Federal Judgeship Act of 1998",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3931?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-11-05",
+            "latestAction": {
+                "actionDate": "1997-11-26",
+                "text": "Referred to the Subcommittee on Housing and Community Opportunity."
+            },
+            "number": "2820",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "Helping America's Disabled Veterans Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2820?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-11-06",
+            "latestAction": {
+                "actionDate": "1998-05-22",
+                "text": "Sponsor introductory remarks on measure. (CR E977)"
+            },
+            "number": "2850",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Jennifer's Law Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2850?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-07-10",
+            "latestAction": {
+                "actionDate": "1997-07-14",
+                "text": "Executive Comment Requested from USDA."
+            },
+            "number": "2139",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Dairy Promotion Fairness Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2139?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-03-12",
+            "latestAction": {
+                "actionDate": "1998-05-13",
+                "text": "Sponsor introductory remarks on measure. (CR E841)"
+            },
+            "number": "47",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To designate a flag-pole upon which the flag of the United States is to be set at half-staff whenever a law enforcement officer is slain in the line of duty.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/105/hconres/47?format=json"
+        }
+    ]
+}

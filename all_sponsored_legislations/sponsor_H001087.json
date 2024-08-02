@@ -1,0 +1,111 @@
+{
+    "pagination": {
+        "count": 7
+    },
+    "request": {
+        "bioguideId": "h001087",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 116,
+            "introducedDate": "2019-10-17",
+            "latestAction": {
+                "actionDate": "2019-10-17",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "4721",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "No Russia in G7 Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/4721?format=json"
+        },
+        {
+            "amendmentNumber": "582",
+            "congress": 116,
+            "introducedDate": "2019-07-16",
+            "latestAction": {
+                "actionDate": "2019-07-16",
+                "actionTime": "21:06:37",
+                "text": "On agreeing to the Hill (CA) amendment (A018) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/116/hamdt/582?format=json"
+        },
+        {
+            "amendmentNumber": "453",
+            "congress": 116,
+            "introducedDate": "2019-06-20",
+            "latestAction": {
+                "actionDate": "2019-06-20",
+                "actionTime": "19:09:06",
+                "text": "On agreeing to the Hill (CA) amendment (A067) Agreed to by recorded vote: 377 - 55 (Roll no. 394). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/116/hamdt/453?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-03-14",
+            "latestAction": {
+                "actionDate": "2019-03-15",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "1788",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XVIII of the Social Security Act to limit the penalty for late enrollment under part B of the Medicare Program to 15 percent and twice the period of no enrollment, and to exclude periods of COBRA, retiree, and VA coverage from such late enrollment penalty.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/1788?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-02-08",
+            "latestAction": {
+                "actionDate": "2019-02-08",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1117",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Shutdown Fairness Act of 2019",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/1117?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-02-07",
+            "latestAction": {
+                "actionDate": "2019-02-12",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "1064",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend title 5, United States Code, to allow whistleblowers to disclose information to certain recipients.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/1064?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-02-06",
+            "latestAction": {
+                "actionDate": "2019-02-26",
+                "text": "Referred to the Subcommittee on National Parks, Forests, and Public Lands."
+            },
+            "number": "1015",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Saint Francis Dam Disaster National Memorial Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/1015?format=json"
+        }
+    ]
+}

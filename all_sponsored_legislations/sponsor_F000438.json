@@ -1,0 +1,34 @@
+{
+    "pagination": {
+        "count": 2
+    },
+    "request": {
+        "bioguideId": "f000438",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "4989",
+            "congress": 104,
+            "introducedDate": "1996-07-23",
+            "latestAction": {
+                "actionDate": "1996-07-23",
+                "text": "Amendment SP 4989 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/samdt/4989?format=json"
+        },
+        {
+            "amendmentNumber": "4528",
+            "congress": 104,
+            "introducedDate": "1996-07-12",
+            "latestAction": {
+                "actionDate": "1996-07-17",
+                "text": "Amendment SP 4528 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/samdt/4528?format=json"
+        }
+    ]
+}

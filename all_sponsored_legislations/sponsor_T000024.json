@@ -1,0 +1,3072 @@
+{
+    "pagination": {
+        "count": 219
+    },
+    "request": {
+        "bioguideId": "t000024",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-04",
+            "latestAction": {
+                "actionDate": "1996-01-22",
+                "text": "On motion to refer the bill and the accompanying veto message to the Committee on Ways and Means. Agreed to without objection."
+            },
+            "number": "4",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Work Opportunity Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/4?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-06-21",
+            "latestAction": {
+                "actionDate": "2006-06-21",
+                "text": "Read twice and referred to the Committee on Veterans' Affairs."
+            },
+            "number": "3555",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veterans Identity Protection Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3555?format=json"
+        },
+        {
+            "amendmentNumber": "4530",
+            "congress": 109,
+            "introducedDate": "2006-06-22",
+            "latestAction": {
+                "actionDate": "2006-06-22",
+                "text": "Amendment SA 4530 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4530?format=json"
+        },
+        {
+            "amendmentNumber": "4390",
+            "congress": 109,
+            "introducedDate": "2006-06-21",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4390?format=json"
+        },
+        {
+            "amendmentNumber": "4331",
+            "congress": 109,
+            "introducedDate": "2006-06-19",
+            "latestAction": {
+                "actionDate": "2006-06-22",
+                "text": "Amendment SA 4331 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4331?format=json"
+        },
+        {
+            "amendmentNumber": "3122",
+            "congress": 109,
+            "introducedDate": "2006-03-15",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/3122?format=json"
+        },
+        {
+            "amendmentNumber": "3011",
+            "congress": 109,
+            "introducedDate": "2006-03-13",
+            "latestAction": {
+                "actionDate": "2006-03-14",
+                "text": "Amendment SA 3011 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/3011?format=json"
+        },
+        {
+            "amendmentNumber": "3019",
+            "congress": 109,
+            "introducedDate": "2006-03-14",
+            "latestAction": {
+                "actionDate": "2006-03-14",
+                "text": "Amendment SA 3019 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/3019?format=json"
+        },
+        {
+            "amendmentNumber": "2972",
+            "congress": 109,
+            "introducedDate": "2006-03-09",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/2972?format=json"
+        },
+        {
+            "amendmentNumber": "2703",
+            "congress": 109,
+            "introducedDate": "2006-02-02",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/2703?format=json"
+        },
+        {
+            "amendmentNumber": "2711",
+            "congress": 109,
+            "introducedDate": "2006-02-02",
+            "latestAction": {
+                "actionDate": "2006-02-02",
+                "text": "SA 2711 fell when Frist motion to commit was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/2711?format=json"
+        },
+        {
+            "amendmentNumber": "2727",
+            "congress": 109,
+            "introducedDate": "2006-02-02",
+            "latestAction": {
+                "actionDate": "2006-02-02",
+                "text": "Amendment SA 2727 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/2727?format=json"
+        },
+        {
+            "amendmentNumber": "2477",
+            "congress": 109,
+            "introducedDate": "2005-11-09",
+            "latestAction": {
+                "actionDate": "2005-11-10",
+                "text": "Amendment SA 2477 agreed to in Senate by Yea-Nay Vote. 89 - 8. Record Vote Number: 317. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/2477?format=json"
+        },
+        {
+            "amendmentNumber": "2361",
+            "congress": 109,
+            "introducedDate": "2005-11-02",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/2361?format=json"
+        },
+        {
+            "amendmentNumber": "2030",
+            "congress": 109,
+            "introducedDate": "2005-10-04",
+            "latestAction": {
+                "actionDate": "2005-10-05",
+                "text": "Amendment SA 2030 as modified agreed to in Senate by Voice Vote. (text as modified: CR S11107)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/2030?format=json"
+        },
+        {
+            "amendmentNumber": "1763",
+            "congress": 109,
+            "introducedDate": "2005-09-20",
+            "latestAction": {
+                "actionDate": "2005-09-20",
+                "text": "Amendment SA 1763 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/1763?format=json"
+        },
+        {
+            "amendmentNumber": "1709",
+            "congress": 109,
+            "introducedDate": "2005-09-14",
+            "latestAction": {
+                "actionDate": "2005-09-14",
+                "text": "Amendment SA 1709 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/1709?format=json"
+        },
+        {
+            "amendmentNumber": "1677",
+            "congress": 109,
+            "introducedDate": "2005-09-09",
+            "latestAction": {
+                "actionDate": "2005-09-09",
+                "text": "Amendment SA 1677 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/1677?format=json"
+        },
+        {
+            "amendmentNumber": "819",
+            "congress": 109,
+            "introducedDate": "2005-06-21",
+            "latestAction": {
+                "actionDate": "2005-06-23",
+                "text": "Amendment SA 819 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/819?format=json"
+        },
+        {
+            "amendmentNumber": "742",
+            "congress": 109,
+            "introducedDate": "2005-05-11",
+            "latestAction": {
+                "actionDate": "2005-05-11",
+                "text": "Amendment SA 742 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/742?format=json"
+        },
+        {
+            "amendmentNumber": "600",
+            "congress": 109,
+            "introducedDate": "2005-05-09",
+            "latestAction": {
+                "actionDate": "2005-05-09",
+                "text": "Amendment SA 600 agreed to in Senate by Yea-Nay Vote. 89 - 0. Record Vote Number: 116. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/600?format=json"
+        },
+        {
+            "amendmentNumber": "582",
+            "congress": 109,
+            "introducedDate": "2005-04-27",
+            "latestAction": {
+                "actionDate": "2005-04-27",
+                "text": "Amendment SA 582 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/582?format=json"
+        },
+        {
+            "amendmentNumber": "348",
+            "congress": 109,
+            "introducedDate": "2005-04-12",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/348?format=json"
+        },
+        {
+            "amendmentNumber": "225",
+            "congress": 109,
+            "introducedDate": "2005-03-17",
+            "latestAction": {
+                "actionDate": "2005-03-17",
+                "text": "Amendment SA 225 agreed to in Senate by Yea-Nay Vote. 81 - 19. Record Vote Number: 72. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/225?format=json"
+        },
+        {
+            "amendmentNumber": "130",
+            "congress": 109,
+            "introducedDate": "2005-03-08",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/130?format=json"
+        },
+        {
+            "amendmentNumber": "121",
+            "congress": 109,
+            "introducedDate": "2005-03-07",
+            "latestAction": {
+                "actionDate": "2005-03-10",
+                "text": "Amendment SA 121 agreed to in Senate by Yea-Nay. 73 - 26. Record Vote Number: 42. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/121?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-11-16",
+            "latestAction": {
+                "actionDate": "2006-12-18",
+                "text": "Became Public Law No: 109-414."
+            },
+            "number": "4073",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A bill to designate the outpatient clinic of the Department of Veterans Affairs located in Farmington, Missouri, as the \"Robert Silvey Department of Veterans Affairs Outpatient Clinic\".",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/4073?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-08-03",
+            "latestAction": {
+                "actionDate": "2006-08-03",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "3824",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "National Park System Uniform Penalty Amendment Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3824?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-09-07",
+            "latestAction": {
+                "actionDate": "2006-09-07",
+                "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+            },
+            "number": "3862",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to amend the Animal Health Protection Act to prohibit the Secretary of Agriculture from implementing or carrying out a National Animal Identification System or similar requirement, to prohibit the use of Federal funds to carry out such a requirement, and to require the Secretary to protect information obtained as part of any voluntary animal identification system.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3862?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-08-03",
+            "latestAction": {
+                "actionDate": "2006-08-03",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "3817",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Match Act of 2006",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3817?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-06-19",
+            "latestAction": {
+                "actionDate": "2006-06-19",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "3535",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "Expanding American Homeownership Act of 2006",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3535?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-25",
+            "latestAction": {
+                "actionDate": "2006-05-25",
+                "text": "Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S5233)"
+            },
+            "number": "3061",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill to extend the patent term for the badge of the American Legion Women's Auxiliary, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3061?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-25",
+            "latestAction": {
+                "actionDate": "2006-05-25",
+                "text": "Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S5233)"
+            },
+            "number": "3062",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill to extend the patent term for the badge of the American Legion, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3062?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-25",
+            "latestAction": {
+                "actionDate": "2006-05-25",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "3055",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Family-Based Meth Treatment Access Act of 2006",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3055?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-25",
+            "latestAction": {
+                "actionDate": "2006-05-25",
+                "text": "Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S5233)"
+            },
+            "number": "3063",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill to extend the patent term for the badge of the Sons of the American Legion, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3063?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-23",
+            "latestAction": {
+                "actionDate": "2006-05-23",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2925",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill so suspend temporarily the duty on naphthalen-1-yl methylaminoformate.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2925?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-22",
+            "latestAction": {
+                "actionDate": "2006-05-22",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2922",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on certain machines used in the assembly of motorcycle wheels.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2922?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-10",
+            "latestAction": {
+                "actionDate": "2006-05-10",
+                "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+            },
+            "number": "2782",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "National Institute of Food and Agriculture Act of 2006",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2782?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-02",
+            "latestAction": {
+                "actionDate": "2006-05-02",
+                "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+            },
+            "number": "2696",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to extend all of the authorizations of appropriations and direct spending programs under the Farm Security and Rural Investment Act of 2002 until after implementing legislation for the Doha Development Round of World Trade Organization negotiations is enacted into law, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2696?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-27",
+            "latestAction": {
+                "actionDate": "2006-08-03",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 579."
+            },
+            "number": "2679",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Unsolved Civil Rights Crime Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2679?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2541",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Quinoline, 6 ethoxy 1,2 dihydro 2,2,4 trimethyl.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2541?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2529",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Oxadiazon.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2529?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2521",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Pyrimethanil.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2521?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2522",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the temporary suspension of duty with respect to Iprodione, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2522?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2532",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to reduce temporarily the duty on Cyclopropane-1,1-dicarboxylic acid, dimethyl ester.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2532?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2542",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on tricholorobenzene.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2542?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2525",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Foramsulfuron.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2525?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2524",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on NAHP.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2524?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2534",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on 2,4-Dichloroaniline.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2534?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2544",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on MCPA.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2544?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2517",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on 4-Chlorobenzaldehyde.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2517?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2537",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Cyfluthrin (Baythroid).",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2537?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2516",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Beta-cyfluthrin.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2516?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2526",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the temporary suspension of duty with respect to Ethoprop.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2526?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2536",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on 2-Acetylbutyrolactone.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2536?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2546",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the temporary suspension of duty with respect to Flufenacet (FOE hydroxy).",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2546?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2528",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Alkylketone.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2528?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2538",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Bromoxynil Octanoate Tech.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2538?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2520",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Thiacloprid.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2520?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2530",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on 4-Methyl-5-n-propoxy-2,4-dihydro-1,2,4-triazol-3-one.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2530?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2540",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Deltamethrin.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2540?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2513",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Spiroxamine.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2513?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2533",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Phosphorus Thiochloride.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2533?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2543",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on 1,3-Dibromo-5-dimethyl-hydantoin.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2543?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2514",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to reduce temporarily the duty on Bronate Advanced.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2514?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2518",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to modify the article description relating to 2-Chlorobenzyl chloride, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2518?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2531",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the temporary suspension of duty with respect to Fosetyl-Al.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2531?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2535",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Mixtures of (+-)-(cis and trans)-1[[2-(2,4-Dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl]-methyl]-1H-1,2,4-triazole.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2535?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2515",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Cyclanilide technical.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2515?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2519",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Spiromesifen.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2519?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2539",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Bromoxynil Meo.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2539?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2527",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Fenamidone.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2527?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-05",
+            "latestAction": {
+                "actionDate": "2006-04-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2523",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to reduce temporarily the duty on Trifloxystrobin.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2523?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-12-19",
+            "latestAction": {
+                "actionDate": "2005-12-19",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "2144",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to authorize the Secretary of the Interior to conduct a study to determine the suitability and feasibility of designating the Solders' Memorial Military Museum located in St. Louis, Missouri, as a unit of the National Park System.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2144?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-12-15",
+            "latestAction": {
+                "actionDate": "2005-12-15",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "2114",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Confluence National Heritage Corridor Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2114?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-10-07",
+            "latestAction": {
+                "actionDate": "2005-10-07",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1864",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to treat certain farming business machinery and equipment as 5-year property for purposes of depreciation.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1864?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-09-12",
+            "latestAction": {
+                "actionDate": "2005-09-12",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1656",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on pyridaben.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1656?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-09-12",
+            "latestAction": {
+                "actionDate": "2005-09-12",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1652",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on methoxyacetic acid.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1652?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-09-08",
+            "latestAction": {
+                "actionDate": "2005-09-08",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "1633",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Stop Online Predators Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1633?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-09-12",
+            "latestAction": {
+                "actionDate": "2005-09-12",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1653",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on N-Methylpiperidine.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1653?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-09-12",
+            "latestAction": {
+                "actionDate": "2005-09-12",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1657",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on 2-acetylnicotinic acid.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1657?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-09-12",
+            "latestAction": {
+                "actionDate": "2005-09-12",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1655",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on quinclorac technical.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1655?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-09-12",
+            "latestAction": {
+                "actionDate": "2005-09-12",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1651",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on methyl methoxy acetate.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1651?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-09-12",
+            "latestAction": {
+                "actionDate": "2005-09-12",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1654",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on p-trifluoromethyl benzaldehyde.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1654?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-09-12",
+            "latestAction": {
+                "actionDate": "2005-09-12",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1650",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on prohexadione calcium.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1650?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-01",
+            "latestAction": {
+                "actionDate": "2005-07-01",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "1369",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Unsolved Civil Rights Crime Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1369?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-11",
+            "latestAction": {
+                "actionDate": "2006-12-22",
+                "text": "Became Public Law No: 109-453."
+            },
+            "number": "1378",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "National Historic Preservation Act Amendments Act of 2006",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1378?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-03-11",
+            "latestAction": {
+                "actionDate": "2005-03-11",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S2523-2524)"
+            },
+            "number": "610",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to provide for a small agri-biodiesel producer credit and to improve the small ethanol producer credit.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/610?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-02-17",
+            "latestAction": {
+                "actionDate": "2005-03-16",
+                "text": "Star Print ordered on the bill."
+            },
+            "number": "428",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Build America Bonds Act of 2005",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/428?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-02-08",
+            "latestAction": {
+                "actionDate": "2005-03-15",
+                "text": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 109-28."
+            },
+            "number": "323",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "French Colonial Heritage National Historic Site Study Act of 2005",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/323?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-01-24",
+            "latestAction": {
+                "actionDate": "2005-01-24",
+                "text": "Read twice and referred to the Committee on Environment and Public Works. (text of measure as introduced: CR S317-319)"
+            },
+            "number": "129",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to amend title 23, United States Code, to provide for HOV facilities.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/129?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-01-24",
+            "latestAction": {
+                "actionDate": "2005-09-13",
+                "text": "Sponsor introductory remarks on measure. (CR S9972)"
+            },
+            "number": "103",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Combat Meth Act of 2005",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/103?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-01-24",
+            "latestAction": {
+                "actionDate": "2005-04-12",
+                "text": "Sponsor introductory remarks on measure. (CR S3491-3492)"
+            },
+            "number": "104",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to provide tax-exempt financing of highway projects and rail-truck transfer facilities.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/104?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-01-24",
+            "latestAction": {
+                "actionDate": "2005-01-24",
+                "text": "Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S348-349)"
+            },
+            "number": "133",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Tory Jo's AMBER Response Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/133?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-01-24",
+            "latestAction": {
+                "actionDate": "2005-01-24",
+                "text": "Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S262)"
+            },
+            "number": "102",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Exile Meth Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/102?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-01-24",
+            "latestAction": {
+                "actionDate": "2005-01-24",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S264-278)"
+            },
+            "number": "105",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Personal Responsibility, Work, and Family Promotion Act of 2005",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/105?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-09-27",
+            "latestAction": {
+                "actionDate": "2005-09-27",
+                "text": "Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S10518)"
+            },
+            "number": "25",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A joint resolution proposing an amendment to the Constitution of the United States to authorize the President to reduce or disapprove any appropriation in any bill presented by Congress.",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/109/sjres/25?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-03-01",
+            "latestAction": {
+                "actionDate": "2006-03-01",
+                "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S1586-1590; text as passed Senate: CR S1589-1590; text of measure as introduced: CR S1582-1583)"
+            },
+            "number": "386",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A resolution honoring the Pre-Negro Leagues and Negro Leagues baseball players and executives elected to the National Baseball Hall of Fame Class of 2006.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/109/sres/386?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-09-15",
+            "latestAction": {
+                "actionDate": "2005-09-15",
+                "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S10147-10148; text as passed Senate: CR S10148; text of measure as introduced: CR S10131)"
+            },
+            "number": "243",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A resolution expressing Support for the Pledge of Allegiance.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/109/sres/243?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-01-26",
+            "latestAction": {
+                "actionDate": "2005-01-26",
+                "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S552-553; text as passed Senate: CR S553; text of measure as introduced: CR S609)"
+            },
+            "number": "18",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A resolution commemorating the 60th anniversary of the liberation of the Auschwitz extermination camp in Poland.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/109/sres/18?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-10-25",
+            "latestAction": {
+                "actionDate": "2006-07-24",
+                "actionTime": "14:50:12",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "60",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A concurrent resolution designating the Negro Leagues Baseball Museum in Kansas City, Missouri, as America's National Negro Leagues Baseball Museum.",
+            "type": "SCONRES",
+            "url": "https://api.congress.gov/v3/bill/109/sconres/60?format=json"
+        },
+        {
+            "amendmentNumber": "3854",
+            "congress": 108,
+            "introducedDate": "2004-09-30",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/3854?format=json"
+        },
+        {
+            "amendmentNumber": "3659",
+            "congress": 108,
+            "introducedDate": "2004-09-14",
+            "latestAction": {
+                "actionDate": "2004-09-14",
+                "text": "Amendment SA 3659 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/3659?format=json"
+        },
+        {
+            "amendmentNumber": "3646",
+            "congress": 108,
+            "introducedDate": "2004-09-14",
+            "latestAction": {
+                "actionDate": "2004-09-14",
+                "text": "Amendment SA 3646 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/3646?format=json"
+        },
+        {
+            "amendmentNumber": "3536",
+            "congress": 108,
+            "introducedDate": "2004-06-24",
+            "latestAction": {
+                "actionDate": "2004-06-24",
+                "text": "Amendment SA 3536 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/3536?format=json"
+        },
+        {
+            "amendmentNumber": "3521",
+            "congress": 108,
+            "introducedDate": "2004-06-24",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/3521?format=json"
+        },
+        {
+            "amendmentNumber": "3251",
+            "congress": 108,
+            "introducedDate": "2004-06-01",
+            "latestAction": {
+                "actionDate": "2004-06-15",
+                "text": "Amendment SA 3251 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/3251?format=json"
+        },
+        {
+            "amendmentNumber": "3236",
+            "congress": 108,
+            "introducedDate": "2004-05-20",
+            "latestAction": {
+                "actionDate": "2004-06-03",
+                "text": "Amendment SA 3236 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/3236?format=json"
+        },
+        {
+            "amendmentNumber": "3008",
+            "congress": 108,
+            "introducedDate": "2004-04-01",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/3008?format=json"
+        },
+        {
+            "amendmentNumber": "3007",
+            "congress": 108,
+            "introducedDate": "2004-04-01",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/3007?format=json"
+        },
+        {
+            "amendmentNumber": "2982",
+            "congress": 108,
+            "introducedDate": "2004-03-31",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/2982?format=json"
+        },
+        {
+            "amendmentNumber": "2960",
+            "congress": 108,
+            "introducedDate": "2004-03-31",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/2960?format=json"
+        },
+        {
+            "amendmentNumber": "2961",
+            "congress": 108,
+            "introducedDate": "2004-03-31",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/2961?format=json"
+        },
+        {
+            "amendmentNumber": "2482",
+            "congress": 108,
+            "introducedDate": "2004-02-11",
+            "latestAction": {
+                "actionDate": "2004-02-12",
+                "text": "Amendment SA 2482 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/2482?format=json"
+        },
+        {
+            "amendmentNumber": "2342",
+            "congress": 108,
+            "introducedDate": "2004-02-11",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/2342?format=json"
+        },
+        {
+            "amendmentNumber": "2340",
+            "congress": 108,
+            "introducedDate": "2004-02-11",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/2340?format=json"
+        },
+        {
+            "amendmentNumber": "2341",
+            "congress": 108,
+            "introducedDate": "2004-02-11",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/2341?format=json"
+        },
+        {
+            "amendmentNumber": "1766",
+            "congress": 108,
+            "introducedDate": "2003-09-23",
+            "latestAction": {
+                "actionDate": "2003-09-23",
+                "text": "Amendment SA 1766 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/1766?format=json"
+        },
+        {
+            "amendmentNumber": "499",
+            "congress": 108,
+            "introducedDate": "2003-04-03",
+            "latestAction": {
+                "actionDate": "2003-04-03",
+                "text": "Proposed amendment SA 499 withdrawn in Senate. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/499?format=json"
+        },
+        {
+            "amendmentNumber": "135",
+            "congress": 108,
+            "introducedDate": "2003-01-21",
+            "latestAction": {
+                "actionDate": "2003-01-23",
+                "text": "Amendment SA 135 as modified agreed to in Senate by Voice Vote. (text as modified: CR S1435)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/135?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-11-18",
+            "latestAction": {
+                "actionDate": "2004-11-18",
+                "text": "Read twice and referred to the Committee on Environment and Public Works."
+            },
+            "number": "3001",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill entitled the \"Hybrid HOV Access Act\".",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/3001?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-10-05",
+            "latestAction": {
+                "actionDate": "2004-10-20",
+                "text": "Became Public Law No: 108-348."
+            },
+            "number": "2895",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A bill to authorize the Gateway Arch in St. Louis, Missouri, to be illuminated by pink lights in honor of breast cancer awareness month.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/2895?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-09-30",
+            "latestAction": {
+                "actionDate": "2004-09-30",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "2869",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Combat Meth Act of 2004",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/2869?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-06-03",
+            "latestAction": {
+                "actionDate": "2004-09-21",
+                "text": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 108-739."
+            },
+            "number": "2499",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Truman Farm Home Expansion Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/2499?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-05-20",
+            "latestAction": {
+                "actionDate": "2004-06-08",
+                "text": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 108-638."
+            },
+            "number": "2469",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "National Historic Preservation Act Amendments Act of 2004",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/2469?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-05-18",
+            "latestAction": {
+                "actionDate": "2004-09-28",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 730."
+            },
+            "number": "2432",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Wilson's Creek National Battlefield Boundary Adjustment Act of 2004",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/2432?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-07-28",
+            "latestAction": {
+                "actionDate": "2003-10-02",
+                "text": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 108-225."
+            },
+            "number": "1472",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A bill to authorize the Secretary of the Interior to provide a grant for the construction of a statue of Harry S Truman at Union Station in Kansas City, Missouri.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/1472?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-06-09",
+            "latestAction": {
+                "actionDate": "2003-06-26",
+                "actionTime": "17:32:05",
+                "text": "Held at the desk."
+            },
+            "number": "1207",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A bill to redesignate the facility of the United States Postal Service located at 120 East Ritchie Avenue in Marceline, Missouri, as the \"Walt Disney Post Office Building\".",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/1207?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-05-22",
+            "latestAction": {
+                "actionDate": "2003-05-22",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced:  CR S6989-6991)"
+            },
+            "number": "1109",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Build America Bonds Act of 2003",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/1109?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-04-10",
+            "latestAction": {
+                "actionDate": "2004-02-24",
+                "text": "Sponsor introductory remarks on measure. (CR S1508-1509)"
+            },
+            "number": "874",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Sickle Cell Treatment Act of 2003",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/874?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-02-14",
+            "latestAction": {
+                "actionDate": "2004-03-31",
+                "text": "Sponsor introductory remarks on measure. (CR S3440)"
+            },
+            "number": "5",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Compassion and Personal Responsibility Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/5?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-05-23",
+            "latestAction": {
+                "actionDate": "2003-05-23",
+                "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration:  CR S7172-7173; text as passed Senate:  CR S7172-7173; text of measure as introduced:  CR S7159)"
+            },
+            "number": "154",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A resolution expressing the support of the Senate of United States efforts in the World Trade Organization to end the unwarranted moratorium imposed by the European  Union on the approval of agricultural biotechnology products.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/108/sres/154?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-06-09",
+            "latestAction": {
+                "actionDate": "2003-06-09",
+                "text": "Referred to the Committee on the Judiciary. (text of measure as introduced: CR S7556)"
+            },
+            "number": "50",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A concurrent resolution expressing the sense of Congress that there should be established a National Truck Safety Month to raise public awareness about the contributions, responsibilities, and needs of truck drivers to make the Nation's highways safer.",
+            "type": "SCONRES",
+            "url": "https://api.congress.gov/v3/bill/108/sconres/50?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-12-15",
+            "latestAction": {
+                "actionDate": "2000-12-15",
+                "text": "Referred to the House Committee on Small Business."
+            },
+            "number": "5667",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Small Business Reauthorization Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/5667?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-12-14",
+            "latestAction": {
+                "actionDate": "2000-12-14",
+                "text": "Referred to the House Committee on Small Business."
+            },
+            "number": "5663",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "New Markets Venture Capital Program Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/5663?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-12-13",
+            "latestAction": {
+                "actionDate": "2000-12-13",
+                "text": "Referred to the House Committee on Small Business."
+            },
+            "number": "5654",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Small Business Reauthorization Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/5654?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-12-11",
+            "latestAction": {
+                "actionDate": "2000-12-11",
+                "text": "Referred to the House Committee on Small Business."
+            },
+            "number": "5652",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Small Business Reauthorization Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/5652?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-10-25",
+            "latestAction": {
+                "actionDate": "2000-10-25",
+                "text": "Referred to the House Committee on Small Business."
+            },
+            "number": "5545",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Small Business Reauthorization Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/5545?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-10-05",
+            "latestAction": {
+                "actionDate": "2000-10-20",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "5392",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XVIII of the Social Security Act to provide relief for small business concerns from Medicare consolidated billing requirements and to exclude services of certain providers from the skilled nursing facility prospective payment system, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/5392?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-07-25",
+            "latestAction": {
+                "actionDate": "2000-09-21",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Small Business."
+            },
+            "number": "4945",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Small Business Competition Preservation Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4945?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-05-18",
+            "latestAction": {
+                "actionDate": "2000-05-18",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4497",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Farmers' Value-Added Agricultural Investment Tax Credit Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4497?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-03-15",
+            "latestAction": {
+                "actionDate": "2000-03-24",
+                "text": "Referred to the Subcommittee on Risk Management, Research and Specialty Crops."
+            },
+            "number": "3996",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Value-Added Development Act for American Agriculture",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3996?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-03-08",
+            "latestAction": {
+                "actionDate": "2000-03-20",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Small Business."
+            },
+            "number": "3843",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Small Business Reauthorization Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3843?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-03-08",
+            "latestAction": {
+                "actionDate": "2000-03-20",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Small Business."
+            },
+            "number": "3845",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Small Business Investment Corrections Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3845?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-11-19",
+            "latestAction": {
+                "actionDate": "1999-12-03",
+                "text": "Referred to the Subcommittee on Risk Management, Research and Specialty Crops."
+            },
+            "number": "3513",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Value-Added Development Act for American Agriculture",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3513?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-09-30",
+            "latestAction": {
+                "actionDate": "2000-02-01",
+                "actionTime": "16:42:10",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "2990",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Patients' Bill of Rights Plus Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2990?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-27",
+            "latestAction": {
+                "actionDate": "2000-10-31",
+                "text": "Conference report considered in Senate by motion. (consideration: CR S11416-11417)"
+            },
+            "number": "2614",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Certified Development Company Program Improvements Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2614?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-27",
+            "latestAction": {
+                "actionDate": "1999-08-03",
+                "text": "Received in the Senate and read twice and referred to the Committee on Small Business."
+            },
+            "number": "2615",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "To amend the Small Business Act to make improvements to the general business loan program, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2615?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-30",
+            "latestAction": {
+                "actionDate": "2000-10-03",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "2392",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Small Business Reauthorization Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2392?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-17",
+            "latestAction": {
+                "actionDate": "1999-06-17",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2273",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to clarify that certain small businesses are permitted to use the cash method of accounting even if they use merchandise or inventory.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2273?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-09",
+            "latestAction": {
+                "actionDate": "1999-06-09",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2087",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Small Employer Tax Relief Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2087?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-08",
+            "latestAction": {
+                "actionDate": "1999-06-16",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "2073",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on a certain chemical used in water treatment.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2073?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-08",
+            "latestAction": {
+                "actionDate": "1999-06-24",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "2074",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on a certain chemical used in water treatment and beauty care products.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2074?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-08",
+            "latestAction": {
+                "actionDate": "1999-06-16",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "2078",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on a certain chemical used in the textile industry.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2078?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-08",
+            "latestAction": {
+                "actionDate": "1999-06-16",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "2075",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on a certain chemical used in photography products.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2075?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-08",
+            "latestAction": {
+                "actionDate": "1999-06-16",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "2071",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on a certain chemical used in the textile industry and in water treatment.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2071?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-08",
+            "latestAction": {
+                "actionDate": "1999-06-16",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "2076",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on a certain chemical used in peroxide stabilizer and compounding.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2076?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-08",
+            "latestAction": {
+                "actionDate": "1999-06-16",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "2072",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on a certain chemical used in the paper industry.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2072?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-08",
+            "latestAction": {
+                "actionDate": "1999-06-16",
+                "text": "Forwarded by Subcommittee to Full Committee by Voice Vote."
+            },
+            "number": "2047",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Small Business Access and Choice for Entrepreneurs Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2047?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-05-20",
+            "latestAction": {
+                "actionDate": "2000-12-07",
+                "text": "House Committee on Ways and Means Granted an extension for further consideration ending not later than Dec. 15, 2000."
+            },
+            "number": "1882",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Small Business Review Panel Technical Amendments Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1882?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-05-19",
+            "latestAction": {
+                "actionDate": "1999-06-23",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "1876",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To amend the Clean Air Act to incorporate certain provisions of the transportation conformity regulations, as in effect on March 1, 1999.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1876?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-05-14",
+            "latestAction": {
+                "actionDate": "1999-05-14",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1824",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Skilled Workforce Enhancement Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1824?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-04-27",
+            "latestAction": {
+                "actionDate": "1999-08-17",
+                "text": "Became Public Law No: 106-50."
+            },
+            "number": "1568",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veterans Entrepreneurship and Small Business Development Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1568?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-04-20",
+            "latestAction": {
+                "actionDate": "1999-05-21",
+                "text": "Referred to the Subcommittee on Employer-Employee Relations."
+            },
+            "number": "1496",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Small Business Access and Choice for Entrepreneurs Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1496?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-04-15",
+            "latestAction": {
+                "actionDate": "1999-04-30",
+                "text": "Referred to the Subcommittee on Workforce Protections."
+            },
+            "number": "1427",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "SAFE Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1427?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-03-04",
+            "latestAction": {
+                "actionDate": "1999-03-04",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "980",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Self-employed Health Insurance Fairness Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/980?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-24",
+            "latestAction": {
+                "actionDate": "1999-03-03",
+                "text": "Received in the Senate and read twice and referred to the Committee on Small Business."
+            },
+            "number": "818",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Disaster Mitigation Coordination Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/818?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-02",
+            "latestAction": {
+                "actionDate": "1999-04-27",
+                "text": "Became Public Law No: 106-22."
+            },
+            "number": "440",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Microloan Program Technical Corrections Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/440?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-02",
+            "latestAction": {
+                "actionDate": "1999-02-22",
+                "text": "Read twice and referred to the Committee on Governmental Affairs."
+            },
+            "number": "439",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Paperwork Elimination Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/439?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-01-06",
+            "latestAction": {
+                "actionDate": "1999-04-05",
+                "text": "Became Public Law No: 106-9."
+            },
+            "number": "68",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Small Business Investment Improvement Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/68?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-09-25",
+            "latestAction": {
+                "actionDate": "2000-09-25",
+                "actionTime": "15:09:54",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "590",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for the concurrence by the House with an amendment in the amendment of the Senate to H.R. 2392.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/106/hres/590?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-06-27",
+            "latestAction": {
+                "actionDate": "2000-06-27",
+                "actionTime": "12:05:15",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "533",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Certified Development Company Program Improvements Act of 2000",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/106/hres/533?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-23",
+            "latestAction": {
+                "actionDate": "1999-02-23",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "81",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing amounts for the expenses of the Committee on Small Business in the One Hundred Sixth Congress.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/106/hres/81?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-07-22",
+            "latestAction": {
+                "actionDate": "1994-08-01",
+                "text": "Referred to the Subcommittee on Commerce, Consumer Protection and Competitiveness."
+            },
+            "number": "4816",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Quality Care for Life Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4816?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-06-10",
+            "latestAction": {
+                "actionDate": "1994-10-07",
+                "text": "See H.R.5252."
+            },
+            "number": "4566",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Real Welfare Reform Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4566?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-05-23",
+            "latestAction": {
+                "actionDate": "1994-08-18",
+                "text": "Referred to the Subcommittee on Administrative Law and Governmental Relations."
+            },
+            "number": "4473",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Real Welfare Reform Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4473?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-02-24",
+            "latestAction": {
+                "actionDate": "1994-04-21",
+                "text": "Forwarded by Subcommittee to Full Committee by Voice Vote."
+            },
+            "number": "3914",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To designate the Federal building located at 1655 Woodson Road in Overland, Missouri, as the \"Sammy L. Davis Federal Building\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3914?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-09-29",
+            "latestAction": {
+                "actionDate": "1993-10-18",
+                "text": "Referred to the Subcommittee on Consumer Credit and Insurance."
+            },
+            "number": "3185",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Flood Insurance Reform and Relief Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3185?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-09-14",
+            "latestAction": {
+                "actionDate": "1993-09-14",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3077",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to allow tips received for providing food or beverages for consumption off the employer's premises to be taken into account under the credit for the employer social security tax on certain tips.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3077?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-08-05",
+            "latestAction": {
+                "actionDate": "1993-08-05",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2903",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to provide that the percentage limitations on the charitable deduction shall not apply to contributions for purposes of disaster relief, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2903?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-05-05",
+            "latestAction": {
+                "actionDate": "1993-05-05",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1993",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to provide a credit against tax for employers who provide on-site day-care facilities for dependents of their employees, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1993?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-09-13",
+            "latestAction": {
+                "actionDate": "1994-09-13",
+                "text": "Referred to the House Committee on Post Office and Civil Service."
+            },
+            "number": "409",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Designating October 23, 1994, through October 31, 1994, as \"National Red Ribbon Week for a Drug-Free America\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/409?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-09-28",
+            "latestAction": {
+                "actionDate": "1993-09-28",
+                "text": "Referred to the House Committee on Post Office and Civil Service."
+            },
+            "number": "269",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Designating October 23, 1993, through October 31, 1993, as \"National Red Ribbon Week for a Drug-Free America\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/269?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-09-23",
+            "latestAction": {
+                "actionDate": "1993-09-23",
+                "text": "Referred to the House Committee on Rules."
+            },
+            "number": "256",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Amending the Rules of the House of Representatives to preclude the Committee on Rules from reporting any rule or order waiving the applicability of the germaneness requirement to any emergency supplemental appropriation for a natural disaster.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/103/hres/256?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-11-22",
+            "latestAction": {
+                "actionDate": "1994-01-03",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "194",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Expressing the sense of the Congress that any comprehensive health care reform legislation that is enacted should require a Senator or Representative in, or Delegate or Resident Commissioner to, the Congress to wait for a period equal to a national average waiting period before receiving a health care service.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/103/hconres/194?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-01-25",
+            "latestAction": {
+                "actionDate": "1994-01-25",
+                "text": "Referred to the House Committee on Post Office and Civil Service."
+            },
+            "number": "199",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Expressing the sense of the Congress that a postage stamp should be issued to honor the 100th anniversary of the Jewish War Veterans of the United States of America.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/103/hconres/199?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-29",
+            "latestAction": {
+                "actionDate": "1993-05-06",
+                "text": "Sponsor introductory remarks on measure. (CR E1175)"
+            },
+            "number": "91",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Expressing the sense of the Congress that a commemorative postage stamp should be issued to honor Americans held as prisoners of war or listed as missing in action.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/103/hconres/91?format=json"
+        },
+        {
+            "amendmentNumber": "310",
+            "congress": 104,
+            "introducedDate": "1995-03-22",
+            "latestAction": {
+                "actionDate": "1995-03-22",
+                "actionTime": "19:44:01",
+                "text": "On agreeing to the Talent amendment (A003) Failed by recorded vote: 96 - 337 (Roll no. 259). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/310?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-11",
+            "latestAction": {
+                "actionDate": "1996-09-16",
+                "text": "Referred to the Subcommittee on Government Management, Information and Technology."
+            },
+            "number": "4061",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal Financial Management Improvement Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/4061?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-09-19",
+            "latestAction": {
+                "actionDate": "1995-09-19",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2365",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to allow deductible contributions to individual retirement plans designated as Retirement Years Savings Accounts.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2365?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-04",
+            "latestAction": {
+                "actionDate": "1996-07-24",
+                "text": "Became Private Law No: 104-1."
+            },
+            "number": "419",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Benchmark Rail Group, Inc.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/419?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-03-21",
+            "latestAction": {
+                "actionDate": "1996-03-28",
+                "text": "Referred to the Subcommittee on the Constitution."
+            },
+            "number": "167",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Proposing an amendment to the Constitution of the United States to limit the judicial power of the United States.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/104/hjres/167?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-03-10",
+            "latestAction": {
+                "actionDate": "1996-04-01",
+                "text": "Became Public Law No: 104-125."
+            },
+            "number": "78",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To grant the consent of the Congress to certain additional powers conferred upon the Bi-State Development Agency by the States of Missouri and Illinois.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/104/hjres/78?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-02-13",
+            "latestAction": {
+                "actionDate": "1995-02-15",
+                "text": "Referred to the Subcommittee on Postal Service."
+            },
+            "number": "26",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Expressing the sense of the Congress that a postage stamp should be issued to honor the 100th anniversary of the Jewish War Veterans of the United States of America.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/104/hconres/26?format=json"
+        },
+        {
+            "amendmentNumber": "846",
+            "congress": 105,
+            "introducedDate": "1998-08-04",
+            "latestAction": {
+                "actionDate": "1998-08-05",
+                "actionTime": "14:00:53",
+                "text": "On agreeing to the Talent amendment (A022) Agreed to by recorded vote: 312 - 114 (Roll No. 393). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/846?format=json"
+        },
+        {
+            "amendmentNumber": "196",
+            "congress": 105,
+            "introducedDate": "1997-06-23",
+            "latestAction": {
+                "actionDate": "1997-06-23",
+                "actionTime": "18:12:31",
+                "text": "On agreeing to the Talent amendment (A013) Agreed to by recorded vote: 415 - 2 (Roll no. 226). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/196?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-18",
+            "latestAction": {
+                "actionDate": "1998-03-24",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3492",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on a certain chemical used in the textile industry.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3492?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-18",
+            "latestAction": {
+                "actionDate": "1998-03-24",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3488",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on a certain chemical used in water treatment.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3488?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-18",
+            "latestAction": {
+                "actionDate": "1998-03-24",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3491",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on a certain chemical used in peroxide stabilizer and compounding.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3491?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-18",
+            "latestAction": {
+                "actionDate": "1998-03-24",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3490",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on a certain chemical used in photography products.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3490?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-18",
+            "latestAction": {
+                "actionDate": "1998-03-24",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3487",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on a certain chemical used in the paper industry.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3487?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-18",
+            "latestAction": {
+                "actionDate": "1998-03-24",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3489",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on a certain chemical used in water treatment and beauty care products.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3489?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-18",
+            "latestAction": {
+                "actionDate": "1998-03-24",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3486",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on a certain chemical used in the textile industry and in water treatment.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3486?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-10",
+            "latestAction": {
+                "actionDate": "1998-10-01",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "3412",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Year 2000 Readiness and Small Business Programs Restructuring and Reform Act of 1998",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3412?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-05",
+            "latestAction": {
+                "actionDate": "1998-03-09",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3348",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on a certain chemical used in peroxide stabilizer and compounding.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3348?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-05",
+            "latestAction": {
+                "actionDate": "1998-03-09",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3344",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on a certain chemical used in the paper industry.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3344?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-05",
+            "latestAction": {
+                "actionDate": "1998-03-09",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3347",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on a certain chemical used in photography products.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3347?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-05",
+            "latestAction": {
+                "actionDate": "1998-03-09",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3349",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on a certain chemical used in the textile industry.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3349?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-05",
+            "latestAction": {
+                "actionDate": "1998-03-09",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3343",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on a certain chemical used in the textile industry and in water treatment.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3343?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-05",
+            "latestAction": {
+                "actionDate": "1998-03-09",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3345",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on a certain chemical used in water treatment.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3345?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-05",
+            "latestAction": {
+                "actionDate": "1998-03-09",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3346",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on a certain chemical used in water treatment and beauty care products.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3346?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-01-27",
+            "latestAction": {
+                "actionDate": "1998-02-24",
+                "text": "Sponsor introductory remarks on measure. (CR E200-201)"
+            },
+            "number": "3110",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Skilled Workforce Enhancement Act of 1998",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3110?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-09-30",
+            "latestAction": {
+                "actionDate": "1997-10-23",
+                "text": "Referred to the Subcommittee on Workforce Protections."
+            },
+            "number": "2579",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "SAFE Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2579?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-07-25",
+            "latestAction": {
+                "actionDate": "1997-09-29",
+                "actionTime": "18:42:46",
+                "text": "Laid on the table. See S. 1139 for further action. (consideration: CR H8113)"
+            },
+            "number": "2261",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Small Business Programs Reauthorization and Amendments Acts of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2261?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-06-26",
+            "latestAction": {
+                "actionDate": "1997-07-14",
+                "text": "Referred to the Subcommittee on Finance and Hazardous Materials."
+            },
+            "number": "2102",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To amend the Hazardous and Solid Waste Amendments of 1984 to repeal the sunset of the Environmental Protection Agency Office of Ombudsman, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2102?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-03-20",
+            "latestAction": {
+                "actionDate": "1997-03-20",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1145",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Home-Based Business Fairness Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1145?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-02-26",
+            "latestAction": {
+                "actionDate": "1997-03-17",
+                "text": "Received in the Senate and read twice and referred to the Committee on Governmental Affairs."
+            },
+            "number": "852",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Paperwork Elimination Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/852?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-09-09",
+            "latestAction": {
+                "actionDate": "1998-09-15",
+                "actionTime": "16:57:45",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "520",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Congratulating Mark McGwire of the St. Louis Cardinals for breaking the Major League Baseball single-season home run record.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/105/hres/520?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-02-12",
+            "latestAction": {
+                "actionDate": "1997-02-12",
+                "text": "Referred to the House Committee on House Oversight."
+            },
+            "number": "54",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing amounts for the expenses of the Committee on Small Business in the One Hundred Fifth Congress.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/105/hres/54?format=json"
+        }
+    ]
+}

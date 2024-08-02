@@ -1,0 +1,536 @@
+{
+    "pagination": {
+        "count": 38
+    },
+    "request": {
+        "bioguideId": "w000796",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "673",
+            "congress": 113,
+            "introducedDate": "2014-05-21",
+            "latestAction": {
+                "actionDate": "2014-05-21",
+                "actionTime": "18:48:18",
+                "text": "By unanimous consent, the Westmoreland amendment was withdrawn. (consideration: CR H4726)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/673?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-12-08",
+            "latestAction": {
+                "actionDate": "2014-12-11",
+                "text": "Received in the Senate."
+            },
+            "number": "5810",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "To amend the United States Cotton Futures Act to exclude certain cotton futures contracts from coverage under such Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5810?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-05-07",
+            "latestAction": {
+                "actionDate": "2014-06-11",
+                "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 32 - 27."
+            },
+            "number": "4604",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "CFPB Data Collection Security Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4604?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-02-03",
+            "latestAction": {
+                "actionDate": "2014-02-07",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3985",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Stop Obamacare's Risky Provisions Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3985?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-09-25",
+            "latestAction": {
+                "actionDate": "2013-11-21",
+                "text": "Ordered to be Reported by the Yeas and Nays: 32 - 25."
+            },
+            "number": "3183",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "To amend the Consumer Financial Protection Act of 2010 to provide consumers with a free annual disclosure of information the Bureau of Consumer Financial Protection maintains on them, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3183?format=json"
+        },
+        {
+            "amendmentNumber": "1309",
+            "congress": 112,
+            "introducedDate": "2012-06-21",
+            "latestAction": {
+                "actionDate": "2012-06-21",
+                "actionTime": "09:43:54",
+                "text": "On agreeing to the Westmoreland amendment (A019) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/1309?format=json"
+        },
+        {
+            "amendmentNumber": "1059",
+            "congress": 112,
+            "introducedDate": "2012-05-08",
+            "latestAction": {
+                "actionDate": "2012-05-09",
+                "actionTime": "00:09:10",
+                "text": "On agreeing to the Westmoreland amendment (A026) Failed by recorded vote: 165 - 246 (Roll no. 218). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/1059?format=json"
+        },
+        {
+            "amendmentNumber": "624",
+            "congress": 112,
+            "introducedDate": "2011-07-12",
+            "latestAction": {
+                "actionDate": "2011-07-12",
+                "actionTime": "17:44:03",
+                "text": "On agreeing to the Westmoreland amendment (A012) Agreed to by recorded vote: 241 - 183 (Roll no. 557). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/624?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-07-17",
+            "latestAction": {
+                "actionDate": "2012-07-31",
+                "text": "Referred to the Subcommittee on Domestic Monetary Policy and Technology."
+            },
+            "number": "6133",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "To provide clarity on the use of National Infantry Museum and Soldier Center Commemorative Coin surcharges, the use of Abraham Lincoln Commemorative Coin surcharges, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6133?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-05-10",
+            "latestAction": {
+                "actionDate": "2012-05-11",
+                "text": "Referred to the Subcommittee on Energy and Power."
+            },
+            "number": "5710",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Better Use of Refrigerator Regulations Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5710?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-11-18",
+            "latestAction": {
+                "actionDate": "2012-01-12",
+                "text": "Referred to the Subcommittee on Capital Markets and Government Sponsored Enterprises."
+            },
+            "number": "3503",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "To amend the Sarbanes-Oxley Act of 2002 to make Public Company Accounting Oversight Board disciplinary proceedings open to the public.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3503?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-05-31",
+            "latestAction": {
+                "actionDate": "2012-01-03",
+                "text": "Became Public Law No: 112-88."
+            },
+            "number": "2056",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "To instruct the Inspector General of the Federal Deposit Insurance Corporation to study the impact of insured depository institution failures, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2056?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-06-10",
+            "latestAction": {
+                "actionDate": "2016-06-10",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "5455",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Protecting Consumer Financial Information Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5455?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-04-11",
+            "latestAction": {
+                "actionDate": "2016-05-19",
+                "text": "Placed on the Union Calendar, Calendar No. 444."
+            },
+            "number": "4894",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "To repeal title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/4894?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-12-15",
+            "latestAction": {
+                "actionDate": "2015-12-15",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "4248",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "FSOC Designation Review Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/4248?format=json"
+        },
+        {
+            "amendmentNumber": "815",
+            "congress": 114,
+            "introducedDate": "2015-11-04",
+            "latestAction": {
+                "actionDate": "2015-11-04",
+                "actionTime": "23:18:59",
+                "text": "On agreeing to the Westmoreland amendment (A082) Failed by recorded vote: 129 - 298 (Roll no. 616). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/114/hamdt/815?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-10-07",
+            "latestAction": {
+                "actionDate": "2016-02-03",
+                "text": "Referred to the Subcommittee on the Constitution and Civil Justice."
+            },
+            "number": "3699",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Judgement Fund Taxpayer Accountability Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3699?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-09-30",
+            "latestAction": {
+                "actionDate": "2015-10-27",
+                "text": "Sponsor introductory remarks on measure. (CR H7193-7194)"
+            },
+            "number": "3655",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "EPA Pays Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3655?format=json"
+        },
+        {
+            "amendmentNumber": "633",
+            "congress": 114,
+            "introducedDate": "2015-07-08",
+            "latestAction": {
+                "actionDate": "2015-07-08",
+                "actionTime": "00:19:44",
+                "text": "Amendment (A103) offered by Mr. Westmoreland. (consideration: CR 7/07/2015 H4852-4853; text: CR 7/07/2015 H4852)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/114/hamdt/633?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-09-17",
+            "latestAction": {
+                "actionDate": "2015-10-27",
+                "text": "Sponsor introductory remarks on measure."
+            },
+            "number": "3531",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "No Exemptions for EPA Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3531?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-04-29",
+            "latestAction": {
+                "actionDate": "2015-05-27",
+                "text": "Referred to the Subcommittee on Commodity Exchanges, Energy, and Credit."
+            },
+            "number": "2094",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "To repeal titles I and II of the Dodd-Frank Wall Street Reform and Consumer Protection Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/2094?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-04-22",
+            "latestAction": {
+                "actionDate": "2016-12-12",
+                "text": "Placed on the Union Calendar, Calendar No. 684."
+            },
+            "number": "1941",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Financial Institutions Examination Fairness and Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/1941?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-03-04",
+            "latestAction": {
+                "actionDate": "2015-03-04",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1333",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Child Tax Credit Integrity Preservation Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/1333?format=json"
+        },
+        {
+            "amendmentNumber": "1186",
+            "congress": 109,
+            "introducedDate": "2006-07-13",
+            "latestAction": {
+                "actionDate": "2006-07-13",
+                "actionTime": "17:19:41",
+                "text": "On agreeing to the Westmoreland amendment (A005) Failed by recorded vote: 118 - 302 (Roll no. 373). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/1186?format=json"
+        },
+        {
+            "amendmentNumber": "664",
+            "congress": 109,
+            "introducedDate": "2005-12-16",
+            "latestAction": {
+                "actionDate": "2005-12-16",
+                "actionTime": "21:36:22",
+                "text": "On agreeing to the Westmoreland amendment (A029) Agreed to by recorded vote: 247 - 170, 1 Present (Roll no. 657). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/664?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-09-07",
+            "latestAction": {
+                "actionDate": "2006-09-28",
+                "actionTime": "16:20:03",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "991",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Congratulating the Columbus Northern Little League Baseball Team from Columbus, Georgia, on its victory in the 2006 Little League World Series Championship games.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/991?format=json"
+        },
+        {
+            "amendmentNumber": "786",
+            "congress": 110,
+            "introducedDate": "2007-09-06",
+            "latestAction": {
+                "actionDate": "2007-09-06",
+                "actionTime": "13:25:08",
+                "text": "On agreeing to the Westmoreland amendment (A004) Failed by recorded vote: 112 - 298 (Roll no. 856). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/hamdt/786?format=json"
+        },
+        {
+            "amendmentNumber": "605",
+            "congress": 110,
+            "introducedDate": "2007-07-24",
+            "latestAction": {
+                "actionDate": "2007-07-24",
+                "actionTime": "17:41:44",
+                "text": "On agreeing to the Westmoreland amendment (A009) Failed by recorded vote: 116 - 307 (Roll no. 696). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/hamdt/605?format=json"
+        },
+        {
+            "amendmentNumber": "580",
+            "congress": 110,
+            "introducedDate": "2007-07-19",
+            "latestAction": {
+                "actionDate": "2007-07-19",
+                "actionTime": "17:07:30",
+                "text": "On agreeing to the Westmoreland amendment (A071) Failed by recorded vote: 191 - 233 (Roll no. 676). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/hamdt/580?format=json"
+        },
+        {
+            "amendmentNumber": "540",
+            "congress": 110,
+            "introducedDate": "2007-07-18",
+            "latestAction": {
+                "actionDate": "2007-07-18",
+                "actionTime": "21:08:08",
+                "text": "On agreeing to the Westmoreland amendment (A031) Failed by recorded vote: 97 - 331 (Roll no. 657). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/hamdt/540?format=json"
+        },
+        {
+            "amendmentNumber": "317",
+            "congress": 110,
+            "introducedDate": "2007-06-19",
+            "latestAction": {
+                "actionDate": "2007-06-19",
+                "actionTime": "17:39:11",
+                "text": "On agreeing to the Westmoreland amendment (A002) Failed by recorded vote: 76 - 351 (Roll no. 503). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/hamdt/317?format=json"
+        },
+        {
+            "amendmentNumber": "316",
+            "congress": 110,
+            "introducedDate": "2007-06-19",
+            "latestAction": {
+                "actionDate": "2007-06-19",
+                "actionTime": "17:30:01",
+                "text": "On agreeing to the Westmoreland amendment (A001) Failed by recorded vote: 84 - 341 (Roll no. 502). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/hamdt/316?format=json"
+        },
+        {
+            "amendmentNumber": "319",
+            "congress": 110,
+            "introducedDate": "2007-06-19",
+            "latestAction": {
+                "actionDate": "2007-06-19",
+                "actionTime": "17:49:33",
+                "text": "On agreeing to the Westmoreland amendment (A004) Failed by recorded vote: 77 - 350 (Roll no. 505). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/hamdt/319?format=json"
+        },
+        {
+            "amendmentNumber": "318",
+            "congress": 110,
+            "introducedDate": "2007-06-19",
+            "latestAction": {
+                "actionDate": "2007-06-19",
+                "actionTime": "17:43:52",
+                "text": "On agreeing to the Westmoreland amendment (A003) Failed by recorded vote: 111 - 315 (Roll no. 504). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/hamdt/318?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-09-06",
+            "latestAction": {
+                "actionDate": "2007-09-06",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "3492",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "PAC Fairness Act of 2007",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3492?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-07-30",
+            "latestAction": {
+                "actionDate": "2008-10-08",
+                "text": "Became Public Law No: 110-357."
+            },
+            "number": "3229",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "National Infantry Museum and Soldier Center Commemorative Coin Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3229?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-05-14",
+            "latestAction": {
+                "actionDate": "2007-08-09",
+                "text": "Became Public Law No: 110-70."
+            },
+            "number": "2309",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To designate the facility of the United States Postal Service located at 3916 Milgen Road in Columbus, Georgia, as the \"Frank G. Lumpkin, Jr. Post Office Building\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/2309?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-05-03",
+            "latestAction": {
+                "actionDate": "2007-07-16",
+                "actionTime": "16:27:09",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "375",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Honoring United Parcel Service and its 100 years of commitment and leadership in the United States.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/375?format=json"
+        }
+    ]
+}

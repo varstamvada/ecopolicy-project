@@ -1,0 +1,321 @@
+{
+    "pagination": {
+        "count": 21
+    },
+    "request": {
+        "bioguideId": "b001280",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "487",
+            "congress": 113,
+            "introducedDate": "2013-10-23",
+            "latestAction": {
+                "actionDate": "2013-10-23",
+                "actionTime": "16:54:49",
+                "text": "On agreeing to the Bentivolio amendment (A007) Failed by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/487?format=json"
+        },
+        {
+            "amendmentNumber": "323",
+            "congress": 113,
+            "introducedDate": "2013-07-18",
+            "latestAction": {
+                "actionDate": "2013-07-18",
+                "actionTime": "16:28:57",
+                "text": "On agreeing to the Bentivolio amendment (A006) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/323?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-12-02",
+            "latestAction": {
+                "actionDate": "2014-12-02",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5779",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to provide a deduction for elementary and secondary private school tuition, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5779?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-11-19",
+            "latestAction": {
+                "actionDate": "2014-11-19",
+                "text": "Referred to the House Committee on Appropriations."
+            },
+            "number": "5738",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Making supplemental appropriations for the Department of Homeland Security for purposes of establishing and maintaining mobile hospital units for responding to an epidemic, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5738?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-09-16",
+            "latestAction": {
+                "actionDate": "2014-09-16",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "5479",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "To amend the Fair Credit Reporting Act to require public disclosure of the method used to calculate consumer credit scores and inclusion of debt settlement agreements in consumer reports.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5479?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-07-29",
+            "latestAction": {
+                "actionDate": "2014-07-29",
+                "text": "Referred to the House Committee on Small Business."
+            },
+            "number": "5231",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Veterans Small Business Enhancement Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5231?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-07-16",
+            "latestAction": {
+                "actionDate": "2014-09-02",
+                "text": "Referred to the Subcommittee on the Constitution and Civil Justice."
+            },
+            "number": "5121",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Restore Unalienable Rights Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5121?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-06-24",
+            "latestAction": {
+                "actionDate": "2014-06-25",
+                "text": "Referred to the Subcommittee on Highways and Transit."
+            },
+            "number": "4945",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Repairing Our Aging Roads Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4945?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-04-09",
+            "latestAction": {
+                "actionDate": "2014-04-09",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4431",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "To provide that, if emergency unemployment compensation is extended, prospective benefits shall be subject to gradual reduction.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4431?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-02-05",
+            "latestAction": {
+                "actionDate": "2014-02-05",
+                "text": "Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "3993",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Spending Accountability Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3993?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-12-03",
+            "latestAction": {
+                "actionDate": "2014-07-29",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "3635",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Safe and Secure Federal Websites Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3635?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-10-30",
+            "latestAction": {
+                "actionDate": "2013-11-12",
+                "text": "Referred to the Subcommittee on Economic Opportunity."
+            },
+            "number": "3384",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veterans' Entry to Apprenticeship Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3384?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-05-06",
+            "latestAction": {
+                "actionDate": "2013-06-14",
+                "text": "Referred to the Subcommittee on the Constitution and Civil Justice."
+            },
+            "number": "1831",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Read the Bills Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/1831?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-03-04",
+            "latestAction": {
+                "actionDate": "2013-03-04",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "939",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Support Democracy in Egypt Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/939?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-02-15",
+            "latestAction": {
+                "actionDate": "2013-04-08",
+                "text": "Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law."
+            },
+            "number": "746",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Protect Small Business Jobs Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/746?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-02-13",
+            "latestAction": {
+                "actionDate": "2013-02-28",
+                "text": "Referred to the Subcommittee on the Constitution And Civil Justice."
+            },
+            "number": "27",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Proposing an amendment to the Constitution of the United States prohibiting the Federal Government from using the power of taxation to compel someone to engage in commercial activity.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/113/hjres/27?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-12-11",
+            "latestAction": {
+                "actionDate": "2014-12-11",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "779",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To establish prospective standards effective January 20, 2017 defining impeachable \"high crimes and misdemeanors\" within the meaning of Article II, section 4 as applied to the President of the United States to provide fair warning and evenhandedness in the administration of the impeachment power of the House of Representatives.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/779?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-08-02",
+            "latestAction": {
+                "actionDate": "2013-08-16",
+                "text": "Referred to the Subcommittee on Asia and the Pacific."
+            },
+            "number": "327",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of the House of Representatives regarding China's membership in the United Nations Human Rights Council (UNHRC).",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/327?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-06-04",
+            "latestAction": {
+                "actionDate": "2013-07-09",
+                "text": "Referred to the Subcommittee on Asia and the Pacific."
+            },
+            "number": "245",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Recognizing the 24th anniversary of the Tiananmen Square massacre, calling for the release of Dr. Wang Bingzhang, and for other reasons.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/245?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-05-15",
+            "latestAction": {
+                "actionDate": "2013-06-14",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations."
+            },
+            "number": "217",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Expressing the sense of the House of Representatives that the Federal, State, and local police officers who have fallen while fulfilling their duty both in Michigan and the United States should be honored for their sacrifice and commitment to preserving law and order.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/217?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-04-26",
+            "latestAction": {
+                "actionDate": "2013-05-06",
+                "text": "Referred to the Subcommittee on Asia and the Pacific."
+            },
+            "number": "185",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Taiwan Travel Act",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/185?format=json"
+        }
+    ]
+}

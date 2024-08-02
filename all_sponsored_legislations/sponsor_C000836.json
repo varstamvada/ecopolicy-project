@@ -1,0 +1,42 @@
+{
+    "pagination": {
+        "count": 2
+    },
+    "request": {
+        "bioguideId": "c000836",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 102,
+            "introducedDate": "1992-04-02",
+            "latestAction": {
+                "actionDate": "1992-07-22",
+                "text": "Executive Comment Received from ITC."
+            },
+            "number": "4752",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend until January 1, 1995, the duty on skateboard trucks.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4752?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-04-02",
+            "latestAction": {
+                "actionDate": "1992-06-26",
+                "text": "Executive Comment Received from ITC."
+            },
+            "number": "4751",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend until January 1, 1995, the duty on xylitol.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4751?format=json"
+        }
+    ]
+}

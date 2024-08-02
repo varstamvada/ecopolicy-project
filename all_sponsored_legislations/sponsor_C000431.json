@@ -1,0 +1,762 @@
+{
+    "pagination": {
+        "count": 50
+    },
+    "request": {
+        "bioguideId": "c000431",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 93,
+            "introducedDate": "1974-12-19",
+            "latestAction": {
+                "actionDate": "1974-12-19",
+                "text": "Referred to House Committee on Merchant Marine and Fisheries."
+            },
+            "number": "17669",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to require that all insurance on subsidized vessels be placed in the American market.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/17669?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-10-10",
+            "latestAction": {
+                "actionDate": "1974-10-10",
+                "text": "Referred to House Committee on Judiciary."
+            },
+            "number": "17260",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "A bill to prohibit the shipment in interstate commerce of dogs intended to be used to fight other dogs for purposes of sport, wagering, or entertainment.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/17260?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-09-19",
+            "latestAction": {
+                "actionDate": "1974-09-19",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "16732",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to amend the National Traffic and Motor Vehicle Safety Act of 1966 with respect to certain seatbelt standards under such act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/16732?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-09-19",
+            "latestAction": {
+                "actionDate": "1974-09-19",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "16733",
+            "policyArea": {
+                "name": "Lotteries"
+            },
+            "title": "A bill to amend title 18 of the United States Code to permit the mailing, broadcasting, or televising of lottery information and the transportation, mailing, and advertising of lottery tickets in interstate commerce but only concerning lotteries which are lawful.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/16733?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-09-11",
+            "latestAction": {
+                "actionDate": "1974-09-11",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "16593",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to amend title 38, United States Code, so as to treat Nicaraguan campaign as a period of war for the purpose of such title.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/16593?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-06-05",
+            "latestAction": {
+                "actionDate": "1974-06-05",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "15210",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "Federal Boxing Control Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/15210?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-04-25",
+            "latestAction": {
+                "actionDate": "1974-04-25",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "14396",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend chapter 81 of subpart G of title 5, United States Code, relating to compensation for work injuries, and for purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/14396?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-04-25",
+            "latestAction": {
+                "actionDate": "1974-04-25",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "14397",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Postal Reorganization Act Amendments",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/14397?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-04-25",
+            "latestAction": {
+                "actionDate": "1974-04-25",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "14398",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend the age and service requirements for immediate retirement under subchapter III of chapter 83 of title 5, United States Code, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/14398?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-04-24",
+            "latestAction": {
+                "actionDate": "1974-04-24",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "14335",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Health Security Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/14335?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-04-02",
+            "latestAction": {
+                "actionDate": "1974-04-02",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "13876",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to amend title 38 of the United States Code in order to provide service pension to certain veterans of World War I and pension to the widows of such veterans.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/13876?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-04-02",
+            "latestAction": {
+                "actionDate": "1974-04-02",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "13877",
+            "policyArea": {
+                "name": "Alcoholic beverages"
+            },
+            "title": "A bill to amend section 5051 of the Internal Revenue Code of 1954 (relating to the Federal excise tax on beer).",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/13877?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-02-04",
+            "latestAction": {
+                "actionDate": "1974-02-04",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "12492",
+            "policyArea": {
+                "name": "Disabled"
+            },
+            "title": "A bill to extend the Federal program of assistance for the developmentally disabled to include the physically disabled.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/12492?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-02-04",
+            "latestAction": {
+                "actionDate": "1974-02-04",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "12491",
+            "policyArea": {
+                "name": "Motor vehicles"
+            },
+            "title": "A bill to temporarily suspend required emissions controls on automobiles in certain parts of the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/12491?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-01-29",
+            "latestAction": {
+                "actionDate": "1974-01-29",
+                "text": "Referred to House Committee on Armed Services."
+            },
+            "number": "12330",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Uniformed Services Retirement Pay Equalization Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/12330?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-01-23",
+            "latestAction": {
+                "actionDate": "1974-01-23",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "12229",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to amend title 38, United States Code, to increase the rates of disability compensation for disabled veterans.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/12229?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-01-29",
+            "latestAction": {
+                "actionDate": "1974-01-29",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "12331",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "A bill to repeal the Emergency Daylight Savings Time Conservation Act of 1973.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/12331?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-01-22",
+            "latestAction": {
+                "actionDate": "1974-01-22",
+                "text": "Referred to House Committee on House Administration."
+            },
+            "number": "12193",
+            "policyArea": {
+                "name": "Arts, Culture, Religion"
+            },
+            "title": "American Folklife Preservation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/12193?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-01-22",
+            "latestAction": {
+                "actionDate": "1974-01-22",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "12194",
+            "policyArea": {
+                "name": "Teachers"
+            },
+            "title": "A bill to prohibit discrimination against locally recruited personnel in the granting of overseas differentials and allowances, equalize the compensation of overseas teachers, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/12194?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-11-28",
+            "latestAction": {
+                "actionDate": "1973-11-28",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "11640",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide that the tax on amounts paid for communication services shall not apply to the amount of the State and local taxes paid for such services.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/11640?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-11-28",
+            "latestAction": {
+                "actionDate": "1973-11-28",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "11639",
+            "policyArea": {
+                "name": "Motor vehicles"
+            },
+            "title": "A bill to amend the National Traffic and Motor Vehicle Safety Act of 1966 to prohibit the Secretary of Transportation from imposing certain seatbelt standards, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/11639?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-11-14",
+            "latestAction": {
+                "actionDate": "1973-11-14",
+                "text": "Referred to House Committee on Banking and Currency."
+            },
+            "number": "11481",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to prohibit the export of the energy resources of the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/11481?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-11-07",
+            "latestAction": {
+                "actionDate": "1973-11-07",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "11304",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "Athletic Care Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/11304?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-08-03",
+            "latestAction": {
+                "actionDate": "1973-08-03",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "9924",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to abolish the U.S. Postal Service, to repeal the Postal Reorganization Act, to reenact the former provisions of title 39, United States Code, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/9924?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-08-01",
+            "latestAction": {
+                "actionDate": "1973-08-01",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "9779",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend title II of the Social Security Act so as to liberalize the conditions governing eligibility of blind persons to receive disability insurance benefits thereunder.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/9779?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-07-12",
+            "latestAction": {
+                "actionDate": "1973-07-12",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "9228",
+            "policyArea": {
+                "name": "Alcoholic beverages"
+            },
+            "title": "A bill to amend section 5051 of the Internal Revenue Code of 1954 (relating to the Federal excise tax on beer).",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/9228?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-07-12",
+            "latestAction": {
+                "actionDate": "1973-07-12",
+                "text": "Referred to House Committee on Science and Astronautics."
+            },
+            "number": "9227",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Fire Prevention and Control Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/9227?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-06-27",
+            "latestAction": {
+                "actionDate": "1973-06-27",
+                "text": "Referred to House Committee on Banking and Currency."
+            },
+            "number": "8998",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "Home Buyer and Home Owner Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/8998?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-06-12",
+            "latestAction": {
+                "actionDate": "1974-06-30",
+                "text": "Public law 93-330."
+            },
+            "number": "8586",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to authorize the foreign sale of the passenger vessel S.S. Independence.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/8586?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-05-23",
+            "latestAction": {
+                "actionDate": "1973-05-23",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "8075",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to provide a penalty for the robbery or attempted robbery of any narcotic drug from any pharmacy.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/8075?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-05-10",
+            "latestAction": {
+                "actionDate": "1973-05-10",
+                "text": "Referred to House Committee on Merchant Marine and Fisheries."
+            },
+            "number": "7694",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to amend the Merchant Marine Act of 1936 to establish a nuclear vessel incentive support program.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/7694?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-05-09",
+            "latestAction": {
+                "actionDate": "1973-05-09",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "7624",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "National Diabetes Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/7624?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-05-09",
+            "latestAction": {
+                "actionDate": "1973-05-09",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "7625",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Health Programs Extension Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/7625?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-04-30",
+            "latestAction": {
+                "actionDate": "1973-04-30",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "7309",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend title II of the Social Security Act to provide that full old-age, survivors, and disability insurance benefits (when based upon the attainment of retirement age), and medicare benefits, will be payable at age 60 (with such insurance benefits being payable in reduced amounts at age 57), to provide a minimum primary benefit of $100 a month, and to liberalize the earnings test; and to amend title XVIII of such act to provide coverage for prescription drugs under the medicare program.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/7309?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-04-30",
+            "latestAction": {
+                "actionDate": "1973-04-30",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "7307",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend the Judiciary and Judicial Procedure Act of 1948.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/7307?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-04-30",
+            "latestAction": {
+                "actionDate": "1973-04-30",
+                "text": "Referred to House Committee on Merchant Marine and Fisheries."
+            },
+            "number": "7308",
+            "policyArea": {
+                "name": "Great Lakes"
+            },
+            "title": "A bill to amend the Great Lakes Pilotage Act of 1960 (46 U.S.C. section 216) to limit the liability of Great Lakes pilots, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/7308?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-04-12",
+            "latestAction": {
+                "actionDate": "1973-04-12",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "6892",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend the Communications Act of 1934 to establish orderly procedures for the consideration of applications for renewal of broadcast licenses.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/6892?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-04-10",
+            "latestAction": {
+                "actionDate": "1973-04-10",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "6772",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to encourage earlier retirement by permitting Federal employees to purchase into the civil service retirement system benefits unduplicated in any other retirement system based on employment in Federal programs operated by State and local governments under Federal funding and supervision.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/6772?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-04-09",
+            "latestAction": {
+                "actionDate": "1973-04-09",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "6705",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to repeal the bread tax on 1973 wheat crop.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/6705?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-04-09",
+            "latestAction": {
+                "actionDate": "1973-04-09",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "6706",
+            "policyArea": {
+                "name": "Teachers"
+            },
+            "title": "Mobile Teachers' Retirement Assistance Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/6706?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-03-27",
+            "latestAction": {
+                "actionDate": "1973-03-27",
+                "text": "Referred to House Committee on Judiciary."
+            },
+            "number": "6131",
+            "policyArea": {
+                "name": "Domestic relations"
+            },
+            "title": "Federal Family Support Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/6131?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-03-22",
+            "latestAction": {
+                "actionDate": "1973-03-22",
+                "text": "Referred to House Committee on Ways and Means.."
+            },
+            "number": "6018",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide that the first $5,000 of compensation paid to law enforcement officers shall not be subject to the income tax.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/6018?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-03-20",
+            "latestAction": {
+                "actionDate": "1973-03-20",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "5827",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide that certain bond interest received by individuals 65 or over shall be excluded from gross income.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/5827?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-03-13",
+            "latestAction": {
+                "actionDate": "1973-03-13",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "5490",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "A bill to amend the Railroad Retirement Act of 1937 to provide a full annuity for any individual (without regard to his age) who has completed 30 years of railroad service.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/5490?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-03-07",
+            "latestAction": {
+                "actionDate": "1973-03-07",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "5273",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend the Gun Control Act of 1968 to provide for separate offense and consecutive sentencing in felonies involving the use of a firearm.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/5273?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-03-07",
+            "latestAction": {
+                "actionDate": "1973-03-07",
+                "text": "Referred to House Committee on Merchant Marine and Fisheries."
+            },
+            "number": "5274",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to amend section 40(b) of the Merchant Marine Act of 1970.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/5274?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-24",
+            "latestAction": {
+                "actionDate": "1973-01-24",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "2812",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to amend the Rural Electrification Act of 1936, as amended, to reaffirm that such funds made available for each fiscal year to carry out the programs provided for in such act be fully obligated in said year, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/2812?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-11",
+            "latestAction": {
+                "actionDate": "1973-01-11",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "1726",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Fair International Trade Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1726?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-09-19",
+            "latestAction": {
+                "actionDate": "1974-09-19",
+                "text": "Referred to House Committee on House Administration."
+            },
+            "number": "1376",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Resolution authorizing the printing of proceedings unveiling of the portrait of the Hon. Leonor K. Sullivan.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/93/hres/1376?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-11-19",
+            "latestAction": {
+                "actionDate": "1974-12-18",
+                "text": "Measure passed Senate."
+            },
+            "number": "683",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Concurrent resolution authorizing the printing of proceedings unveiling the portrait Hon.  Leonor K. Sullivan.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/93/hconres/683?format=json"
+        }
+    ]
+}

@@ -1,0 +1,651 @@
+{
+    "pagination": {
+        "count": 44
+    },
+    "request": {
+        "bioguideId": "a000226",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "553",
+            "congress": 102,
+            "introducedDate": "1992-05-20",
+            "latestAction": {
+                "actionDate": "1992-05-20",
+                "actionTime": "18:38:57",
+                "text": "On agreeing to the Atkins amendment (A003) as modified Agreed to by recorded vote: 328 - 79 (Roll no. 132). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/553?format=json"
+        },
+        {
+            "amendmentNumber": "578",
+            "congress": 99,
+            "introducedDate": "1985-10-17",
+            "latestAction": {
+                "actionDate": "1985-10-17",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/578?format=json"
+        },
+        {
+            "amendmentNumber": "551",
+            "congress": 99,
+            "introducedDate": "1985-10-16",
+            "latestAction": {
+                "actionDate": "1985-10-16",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/551?format=json"
+        },
+        {
+            "amendmentNumber": "286",
+            "congress": 99,
+            "introducedDate": "1985-07-10",
+            "latestAction": {
+                "actionDate": "1985-07-10",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/286?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-03-19",
+            "latestAction": {
+                "actionDate": "1986-03-26",
+                "text": "Referred to Subcommittee on Public Assistance and Unemployment Compensation."
+            },
+            "number": "4449",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "A bill to direct the Secretary of Labor to establish and carry out a two-year demonstration project in which certain States may utilize a portion of their unemployment compensation accounts in the Federal Unemployment Trust Fund to carry out employment-related service programs designed to improve methods of locating employment opportunities for individuals who are receiving, or who are likely to begin receiving, unemployment compensation.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/4449?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-01-24",
+            "latestAction": {
+                "actionDate": "1985-02-28",
+                "text": "Referred to Subcommittee on Census and Population."
+            },
+            "number": "90",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution designating the first Sunday of August as \"National Day of Peace\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/99/hjres/90?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-10-15",
+            "latestAction": {
+                "actionDate": "1986-10-16",
+                "text": "Resolution Agreed to in House by Voice Vote."
+            },
+            "number": "594",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution commending the Royal Thai Government for its extraordinary humanitarian contribution to the large, diverse refugee community in Thailand and for its continued willingness to remain a country of first asylum open to those fleeing repressive regimes in Indochina.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/99/hres/594?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-10-11",
+            "latestAction": {
+                "actionDate": "1988-11-03",
+                "text": "Referred to Subcommittee on Water and Power Resources."
+            },
+            "number": "5496",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "National Water Conservation Act of 1988",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/5496?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-10-11",
+            "latestAction": {
+                "actionDate": "1988-11-01",
+                "text": "Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials."
+            },
+            "number": "5497",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "National Plumbing Fixtures Efficiency Act of 1988",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/5497?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-07-13",
+            "latestAction": {
+                "actionDate": "1988-09-16",
+                "text": "Referred to Subcommittee on Elementary, Secondary and Vocational Education."
+            },
+            "number": "5030",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Business and Citizen School Volunteers of America Act of 1988",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/5030?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-03-29",
+            "latestAction": {
+                "actionDate": "1988-03-29",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "4270",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A bill to provide that restrictions may be applied to family planning programs that receive United States assistance only to the extent that the same restrictions apply to domestic family planning programs funded under title X of the Public Health Service Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4270?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-12-10",
+            "latestAction": {
+                "actionDate": "1988-01-26",
+                "text": "Referred to Subcommittee on National Parks and Public Lands."
+            },
+            "number": "3736",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Outdoor America Conservation Fund Act of 1987",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3736?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-11-19",
+            "latestAction": {
+                "actionDate": "1987-12-28",
+                "text": "Referred to Subcommittee on Commerce, Consumer Protection, and Competitiveness."
+            },
+            "number": "3658",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Adolescent Tobacco Education and Prevention Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3658?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-04-09",
+            "latestAction": {
+                "actionDate": "1987-10-16",
+                "text": "Became Public Law No: 100-134."
+            },
+            "number": "2035",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to increase the amount authorized to be appropriated for property acquisition, restoration, and development, and for transportation, educational, and cultural programs, relating to the Lowell National Historical Park; to continue the term of a member of the Lowell Historic Preservation Commission pending the appointment of a successor; to adjust a quorum of the Commission in the event of a vacancy; and to delay the termination of the Commission.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2035?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-04-06",
+            "latestAction": {
+                "actionDate": "1987-09-30",
+                "text": "Unfavorable Executive Comment Received From State."
+            },
+            "number": "1940",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Indochinese Refugee Resettlement and Protection Act of 1987",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/1940?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-06-30",
+            "latestAction": {
+                "actionDate": "1988-10-18",
+                "text": "Became Public Law No: 100-502."
+            },
+            "number": "602",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A joint resolution in support of the restoration of a free and independent Cambodia and the protection of the Cambodian people from a return to power by the genocidal Khmer Rouge.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/602?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-05-02",
+            "latestAction": {
+                "actionDate": "1988-05-02",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "561",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution to designate the week beginning September 11, 1988, as \"Let's Face It Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/561?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-02-18",
+            "latestAction": {
+                "actionDate": "1987-02-25",
+                "text": "Referred to Subcommittee on Census and Population."
+            },
+            "number": "152",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution designating the first Sunday of August as \"National Day of Peace\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/152?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-08-11",
+            "latestAction": {
+                "actionDate": "1988-11-02",
+                "text": "Executive Comment Requested from State, Commerce, EPA."
+            },
+            "number": "358",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "A concurrent resolution providing that the United States delegation to the meetings of the United Nations Environment Program working group to draft a global convention on the transboundary movement of hazardous waste should promote and support the inclusion in such a convention of certain provisions.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/100/hconres/358?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-07-13",
+            "latestAction": {
+                "actionDate": "1988-07-13",
+                "text": "Referred to Subcommittee on Asian and Pacific Affairs."
+            },
+            "number": "336",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution expressing the sense of the Congress concerning His Majesty King Bhumibol Adulyadej of Thailand.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/100/hconres/336?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-08-07",
+            "latestAction": {
+                "actionDate": "1987-08-24",
+                "text": "Referred to Subcommittee on Asian and Pacific Affairs."
+            },
+            "number": "176",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution expressing the support of the Congress for the July 29, 1987, accord to resolve the ethnic conflict in Sri Lanka, and commending those who have contributed to the success of this effort.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/100/hconres/176?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-05-24",
+            "latestAction": {
+                "actionDate": "1990-08-02",
+                "text": "Subcommittee Consideration and Mark-up Session Held."
+            },
+            "number": "4912",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To authorize the Secretary of the Interior to revise the boundary of the Minute Man National Historical Park in the State of Massachusetts.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4912?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-03-08",
+            "latestAction": {
+                "actionDate": "1990-10-27",
+                "text": "Provisions Included In H.R.2570."
+            },
+            "number": "4227",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Sudbury, Assabet, and Concord Wild and Scenic River Study Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4227?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-08-03",
+            "latestAction": {
+                "actionDate": "1989-09-08",
+                "text": "Referred to the Subcommittee on Water, Power and Offshore Energy Resources."
+            },
+            "number": "3099",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Municipal and Industrial Water Conservation Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3099?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-04-27",
+            "latestAction": {
+                "actionDate": "1989-06-09",
+                "text": "Referred to the Subcommittee on Elementary, Secondary and Vocational Education."
+            },
+            "number": "2137",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Business and Citizen School Volunteers of America Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2137?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-03-01",
+            "latestAction": {
+                "actionDate": "1989-03-22",
+                "text": "Referred to the Subcommittee on Commerce, Consumer Protection and Competitiveness."
+            },
+            "number": "1185",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "National Plumbing Products Efficiency Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/1185?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-01-31",
+            "latestAction": {
+                "actionDate": "1989-01-31",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "720",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To provide that restrictions may be applied to family planning programs that receive United States assistance only to the extent that the same restrictions apply to domestic family planning programs funded under title X of the Public Health Service Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/720?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-01-27",
+            "latestAction": {
+                "actionDate": "1989-02-21",
+                "text": "Referred to the Subcommittee on Select Education."
+            },
+            "number": "665",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Adolescent Tobacco Education and Prevention Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/665?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-01-27",
+            "latestAction": {
+                "actionDate": "1989-02-14",
+                "text": "Referred to the Subcommittee on Census and Population."
+            },
+            "number": "95",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Designating the first Sunday of August as \"National Day of Peace\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/95?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-04-26",
+            "latestAction": {
+                "actionDate": "1989-05-24",
+                "text": "For Further Action See S.Con.Res.26."
+            },
+            "number": "103",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Urging first asylum countries of the Association of Southeast Asia Nations (ASEAN) to reinstate the practice of providing refuge to all asylum-seekers from Vietnam, and for other purposes.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/101/hconres/103?format=json"
+        },
+        {
+            "amendmentNumber": "766",
+            "congress": 102,
+            "introducedDate": "1992-07-29",
+            "latestAction": {
+                "actionDate": "1992-07-29",
+                "actionTime": "21:33:24",
+                "text": "On agreeing to the Atkins amendment (A005) Failed by recorded vote: 96 - 310 (Roll no. 336). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/766?format=json"
+        },
+        {
+            "amendmentNumber": "726",
+            "congress": 102,
+            "introducedDate": "1992-07-22",
+            "latestAction": {
+                "actionDate": "1992-07-23",
+                "actionTime": "09:32:51",
+                "text": "On agreeing to the Atkins amendment (A012) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/726?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-10-05",
+            "latestAction": {
+                "actionDate": "1992-10-05",
+                "text": "Referred to the Subcommittee on Fisheries and Wildlife Conservation and the Environment."
+            },
+            "number": "6141",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Oxbow National Wildlife Refuge Expansion Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/6141?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-07-23",
+            "latestAction": {
+                "actionDate": "1992-07-23",
+                "text": "Referred to the Subcommittee on Human Resources."
+            },
+            "number": "5681",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "To increase the number of weeks for which emergency unemployment compensation is payable, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5681?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-03-24",
+            "latestAction": {
+                "actionDate": "1992-03-24",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4543",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Health Benefits for Small Businesses and Their Employees Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4543?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-07-16",
+            "latestAction": {
+                "actionDate": "1992-10-24",
+                "text": "Became Public Law No: 102-488."
+            },
+            "number": "2896",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Minute Man National Historical Park Amendments of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2896?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-06-26",
+            "latestAction": {
+                "actionDate": "1991-07-15",
+                "text": "Referred to the Subcommittee on Commerce, Consumer Protection and Competitiveness."
+            },
+            "number": "2779",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Cigarette Export Labeling Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2779?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-06-26",
+            "latestAction": {
+                "actionDate": "1991-07-09",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "2781",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Cigarette Export Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2781?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-05-02",
+            "latestAction": {
+                "actionDate": "1992-10-08",
+                "text": "For Further Action See H.R.776."
+            },
+            "number": "2220",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "National Appliance Energy and Water Conservation Amendments of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2220?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-04-22",
+            "latestAction": {
+                "actionDate": "1992-02-26",
+                "text": "See H.R.4318."
+            },
+            "number": "1966",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Relating to the tariff treatment of certain water resistant wool trousers.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1966?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-02-28",
+            "latestAction": {
+                "actionDate": "1991-06-04",
+                "text": "Subcommittee on International Operations Held Hearings Without Referral (June 4, 1991)."
+            },
+            "number": "1179",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "International Family Planning Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1179?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-02-06",
+            "latestAction": {
+                "actionDate": "1991-09-30",
+                "text": "Executive Comment Received from GAO."
+            },
+            "number": "844",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Municipal and Industrial Water Conservation Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/844?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-02-06",
+            "latestAction": {
+                "actionDate": "1991-02-19",
+                "text": "Referred to the Subcommittee on Energy and Power."
+            },
+            "number": "843",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "National Plumbing Products Efficiency Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/843?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-04-25",
+            "latestAction": {
+                "actionDate": "1991-04-29",
+                "text": "Referred to the Subcommittee on Census and Population."
+            },
+            "number": "236",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To designate August 4, 1991, as \"National Day of Peace\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/102/hjres/236?format=json"
+        }
+    ]
+}

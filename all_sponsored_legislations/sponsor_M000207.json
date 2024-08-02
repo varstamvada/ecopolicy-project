@@ -1,0 +1,111 @@
+{
+    "pagination": {
+        "count": 7
+    },
+    "request": {
+        "bioguideId": "m000207",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "957",
+            "congress": 104,
+            "introducedDate": "1996-03-13",
+            "latestAction": {
+                "actionDate": "1996-03-13",
+                "actionTime": "17:19:59",
+                "text": "On agreeing to the Martini amendment (A009) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/957?format=json"
+        },
+        {
+            "amendmentNumber": "151",
+            "congress": 104,
+            "introducedDate": "1995-02-13",
+            "latestAction": {
+                "actionDate": "1995-02-13",
+                "actionTime": "19:20:31",
+                "text": "On agreeing to the Martini amendment (A008) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/151?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-05-08",
+            "latestAction": {
+                "actionDate": "1996-05-20",
+                "text": "Referred to the Subcommittee on Railroads."
+            },
+            "number": "3413",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Commuter Rail Safety Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3413?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-03-27",
+            "latestAction": {
+                "actionDate": "1996-10-11",
+                "text": "Became Public Law No: 104-292."
+            },
+            "number": "3166",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "False Statements Accountability Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3166?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-12-13",
+            "latestAction": {
+                "actionDate": "1995-12-26",
+                "text": "Referred to the Subcommittee on Water Resources and Environment."
+            },
+            "number": "2766",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Federal Lands Prioritization Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2766?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-06-09",
+            "latestAction": {
+                "actionDate": "1995-07-18",
+                "text": "Referred to the Subcommittee on Crime."
+            },
+            "number": "1811",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Death Penalty Clarification Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1811?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-05-18",
+            "latestAction": {
+                "actionDate": "1996-03-29",
+                "text": "For Further Action See H.R.3166."
+            },
+            "number": "1678",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Government Accountability Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1678?format=json"
+        }
+    ]
+}

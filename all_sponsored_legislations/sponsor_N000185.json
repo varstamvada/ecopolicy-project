@@ -1,0 +1,923 @@
+{
+    "pagination": {
+        "count": 61
+    },
+    "request": {
+        "bioguideId": "n000185",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "1152",
+            "congress": 113,
+            "introducedDate": "2014-12-04",
+            "latestAction": {
+                "actionDate": "2014-12-04",
+                "actionTime": "10:54:31",
+                "text": "On agreeing to the Nugent amendment (A001) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/1152?format=json"
+        },
+        {
+            "amendmentNumber": "919",
+            "congress": 113,
+            "introducedDate": "2014-06-19",
+            "latestAction": {
+                "actionDate": "2014-06-19",
+                "actionTime": "19:50:51",
+                "text": "On agreeing to the Nugent amendment (A053) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/919?format=json"
+        },
+        {
+            "amendmentNumber": "890",
+            "congress": 113,
+            "introducedDate": "2014-06-18",
+            "latestAction": {
+                "actionDate": "2014-06-18",
+                "actionTime": "18:07:35",
+                "text": "On agreeing to the Nugent amendment (A024) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/890?format=json"
+        },
+        {
+            "amendmentNumber": "700",
+            "congress": 113,
+            "introducedDate": "2014-05-28",
+            "latestAction": {
+                "actionDate": "2014-05-28",
+                "actionTime": "21:46:14",
+                "text": "On agreeing to the Nugent amendment (A011) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/700?format=json"
+        },
+        {
+            "amendmentNumber": "642",
+            "congress": 113,
+            "introducedDate": "2014-05-01",
+            "latestAction": {
+                "actionDate": "2014-05-01",
+                "actionTime": "11:27:57",
+                "text": "On agreeing to the Nugent amendment (A001) Failed by recorded vote: 196 - 221 (Roll no. 188). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/642?format=json"
+        },
+        {
+            "amendmentNumber": "359",
+            "congress": 113,
+            "introducedDate": "2013-07-23",
+            "latestAction": {
+                "actionDate": "2013-07-23",
+                "actionTime": "18:57:01",
+                "text": "On agreeing to the Nugent amendment (A016) Failed by recorded vote: 93 - 327 (Roll no. 383). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/359?format=json"
+        },
+        {
+            "amendmentNumber": "300",
+            "congress": 113,
+            "introducedDate": "2013-07-10",
+            "latestAction": {
+                "actionDate": "2013-07-10",
+                "actionTime": "18:55:34",
+                "text": "By unanimous consent, the Nugent amendment was withdrawn. (consideration: CR H4345)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/300?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-02-28",
+            "latestAction": {
+                "actionDate": "2014-06-20",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "4134",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "America First Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4134?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-01-16",
+            "latestAction": {
+                "actionDate": "2014-03-20",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations."
+            },
+            "number": "3920",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "American Privacy Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3920?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-09-28",
+            "latestAction": {
+                "actionDate": "2013-09-28",
+                "text": "Referred to the Committee on Financial Services, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "3218",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Flood Insurance Fairness Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3218?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-08-01",
+            "latestAction": {
+                "actionDate": "2013-09-13",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations."
+            },
+            "number": "2959",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "National Right-to-Carry Reciprocity Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2959?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-07-18",
+            "latestAction": {
+                "actionDate": "2014-04-04",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "2743",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Veterans Eagle Parks Pass Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2743?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-01-23",
+            "latestAction": {
+                "actionDate": "2013-02-28",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations."
+            },
+            "number": "401",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Justice and Mental Health Collaboration Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/401?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-01-15",
+            "latestAction": {
+                "actionDate": "2013-01-15",
+                "text": "Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "296",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Congress is Not a Career Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/296?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-01-15",
+            "latestAction": {
+                "actionDate": "2013-01-15",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "295",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Protect and Save Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/295?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-01-15",
+            "latestAction": {
+                "actionDate": "2013-01-18",
+                "text": "Referred to the Subcommittee on Communications and Technology."
+            },
+            "number": "294",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "To revoke a requirement of Executive Order 13618 with respect to the use of privately owned communications resources by the Secretary of Homeland Security, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/294?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-01-15",
+            "latestAction": {
+                "actionDate": "2013-01-31",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "293",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To expand retroactive eligibility of the Army Combat Action Badge to include members of the Army who participated in combat during which they personally engaged, or were personally engaged by, the enemy at any time on or after December 7, 1941.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/293?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-12-03",
+            "latestAction": {
+                "actionDate": "2014-12-04",
+                "actionTime": "11:02:51",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "770",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the Senate amendment to the bill (H.R. 3979) to amend the Internal Revenue Code of 1986 to ensure that emergency services volunteers are not taken into account as employees under the shared responsibility requirements contained in the Patient Protection and Affordable Care Act; providing for consideration of the bill (H.R. 5759) to establish a rule of construction clarifying the limitations on executive authority to provide certain forms of immigration relief; and providing for consideration of the bill (H.R. 5781) to provide short-term water supplies to drought-stricken California.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/770?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-07-29",
+            "latestAction": {
+                "actionDate": "2014-07-30",
+                "actionTime": "16:34:19",
+                "text": "On agreeing to the resolution Agreed to by the Yeas and Nays: 227 - 196 (Roll no. 466). (text: CR H7058-7059)"
+            },
+            "number": "694",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the resolution (H. Res. 676) providing for authority to initiate litigation for actions by the President or other executive branch officials inconsistent with their duties under the Constitution of the United States; providing for consideration of the bill (H.R. 935) to amend the Federal Insecticide, Fungicide, and Rodenticide Act and the Federal Water Pollution Control Act to clarify Congressional intent regarding the regulation of the use of pesticides in or near navigable waters, and for other purposes; and providing for proceedings during the period from August 1, 2014, through September 5, 2014.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/694?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-06-17",
+            "latestAction": {
+                "actionDate": "2014-06-18",
+                "actionTime": "13:23:35",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "628",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the bill (H.R. 4870) making appropriations for the Department of Defense for the fiscal year ending September 30, 2015, and for other purposes, and providing for consideration of the Senate amendments to the bill (H.R. 3230) making continuing appropriations during a Government shutdown to provide pay and allowances to members of the reserve components of the Armed Forces who perform inactive-duty training during such period.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/628?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-05-20",
+            "latestAction": {
+                "actionDate": "2014-05-21",
+                "actionTime": "18:00:37",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "590",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for further consideration of the bill (H.R. 4435) to authorize appropriations for fiscal year 2015 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes; and providing for consideration of the bill (H.R. 3361) to reform the authorities of the Federal Government to require the production of certain business records, conduct electronic surveillance, use pen registers and trap and trace devices, and use other forms of information gathering for foreign intelligence, counterterrorism, and criminal purposes, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/590?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-05-06",
+            "latestAction": {
+                "actionDate": "2014-05-07",
+                "actionTime": "15:49:39",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "568",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Relating to the consideration of House Report 113-415 and an accompanying resolution, and providing for consideration of the resolution (H. Res. 565) calling on Attorney General Eric H. Holder, Jr., to appoint a special counsel to investigate the targeting of conservative nonprofit groups by the Internal Revenue Service.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/568?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-03-11",
+            "latestAction": {
+                "actionDate": "2014-03-12",
+                "actionTime": "13:54:39",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "511",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the bill (H.R. 4138) to protect the separation of powers in the Constitution of the United States by ensuring that the President takes care that the laws be faithfully executed, and for other purposes, and providing for consideration of the bill (H.R. 3973) to amend section 530D of title 28, United States Code.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/511?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-12-03",
+            "latestAction": {
+                "actionDate": "2013-12-04",
+                "actionTime": "14:36:12",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "429",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the bill (H.R. 3309) to amend title 35, United States Code, and the Leahy-Smith America Invents Act to make improvements and technical corrections, and for other purposes; and providing for consideration of the bill (H.R. 1105) to amend the Investment Advisers Act of 1940 to provide a registration exemption for private equity fund advisers, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/429?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-07-22",
+            "latestAction": {
+                "actionDate": "2013-07-23",
+                "actionTime": "14:16:10",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "312",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the bill (H.R. 2397) making appropriations for the Department of Defense for the fiscal year ending September 30, 2014, and for other purposes; and providing for consideration of the bill (H.R. 2610) making appropriations for the Departments of Transportation, and Housing and Urban Development, and related agencies for the fiscal year ending September 30, 2014, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/312?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-06-28",
+            "latestAction": {
+                "actionDate": "2013-06-28",
+                "text": "Referred to the House Committee on Armed Services."
+            },
+            "number": "286",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Expressing the sense of the House of Representatives that the United States should leave no member of the Armed Forces unaccounted for during the drawdown of forces in Afghanistan.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/286?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-06-12",
+            "latestAction": {
+                "actionDate": "2013-06-13",
+                "actionTime": "14:33:18",
+                "text": "On agreeing to the resolution Agreed to by recorded vote: 238 - 189 (Roll no. 221). (text: CR H3372)"
+            },
+            "number": "260",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for further consideration of the bill (H.R. 1960) to authorize appropriations for fiscal year 2014 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/260?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-06-11",
+            "latestAction": {
+                "actionDate": "2013-06-12",
+                "actionTime": "15:11:49",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "256",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the bill (H.R. 1960) to authorize appropriations for fiscal year 2014 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes; and providing for consideration of the bill (H.R. 1256) to direct the Securities and Exchange Commission and the Commodity Futures Trading Commission to jointly adopt rules setting forth the application to cross-border swaps transactions of certain provisions relating to swaps that were enacted as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/256?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-02-26",
+            "latestAction": {
+                "actionDate": "2013-02-27",
+                "actionTime": "15:54:32",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "83",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the bill (S. 47) To reauthorize the Violence Against Women Act of 1994.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/83?format=json"
+        },
+        {
+            "amendmentNumber": "430",
+            "congress": 112,
+            "introducedDate": "2011-06-14",
+            "latestAction": {
+                "actionDate": "2011-06-14",
+                "actionTime": "22:55:38",
+                "text": "On agreeing to the Nugent amendment (A012) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/430?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-08-02",
+            "latestAction": {
+                "actionDate": "2012-08-03",
+                "text": "Referred to the Subcommittee on Communications and Technology."
+            },
+            "number": "6340",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "To revoke a requirement of Executive Order 13618 with respect to the use of privately owned communications resources by the Secretary of Homeland Security, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6340?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-07-26",
+            "latestAction": {
+                "actionDate": "2012-07-26",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "6205",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Protect and Save Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6205?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-03-08",
+            "latestAction": {
+                "actionDate": "2012-03-08",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "4186",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Allowing Qualified Local Employees to Serve Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/4186?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-12-13",
+            "latestAction": {
+                "actionDate": "2011-12-13",
+                "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "3639",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Prevent Insider Trading by Elected Officials Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3639?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-05-11",
+            "latestAction": {
+                "actionDate": "2011-05-24",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "1850",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To expand retroactive eligibility of the Army Combat Action Badge to include members of the Army who participated in combat during which they personally engaged, or were personally engaged by, the enemy at any time on or after December 7, 1941.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1850?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-03-09",
+            "latestAction": {
+                "actionDate": "2011-03-18",
+                "text": "Referred to the Subcommittee on Federal Workforce, U.S. Postal Service, and Labor Policy."
+            },
+            "number": "981",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Congress is Not a Career Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/981?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-11-28",
+            "latestAction": {
+                "actionDate": "2012-11-29",
+                "actionTime": "13:45:46",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "821",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the bill (H.R. 6429) to amend the Immigration and Nationality Act to promote innovation, investment, and research in the United States, to eliminate the diversity immigrant program, and for other purposes; and providing for consideration of motions to suspend the rules.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/821?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-09-10",
+            "latestAction": {
+                "actionDate": "2012-09-11",
+                "actionTime": "14:37:53",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "773",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the bill (H.R. 5544) to authorize and expedite a land exchange involving National Forest System land in the Laurentian District of the Superior National Forest and certain other National Forest System land in the State of Minnesota that has limited recreational and conservation resources and lands owned by the State of Minnesota in trust for the public school system that are largely scattered in checkerboard fashion within the Boundary Waters Canoe Area Wilderness and have important recreational, scenic, and conservation resources, and for other purposes, and providing for consideration of the bill (H.R. 5949) to extend the FISA Amendments Act of 2008 for five years.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/773?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-06-27",
+            "latestAction": {
+                "actionDate": "2012-06-28",
+                "actionTime": "14:08:05",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "708",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Relating to the consideration of House Report 112-546 and an accompanying resolution, and providing for consideration of the resolution (H. Res. 706) authorizing the Committee on Oversight and Government Reform to initiate or intervene in judicial proceedings to enforce certain subpoenas.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/708?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-05-30",
+            "latestAction": {
+                "actionDate": "2012-05-31",
+                "actionTime": "14:07:58",
+                "text": "Pursuant to a previous special order, amendments numbered 4 and 6 printed in House Report 112-504 are modified to include amendatory instructions."
+            },
+            "number": "667",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the bill (H.R. 5743) to authorize appropriations for fiscal year 2013 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes; providing for consideration of the bill (H.R. 5854) making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2013, and for other purposes; providing for consideration of the bill (H.R. 5855) making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2013, and for other purposes; and providing for consideration of the bill (H.R. 5325) making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2013, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/667?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-25",
+            "latestAction": {
+                "actionDate": "2012-04-26",
+                "actionTime": "14:15:22",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "631",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the bill (H.R. 3523) to provide for the sharing of certain cyber threat intelligence and cyber threat information between the intelligence community and cyber security entities, and for other purposes; providing for consideration of motions to suspend the rules; providing for consideration of the bill (H.R. 4628) to extend student loan interest rates for undergraduate Federal Direct Stafford Loans; and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/631?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-03-20",
+            "latestAction": {
+                "actionDate": "2012-03-21",
+                "actionTime": "14:49:59",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "591",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the bill (H.R. 5) to improve patient access to health care services and provide improved medical care by reducing the excessive burden the liability system places on the health care delivery system.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/591?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-01-18",
+            "latestAction": {
+                "actionDate": "2012-01-24",
+                "actionTime": "16:40:41",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "516",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Expressing the sense of the House of Representatives that the passage of a fiscal year 2013 Federal budget is of national importance.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/516?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-12-20",
+            "latestAction": {
+                "actionDate": "2011-12-20",
+                "text": "Referred to the House Committee on Armed Services."
+            },
+            "number": "503",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Expressing the sense of the House of Representatives that the United States should leave no member of the Armed Forces unaccounted for in the withdrawal of forces from Iraq and Afghanistan.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/503?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-12-01",
+            "latestAction": {
+                "actionDate": "2011-12-06",
+                "actionTime": "16:12:41",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "479",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the bill (H.R. 10) to amend chapter 8 of title 5, United States Code, to provide that major rules of the executive branch shall have no force or effect unless a joint resolution of approval is enacted into law, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/479?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-11-15",
+            "latestAction": {
+                "actionDate": "2011-11-17",
+                "actionTime": "14:37:58",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "466",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of motions to suspend the rules.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/466?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-11-14",
+            "latestAction": {
+                "actionDate": "2011-11-15",
+                "actionTime": "14:54:35",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "463",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the bill (H.R. 822) to amend title 18, United States Code, to provide a national standard in accordance with which nonresidents of a State may carry concealed firearms in the State.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/463?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-10-03",
+            "latestAction": {
+                "actionDate": "2011-10-04",
+                "actionTime": "14:15:53",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "419",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the bill (H.R. 2681) to provide additional time for the Administrator of the Environmental Protection Agency to issue achievable standards for cement manufacturing facilities, and for other purposes, and providing for consideration of the bill (H.R. 2250) to provide additional time for the Administrator of the Environmental Protection Agency to issue achievable standards for industrial, commercial, and institutional boilers, process heaters, and incinerators, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/419?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-06-22",
+            "latestAction": {
+                "actionDate": "2011-06-23",
+                "actionTime": "13:50:10",
+                "text": "On agreeing to the resolution Agreed to by recorded vote: 251 - 173 (Roll no. 480). (text: CR H4476)"
+            },
+            "number": "320",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the bill (H.R. 2219) making appropriations for the Department of Defense for the fiscal year ending September 30, 2012, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/320?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-06-21",
+            "latestAction": {
+                "actionDate": "2011-06-22",
+                "actionTime": "14:36:42",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "316",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the bill (H.R. 2021) to amend the Clean Air Act regarding air pollution from Outer Continental Shelf activities, and providing for consideration of the bill (H.R. 1249) to amend title 35, United States Code, to provide for patent reform.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/316?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-05-02",
+            "latestAction": {
+                "actionDate": "2011-05-04",
+                "actionTime": "13:55:41",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "237",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the bill (H.R. 3) to prohibit taxpayer funded abortions and to provide for conscience protections, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/237?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-03-16",
+            "latestAction": {
+                "actionDate": "2011-03-17",
+                "actionTime": "10:57:12",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "174",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the bill (H.R. 1076) to prohibit Federal funding of National Public Radio and the use of Federal funds to acquire radio content.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/174?format=json"
+        },
+        {
+            "amendmentNumber": "506",
+            "congress": 114,
+            "introducedDate": "2015-06-11",
+            "latestAction": {
+                "actionDate": "2015-06-11",
+                "actionTime": "01:43:25",
+                "text": "On agreeing to the Nugent amendment (A066) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/114/hamdt/506?format=json"
+        },
+        {
+            "amendmentNumber": "274",
+            "congress": 114,
+            "introducedDate": "2015-06-02",
+            "latestAction": {
+                "actionDate": "2015-06-02",
+                "actionTime": "16:05:39",
+                "text": "On agreeing to the Nugent amendment (A006) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/114/hamdt/274?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-07-22",
+            "latestAction": {
+                "actionDate": "2015-07-22",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3170",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Student Debt Repayment Fairness Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3170?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-03-23",
+            "latestAction": {
+                "actionDate": "2015-04-21",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations."
+            },
+            "number": "1545",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Lieutenant Osvaldo Albarati Correctional Officer Self-Protection Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/1545?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-03-19",
+            "latestAction": {
+                "actionDate": "2015-04-20",
+                "text": "Referred to the Subcommittee on Conservation and Forestry."
+            },
+            "number": "1505",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Veterans Eagle Parks Pass Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/1505?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-02-04",
+            "latestAction": {
+                "actionDate": "2015-03-16",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations."
+            },
+            "number": "731",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Justice and Mental Health Collaboration Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/731?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-01-22",
+            "latestAction": {
+                "actionDate": "2015-01-22",
+                "text": "Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "507",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Congress is Not a Career Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/507?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-01-16",
+            "latestAction": {
+                "actionDate": "2015-02-05",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations."
+            },
+            "number": "402",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "National Right-to-Carry Reciprocity Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/402?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-07-29",
+            "latestAction": {
+                "actionDate": "2015-11-23",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "3388",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "SOLDIER Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3388?format=json"
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "pagination": {
+        "count": 5
+    },
+    "request": {
+        "bioguideId": "z000010",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 93,
+            "introducedDate": "1974-12-18",
+            "latestAction": {
+                "actionDate": "1974-12-18",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "17665",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Local Education Accountability Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/17665?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-07-01",
+            "latestAction": {
+                "actionDate": "1974-07-01",
+                "text": "Referred to House Committee on Public Works."
+            },
+            "number": "15743",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to authorize the repayment of certain Federal-aid highway funds by the State of Indiana.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/15743?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-06-18",
+            "latestAction": {
+                "actionDate": "1974-06-18",
+                "text": "Referred to House Committee on Public Works."
+            },
+            "number": "15455",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to authorize the repayment of certain Federal-aid highway funds by the State of Indiana.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/15455?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-04-11",
+            "latestAction": {
+                "actionDate": "1973-04-11",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "6875",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend the Communications Act of 1934 to establish orderly procedures for the consideration of applications for renewal of broadcast licenses.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/6875?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-10-04",
+            "latestAction": {
+                "actionDate": "1973-10-04",
+                "text": "Referred to House Committee on Rules."
+            },
+            "number": "580",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A resolution directing the Committee on the Judiciary to conduct an investigation into certain charges against Spiro T. Agnew.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/93/hres/580?format=json"
+        }
+    ]
+}

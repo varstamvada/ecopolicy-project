@@ -1,0 +1,93 @@
+{
+    "pagination": {
+        "count": 6
+    },
+    "request": {
+        "bioguideId": "w000139",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "818",
+            "congress": 104,
+            "introducedDate": "1995-09-20",
+            "latestAction": {
+                "actionDate": "1995-09-20",
+                "actionTime": "17:32:01",
+                "text": "On agreeing to the Ward amendment (A012) Failed by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/818?format=json"
+        },
+        {
+            "amendmentNumber": "574",
+            "congress": 104,
+            "introducedDate": "1995-07-19",
+            "latestAction": {
+                "actionDate": "1995-07-19",
+                "actionTime": "20:05:40",
+                "text": "On agreeing to the Ward amendment (A010) as amended Failed by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/574?format=json"
+        },
+        {
+            "amendmentNumber": "515",
+            "congress": 104,
+            "introducedDate": "1995-07-12",
+            "latestAction": {
+                "actionDate": "1995-07-12",
+                "actionTime": "12:49:16",
+                "text": "On agreeing to the Ward amendment (A013) Agreed to by recorded vote: 276 - 141 (Roll no. 489). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/515?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-04-18",
+            "latestAction": {
+                "actionDate": "1996-04-23",
+                "text": "Referred to the Subcommittee on Civil Service."
+            },
+            "number": "3279",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To provide for early deferred annuities under chapter 83 of title 5, United States Code, for certain former Department of Defense employees who are seperated from service by reason of certain defense base closures, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3279?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-08-04",
+            "latestAction": {
+                "actionDate": "1995-08-10",
+                "text": "Referred to the Subcommittee on Civil Service."
+            },
+            "number": "2222",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To provide for continued retirement and leave benefits for certain former employees of the Department of Defense.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2222?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-05-25",
+            "latestAction": {
+                "actionDate": "1995-05-25",
+                "text": "Referred to the House Committee on Rules."
+            },
+            "number": "160",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for the consideration of the bill (H.R. 1535) to amend the Internal Revenue Code of 1986 to revise the tax rules on expatriation, to modify the basis rules for nonresident aliens becoming citizens or residents, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/160?format=json"
+        }
+    ]
+}

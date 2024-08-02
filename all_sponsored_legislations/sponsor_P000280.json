@@ -1,0 +1,3739 @@
+{
+    "pagination": {
+        "count": 274,
+        "next": "https://api.congress.gov/v3/member/P000280/sponsored-legislation?offset=250&limit=250&format=json"
+    },
+    "request": {
+        "bioguideId": "p000280",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "690",
+            "congress": 97,
+            "introducedDate": "1982-07-29",
+            "latestAction": {
+                "actionDate": "1982-07-29",
+                "text": "Point of Order Sustained Against Amendment in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/690?format=json"
+        },
+        {
+            "amendmentNumber": "529",
+            "congress": 97,
+            "introducedDate": "1982-05-19",
+            "latestAction": {
+                "actionDate": "1982-05-19",
+                "text": "Amendment Passed in Committee of the Whole by Recorded Vote: 203 - 188 (Record Vote No: 84). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/529?format=json"
+        },
+        {
+            "amendmentNumber": "319",
+            "congress": 97,
+            "introducedDate": "1981-10-15",
+            "latestAction": {
+                "actionDate": "1981-10-15",
+                "text": "Amendment Passed in Committee of the Whole by Recorded Vote: 213 - 190 (Record Vote No: 261). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/319?format=json"
+        },
+        {
+            "amendmentNumber": "303",
+            "congress": 97,
+            "introducedDate": "1981-10-14",
+            "latestAction": {
+                "actionDate": "1981-10-14",
+                "text": "Amendment Withdrawn in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/303?format=json"
+        },
+        {
+            "amendmentNumber": "134",
+            "congress": 97,
+            "introducedDate": "1981-07-17",
+            "latestAction": {
+                "actionDate": "1981-07-17",
+                "text": "Amendment Withdrawn in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/134?format=json"
+        },
+        {
+            "amendmentNumber": "129",
+            "congress": 97,
+            "introducedDate": "1981-07-16",
+            "latestAction": {
+                "actionDate": "1981-07-16",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/129?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-09-22",
+            "latestAction": {
+                "actionDate": "1982-09-27",
+                "text": "Referred to Subcommittee on Immigration, Refugees, and International Law."
+            },
+            "number": "7167",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "A bill to amend the Immigration and Nationality Act to clarify the status of individuals who have been granted asylum.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/7167?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-08-17",
+            "latestAction": {
+                "actionDate": "1982-09-27",
+                "text": "Referred to Subcommittee on Energy and the Environment."
+            },
+            "number": "6998",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Indian Point Nuclear Power Safety Review Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6998?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-08-12",
+            "latestAction": {
+                "actionDate": "1982-08-18",
+                "text": "Referred to Subcommittee on Social Security."
+            },
+            "number": "6984",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend title of the Social Security to restore eligibility for child's insurance benefits in the case of children age 18 through 22 who attend postsecondary schools and whose family income is 30,000 dollars or less.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6984?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-08-03",
+            "latestAction": {
+                "actionDate": "1982-08-06",
+                "text": "Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice."
+            },
+            "number": "6918",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "A bill to authorize the Attorney General to assist Rockland County, New York, in providing for expenses of courtroom security and defendant custody in the case of People v. Boudin, et al.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6918?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-05-20",
+            "latestAction": {
+                "actionDate": "1982-05-26",
+                "text": "Referred to Subcommittee on Europe and the Middle East."
+            },
+            "number": "6446",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A bill directing the President not to sell to Saudi Arabia any AWACS aircraft or certain other defense articles.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6446?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-05-19",
+            "latestAction": {
+                "actionDate": "1982-07-15",
+                "text": "See H.R.6685."
+            },
+            "number": "6431",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to require Members of Congress to substantiate their deductions for living expenses while away from home.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6431?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-04-26",
+            "latestAction": {
+                "actionDate": "1982-04-26",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "6161",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to repeal the price support program applicable to the 1982 through 1985 crops of sugar.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6161?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-03-18",
+            "latestAction": {
+                "actionDate": "1982-03-18",
+                "text": "Referred to House Committee on Merchant Marine and Fisheries."
+            },
+            "number": "5909",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill relating to the licensing of the vessel Querube II to engage in the coastwise trade.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/5909?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-03-16",
+            "latestAction": {
+                "actionDate": "1982-04-15",
+                "text": "Referred to Subcommittee on Crime."
+            },
+            "number": "5851",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend title 18 of the United States Code to provide an additional Federal penalty for certain Federal, State, and local criminal violations committed while released on Federal, State, or local bail, probation, parole, or other similar form of release.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/5851?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-03-16",
+            "latestAction": {
+                "actionDate": "1982-03-18",
+                "text": "Referred to Subcommittee on Crime."
+            },
+            "number": "5850",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend the Omnibus Crime Control and Safe Streets Act of 1968 to authorize the Law Enforcement Assistance Administration to make grants to carry out local programs to prevent community crime and to improve relations between residents and personnel of law enforcement agencies.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/5850?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-12-14",
+            "latestAction": {
+                "actionDate": "1981-12-14",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "5210",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to extend the delay in making any adjustment in the price support level of milk, to extend the time for conducting referenda with respect to marketing quotas for wheat, upland cotton, and rice, and to extend the authority to enter into agreements and programs of assistance under the Agricultural Trade Development and Assistance Act of 1954.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/5210?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-12-11",
+            "latestAction": {
+                "actionDate": "1981-12-11",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "5196",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to extend the delay in making any adjustment in the price support level for milk and to extend the time for conducting referenda with respect to the national marketing quotas for wheat and upland cotton.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/5196?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-09-10",
+            "latestAction": {
+                "actionDate": "1981-09-10",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "4460",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to repeal those provisions of the Economic Recovery Tax Act of 1981 which extended the credit against the windfall profit tax on domestic crude oil for royalty owners, which reduced the rate of such tax on newly discovered oil, and which exempted from such tax independent producer stripper well oil.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4460?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-05-20",
+            "latestAction": {
+                "actionDate": "1981-05-26",
+                "text": "Referred to Subcommittee on Energy Conservation and Power."
+            },
+            "number": "3653",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to amend the Public Utility Regulatory Policies Act of 1978 to prohibit retail electric and gas utility rate increases in excess of the cost of living.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/3653?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-03-31",
+            "latestAction": {
+                "actionDate": "1981-04-07",
+                "text": "Referred to Subcommittee on Crime."
+            },
+            "number": "2935",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Handgun Control Amendments Act of 1981",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/2935?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-06-02",
+            "latestAction": {
+                "actionDate": "1982-06-07",
+                "text": "Referred to Subcommittee on Inter-American Affairs."
+            },
+            "number": "497",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A joint resolution with regard to Presidential certifications on conditions in El Salvador.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/97/hjres/497?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-03-04",
+            "latestAction": {
+                "actionDate": "1982-03-04",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "424",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A joint resolution providing that the Secretary of Agriculture shall not adopt as final rules proposed rules issued on December 29, 1981, which would change the standards for grading carcass beef and slaughter cattle or issue proposed rules or adopt final rules identical in substance to such rules.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/97/hjres/424?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-10-01",
+            "latestAction": {
+                "actionDate": "1982-10-01",
+                "text": "Referred to Subcommittee on Health and the Environment."
+            },
+            "number": "608",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A resolution expressing the sense of the House that all bottles or containers of any kind which are used in the sale of non-prescription medicines must be packaged with a seal to clearly guarantee that the container has not been tampered with.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/97/hres/608?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-04-29",
+            "latestAction": {
+                "actionDate": "1982-05-06",
+                "text": "Referred to Subcommittee on Europe and the Middle East."
+            },
+            "number": "445",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution commending the completion of the current phase of the Camp David Agreement.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/97/hres/445?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-09-09",
+            "latestAction": {
+                "actionDate": "1981-09-09",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "210",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A resolution expressing the sense of the House that the Windfall Profits Tax Reduction Provisions contained in the Economic Recovery Tax Act of 1981 be repealed.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/97/hres/210?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-01-20",
+            "latestAction": {
+                "actionDate": "1981-03-11",
+                "text": "Subcommittee Consideration and Mark-up Session Held."
+            },
+            "number": "30",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A resolution urging the President to continue the embargo on exports of agricultural commodities to the Soviet Union as a result of its invasion and continued occupation of Afghanistan.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/97/hres/30?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-09-21",
+            "latestAction": {
+                "actionDate": "1982-10-01",
+                "text": "See H.J.Res.599."
+            },
+            "number": "410",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A concurrent resolution expressing the sense of the Congress with respect to a means test for the Medicare program.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/97/hconres/410?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-03",
+            "latestAction": {
+                "actionDate": "1973-01-03",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "1362",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Amy Estelle Sebro.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1362?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-03",
+            "latestAction": {
+                "actionDate": "1973-01-03",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "1363",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Waimir Turolla.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1363?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-03",
+            "latestAction": {
+                "actionDate": "1973-01-03",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "1359",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Vincenzo Lombardo and his wife, Gaetana Castrogiovanni Lombardo.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1359?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-03",
+            "latestAction": {
+                "actionDate": "1973-01-03",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "1358",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Giuseppe Cascone and his wife, Giovanna Cascone.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1358?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-03",
+            "latestAction": {
+                "actionDate": "1973-01-03",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "1360",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Celestina Martorana.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1360?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-03",
+            "latestAction": {
+                "actionDate": "1973-01-03",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "1361",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Giuseppe Praino, his wife, Vita Oranza Praino and their children, Salvatore, Michele, and Marcello.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1361?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-03",
+            "latestAction": {
+                "actionDate": "1973-01-03",
+                "text": "Referred to House Committee on Merchant Marine and Fisheries."
+            },
+            "number": "917",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "A bill to provide a program for honoring industry and other private efforts to contribute to the maintenance and enhancement of environmental quality.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/917?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-03",
+            "latestAction": {
+                "actionDate": "1973-01-03",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "915",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to amend the Railroad Retirement Act of 1937 to permit an annuitant to receive his annuity even though he renders compensated service for the outside employer by whom he was last employed before his annuity began to accrue.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/915?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-03",
+            "latestAction": {
+                "actionDate": "1973-01-03",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "914",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A bill to amend the Public Health Service Act to encourage physicians, dentists, optometrists, and other medical personnel to practice in areas where shortages of such personnel exist, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/914?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-03",
+            "latestAction": {
+                "actionDate": "1973-01-03",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "916",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to make it a Federal crime to kill or assault a fireman or law enforcement officer engaged in the performance of his duties when the offender travels in interstate commerce or uses any facility of interstate commerce for such purpose.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/916?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-03",
+            "latestAction": {
+                "actionDate": "1973-01-03",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "920",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A bill to prevent the use of heroin for any drug maintenance program.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/920?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-03",
+            "latestAction": {
+                "actionDate": "1973-01-03",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "919",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend title II of the Social Security Act to increase the amount of outside earnings permitted each year without any deductions from benefits thereunder.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/919?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-03",
+            "latestAction": {
+                "actionDate": "1973-01-03",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "918",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow a deduction from gross income for certain social security taxes, railroad retirement taxes, and civil service retirement contributions.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/918?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-03",
+            "latestAction": {
+                "actionDate": "1973-01-03",
+                "text": "Referred to House Committee on Government Operations."
+            },
+            "number": "912",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to grant child care centers status as educational institutions, and to assist such centers in raising capital by permitting donation of surplus Federal property for their use.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/912?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-03",
+            "latestAction": {
+                "actionDate": "1973-01-03",
+                "text": "Referred to House Committee on Banking and Currency."
+            },
+            "number": "908",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to repeal section 15 of the Urban Mass Transit Act of 1964, to remove certain limitations on the amount of grant assistance which may be available in any one State.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/908?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-03",
+            "latestAction": {
+                "actionDate": "1973-01-03",
+                "text": "Referred to House Committee on Appropriations."
+            },
+            "number": "906",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A bill making appropriations to carry out the lead-based paint poisoning prevention program for the fiscal years 1973 and 1974.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/906?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-03",
+            "latestAction": {
+                "actionDate": "1973-01-03",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "911",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend section 620 of the Foreign Assistance Act of 1961 to suspend, in whole or in part, economic and military assistance and certain sales to any country which fails to take appropriate steps to prevent narcotic drugs produced in such country from entering the United States unlawfully.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/911?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-03",
+            "latestAction": {
+                "actionDate": "1973-01-03",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "910",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "National Summer Youth Sports Program Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/910?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-03",
+            "latestAction": {
+                "actionDate": "1973-01-03",
+                "text": "Referred to House Committee on Banking and Currency."
+            },
+            "number": "907",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "National Environmental Financing Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/907?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-03",
+            "latestAction": {
+                "actionDate": "1973-01-03",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "909",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Consumer Education Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/909?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-03",
+            "latestAction": {
+                "actionDate": "1973-01-03",
+                "text": "Referred to House Committee on House Administration."
+            },
+            "number": "913",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A bill to amend chapter 9 of title 44, United States Code, to require the use of recycled paper in the printing of the Congressional Record.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/913?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-03",
+            "latestAction": {
+                "actionDate": "1973-01-03",
+                "text": "Referred to House Committee on Judiciary."
+            },
+            "number": "97",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution authorizing the President to proclaim the first Sunday of June of each year as \"American Youth Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/93/hjres/97?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-11-13",
+            "latestAction": {
+                "actionDate": "1980-11-13",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "8343",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Emergency Mass Transit Crime Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/8343?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-01-31",
+            "latestAction": {
+                "actionDate": "1980-01-31",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "6393",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to exclude $500 of interest on savings from the gross income of each individual who has attained age 65.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/6393?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-01-30",
+            "latestAction": {
+                "actionDate": "1980-01-30",
+                "text": "Referred to House Committee on Merchant Marine and Fisheries."
+            },
+            "number": "6361",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "A bill to amend the Marine Protection, Research, and Sanctuaries Act of 1972 in order to suspend temporarily the use of bioaccumulation and biomagnification testing in the evaluation of applications relating to ocean dumping of dredged material, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/6361?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-09-11",
+            "latestAction": {
+                "actionDate": "1979-09-11",
+                "text": "Referred to House Committee on Interior and Insular Affairs."
+            },
+            "number": "5236",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to amend the Mineral Leasing Act of 1920 to promote exploration for oil and gas on Federal lands.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/5236?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-09-11",
+            "latestAction": {
+                "actionDate": "1979-09-11",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "5237",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Fuel Stamp Act of 1979",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/5237?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-07-10",
+            "latestAction": {
+                "actionDate": "1979-07-10",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "4722",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to make permanent the exemption of gasohol from the Federal motor fuel excise taxes, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/4722?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-05-16",
+            "latestAction": {
+                "actionDate": "1979-05-16",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "4120",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to amend the Food Stamp Act of 1977 to provide for a medical expense deduction and to eliminate certain restrictions on excess shelter expense deductions with respect to households which are composed entirely of persons who are age 60 or older or who are recipients of benefits under title XVI of the Social Security Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/4120?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-05-03",
+            "latestAction": {
+                "actionDate": "1979-05-03",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "3912",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to provide for the same standard mileage rate to be used in determining the amount of income tax deductions for charitable and medical uses of automobiles as is used in determining the amount of income tax deductions for business uses of automobiles.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/3912?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-02-13",
+            "latestAction": {
+                "actionDate": "1979-02-13",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "2126",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to amend the Food Stamp Act of 1977 to eliminate certain restrictions on excess shelter expense deductions with respect to households which are composed entirely of persons who are age 65 or older or who are recipients of benefits under title XVI of the Social Security Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/2126?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-02-08",
+            "latestAction": {
+                "actionDate": "1979-02-08",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "2053",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow a deduction to tenants of houses or apartments for their proportionate share of the taxes and interest paid by their landlords.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/2053?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-22",
+            "latestAction": {
+                "actionDate": "1979-01-22",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "1238",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Soft Drink Interbrand Competition Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/1238?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-07-16",
+            "latestAction": {
+                "actionDate": "1979-07-16",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "378",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to provide timely and reliable energy supply information by requiring all domestic oil companies to furnish information monthly (for publication by the Secretary of Energy on their maximum refining capacity, the percentage of such capacity achieved, their crude oil supplies, and their inventory of refined petroleum products.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/96/hjres/378?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-06-28",
+            "latestAction": {
+                "actionDate": "1979-06-28",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "371",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A joint resolution to provide timely and reliable energy supply information by requiring all domestic oil companies to furnish information monthly (for publication by the Secretary of Energy) on their maximum refining capacity, the percentage of such capacity achieved, their crude oil supplies, and their inventory of refined petroleum products.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/96/hjres/371?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-05-29",
+            "latestAction": {
+                "actionDate": "1980-08-26",
+                "text": "Measure passed House."
+            },
+            "number": "689",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "A resolution expressing the sense of the House that it offer its congratulations to Americans who participated in the second Olympic Winter Games for the Physically Disabled in Cielo, Norway and to the organizations who helped to promote the event.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/96/hres/689?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-04-15",
+            "latestAction": {
+                "actionDate": "1980-04-15",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "636",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution expressing the sense of the House of Representatives in support of the President's actions with regard to the present crisis in Iran, in severing diplomatic relations with and imposing economic sanctions on the government of Iran and in taking other actions against Iran.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/96/hres/636?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-02-07",
+            "latestAction": {
+                "actionDate": "1980-02-27",
+                "text": "Motion to table measure passed House, roll call #84 (404-4)."
+            },
+            "number": "571",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A resolution of inquiry directing the Attorney General of the United States to furnish certain information to the House of Representatives.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/96/hres/571?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-01-22",
+            "latestAction": {
+                "actionDate": "1980-01-22",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "526",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution to express the sense of the House with respect to the participation of the United States in the 1980 Summer Olympics in Moscow.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/96/hres/526?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-12-06",
+            "latestAction": {
+                "actionDate": "1979-12-06",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "502",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A resolution urging the Senate to act promptly in its consideration of the pending legislation to impose a strong windfall profits tax.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/96/hres/502?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-15",
+            "latestAction": {
+                "actionDate": "1979-01-15",
+                "text": "Referred to House Committee on Rules."
+            },
+            "number": "34",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A resolution to request the Speaker of the House of Representatives to establish a Task Force on Federal Regulatory Practices.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/96/hres/34?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-11-18",
+            "latestAction": {
+                "actionDate": "1974-11-18",
+                "text": "Referred to House Committee on Judiciary."
+            },
+            "number": "17445",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to make Election Day a legal public holiday.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/17445?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-10-09",
+            "latestAction": {
+                "actionDate": "1974-10-09",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "17186",
+            "policyArea": {
+                "name": null
+            },
+            "title": "A bill to repeal the unnecessary commitment of Government funds to the Emergency Livestock Credit Act of 1974.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/17186?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-09-18",
+            "latestAction": {
+                "actionDate": "1974-09-18",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "16721",
+            "policyArea": {
+                "name": "Retail trade"
+            },
+            "title": "A bill to direct the Federal Trade Commission to conduct a study of the practice whereby supermarket food chains reprice food items after the item has been initially priced and offered for sale.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/16721?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-09-12",
+            "latestAction": {
+                "actionDate": "1974-09-12",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "16653",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to provide an immediate adjustment in the value of food stamp coupon allotments to be made during the period beginning November 1, 1974, and ending January 1, 1975, so that the value of such allotments will more accurately reflect the current rise in the cost of food.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/16653?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-09-19",
+            "latestAction": {
+                "actionDate": "1974-09-19",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "16759",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "A bill to prohibit the shipment in interstate commerce of dogs intended to be used to fight other dogs for purposes of sport, wagering or entertainment.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/16759?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-09-17",
+            "latestAction": {
+                "actionDate": "1974-09-17",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "16699",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to exclude from gross income the interest on deposits in certain savings institutions.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/16699?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-06-18",
+            "latestAction": {
+                "actionDate": "1974-06-18",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "15466",
+            "policyArea": {
+                "name": "Recreation"
+            },
+            "title": "A bill to amend the Comprehensive Employment and Training Act of 1973 to make it clear that the summer youth recreation program is to be operated in the same manner and on the same conditions as the program has been in the past.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/15466?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-05-21",
+            "latestAction": {
+                "actionDate": "1974-05-21",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "14924",
+            "policyArea": {
+                "name": "Petroleum industry"
+            },
+            "title": "A bill to provide for the reimbursement of regulated public utility companies engaged in the sale of electric power at the retail level for any amount expended for residual fuel oil which is more than $7.50 a barrel.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/14924?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-05-09",
+            "latestAction": {
+                "actionDate": "1974-05-09",
+                "text": "Referred to House Committee on Banking and Currency."
+            },
+            "number": "14720",
+            "policyArea": {
+                "name": "Credit"
+            },
+            "title": "Equal Credit Opportunity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/14720?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-05-09",
+            "latestAction": {
+                "actionDate": "1974-05-09",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "14719",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "A bill to amend section 428 of the Higher Education Act of 1965 to better assure that students will have reasonable access to loans to meet their postsecondary education costs.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/14719?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-04-09",
+            "latestAction": {
+                "actionDate": "1974-04-09",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "14074",
+            "policyArea": {
+                "name": "Women"
+            },
+            "title": "Women's Educational and Business Equity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/14074?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-04-03",
+            "latestAction": {
+                "actionDate": "1974-04-03",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "13941",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to correct certain inequities regarding the making and termination of appointments under Executive Order No. 11521, relating to veterans readjustment appointments for veterans of the Vietnam era, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/13941?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-04-03",
+            "latestAction": {
+                "actionDate": "1974-04-03",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "13942",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow a deduction for expenses incurred by a taxpayer in making repairs and improvements to his residence, and to allow the owner of rental housing to amortize at an accelerated rate the cost of rehabilitating or restoring such housing.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/13942?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-03-28",
+            "latestAction": {
+                "actionDate": "1974-03-28",
+                "text": "Referred to House Committee on House Administration."
+            },
+            "number": "13831",
+            "policyArea": {
+                "name": "Arts, Culture, Religion"
+            },
+            "title": "American Folklife Preservation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/13831?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-03-26",
+            "latestAction": {
+                "actionDate": "1974-03-26",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "13756",
+            "policyArea": {
+                "name": "Youth"
+            },
+            "title": "National Summer Youth Sports Program Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/13756?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-03-26",
+            "latestAction": {
+                "actionDate": "1974-03-26",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "13755",
+            "policyArea": {
+                "name": "Youth"
+            },
+            "title": "National Summer Youth Sports Program Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/13755?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-03-07",
+            "latestAction": {
+                "actionDate": "1974-03-07",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "13334",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "A bill to amend section 428 of the Higher Education Act of 1965 to better assure that students will have reasonable access to loans to meet their post-secondary education costs.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/13334?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-02-27",
+            "latestAction": {
+                "actionDate": "1974-02-27",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "13093",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend title 39, United States Code, to eliminate certain restrictions upon the methods of reproduction or duplication of periodical duplication to be entered and mailed second class mail.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/13093?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-02-14",
+            "latestAction": {
+                "actionDate": "1974-02-14",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "12841",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to make it clear that the bonus value of food stamps is to be included in the \"hold harmless\" amount guaranteed to recipients of supplemental security income benefits under the Social Security Amendments of 1972, so as to assure that recipients in cash-out States do not suffer reductions in the benefits they actually receive.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/12841?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-02-07",
+            "latestAction": {
+                "actionDate": "1974-02-07",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "12748",
+            "policyArea": {
+                "name": "Youth"
+            },
+            "title": "National Summer Youth Sports Program Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/12748?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-12-21",
+            "latestAction": {
+                "actionDate": "1973-12-21",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "12122",
+            "policyArea": {
+                "name": "Rape"
+            },
+            "title": "Rape Prevention and Control Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/12122?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-11-13",
+            "latestAction": {
+                "actionDate": "1973-11-13",
+                "text": "Referred to House Committee on Banking and Currency."
+            },
+            "number": "11442",
+            "policyArea": {
+                "name": "Credit"
+            },
+            "title": "Equal Credit Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/11442?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-11-07",
+            "latestAction": {
+                "actionDate": "1973-11-07",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "11316",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A bill to provide that the Secretary of State shall make certain compensatory payments to States and political subdivisions with respect to United Nations property tax exemptions.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/11316?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-10-10",
+            "latestAction": {
+                "actionDate": "1973-10-10",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "10849",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A bill to provide that the Secretary of State shall make certain compensatory payments to States and political subdivisions with respect to United Nations property tax exemptions.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/10849?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-10-02",
+            "latestAction": {
+                "actionDate": "1973-10-02",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "10649",
+            "policyArea": {
+                "name": "Child welfare"
+            },
+            "title": "Comprehensive Child Abuse Prevention and Treatment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/10649?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-09-27",
+            "latestAction": {
+                "actionDate": "1973-09-27",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "10592",
+            "policyArea": {
+                "name": "Child welfare"
+            },
+            "title": "Comprehensive Child Abuse Prevention and Treatment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/10592?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-09-26",
+            "latestAction": {
+                "actionDate": "1973-09-26",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "10572",
+            "policyArea": {
+                "name": "Child welfare"
+            },
+            "title": "Comprehensive Child Abuse Prevention and Treatment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/10572?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-09-26",
+            "latestAction": {
+                "actionDate": "1973-09-26",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "10552",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Comprehensive Child Abuse Prevention and Treatment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/10552?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-08-03",
+            "latestAction": {
+                "actionDate": "1973-08-03",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "9902",
+            "policyArea": {
+                "name": null
+            },
+            "title": "Employee Benefit Security Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/9902?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-06-18",
+            "latestAction": {
+                "actionDate": "1973-06-18",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "8772",
+            "policyArea": {
+                "name": "Fire fighters"
+            },
+            "title": "A bill to amend title 28 of the United States Code to exempt volunteer firemen from Federal jury duty.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/8772?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-06-14",
+            "latestAction": {
+                "actionDate": "1973-06-14",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "8691",
+            "policyArea": {
+                "name": null
+            },
+            "title": "Consumers' Nutritional Education Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/8691?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-05-31",
+            "latestAction": {
+                "actionDate": "1973-05-31",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "8312",
+            "policyArea": {
+                "name": "Youth"
+            },
+            "title": "Youth Camp Safety Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/8312?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-04-03",
+            "latestAction": {
+                "actionDate": "1973-04-03",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "6527",
+            "policyArea": {
+                "name": "Narcotic law and legislation"
+            },
+            "title": "A bill to place methaqualone on schedule II of controlled substances.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/6527?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-04-03",
+            "latestAction": {
+                "actionDate": "1973-04-03",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "6525",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "Federal Scholastic and Amateur Sports Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/6525?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-04-03",
+            "latestAction": {
+                "actionDate": "1973-04-03",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "6526",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "Federal Scholastic and Amateur Sports Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/6526?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-03-14",
+            "latestAction": {
+                "actionDate": "1973-03-14",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "5624",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "Federal Scholastic and Amateur Sports Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/5624?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-03-06",
+            "latestAction": {
+                "actionDate": "1973-03-06",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "5245",
+            "policyArea": {
+                "name": "Narcotics"
+            },
+            "title": "A bill to place methaqualone on schedule II of controlled substances.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/5245?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-02-28",
+            "latestAction": {
+                "actionDate": "1973-02-28",
+                "text": "Referred to House Committee on Government Operations."
+            },
+            "number": "4977",
+            "policyArea": {
+                "name": "Intergovernmental relations"
+            },
+            "title": "A bill to expand the membership of the Advisory Commission on Intergovernmental Relations to include elected school board officials.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/4977?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-02-28",
+            "latestAction": {
+                "actionDate": "1973-02-28",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "4976",
+            "policyArea": {
+                "name": "Narcotics"
+            },
+            "title": "Drug Abuse Education Amendments",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/4976?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-02-20",
+            "latestAction": {
+                "actionDate": "1973-02-20",
+                "text": "Referred to House Committee on Government Operations."
+            },
+            "number": "4399",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to expand the membership of the Advisory Commission on Intergovernmental Relations to include elected school board officials.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/4399?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-02-20",
+            "latestAction": {
+                "actionDate": "1973-02-20",
+                "text": "Referred to House Committee on Government Operations."
+            },
+            "number": "4400",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "A bill to expand the membership of the Advisory Commission on Intergovernmental Relations to include elected school board officials.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/4400?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-02-08",
+            "latestAction": {
+                "actionDate": "1973-02-08",
+                "text": "Referred to House Committee on Public Works."
+            },
+            "number": "4279",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 to eliminate the present requirement that relocation payments be excluded from the recipient's income for public assistance purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/4279?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-02-06",
+            "latestAction": {
+                "actionDate": "1973-02-06",
+                "text": "Referred to House Committee on House Administration."
+            },
+            "number": "3846",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A bill to amend chapter 9 of title 44, United States Code, to require the use of recycled paper in the printing of the Congressional Record.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/3846?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-02-06",
+            "latestAction": {
+                "actionDate": "1973-02-06",
+                "text": "Referred to House Committee on House Administration."
+            },
+            "number": "3847",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A bill to amend chapter 9 of title 44, United States Code, to require the use of recycled paper in the printing of the Congressional Record.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/3847?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-02-05",
+            "latestAction": {
+                "actionDate": "1973-02-05",
+                "text": "Referred to House Committee on Banking and Currency."
+            },
+            "number": "3677",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to repeal section 15 of the Urban Mass Transit Act of 1964, to remove certain limitations on the amount of grant assistance which may be available in any one State.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/3677?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-30",
+            "latestAction": {
+                "actionDate": "1973-01-30",
+                "text": "Referred to House Committee on Banking and Currency."
+            },
+            "number": "3293",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to repeal section 15 of the Urban Mass Transit Act of 1964, to remove certain limitations on the amount of grant assistance which may be available in any one State.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/3293?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-26",
+            "latestAction": {
+                "actionDate": "1973-01-26",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "3041",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "for the relief of Aurora Sulpizi.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/3041?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-22",
+            "latestAction": {
+                "actionDate": "1973-01-22",
+                "text": "Referred to House Committee on Banking and Currency."
+            },
+            "number": "2615",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to repeal section 15 of the Urban Mass Transit Act of 1964, to remove certain limitations on the amount of grant assistance which may be available in any one State.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/2615?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-15",
+            "latestAction": {
+                "actionDate": "1973-01-15",
+                "text": "Referred to House Committee on Banking and Currency."
+            },
+            "number": "2105",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to provide that no State development agency shall be entitled to receive Federal financial assistance in any form unless it provides satisfactory assurances that it will take no action inconsistent with local zoning laws.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/2105?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-11",
+            "latestAction": {
+                "actionDate": "1973-01-11",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "1841",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide for a refund of the manufacturers excise tax on certain tires, tubes, and tread rubber used by local transit systems furnishing commuter service.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1841?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-11",
+            "latestAction": {
+                "actionDate": "1973-01-11",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "1839",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow a deduction to tenants of houses or apartments for their proportionate share of the taxes and interest paid by their landlords.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1839?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-11",
+            "latestAction": {
+                "actionDate": "1973-01-11",
+                "text": "Referred to House Committee on Judiciary."
+            },
+            "number": "1835",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "A bill to amend title 28 of the United States Code to exempt volunteer firemen from Federal jury duty.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1835?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-11",
+            "latestAction": {
+                "actionDate": "1973-01-11",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "1831",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to provide that foreign made products be labeled to show the country of origin, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1831?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-11",
+            "latestAction": {
+                "actionDate": "1973-01-11",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "1827",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Student Transportation Safety Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1827?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-11",
+            "latestAction": {
+                "actionDate": "1973-01-11",
+                "text": "Referred to House Committee on Banking and Currency."
+            },
+            "number": "1823",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Emergency Mass Transit Passenger Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1823?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-11",
+            "latestAction": {
+                "actionDate": "1973-01-11",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "1837",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to provide for the issuance of a special postage stamp in commemoration of the life and work of Dr. Enrico Fermi.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1837?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-11",
+            "latestAction": {
+                "actionDate": "1973-01-11",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "1833",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Hypodermic Needle and Syringe Control Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1833?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-11",
+            "latestAction": {
+                "actionDate": "1973-01-11",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "1829",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Employment of the Skills, Talents, and Experience of Older Persons Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1829?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-11",
+            "latestAction": {
+                "actionDate": "1973-01-11",
+                "text": "Referred to House Committee on Banking and Currency."
+            },
+            "number": "1825",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Older Persons Transportation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1825?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-11",
+            "latestAction": {
+                "actionDate": "1973-01-11",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "1826",
+            "policyArea": {
+                "name": null
+            },
+            "title": "Employee Pension Benefit Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1826?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-11",
+            "latestAction": {
+                "actionDate": "1973-01-11",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "1830",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Bill of Rights for the Mentally Retarded",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1830?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-11",
+            "latestAction": {
+                "actionDate": "1973-01-11",
+                "text": "Referred to House Committee on Judiciary."
+            },
+            "number": "1834",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend the Omnibus Crime Control and Safe Streets Act of 1968 to provide a system for the redress of law enforcement officers' grievances and to establish a law enforcement officers' bill of rights in each of the several States, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1834?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-11",
+            "latestAction": {
+                "actionDate": "1973-01-11",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "1838",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veterans Employment and Readjustment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1838?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-11",
+            "latestAction": {
+                "actionDate": "1973-01-11",
+                "text": "Referred to House Committee on Banking and Currency."
+            },
+            "number": "1824",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend the Urban Mass Transportation Act of 1964 to make it clear that a mass transportation system must include provision for meeting the special needs of the elderly in order to qualify for financial assistance thereunder.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1824?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-11",
+            "latestAction": {
+                "actionDate": "1973-01-11",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "1828",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "A bill to amend the Elementary and Secondary Education Act of 1965 to protect schoolchildren from certain persons convicted of criminal behavior.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1828?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-11",
+            "latestAction": {
+                "actionDate": "1973-01-11",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "1832",
+            "policyArea": {
+                "name": null
+            },
+            "title": "A bill to amend the Federal Trade Commission Act (15 U.S.C. 41) to provide that under certain circumstances exclusive territorial arrangements shall not be deemed unlawful.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1832?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-11",
+            "latestAction": {
+                "actionDate": "1973-01-11",
+                "text": "Referred to House Committee on Merchant Marine and Fisheries."
+            },
+            "number": "1836",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to amend the Outer Continental Shelf Lands Act, to establish a National Marine Mineral Resources Trust, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1836?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-11",
+            "latestAction": {
+                "actionDate": "1973-01-11",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "1840",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to increase the amount of refund payable with respect to fuels used by local transit systems for commuter service.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1840?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-06",
+            "latestAction": {
+                "actionDate": "1973-01-06",
+                "text": "Referred to House Committee on Interior and Insular Affairs."
+            },
+            "number": "1411",
+            "policyArea": {
+                "name": null
+            },
+            "title": "Coal Mine Surface Area Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1411?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-06",
+            "latestAction": {
+                "actionDate": "1973-01-06",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "1410",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "A bill to amend the Elementary and Secondary Education Act of 1965 to provide Federal assistance for interscholastic athletic programs in secondary schools associated with community improvement programs.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1410?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-06",
+            "latestAction": {
+                "actionDate": "1973-01-06",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "1413",
+            "policyArea": {
+                "name": "Federal aid programs"
+            },
+            "title": "A bill to amend the Social Security Act to provide that future increases in retirement or disability benefits under Federal programs shall not be taken into consideration in determining a person's need for aid or assistance under any of the Federal-State public assistance programs.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1413?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-06",
+            "latestAction": {
+                "actionDate": "1973-01-06",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "1412",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to repeal the limitation imposed by section 1130 of the Social Security Act upon the amount payable to States as grants for social services under the various Federal-State public assistance programs, such as day care.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/1412?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-04-08",
+            "latestAction": {
+                "actionDate": "1974-04-08",
+                "text": "Referred to House Committee on Judiciary."
+            },
+            "number": "970",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Joint resolution to authorize the President to issue a proclamation designating the month of May 1974, as National Arthritis Month.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/93/hjres/970?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-03-01",
+            "latestAction": {
+                "actionDate": "1973-03-01",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "398",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Joint resolution to authorize and request the President to proclaim April 29, 1973, as a day of observance of the 30th anniversary of the Warsaw ghetto uprising.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/93/hjres/398?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-02-20",
+            "latestAction": {
+                "actionDate": "1973-02-20",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "349",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Joint resolution to authorize the President to proclaim the 22d day of April of each year as Queen Isabella Day.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/93/hjres/349?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-11",
+            "latestAction": {
+                "actionDate": "1973-01-11",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "172",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Joint resolution expressing the sense of the Congress with respect to the foreign economic policy of the United States in connection with its relations with the Soviet Union and any other country which uses arbitrary and discriminatory methods to limit the right of emigration.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/93/hjres/172?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-11",
+            "latestAction": {
+                "actionDate": "1973-01-11",
+                "text": "Referred to House Committee on Rules."
+            },
+            "number": "173",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Joint resolution to establish a Joint Committee on the Environment.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/93/hjres/173?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-10-03",
+            "latestAction": {
+                "actionDate": "1973-10-03",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "577",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Resolution that it is the sense of the House that the U.S. Ambassador to Austria be withdrawn until the Austrian Government reinstates its policy permitting transit for Soviet Jews.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/93/hres/577?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-10-01",
+            "latestAction": {
+                "actionDate": "1973-10-01",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "571",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Resolution that it is the sense of the House that the U.S. Ambassador to Austria be withdrawn until the Austrian Government reinstates its policy permitting transit for Soviet Jews.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/93/hres/571?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-11",
+            "latestAction": {
+                "actionDate": "1973-01-11",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "120",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution calling for peace in Northern Ireland and the establishment of a united Ireland.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/93/hres/120?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-11",
+            "latestAction": {
+                "actionDate": "1973-01-11",
+                "text": "Referred to House Committee on House Administration."
+            },
+            "number": "121",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A resolution providing for two additional student congressional interns for Members of the House of Representatives, the Resident Commissioner from Puerto Rico, and the Delegate from the District of Columbia.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/93/hres/121?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-11",
+            "latestAction": {
+                "actionDate": "1973-01-11",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "119",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution relative to Irish National self-determination.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/93/hres/119?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-09-11",
+            "latestAction": {
+                "actionDate": "1974-09-11",
+                "text": "Referred to House Committee on Judiciary."
+            },
+            "number": "633",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Concurrent resolution expressing the sense of Congress regarding Presidential pardons in the Watergate affair.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/93/hconres/633?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-02-08",
+            "latestAction": {
+                "actionDate": "1973-02-08",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "116",
+            "policyArea": {
+                "name": "Automobile insurance"
+            },
+            "title": "Concurrent resolution expressing the sense of Congress with respect to establishing a no-fault system of motor vehicle insurance.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/93/hconres/116?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-11",
+            "latestAction": {
+                "actionDate": "1973-01-11",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "64",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A concurrent resolution calling for the humane treatment and release of American prisoners of war held by North Vietnam and the National Liberation Front.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/93/hconres/64?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-11",
+            "latestAction": {
+                "actionDate": "1973-01-11",
+                "text": "Referred to House Committee on Interstate adn Foreign Commerce."
+            },
+            "number": "66",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A concurrent resolution expressing congressional recognition of a declaration of general and special rights of the mentally retarded.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/93/hconres/66?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-11",
+            "latestAction": {
+                "actionDate": "1973-01-11",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "65",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Concurrent resolution to relieve the suppression of Soviet Jewry.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/93/hconres/65?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-09-29",
+            "latestAction": {
+                "actionDate": "1976-09-29",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "15761",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to authorize the Secretary of Health, Education, and Welfare to develop and carry out demonstration and evaluation projects to evaluate the benefits of computer-based medical information patient care systems.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/15761?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-08-25",
+            "latestAction": {
+                "actionDate": "1976-08-25",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "15264",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend title 18 of the United States Code to provide for the review of sentences imposed in certain criminal cases involving physical violence or crimes committed with a firearm, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/15264?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-08-25",
+            "latestAction": {
+                "actionDate": "1976-08-25",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "15277",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Mrs. Vibeke McCready.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/15277?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-07-19",
+            "latestAction": {
+                "actionDate": "1976-07-19",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "14725",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend the Antihijacking Act of 1974 to extend the protections afforded by that Act to common carriers of passengers for hire.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/14725?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-05-13",
+            "latestAction": {
+                "actionDate": "1976-05-13",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "13803",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Fr. Raphael Corneil and Gabriel La Paz.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/13803?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-04-28",
+            "latestAction": {
+                "actionDate": "1976-04-28",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "13405",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to increase from 10 to 15 years the period during which veterans and certain wives and widows of veterans are eligible for educational assistance.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/13405?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-03-30",
+            "latestAction": {
+                "actionDate": "1976-03-30",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "12890",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Peanut Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/12890?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-03-18",
+            "latestAction": {
+                "actionDate": "1976-03-18",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "12638",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Emergency Education Revenue Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/12638?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-03-18",
+            "latestAction": {
+                "actionDate": "1976-03-18",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "12637",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to restrict changes in the standards for slaughter cattle and carcass beef, and to direct the Secretary of Agriculture to create a different and nondeceptive grade of beef.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/12637?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-03-03",
+            "latestAction": {
+                "actionDate": "1976-03-03",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "12273",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Peanut Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/12273?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-02-25",
+            "latestAction": {
+                "actionDate": "1976-02-25",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "12102",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to restrict changes in the standards for slaughter cattle and carcass beef, and to direct the Secretary of Agriculture to create a different and nondeceptive grade of beef.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/12102?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-02-19",
+            "latestAction": {
+                "actionDate": "1976-02-19",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "11991",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Emergency Education Revenue Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/11991?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-02-09",
+            "latestAction": {
+                "actionDate": "1976-02-09",
+                "text": "Referred to House Committee on House Administration."
+            },
+            "number": "11782",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Congressional Campaign Financing Equalization Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/11782?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-02-03",
+            "latestAction": {
+                "actionDate": "1976-02-03",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "11668",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Emergency Education Revenue Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/11668?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-10-06",
+            "latestAction": {
+                "actionDate": "1975-10-06",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "10047",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend the XX of the Social Security Act to provide that not State shall be required to apply a means test, or limit benefits on the basis of federally prescribed income levels, in determining the individuals for whom education, transportation, recreation, socialization, or associated services may be provided thereunder, if such services are provided in a manner consistent with certain specified State programs.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/10047?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-09-17",
+            "latestAction": {
+                "actionDate": "1975-09-17",
+                "text": "Referred to House Committee on Standards of Official Conduct."
+            },
+            "number": "9672",
+            "policyArea": {
+                "name": "Lobbying"
+            },
+            "title": "Public Disclosure of Lobbying Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/9672?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-09-09",
+            "latestAction": {
+                "actionDate": "1975-09-09",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "9478",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Dairy Producers Bill of Rights Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/9478?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-08-01",
+            "latestAction": {
+                "actionDate": "1975-08-01",
+                "text": "Referred to House Committee on International Relations."
+            },
+            "number": "9260",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Grain Export Control Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/9260?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-07-31",
+            "latestAction": {
+                "actionDate": "1975-07-31",
+                "text": "Referred to House Committee on International Relations."
+            },
+            "number": "9128",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Grain Export Control Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/9128?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-07-31",
+            "latestAction": {
+                "actionDate": "1975-07-31",
+                "text": "Referred to House Committee on International Relations."
+            },
+            "number": "9129",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Grain Export Control Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/9129?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-07-25",
+            "latestAction": {
+                "actionDate": "1975-07-25",
+                "text": "Referred to House Committee on International Relations."
+            },
+            "number": "8928",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Grain Export Control Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/8928?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-07-22",
+            "latestAction": {
+                "actionDate": "1975-07-22",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "8826",
+            "policyArea": {
+                "name": "Fires"
+            },
+            "title": "Burn Facilities Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/8826?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-07-11",
+            "latestAction": {
+                "actionDate": "1975-07-11",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "8587",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend title XX of the Social Security Act to provide that no State shall be required to apply a means test, or limit benefits on the basis of federally prescribed income levels, in determining the individuals for whom education, transportation, recreation, socialization, or associated services may be provided thereunder, if such services are provided in a manner consistent with certain specified State programs.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/8587?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-06-17",
+            "latestAction": {
+                "actionDate": "1975-06-17",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "7984",
+            "policyArea": {
+                "name": null
+            },
+            "title": "A bill to protect the economic rights of labor in the building and construction industry by providing for equal treatment of craft and industrial workers.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/7984?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-06-12",
+            "latestAction": {
+                "actionDate": "1975-06-12",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "7868",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Public Safety Emergency Aid Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/7868?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-06-06",
+            "latestAction": {
+                "actionDate": "1975-06-06",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "7701",
+            "policyArea": {
+                "name": "Fire fighters"
+            },
+            "title": "Public Safety Emergency Aid Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/7701?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-06-06",
+            "latestAction": {
+                "actionDate": "1975-06-06",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "7702",
+            "policyArea": {
+                "name": "Municipal services"
+            },
+            "title": "Public Safety Emergency Aid Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/7702?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-06-05",
+            "latestAction": {
+                "actionDate": "1975-06-05",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "7641",
+            "policyArea": {
+                "name": "Government corporations"
+            },
+            "title": "Higher Education Reconstruction Finance Corporation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/7641?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-05-08",
+            "latestAction": {
+                "actionDate": "1975-05-08",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "6837",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Public Safety Emergency Aid Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/6837?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-04-30",
+            "latestAction": {
+                "actionDate": "1975-04-30",
+                "text": "Referred to House Committee on Small Business."
+            },
+            "number": "6536",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "A bill to amend the Small Business Act to include small business establishments primarily engaged in the production of cow's milk for purposes of obtaining loans to assist them in meeting the requirements established under the Federal Water Pollution Control Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/6536?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-04-16",
+            "latestAction": {
+                "actionDate": "1975-04-16",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "6036",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to restrict changes in the standards for slaughter cattle and carcass beef.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/6036?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-04-08",
+            "latestAction": {
+                "actionDate": "1975-04-08",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "5704",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to restrict changes in the standards for slaughter cattle and carcass beef.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/5704?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-04-08",
+            "latestAction": {
+                "actionDate": "1975-04-08",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "5739",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to restrict changes in the standards for slaughter cattle and carcass beef.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/5739?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-03-26",
+            "latestAction": {
+                "actionDate": "1975-03-26",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "5534",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Summer Food Corps Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/5534?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-03-24",
+            "latestAction": {
+                "actionDate": "1975-03-24",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "5386",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "A bill to continue the special food service program for children through September 30, 1975.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/5386?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-03-20",
+            "latestAction": {
+                "actionDate": "1975-03-20",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "5266",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to restrict changes in the standards for slaughter cattle and carcass beef.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/5266?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-03-06",
+            "latestAction": {
+                "actionDate": "1975-03-06",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "4441",
+            "policyArea": {
+                "name": "Open space lands"
+            },
+            "title": "A bill to prevent the estate tax law from operating to encourage or to require the destruction of open lands and historic places, by amending the Internal Revenue Code of 1954 to provide that real property which is farmland, woodland, or open land and forms part of an estate may be valued, for estate tax purposes, at its value as farmland, woodland, or open land (rather than at its fair market value), and to provide that real property which is listed on the National Register of Historic Places may be valued, for estate tax purposes, at its value for its existing use, and to provide for the revocation of such lower evaluation and recapture of unpaid taxes with interest in appropriate circumstances.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/4441?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-02-25",
+            "latestAction": {
+                "actionDate": "1975-02-25",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "3688",
+            "policyArea": {
+                "name": "Nutrition"
+            },
+            "title": "Consumers' Nutritional Education Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/3688?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-02-25",
+            "latestAction": {
+                "actionDate": "1975-02-25",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "3684",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend the Older Americans Act of 1965 to provide that the Secretary of Agriculture shall buy beef and beef products for donation to nutritional programs for the elderly during fiscal years 1975 and 1976.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/3684?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-02-25",
+            "latestAction": {
+                "actionDate": "1975-02-25",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "3687",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to exclude from gross income the interest on deposits in certain savings institutions.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/3687?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-02-25",
+            "latestAction": {
+                "actionDate": "1975-02-25",
+                "text": "Referred to House Committee on House Administration."
+            },
+            "number": "3685",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to authorize the Secretary of the Interior to establish a National Law Enforcement Heroes Memorial within the District of Columbia.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/3685?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-02-25",
+            "latestAction": {
+                "actionDate": "1975-02-25",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "3686",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend title II of the Social Security Act so as to liberalize the conditions governing eligibility of blind persons to receive disability insurance benefits thereunder.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/3686?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-02-03",
+            "latestAction": {
+                "actionDate": "1975-02-03",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "2612",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to amend the Food Stamp Act of 1964.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/2612?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-20",
+            "latestAction": {
+                "actionDate": "1975-01-20",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "2082",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to amend the Food Stamp Act of 1964.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/2082?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "1364",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to amend the Hazardous Materials Transportation Control Act of 1970 to require the Secretary of Transportation to issue regulations providing for the placarding of certain vehicles transporting materials in interstate and foreign commerce.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/1364?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "1365",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A bill to amend title XVIII of the Social Security Act to provide for the establishment of a Nursing Home Affairs Advisory Council.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/1365?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "1361",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A bill to amend title XIX of the Social Security Act to impose certain requirements relating to the discharge or transfer or medicaid patients from skilled nursing or intermediate care facilities.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/1361?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Interior and Insular Affairs."
+            },
+            "number": "1363",
+            "policyArea": {
+                "name": "Continental shelf"
+            },
+            "title": "A bill to amend the Outer Continental Shelf Lands Act, to establish a National Marine Mineral Resources Trust.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/1363?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "1360",
+            "policyArea": {
+                "name": "Consumer education"
+            },
+            "title": "Consumers' Nutritional Education Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/1360?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "1362",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A bill to amend the Social Security Act to provide for the furnishing of rehabilitative services to inpatients of long-term care facilities.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/1362?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "1366",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A bill to amend the Social Security Act so as to make permanent certain temporary provisions relating to inspections of long-term care institutions, to provide for the publication of certain information regarding such institutions, and requiring that such institutions provide certain training for their nonprofessional employees as a condition of participation in the medicare and medicaid programs.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/1366?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "840",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "A bill to amend the Railroad Retirement Act of 1937 to permit an annuitant to receive his annuity even though he renders compensated service for the outside employer by whom he was last employed before his annuity began to accrue.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/840?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "844",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to make it a Federal crime to kill or assault a fireman or law enforcement officer engaged in the performance of his duties when the offender travels in interstate commerce or uses any facility of interstate commerce for such purpose.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/844?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Government Operations."
+            },
+            "number": "864",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to provide that the Secretary of State shall make certain compensatory payments to States and political subdivisions with respect to United Nations property tax exceptions.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/864?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "860",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend title XVI of the Social Security Act to provide for emergency replacement payments to recipients of supplemental security income benefits, to authorize cost-of-living increases in such benefits, to insure that all beneficiaries receive such increases, to prevent reductions in such benefits because of social security benefit increases, to provide reimbursement to States for home relief payments to disabled applicants prior to determination of their disability, to permit payment of such benefits in limited circumstances directly to drug addicts and alcoholics (without a third-party payee), to restore food stamp eligibility to all supplemental security income recipients, to provide for expeditious action on applications for benefits, to amend eligibility requirements tor separated spouses, to allow judicial review of eligibility determinations.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/860?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "856",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow a deduction to tenants of houses or apartments for their proportionate share of the taxes and interest paid by their landlords.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/856?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "836",
+            "policyArea": {
+                "name": "Nutrition"
+            },
+            "title": "A bill to amend the Federal Food, Drug, and Cosmetic Act to require the establishment of standards for a grading system by which retail purchasers may determine the relative nutritional value of different foods.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/836?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Public Works and Transportation."
+            },
+            "number": "852",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Older Persons Transportation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/852?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Public Works and Transportation."
+            },
+            "number": "848",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Anti Hijacking Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/848?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Public Works and Transportation."
+            },
+            "number": "851",
+            "policyArea": {
+                "name": "Relocation"
+            },
+            "title": "A bill to amend the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 to eliminate the present requirement that relocation payments be excluded from the recipient's income for public assistance purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/851?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "855",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow a deduction from gross income for certain social security taxes, railroad retirement taxes, and civil service retirement contributions.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/855?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "859",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Anti-Architectural Barriers Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/859?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "863",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend title II of the Social Security Act to increase the amount of outside earnings permitted each year without any deductions from benefits thereunder.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/863?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Foreign Affairs (Subsequently: International Relations)."
+            },
+            "number": "833",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Export Priorities Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/833?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Banking, Currency and Housing."
+            },
+            "number": "823",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A bill to amend section 232 of the National Housing Act to provide insurance for loans to finance improvements to long-term care facilities required to correct deficiencies identified in State surveys and Federal certification procedures.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/823?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "865",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A bill to prevent the use of heroin for any drug maintenance program.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/865?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "861",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend the Social Security Act to provide that future increases in retirement or disability benefits under Federal programs shall not be taken into consideration in determining a person's need for aid or assistance under any of the Federal-State public assistance programs and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/861?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "857",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide for a refund of the manufactures excise tax on certain tires, tubes, and tread rubber used by local transit systems furnishing commuter service.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/857?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "853",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow a deduction for expenses incurred by a taxpayer in making repairs and improvements to his residence, and to allow the owner of rental housing to amortize at an accelerated rate the cost of rehabilitating or restoring such housing.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/853?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Public Works and Transportation."
+            },
+            "number": "849",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A bill to extend the duties of the Executive Protective Service to include the protection of the United Nations buildings in New York City.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/849?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "845",
+            "policyArea": {
+                "name": "Fire fighters"
+            },
+            "title": "A bill to amend title 28 of the United States Code to exempt volunteer firemen from Federal jury duty.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/845?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "841",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to provide that foreign made products be labeled to show the country of origin.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/841?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "837",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to direct the Federal Trade Commission to conduct a study of the practice whereby supermarket food chains reprice food items after the item has been initially priced and offered for sale.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/837?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "829",
+            "policyArea": {
+                "name": null
+            },
+            "title": "Employment of the Skills, Talents, and Experience of Older Persons Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/829?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "827",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "A bill to amend section 428 of the Higher Education Act of 1965 to better assure that students will have reasonable access to loans to meet their postsecondary education costs.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/827?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "831",
+            "policyArea": {
+                "name": "Athletes"
+            },
+            "title": "Federal Scholastic and Amateur Sports Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/831?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on House Administration."
+            },
+            "number": "835",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A bill to amend chapter 9 of title 44, United States Code, to require the use of recycled paper in the printing of the Congressional Record.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/835?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "839",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "A bill to amend the Flammable Fabrics Act to extend the provisions of that act to construction materials used in the interiors of homes, offices, and other places of assembly or accommodation, and to authorize the establishment of toxicity standards.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/839?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "843",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend the Omnibus Crime Control and Safe Streets Act of 1968 to provide a system for the redress of law enforcement officers' grievances and to establish a law enforcement officers' bill of rights in each of the several States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/843?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "847",
+            "policyArea": {
+                "name": "Philately"
+            },
+            "title": "A bill to provide for the issuance of a special postage stamp in commemoration of the life and work of Dr. Enrico Fermi.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/847?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Foreign Affairs (Subsequently: International Relations)."
+            },
+            "number": "832",
+            "policyArea": {
+                "name": "Narcotic traffic"
+            },
+            "title": "A bill to amend section 620 of the Foreign Assistance Act of 1961 to suspend, in whole or in part, economic and military assistance and certain sales to any country which fails to take appropriate steps to prevent narcotic drugs produced in such country from entering the United States unlawfully.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/832?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "828",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Older Americans Amendments",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/828?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Banking, Currency and Housing."
+            },
+            "number": "824",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "Housing Enforcement Assistance Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/824?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "846",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to make Election Day a legal public holiday.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/846?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "842",
+            "policyArea": {
+                "name": "Narcotic addiction"
+            },
+            "title": "Hypodermic Needle and Syringe Control Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/842?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "838",
+            "policyArea": {
+                "name": "Mentally handicapped"
+            },
+            "title": "Bill of Rights for the Mentally Retarded",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/838?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Banking, Currency and Housing."
+            },
+            "number": "825",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "A bill to provide that no State development agency shall be entitled to receive Federal financial assistance in any form unless it provides satisfactory assurances that it will take no action inconsistent with local zoning laws.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/825?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Government Operations."
+            },
+            "number": "834",
+            "policyArea": {
+                "name": "Day care"
+            },
+            "title": "A bill to grant child care centers status as educational institutions, and to assist such centers in raising capital by permitting donation of surplus Federal property for their use.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/834?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "830",
+            "policyArea": {
+                "name": "Athletics"
+            },
+            "title": "A bill to amend the Elementary and Secondary Education Act of 1965 to provide Federal assistance for interscholastic athletic programs in secondary schools associated with community improvement programs.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/830?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "826",
+            "policyArea": {
+                "name": "Consumer education"
+            },
+            "title": "Consumer Education Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/826?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "862",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to repeal the limitation imposed by section 1130 of the Social Security Act upon the amount payable to States as grants for social services under the various Federal-State public assistance programs, such as day care.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/862?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "858",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to increase the amount of refund payable with respect to fuels used by local transit systems for commuter service.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/858?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "854",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow a credit against the individual income tax for tuition paid for the elementary or secondary education of dependents.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/854?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-14",
+            "latestAction": {
+                "actionDate": "1975-01-14",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "822",
+            "policyArea": {
+                "name": "Livestock industry"
+            },
+            "title": "A bill to repeal the unnecessary commitment of Government funds to the Emergency Livestock Credit Act of 1974.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/822?format=json"
+        }
+    ]
+}

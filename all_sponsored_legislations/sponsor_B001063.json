@@ -1,0 +1,84 @@
+{
+    "pagination": {
+        "count": 5
+    },
+    "request": {
+        "bioguideId": "b001063",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "312",
+            "congress": 104,
+            "introducedDate": "1995-03-22",
+            "latestAction": {
+                "actionDate": "1995-03-22",
+                "actionTime": "19:54:00",
+                "text": "On agreeing to the Bunn amendment (A005) Agreed to by recorded vote: 351 - 81 (Roll no. 260). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/312?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-07-10",
+            "latestAction": {
+                "actionDate": "1996-07-25",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3769",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "O&C Forest Transfer Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3769?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-02-01",
+            "latestAction": {
+                "actionDate": "1996-02-09",
+                "text": "Referred to the Subcommittee on Courts and Intellectual Property."
+            },
+            "number": "2935",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Ninth Circuit Court of Appeals Reorganization Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2935?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-10-19",
+            "latestAction": {
+                "actionDate": "1995-11-06",
+                "text": "Referred to the Subcommittee on Crime."
+            },
+            "number": "2507",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "To disapprove Amendment number 8 of the \"Amendments to the Sentencing Guidelines, Policy Statements, and Official Commentary\", submitted by the United States Sentencing Commission to Congress on May 1, 1995.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2507?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-09-19",
+            "latestAction": {
+                "actionDate": "1995-09-21",
+                "text": "Sponsor introductory remarks on measure. (CR H9367)"
+            },
+            "number": "2351",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Congressional Pay Accountability Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2351?format=json"
+        }
+    ]
+}

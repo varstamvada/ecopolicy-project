@@ -1,0 +1,164 @@
+{
+    "pagination": {
+        "count": 12
+    },
+    "request": {
+        "bioguideId": "d000106",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "878",
+            "congress": 100,
+            "introducedDate": "1988-09-14",
+            "latestAction": {
+                "actionDate": "1988-09-14",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/878?format=json"
+        },
+        {
+            "amendmentNumber": "885",
+            "congress": 100,
+            "introducedDate": "1988-09-15",
+            "latestAction": {
+                "actionDate": "1988-09-15",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/885?format=json"
+        },
+        {
+            "amendmentNumber": "817",
+            "congress": 100,
+            "introducedDate": "1988-07-12",
+            "latestAction": {
+                "actionDate": "1988-07-12",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/817?format=json"
+        },
+        {
+            "amendmentNumber": "820",
+            "congress": 100,
+            "introducedDate": "1988-07-12",
+            "latestAction": {
+                "actionDate": "1988-07-12",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/820?format=json"
+        },
+        {
+            "amendmentNumber": "591",
+            "congress": 100,
+            "introducedDate": "1988-02-17",
+            "latestAction": {
+                "actionDate": "1988-02-17",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/591?format=json"
+        },
+        {
+            "amendmentNumber": "322",
+            "congress": 100,
+            "introducedDate": "1987-07-08",
+            "latestAction": {
+                "actionDate": "1987-07-08",
+                "text": "Point of Order Sustained Against Amendment in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/322?format=json"
+        },
+        {
+            "amendmentNumber": "155",
+            "congress": 100,
+            "introducedDate": "1987-05-20",
+            "latestAction": {
+                "actionDate": "1987-05-20",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 74 - 347 (Record Vote No: 138). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/155?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-10-05",
+            "latestAction": {
+                "actionDate": "1988-11-15",
+                "text": "Referred to Subcommittee on Health and the Environment."
+            },
+            "number": "5463",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to repeal the Medicare Catastrophic Coverage Act of 1988.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/5463?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-03-10",
+            "latestAction": {
+                "actionDate": "1988-03-16",
+                "text": "Referred to Subcommittee on Investigations."
+            },
+            "number": "4128",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Defense Industrial Base Preservation Act of 1988",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4128?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-12-16",
+            "latestAction": {
+                "actionDate": "1988-05-03",
+                "text": "Unfavorable Executive Comment Received From DOD."
+            },
+            "number": "3771",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to require the Secretary of Defense to reduce United States troops in countries that do not reimburse the United States for certain costs of negative currency fluctuations.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3771?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-06-10",
+            "latestAction": {
+                "actionDate": "1987-06-16",
+                "text": "Referred to Subcommittee on Merchant Marine."
+            },
+            "number": "2645",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to require the prior approval of the Secretary of State and the Secretary of Defense before a vessel previously registered under the laws of a foreign country may be documented under the laws of the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2645?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-10-03",
+            "latestAction": {
+                "actionDate": "1988-10-17",
+                "text": "Referred to Subcommittee on Human Rights and International Organizations."
+            },
+            "number": "382",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution concerning the policy of the United States regarding the use of chemical weapons.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/100/hconres/382?format=json"
+        }
+    ]
+}

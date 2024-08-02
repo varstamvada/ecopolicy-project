@@ -1,0 +1,576 @@
+{
+    "pagination": {
+        "count": 38
+    },
+    "request": {
+        "bioguideId": "b000134",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "269",
+            "congress": 107,
+            "introducedDate": "2001-07-30",
+            "latestAction": {
+                "actionDate": "2001-07-30",
+                "actionTime": "23:10:49",
+                "text": "On agreeing to the Barcia amendment (A024) Failed by recorded vote: 99 - 325 (Roll no. 293). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/hamdt/269?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-09-24",
+            "latestAction": {
+                "actionDate": "2002-10-08",
+                "text": "Referred to the Subcommittee on Energy and Air Quality."
+            },
+            "number": "5433",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Motorcycle and Motorcycling Small Business Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5433?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-07-23",
+            "latestAction": {
+                "actionDate": "2002-07-25",
+                "text": "Referred to the Subcommittee on Water Resources and Environment."
+            },
+            "number": "5183",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Water Quality Investment Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5183?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-07-09",
+            "latestAction": {
+                "actionDate": "2002-07-16",
+                "text": "Referred to the Subcommittee on Environment, Technology, and Standards."
+            },
+            "number": "5074",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Technology Administration and National Institute of Standards and Technology Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5074?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-06-13",
+            "latestAction": {
+                "actionDate": "2002-06-26",
+                "text": "Referred to the Subcommittee on Commerce, Trade and Consumer Protection."
+            },
+            "number": "4929",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "To recognize the American Boxing and Athletic Association as the official sanctioning body for amateur elimination boxing contests.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4929?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-08-02",
+            "latestAction": {
+                "actionDate": "2002-11-05",
+                "text": "Became Public Law No: 107-277."
+            },
+            "number": "2733",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Enterprise Integration Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2733?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-05-24",
+            "latestAction": {
+                "actionDate": "2001-05-24",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2001",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Arrow Excise Tax Simplification Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2001?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-05-17",
+            "latestAction": {
+                "actionDate": "2001-07-20",
+                "text": "Referred to the Subcommittee on 21st Century Competitiveness."
+            },
+            "number": "1889",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "To improve the utilization of educational technologies in elementary and secondary education by creating an educational technology extension service.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1889?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-22",
+            "latestAction": {
+                "actionDate": "2001-04-03",
+                "text": "Referred to the Subcommittee on Environment, Technology, and Standards."
+            },
+            "number": "1165",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Election Voting Systems Standards Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1165?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-07",
+            "latestAction": {
+                "actionDate": "2001-03-19",
+                "text": "Referred to the Subcommittee on Domestic Monetary Policy, Technology and Economic Growth."
+            },
+            "number": "911",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To authorize the President to award a gold medal on behalf of the Congress to John Walsh in recognition of his outstanding and enduring contributions to the Nation through his work in the fields of law enforcement and victims' rights.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/911?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-02-08",
+            "latestAction": {
+                "actionDate": "2001-02-14",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+            },
+            "number": "524",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Electronic Commerce Enhancement Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/524?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-07-20",
+            "latestAction": {
+                "actionDate": "2000-07-25",
+                "text": "Referred to the Subcommittee on Technology."
+            },
+            "number": "4906",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Enterprise Integration Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4906?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-05-11",
+            "latestAction": {
+                "actionDate": "2000-09-27",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+            },
+            "number": "4429",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Electronic Commerce Enhancement Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4429?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-01",
+            "latestAction": {
+                "actionDate": "1999-08-06",
+                "text": "Referred to the Subcommittee on Postsecondary Education, Training and Life-Long Learning."
+            },
+            "number": "2417",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Educational Technology Utilization Extension Assistance Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2417?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-05-27",
+            "latestAction": {
+                "actionDate": "1999-05-27",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1979",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Arrow Excise Tax Clarification Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1979?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-04-21",
+            "latestAction": {
+                "actionDate": "1999-04-27",
+                "text": "Referred to the Subcommittee on Technology."
+            },
+            "number": "1502",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Year 2000 Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1502?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-03-04",
+            "latestAction": {
+                "actionDate": "1999-03-18",
+                "text": "Referred to the Subcommittee on Domestic and International Monetary Policy."
+            },
+            "number": "986",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To authorize the President to award a gold medal on behalf of the Congress to John Walsh in recognition of his outstanding and enduring contributions to American society in the fields of law enforcement and victims' rights.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/986?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-24",
+            "latestAction": {
+                "actionDate": "2000-10-06",
+                "text": "Placed on the Union Calendar, Calendar No. 566."
+            },
+            "number": "828",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Wet Weather Quality Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/828?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-24",
+            "latestAction": {
+                "actionDate": "1999-02-24",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "824",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of the Congress that the Government of Poland should address the claims of Polish-Americans whose homes and properties were wrongfully expropriated under Poland's former totalitarian government.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/824?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-03",
+            "latestAction": {
+                "actionDate": "1999-06-10",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "529",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "Arizona Water Settlements Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/529?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-08-04",
+            "latestAction": {
+                "actionDate": "1994-08-04",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4901",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to simplify the assessment and collection of the excise tax on arrows.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4901?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-11-22",
+            "latestAction": {
+                "actionDate": "1993-11-29",
+                "text": "Referred to the Subcommittee on Environment, Credit and Rural Development."
+            },
+            "number": "3623",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "To amend the Federal Crop Insurance Act to establish a pilot program to evaluate the feasibility of including crop insurance based on costs of production among the types of crop insurance available under the Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3623?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-01-27",
+            "latestAction": {
+                "actionDate": "1993-02-01",
+                "text": "Referred to the Subcommittee on General Farm Commodities."
+            },
+            "number": "655",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "To require the Secretary of Agriculture to make crop quality reduction disaster payments to producers of the 1992 crop of corn, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/655?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-11-04",
+            "latestAction": {
+                "actionDate": "1993-12-03",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "173",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Expressing the sense of the Congress that the unique and vital health care services provided by osteopathic physicians must be included in any health care benefits package developed as part of health care system reform.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/103/hconres/173?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-11-20",
+            "latestAction": {
+                "actionDate": "1996-08-02",
+                "text": "Received in the Senate and read twice and referred to the Committee on Agriculture."
+            },
+            "number": "2670",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To provide for the release of the reversionary interest held by the United States in certain property located in the County of Iosco, Michigan.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2670?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-04",
+            "latestAction": {
+                "actionDate": "1995-01-04",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "59",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to simplify the assessment and collection of the excise tax on arrows.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/59?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-30",
+            "latestAction": {
+                "actionDate": "1996-09-30",
+                "text": "Referred to the House Committee on House Oversight."
+            },
+            "number": "555",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Expressing the sense of the House urging the inclusion of Ross Perot in the 1996 Presidential debates.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/555?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-09-29",
+            "latestAction": {
+                "actionDate": "1995-11-06",
+                "text": "Referred to the Subcommittee on Crime."
+            },
+            "number": "105",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Expressing the sense of the Congress that States should work more aggressively to attack the problem of violent crimes committed by repeat offenders and criminals serving abbreviated sentences.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/104/hconres/105?format=json"
+        },
+        {
+            "amendmentNumber": "107",
+            "congress": 105,
+            "introducedDate": "1997-05-15",
+            "latestAction": {
+                "actionDate": "1997-05-15",
+                "actionTime": "18:34:37",
+                "text": "On agreeing to the Barcia amendment (A016) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/107?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-10-09",
+            "latestAction": {
+                "actionDate": "1998-10-09",
+                "text": "Referred to the House Committee on Resources."
+            },
+            "number": "4760",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To require the United States Fish and Wildlife Service to approve a permit required for importation of certain wildlife items taken in Tajikistan.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/4760?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-10-02",
+            "latestAction": {
+                "actionDate": "1998-10-13",
+                "text": "Referred to the Subcommittee on Technology."
+            },
+            "number": "4682",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Year 2000 Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/4682?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-07-16",
+            "latestAction": {
+                "actionDate": "1998-10-10",
+                "text": "Sponsor introductory remarks on measure. (CR E2014)"
+            },
+            "number": "4242",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Combined Sewer Overflow Control and Partnership Act of 1998",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/4242?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-06-05",
+            "latestAction": {
+                "actionDate": "1998-06-05",
+                "text": "Referred to the House Committee on Commerce."
+            },
+            "number": "4008",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XXVII of the Public Health Service Act to permit the exception from the guaranteed issue requirement for coverage offered only through associations to be applied separately to parts of the small group market based upon size of employers.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/4008?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-10-28",
+            "latestAction": {
+                "actionDate": "1998-06-09",
+                "text": "See H.R.2727."
+            },
+            "number": "2750",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Superfund Cleanup Acceleration and Liability Equity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2750?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-06-05",
+            "latestAction": {
+                "actionDate": "1997-09-04",
+                "text": "See H.R.2400."
+            },
+            "number": "1799",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Local Input in Transportation Planning Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1799?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-01-09",
+            "latestAction": {
+                "actionDate": "1997-10-10",
+                "text": "Became Public Law No: 105-59."
+            },
+            "number": "394",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To provide for the release of the reversionary interest held by the United States in certain property located in the County of Iosco, Michigan.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/394?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-01-09",
+            "latestAction": {
+                "actionDate": "1997-01-09",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "395",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to simplify the assessment and collection of the excise tax arrows.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/395?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-05-07",
+            "latestAction": {
+                "actionDate": "1998-06-16",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "75",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Expressing the sense of the Congress that States should work more aggressively to attack the problem of violent crimes committed by repeat offenders and criminals serving abbreviated sentences.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/105/hconres/75?format=json"
+        }
+    ]
+}

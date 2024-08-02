@@ -1,0 +1,412 @@
+{
+    "pagination": {
+        "count": 27
+    },
+    "request": {
+        "bioguideId": "p000259",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "247",
+            "congress": 102,
+            "introducedDate": "1991-07-17",
+            "latestAction": {
+                "actionDate": "1991-07-17",
+                "actionTime": "17:38:22",
+                "text": "On agreeing to the Peterson (FL) amendment (A001) Agreed to by recorded vote: 252 - 174 (Roll no. 212). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/247?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-06-02",
+            "latestAction": {
+                "actionDate": "1992-06-05",
+                "text": "Referred to the Subcommittee on Military Personnel and Compensation."
+            },
+            "number": "5307",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 10, United States Code, to remove the limitations on the number of units of the Junior Reserve Officers' Training Corps that may be established and maintained at secondary educational institutions that apply for such units.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5307?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-04-29",
+            "latestAction": {
+                "actionDate": "1992-05-15",
+                "text": "Referred to the Subcommittee on Consumer Affairs and Coinage."
+            },
+            "number": "5020",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Prisoner-of-War Commemorative Coin Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5020?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-03-18",
+            "latestAction": {
+                "actionDate": "1992-03-25",
+                "text": "Referred to the Subcommittee on Military Personnel and Compensation."
+            },
+            "number": "4502",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 10, United States Code, to provide for the award of the Purple Heart to persons wounded in action by friendly fire.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4502?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-01-29",
+            "latestAction": {
+                "actionDate": "1992-01-29",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4137",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to provide tax relief and encourage economic recovery.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4137?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-11-13",
+            "latestAction": {
+                "actionDate": "1991-11-13",
+                "text": "Referred to the House Committee on Veterans' Affairs."
+            },
+            "number": "3765",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To suspend temporarily certain bars to the furnishing of veterans benefits to certain former spouses of veterans and to suspend temporarily a bar to the recognition of certain married children of veterans for veterans benefits purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3765?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-07-30",
+            "latestAction": {
+                "actionDate": "1991-08-05",
+                "text": "Referred to the Subcommittee on Postal Operations and Services."
+            },
+            "number": "3100",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To designate the building located at 4396 Lafayette Street in Marianna, Florida, as the \"T. Thomas Fortune Post Office Building\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3100?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-06-04",
+            "latestAction": {
+                "actionDate": "1991-06-18",
+                "text": "Referred to the Subcommittee on Fisheries and Wildlife Conservation and the Environment."
+            },
+            "number": "2538",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To amend the Federal Water Pollution Control Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2538?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-06-22",
+            "latestAction": {
+                "actionDate": "1994-07-22",
+                "text": "Referred to the Subcommittee on Commerce, Consumer Protection and Competitiveness."
+            },
+            "number": "4632",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Comprehensive Long-Term Care Reform Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4632?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-03-08",
+            "latestAction": {
+                "actionDate": "1994-03-10",
+                "text": "Referred to the Subcommittee on Housing and Memorial Affairs."
+            },
+            "number": "3977",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To reform the grave marker allowance for veterans.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3977?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-02-09",
+            "latestAction": {
+                "actionDate": "1994-02-16",
+                "text": "Referred to the Subcommittee on Civil Service."
+            },
+            "number": "3830",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 5, United States Code, to provide that 5 additional points be granted, on the examination for entrance into the competitive service, to certain veterans who do not currently qualify for any such additional points.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3830?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-11-22",
+            "latestAction": {
+                "actionDate": "1993-12-15",
+                "text": "Referred to the Subcommittee on Consumer Credit and Insurance."
+            },
+            "number": "3683",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Community Reinvestment Credit for Historical Preservation",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3683?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-10-26",
+            "latestAction": {
+                "actionDate": "1993-10-28",
+                "text": "Referred to the Subcommittee on Libraries and Memorials."
+            },
+            "number": "3368",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To provide that each State may furnish one additional statue for placement in National Statuary Hall in the Capitol, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3368?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-07-21",
+            "latestAction": {
+                "actionDate": "1993-11-22",
+                "text": "Text of Measure Incorporated into H.R.2150."
+            },
+            "number": "2704",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To authorize the Secretary of Transportation to issue a certificate of documentation with appropriate endorsement for employment in the coastwise trade of the United States for the vessel GYPSY COWBOY.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2704?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-07-21",
+            "latestAction": {
+                "actionDate": "1993-08-02",
+                "text": "Executive Comment Requested from DOD, FEMA."
+            },
+            "number": "2692",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Federal Emergency Response Improvement Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2692?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-28",
+            "latestAction": {
+                "actionDate": "1994-03-03",
+                "text": "See H.R.3948."
+            },
+            "number": "1907",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To amend the Federal Water Pollution Control Act relating to civil penalties.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1907?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-01-21",
+            "latestAction": {
+                "actionDate": "1993-01-28",
+                "text": "Executive Comment Requested from DOD."
+            },
+            "number": "558",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 10, United States Code, to provide for the award of the Purple Heart to persons wounded in action by friendly fire.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/558?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-01-21",
+            "latestAction": {
+                "actionDate": "1993-11-10",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "535",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Prisoner-of-War Commemorative Coin Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/535?format=json"
+        },
+        {
+            "amendmentNumber": "329",
+            "congress": 104,
+            "introducedDate": "1995-03-29",
+            "latestAction": {
+                "actionDate": "1995-03-29",
+                "actionTime": "17:23:50",
+                "text": "On agreeing to the Peterson (FL) amendment (A001) Failed by recorded vote: 135 - 297 (Roll no. 274). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/329?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-03-20",
+            "latestAction": {
+                "actionDate": "1996-04-10",
+                "text": "Referred to the Subcommittee on Employer-Employee Relations."
+            },
+            "number": "3130",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Health Insurance Affordability Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3130?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-03-06",
+            "latestAction": {
+                "actionDate": "1996-03-18",
+                "text": "Referred to the Subcommittee on Coast Guard and Maritime Transportation."
+            },
+            "number": "3040",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To authorize the Secretary of Transportation to issue a certificate of documentation with appropriate endorsement for employment in the coastwise trade for the vessel TWO CAN.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3040?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-11-01",
+            "latestAction": {
+                "actionDate": "1995-11-20",
+                "text": "Referred to the Subcommittee on Commerce, Trade, and Hazardous Materials, for a period to be subsequently determined by the Chairman."
+            },
+            "number": "2571",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Comprehensive Long-Term Care Reform Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2571?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-07-19",
+            "latestAction": {
+                "actionDate": "1995-08-04",
+                "text": "Referred to the Subcommittee on Employer-Employee Relations."
+            },
+            "number": "2071",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Health Care Improvement Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2071?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-05-16",
+            "latestAction": {
+                "actionDate": "1995-05-18",
+                "text": "Referred to the Subcommittee on Civil Service."
+            },
+            "number": "1648",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 5, United States Code, to provide that 5 additional points be granted, on the examination for entrance into the competitive service, to certain veterans who do not currently qualify for any such additional points.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1648?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-04-05",
+            "latestAction": {
+                "actionDate": "1995-04-19",
+                "text": "Referred to the Subcommittee on Water Resources and Environment."
+            },
+            "number": "1413",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to impose a limitation on State eligibility for major disaster and emergency assistance to ensure that States repay loans and advances made under that Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1413?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-11",
+            "latestAction": {
+                "actionDate": "1995-03-15",
+                "text": "For Further Action See H.J.Res.2."
+            },
+            "number": "52",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Proposing an amendment to the Constitution of the United States providing for 4-year terms for Representatives and limiting the service of Senators and Representatives to 12 years.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/104/hjres/52?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-11-17",
+            "latestAction": {
+                "actionDate": "1995-11-17",
+                "actionTime": "21:02:33",
+                "text": "On motion to table the measure Agreed to by recorded vote: 219 - 177, 10 Present (Roll no. 815)."
+            },
+            "number": "277",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Relating to a question of the privileges of the House.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/277?format=json"
+        }
+    ]
+}

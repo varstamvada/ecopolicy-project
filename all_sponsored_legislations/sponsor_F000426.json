@@ -1,0 +1,92 @@
+{
+    "pagination": {
+        "count": 6
+    },
+    "request": {
+        "bioguideId": "f000426",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "401",
+            "congress": 104,
+            "introducedDate": "1995-05-23",
+            "latestAction": {
+                "actionDate": "1995-05-23",
+                "actionTime": "17:18:05",
+                "text": "By unanimous consent, the Funderburk amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/401?format=json"
+        },
+        {
+            "amendmentNumber": "400",
+            "congress": 104,
+            "introducedDate": "1995-05-23",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/400?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-11-16",
+            "latestAction": {
+                "actionDate": "1995-12-05",
+                "text": "Referred to the Subcommittee on Energy and Power, for a period to be subsequently determined by the Chairman."
+            },
+            "number": "2648",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Lake Gaston Protection Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2648?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-09-06",
+            "latestAction": {
+                "actionDate": "1995-09-18",
+                "text": "Referred to the Subcommittee on Commerce, Trade, and Hazardous Materials."
+            },
+            "number": "2265",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "To prohibit the regulation of any tobacco products, or tobacco sponsored advertising, used or purchased by the National Association of Stock Car Automobile Racing, its agents or affiliates, or any other professional motor sports association by the Secretary of Health and Human Services or any other instrumentality of the Federal Government.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2265?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-06-07",
+            "latestAction": {
+                "actionDate": "1995-07-28",
+                "text": "Referred to the Subcommittee on the Constitution."
+            },
+            "number": "1764",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Act to End Unfair Preferential Treatment",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1764?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-03-26",
+            "latestAction": {
+                "actionDate": "1996-05-22",
+                "text": "Received in the Senate and referred to the Committee on Foreign Relations."
+            },
+            "number": "154",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To congratulate the Republic of China on Taiwan on the occasion of its first Presidential democratic election.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/104/hconres/154?format=json"
+        }
+    ]
+}

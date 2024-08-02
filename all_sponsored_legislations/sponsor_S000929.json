@@ -1,0 +1,450 @@
+{
+    "pagination": {
+        "count": 30
+    },
+    "request": {
+        "bioguideId": "s000929",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "1058",
+            "congress": 118,
+            "introducedDate": "2024-06-27",
+            "latestAction": {
+                "actionDate": "2024-06-27",
+                "actionTime": "12:02:57",
+                "text": "On agreeing to the Spartz amendment (A030) Failed by recorded vote: 182 - 230 (Roll no. 316). (consideration: CR H4347)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/hamdt/1058?format=json"
+        },
+        {
+            "amendmentNumber": "891",
+            "congress": 118,
+            "introducedDate": "2024-04-20",
+            "latestAction": {
+                "actionDate": "2024-04-20",
+                "actionTime": "13:28:55",
+                "text": "On agreeing to the Spartz amendment (A001) Failed by recorded vote: 105 - 319 (Roll no. 147)."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/hamdt/891?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-01-09",
+            "latestAction": {
+                "actionDate": "2024-01-09",
+                "text": "Referred to the Committee on the Budget, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "6927",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Debt Commission Act of 2024",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/6927?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-12-19",
+            "latestAction": {
+                "actionDate": "2023-12-19",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "6879",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Farm Freedom to Repair Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/6879?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-12-19",
+            "latestAction": {
+                "actionDate": "2023-12-22",
+                "text": "Referred to the Subcommittee on Environment, Manufacturing, and Critical Materials."
+            },
+            "number": "6878",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Farm Equipment Safety Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/6878?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-05-17",
+            "latestAction": {
+                "actionDate": "2024-04-05",
+                "text": "Placed on the Union Calendar, Calendar No. 367."
+            },
+            "number": "3446",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Sunshine for Regulatory Decrees and Settlements Act of 2023",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/3446?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-04-25",
+            "latestAction": {
+                "actionDate": "2023-04-28",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2863",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Preventing Hospital Overbilling of Medicare Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/2863?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-04-25",
+            "latestAction": {
+                "actionDate": "2023-04-28",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2860",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Restoring Rights of Physicians to Own Hospitals Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/2860?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-04-25",
+            "latestAction": {
+                "actionDate": "2023-04-25",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "2858",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Restoring Rights of Medical Residents Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/2858?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-04-25",
+            "latestAction": {
+                "actionDate": "2023-04-25",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2859",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Holding Nonprofit Hospitals Accountable Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/2859?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-04-25",
+            "latestAction": {
+                "actionDate": "2023-04-28",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2861",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Addressing Anti-Competitive Health Care Contract Clauses Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/2861?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-04-25",
+            "latestAction": {
+                "actionDate": "2023-04-28",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2857",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Measuring State Healthcare Freedom Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/2857?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-04-25",
+            "latestAction": {
+                "actionDate": "2023-04-28",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2862",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Empowering Patient Choice of Medical Care Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/2862?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-04-25",
+            "latestAction": {
+                "actionDate": "2023-04-28",
+                "text": "Referred to the Subcommittee on Innovation, Data, and Commerce."
+            },
+            "number": "2856",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Combatting Hospital Monopolies Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/2856?format=json"
+        },
+        {
+            "amendmentNumber": "467",
+            "congress": 118,
+            "introducedDate": "2023-09-28",
+            "latestAction": {
+                "actionDate": "2023-09-28",
+                "actionTime": "18:06:52",
+                "text": "On agreeing to the Spartz amendment (A032) Failed by recorded vote: 188 - 242 (Roll no. 484). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/hamdt/467?format=json"
+        },
+        {
+            "amendmentNumber": "330",
+            "congress": 118,
+            "introducedDate": "2023-09-27",
+            "latestAction": {
+                "actionDate": "2023-09-27",
+                "actionTime": "17:02:51",
+                "text": "On agreeing to the Spartz amendment (A027) Failed by recorded vote: 49 - 377 (Roll no. 417). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/hamdt/330?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-09-29",
+            "latestAction": {
+                "actionDate": "2022-09-29",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "9080",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Non-Profit Hospital Tax Exemption Transparency Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/9080?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-06-16",
+            "latestAction": {
+                "actionDate": "2022-06-16",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "8130",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Competition in State Healthcare Markets Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/8130?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-06-16",
+            "latestAction": {
+                "actionDate": "2022-11-01",
+                "text": "Referred to the Subcommittee on Antitrust, Commercial, and Administrative Law."
+            },
+            "number": "8135",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Addressing Anti-Competitive Contracting Clauses Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/8135?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-06-16",
+            "latestAction": {
+                "actionDate": "2022-06-16",
+                "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "8134",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Consumer Choice of Care Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/8134?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-06-16",
+            "latestAction": {
+                "actionDate": "2022-11-01",
+                "text": "Referred to the Subcommittee on Antitrust, Commercial, and Administrative Law."
+            },
+            "number": "8131",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Increasing Competition for Medical Residency Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/8131?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-06-16",
+            "latestAction": {
+                "actionDate": "2022-06-16",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "8129",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Oversight of Anti-Competitive Behavior of Non-Profit Hospitals Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/8129?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-06-16",
+            "latestAction": {
+                "actionDate": "2022-06-16",
+                "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "8132",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Flexibility in Hospital Ownership Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/8132?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-06-16",
+            "latestAction": {
+                "actionDate": "2022-06-16",
+                "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "8133",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Transparency of Hospital Billing Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/8133?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-06-15",
+            "latestAction": {
+                "actionDate": "2022-11-01",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "8092",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Right to Trial Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/8092?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-04-06",
+            "latestAction": {
+                "actionDate": "2022-04-06",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "1038",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of the House of Representatives condemning the Russian Federation, President Vladimir Putin, members of the Russian Security Council, the Russian Armed Forces, and Russian military commanders for committing atrocities, including alleged war crimes, against the people of Ukraine and others.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/117/hres/1038?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-03-15",
+            "latestAction": {
+                "actionDate": "2022-12-07",
+                "text": "Placed on the Union Calendar, Calendar No. 437."
+            },
+            "number": "7075",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Ukrainian Independence Park Act of 2022",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/7075?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-03-07",
+            "latestAction": {
+                "actionDate": "2022-03-07",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "963",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of the House of Representatives condemning the Russian Federation, President Vladimir Putin, members of the Russian Security Council, the Russian Armed Forces, and Russian military commanders for committing flagrant acts of aggression and other atrocities rising to the level of crimes against humanity and war crimes against the people of Ukraine and others.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/117/hres/963?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-06-08",
+            "latestAction": {
+                "actionDate": "2021-06-08",
+                "text": "Referred to the House Committee on Education and Labor."
+            },
+            "number": "3797",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Increasing Access to Safe Child Care Facilities Act of 2021",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/3797?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-04-20",
+            "latestAction": {
+                "actionDate": "2021-10-19",
+                "text": "Referred to the Subcommittee on Antitrust, Commercial, and Administrative Law."
+            },
+            "number": "2708",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Sunshine for Regulatory Decrees and Settlements Act of 2021",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/2708?format=json"
+        }
+    ]
+}

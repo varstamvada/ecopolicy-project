@@ -1,0 +1,703 @@
+{
+    "pagination": {
+        "count": 50
+    },
+    "request": {
+        "bioguideId": "s000409",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "843",
+            "congress": 97,
+            "introducedDate": "1982-09-15",
+            "latestAction": {
+                "actionDate": "1982-09-15",
+                "text": "Point of Order Sustained Against Amendment in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/843?format=json"
+        },
+        {
+            "amendmentNumber": "470",
+            "congress": 97,
+            "introducedDate": "1981-12-11",
+            "latestAction": {
+                "actionDate": "1981-12-11",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/470?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-07-13",
+            "latestAction": {
+                "actionDate": "1982-07-21",
+                "text": "Referred to Subcommittee on Health and the Environment."
+            },
+            "number": "6751",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "National Commission on Neurofibromatosis Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6751?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-06-24",
+            "latestAction": {
+                "actionDate": "1982-09-09",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "6718",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend title 18 to limit the insanity defense and to establish a verdict of guilty but insane.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6718?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-05-06",
+            "latestAction": {
+                "actionDate": "1982-05-28",
+                "text": "Referred to Subcommittee on Labor-Management Relations."
+            },
+            "number": "6325",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Housing and Automobile Industries Recovery Act of 1982",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6325?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-11-16",
+            "latestAction": {
+                "actionDate": "1981-11-19",
+                "text": "Referred to Subcommittee on Public Assistance and Unemployment Compensation."
+            },
+            "number": "4985",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Comprehensive AFDC Improvement Act of 1981-Part I",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4985?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-11-16",
+            "latestAction": {
+                "actionDate": "1981-11-20",
+                "text": "Referred to Subcommittee on Public Assistance and Unemployment Compensation."
+            },
+            "number": "4986",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Comprehensive AFDC Improvement Act of 1981-Part II",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4986?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-03-24",
+            "latestAction": {
+                "actionDate": "1982-03-24",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "446",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A joint resolution to authorize and request the President to issue a proclamation designating the year of 1982 as \"Year of the Unborn Child\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/97/hjres/446?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-03-09",
+            "latestAction": {
+                "actionDate": "1982-03-19",
+                "text": "Referred to Subcommittee on Labor-Management Relations."
+            },
+            "number": "381",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "A resolution to authorize pension fund investments.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/97/hres/381?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-02-02",
+            "latestAction": {
+                "actionDate": "1982-02-02",
+                "text": "Referred to House Committee on District of Columbia."
+            },
+            "number": "338",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A resolution disapproving the action of the Council of the District of Columbia approving the Natural Death Act of 1981.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/97/hres/338?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-11-16",
+            "latestAction": {
+                "actionDate": "1981-12-01",
+                "text": "Referred to Subcommittee on Domestic Monetary Policy."
+            },
+            "number": "274",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A resolution expressing the sense of the House of Representatives with respect to high interest rates, economic recovery and the gold standard.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/97/hres/274?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-02-02",
+            "latestAction": {
+                "actionDate": "1982-02-11",
+                "text": "Referred to Subcommittee on Asian and Pacific Affairs."
+            },
+            "number": "262",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A concurrent resolution regarding the use of chemical weapons by the Soviet Union in Afghanistan, Laos, and Cambodia.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/97/hconres/262?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-01-28",
+            "latestAction": {
+                "actionDate": "1982-01-28",
+                "text": "Referred to House Committee on District of Columbia."
+            },
+            "number": "257",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A concurrent resolution disapproving the action of the Council of the District of Columbia approving the Natural Death Act of 1981.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/97/hconres/257?format=json"
+        },
+        {
+            "amendmentNumber": "942",
+            "congress": 98,
+            "introducedDate": "1984-06-26",
+            "latestAction": {
+                "actionDate": "1984-06-26",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 186 - 219 (Record Vote No: 269). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/942?format=json"
+        },
+        {
+            "amendmentNumber": "937",
+            "congress": 98,
+            "introducedDate": "1984-06-26",
+            "latestAction": {
+                "actionDate": "1984-06-26",
+                "text": "Point of Order Sustained Against Amendment in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/937?format=json"
+        },
+        {
+            "amendmentNumber": "713",
+            "congress": 98,
+            "introducedDate": "1984-05-09",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/713?format=json"
+        },
+        {
+            "amendmentNumber": "79",
+            "congress": 98,
+            "introducedDate": "1983-04-28",
+            "latestAction": {
+                "actionDate": "1983-04-28",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/79?format=json"
+        },
+        {
+            "amendmentNumber": "29",
+            "congress": 98,
+            "introducedDate": "1983-03-16",
+            "latestAction": {
+                "actionDate": "1983-03-16",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 209 - 215 (Record Vote No: 29). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/29?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-09-26",
+            "latestAction": {
+                "actionDate": "1984-10-01",
+                "text": "Referred to Subcommittee on Natural Resources, Agricultural Research, and Environment."
+            },
+            "number": "6325",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Great Lakes Preservation Act of 1984",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/6325?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-04-11",
+            "latestAction": {
+                "actionDate": "1984-04-11",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "5432",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Ten Percent Flat Tax Rate Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5432?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-03-20",
+            "latestAction": {
+                "actionDate": "1984-03-29",
+                "text": "Referred to Subcommittee on International Economic Policy and Trade."
+            },
+            "number": "5198",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Agricultural Export Trade Equity Act of 1984",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5198?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-02-09",
+            "latestAction": {
+                "actionDate": "1984-02-15",
+                "text": "Referred to Subcommittee on Civil and Constitutional Rights."
+            },
+            "number": "4857",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Relief of Pain in the Human Fetus During Abortion Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4857?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-02-02",
+            "latestAction": {
+                "actionDate": "1984-02-10",
+                "text": "Referred to Subcommittee on International Economic Policy and Trade."
+            },
+            "number": "4743",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Agricultural Export Trade Equity Act of 1984",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4743?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-09-28",
+            "latestAction": {
+                "actionDate": "1983-09-28",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "4021",
+            "policyArea": {
+                "name": "Arts, Culture, Religion"
+            },
+            "title": "A bill to provide for the issuance of a set of postage stamps commemorating the calendar year 1983 as the \"Year of the Bible\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4021?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-05-24",
+            "latestAction": {
+                "actionDate": "1984-08-01",
+                "text": "Passed Senate with amendments and an amended preamble by Voice Vote."
+            },
+            "number": "279",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A joint resolution expressing the sense of the Congress regarding the reduction of emigration from the Soviet Union.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/98/hjres/279?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-03-22",
+            "latestAction": {
+                "actionDate": "1984-04-03",
+                "text": "Unfavorable Executive Comment Received From State."
+            },
+            "number": "147",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A resolution concerning observance by the Government of Romania of the Human Rights of the Hungarians in Transylvania, especially the right of self-determination.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/98/hres/147?format=json"
+        },
+        {
+            "amendmentNumber": "319",
+            "congress": 99,
+            "introducedDate": "1985-07-11",
+            "latestAction": {
+                "actionDate": "1985-07-11",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/319?format=json"
+        },
+        {
+            "amendmentNumber": "296",
+            "congress": 99,
+            "introducedDate": "1985-07-11",
+            "latestAction": {
+                "actionDate": "1985-07-11",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 88 - 237 (Record Vote No: 223). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/296?format=json"
+        },
+        {
+            "amendmentNumber": "253",
+            "congress": 99,
+            "introducedDate": "1985-07-09",
+            "latestAction": {
+                "actionDate": "1985-07-09",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/253?format=json"
+        },
+        {
+            "amendmentNumber": "307",
+            "congress": 99,
+            "introducedDate": "1985-07-11",
+            "latestAction": {
+                "actionDate": "1985-07-11",
+                "text": "Amendment Withdrawn in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/307?format=json"
+        },
+        {
+            "amendmentNumber": "292",
+            "congress": 99,
+            "introducedDate": "1985-07-11",
+            "latestAction": {
+                "actionDate": "1985-07-11",
+                "text": "Amendment Passed in Committee of the Whole by Recorded Vote: 247 - 177 (Record Vote No: 222). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/292?format=json"
+        },
+        {
+            "amendmentNumber": "69",
+            "congress": 99,
+            "introducedDate": "1985-06-04",
+            "latestAction": {
+                "actionDate": "1985-06-04",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 108 - 310 (Record Vote No: 137). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/69?format=json"
+        },
+        {
+            "amendmentNumber": "30",
+            "congress": 99,
+            "introducedDate": "1985-05-08",
+            "latestAction": {
+                "actionDate": "1985-05-08",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/30?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-06-11",
+            "latestAction": {
+                "actionDate": "1986-06-16",
+                "text": "Referred to Subcommittee on Crime."
+            },
+            "number": "5000",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Child Protection Act of 1986",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5000?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-02-06",
+            "latestAction": {
+                "actionDate": "1986-02-21",
+                "text": "Referred to Subcommittee on Criminal Justice."
+            },
+            "number": "4157",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Child Abuse Victims Rights Act of 1986",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/4157?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-01-23",
+            "latestAction": {
+                "actionDate": "1986-02-06",
+                "text": "Referred to Subcommittee on Water Resources."
+            },
+            "number": "4051",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Emergency Great Lakes Level Reduction Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/4051?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-11-14",
+            "latestAction": {
+                "actionDate": "1985-11-22",
+                "text": "Referred to Subcommittee on Human Rights and International Organizations."
+            },
+            "number": "3766",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A bill to require a treaty for any relinquishing to any country of any territory, exclusive economic zone or fishery conservation zone of the United States, and for establishing international boundaries.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3766?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-10-23",
+            "latestAction": {
+                "actionDate": "1985-11-01",
+                "text": "Referred to Subcommittee on Africa."
+            },
+            "number": "3609",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A bill to authorize the furnishing of military assistance to the National Union for the Total Independence of Angola (UNITA).",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3609?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-05-23",
+            "latestAction": {
+                "actionDate": "1985-05-31",
+                "text": "Referred to Subcommittee on Trade."
+            },
+            "number": "2596",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to deny most-favored-nation treatment to countries subject to title IV of the Trade Act of 1974 that discriminate against citizens because of religious, ethnic, or cultural orientation.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2596?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-05-23",
+            "latestAction": {
+                "actionDate": "1985-05-23",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "2594",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Ten Percent Flat Tax Rate Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2594?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-04-30",
+            "latestAction": {
+                "actionDate": "1985-04-30",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "2288",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "South Africa Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2288?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-01-03",
+            "latestAction": {
+                "actionDate": "1985-03-26",
+                "text": "Committee Hearings Held."
+            },
+            "number": "200",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Ten Percent Flat Tax Rate Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/200?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-01-03",
+            "latestAction": {
+                "actionDate": "1985-03-06",
+                "text": "Referred to Subcommittee on Civil and Constitutional Rights."
+            },
+            "number": "203",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Relief of Pain in the Human Fetus During Abortion Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/203?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-01-03",
+            "latestAction": {
+                "actionDate": "1985-05-06",
+                "text": "Unfavorable Executive Comment Received From Commerce."
+            },
+            "number": "202",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Great Lakes Preservation Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/202?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-01-03",
+            "latestAction": {
+                "actionDate": "1986-05-22",
+                "text": "For Further Action See H.R.4800."
+            },
+            "number": "201",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Agricultural Export Trade Equity Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/201?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-04-09",
+            "latestAction": {
+                "actionDate": "1986-04-15",
+                "text": "Referred to Subcommittee on Asian and Pacific Affairs."
+            },
+            "number": "592",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A joint resolution prohibiting the proposed sale of integrated avionics system kits to the People's Republic of China, unless the United States sells advanced aircraft to the Republic of China on Taiwan.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/99/hjres/592?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-04-09",
+            "latestAction": {
+                "actionDate": "1986-04-15",
+                "text": "Referred to Subcommittee on Asian and Pacific Affairs."
+            },
+            "number": "593",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A joint resolution prohibiting the proposed sale of integrated avionics system kits to the People's Republic of China.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/99/hjres/593?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-04-25",
+            "latestAction": {
+                "actionDate": "1986-04-08",
+                "text": "Forwarded by Subcommittee to Full Committee."
+            },
+            "number": "262",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A joint resolution condemning the brutal treatment of, and blatant discrimination against the Turkish minority by the Government of the People's Republic of Bulgaria.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/99/hjres/262?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-10-16",
+            "latestAction": {
+                "actionDate": "1985-10-29",
+                "text": "Referred to Subcommittee on Civil and Constitutional Rights."
+            },
+            "number": "216",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "    A concurrent resolution condemning the racism and anti-semitism of Louis Farrakhan and finding his racism and divisiveness morally repugnant to the people of the United States.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/99/hconres/216?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-06-21",
+            "latestAction": {
+                "actionDate": "1985-06-27",
+                "text": "Executive Comment Requested from State."
+            },
+            "number": "170",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution condemning the hijacking of TWA flight 847, the brutal murder of Petty Officer, 2nd Class Robert Stethem, confirming the policy of no capitulation to terrorism, and expressing our commitment to a course of action that results in the freedom of all American hostages.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/99/hconres/170?format=json"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "pagination": {
+        "count": 7
+    },
+    "request": {
+        "bioguideId": "f000128",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "835",
+            "congress": 103,
+            "introducedDate": "1994-08-10",
+            "latestAction": {
+                "actionDate": "1994-08-10",
+                "actionTime": "17:46:18",
+                "text": "On agreeing to the Fingerhut amendment (A005) Failed by recorded vote: 216 - 220 (Roll no. 389). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/835?format=json"
+        },
+        {
+            "amendmentNumber": "787",
+            "congress": 103,
+            "introducedDate": "1994-07-26",
+            "latestAction": {
+                "actionDate": "1994-07-26",
+                "actionTime": "15:29:05",
+                "text": "On agreeing to the Fingerhut amendment (A003) as modified Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/787?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-01-26",
+            "latestAction": {
+                "actionDate": "1994-02-11",
+                "text": "Referred to the Subcommittee on Select Education and Civil Rights."
+            },
+            "number": "3742",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Welfare Elimination Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3742?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-08-03",
+            "latestAction": {
+                "actionDate": "1993-11-15",
+                "text": "Referred to the Subcommittee on Administrative Law and Governmental Relations."
+            },
+            "number": "2834",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Sunshine for Lobbyists Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2834?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-06-30",
+            "latestAction": {
+                "actionDate": "1993-07-12",
+                "text": "Referred to the Subcommittee on Water Resources and Environment."
+            },
+            "number": "2566",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Great Lakes Federal Effectiveness Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2566?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-06-30",
+            "latestAction": {
+                "actionDate": "1993-07-12",
+                "text": "Referred to the Subcommittee on Water Resources and Environment."
+            },
+            "number": "2565",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Great Lakes National Program Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2565?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-22",
+            "latestAction": {
+                "actionDate": "1993-05-06",
+                "text": "Referred to the Subcommittee on Public Buildings and Grounds."
+            },
+            "number": "1819",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal Environmentally Efficient Building Materials Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1819?format=json"
+        }
+    ]
+}

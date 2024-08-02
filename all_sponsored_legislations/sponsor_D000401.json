@@ -1,0 +1,3759 @@
+{
+    "pagination": {
+        "count": 2456,
+        "next": "https://api.congress.gov/v3/member/D000401/sponsored-legislation?offset=250&limit=250&format=json"
+    },
+    "request": {
+        "bioguideId": "d000401",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "1168",
+            "congress": 102,
+            "introducedDate": "1991-09-18",
+            "latestAction": {
+                "actionDate": "1991-09-18",
+                "text": "Amendment SP 1168 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/samdt/1168?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-03-03",
+            "latestAction": {
+                "actionDate": "1987-04-08",
+                "text": "Committee on Finance. Hearings held on Title II. Hearings printed: S.Hrg. 100-419, pt. 2."
+            },
+            "number": "636",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "A bill to amend the Social Security Act to provide greater opportunity for individuals to achieve self-sufficiency, to amend the Trade Act of 1974 to authorize trade negotiations, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/100/s/636?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-11-18",
+            "latestAction": {
+                "actionDate": "1980-11-18",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "3209",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Criminal Justice Construction Reform Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/3209?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-09-26",
+            "latestAction": {
+                "actionDate": "1980-09-26",
+                "text": "Referred to Senate Committee on Energy and Natural Resources."
+            },
+            "number": "3162",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to amend section 160 (c) (1) of the Energy Policy and Conservation Act.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/3162?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-09-24",
+            "latestAction": {
+                "actionDate": "1980-09-25",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "3147",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to rename the Veteran's Administration Medical Center in Topeka Kansas, as the \"Colmery-O'Neil Veteran's Administration Medical Center.\"",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/3147?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-09-24",
+            "latestAction": {
+                "actionDate": "1980-10-10",
+                "text": "Public Law 96-426."
+            },
+            "number": "3148",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to a name the Federal Building located at 444 Southeast Quincy, Topeka, Kansas, the \"Frank Carlson Federal Building\".",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/3148?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-09-18",
+            "latestAction": {
+                "actionDate": "1980-09-18",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "3127",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend the \"Presidential Election Campaign Fund Act\" regarding a presidential candidate refusing to debate.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/3127?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-09-15",
+            "latestAction": {
+                "actionDate": "1980-09-15",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "3113",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to amend the Tariff Schedules of the United States to increase the quantity of cigarettes that may be accorded duty-free treatment if acquired in the insular possessions and entered by returning United States residents.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/3113?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-09-11",
+            "latestAction": {
+                "actionDate": "1980-09-11",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "3108",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend section 72 of the Internal Revenue Code of 1954 relating to the taxation of annuity contracts.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/3108?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-07-02",
+            "latestAction": {
+                "actionDate": "1980-07-02",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "2938",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend section 117 of the Internal Revenue Code of 1954 to provide that Federal grants for tuition and related expenses at institutions of higher education shall not be includible in gross income merely because the recipient is required to render future service as a Federal employee, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2938?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-07-02",
+            "latestAction": {
+                "actionDate": "1980-07-02",
+                "text": "Referred to Senate Committee on Agriculture, Nutrition and Forestry."
+            },
+            "number": "2925",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to require that the announcement by the Secretary of Agriculture with respect to a set-aside of cropland under the wheat and feed grains program be made no later than August 1 and November 1 of each year, respectively, for crops harvested in the next calendar year.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2925?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-07-01",
+            "latestAction": {
+                "actionDate": "1980-07-01",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "2916",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide that the investment tax credit may be claimed against the alternative minimum tax to the extent that it is attributable to the active conduct of a trade or business.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2916?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-06-26",
+            "latestAction": {
+                "actionDate": "1980-06-26",
+                "text": "Referred to Senate Committee on Agriculture, Nutrition and Forestry."
+            },
+            "number": "2886",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to amend the United States Grain Standards Act to permit grain delivered to export elevators by any means of conveyance other than barge elevators to be  transferred into such export elevators without official weighing, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2886?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-06-25",
+            "latestAction": {
+                "actionDate": "1980-06-25",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "2878",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Tax Reduction-Job Creation Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2878?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-06-20",
+            "latestAction": {
+                "actionDate": "1980-06-20",
+                "text": "Referred to Senate Committee on Banking, Housing and Urban Affairs."
+            },
+            "number": "2855",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to rescind the agricultural commodity export embargo to the Union of Soviet Socialist Republics.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2855?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-06-19",
+            "latestAction": {
+                "actionDate": "1980-06-19",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "2848",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide more equitable treatment of royalty owners under the crude oil windfall profit tax.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2848?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-06-10",
+            "latestAction": {
+                "actionDate": "1980-06-10",
+                "text": "Referred to Senate Committee on Agriculture, Nutrition and Forestry."
+            },
+            "number": "2810",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "National School Lunch and Child Nutrition Amendments Act of 1980",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2810?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-05-20",
+            "latestAction": {
+                "actionDate": "1980-05-20",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "2745",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide for the establishment of, and deduction of contributions to, education savings accounts and housing savings accounts.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2745?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-05-08",
+            "latestAction": {
+                "actionDate": "1980-05-08",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "2681",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend the State and Local Fiscal Assistance Act of 1972 to provide a 5-year extension of the general revenue sharing program and to provide that each State make an annual election to receive its State government allocation or the equivalent amount in specific categorical grant programs, but not both.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2681?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-04-23",
+            "latestAction": {
+                "actionDate": "1980-04-23",
+                "text": "Referred to Senate Committee on Armed Services."
+            },
+            "number": "2598",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to require petroleum produced from the Naval Petroleum Reserves to be sold in exchange for crude oil to be deposited in the Strategic Petroleum Reserve.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2598?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-04-02",
+            "latestAction": {
+                "actionDate": "1980-04-02",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "2521",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide more equitable treatment of royalty owners under the crude oil windfall profit tax.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2521?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-03-18",
+            "latestAction": {
+                "actionDate": "1980-03-18",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "2434",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Juvenile Justice and Delinquency Prevention Act of 1980",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2434?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-03-12",
+            "latestAction": {
+                "actionDate": "1980-03-12",
+                "text": "Referred to Senate Committee on Veterans' Affairs."
+            },
+            "number": "2413",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to rename the Veteran's Administration Hospital in Topeka, Kansas, as the \"Harry W. Colmery Veteran's Administration Hospital\".",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2413?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-03-06",
+            "latestAction": {
+                "actionDate": "1980-03-06",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "2397",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Preservation of Confidential Information Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2397?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-02-26",
+            "latestAction": {
+                "actionDate": "1980-02-26",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "2334",
+            "policyArea": {
+                "name": null
+            },
+            "title": "A bill to amend title 28 of the United States Code to provide that the clerk of each United States district court and United States bankruptcy court shall reside in the district for which he is appointed, or within 20 miles of his official station.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2334?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-02-01",
+            "latestAction": {
+                "actionDate": "1980-02-01",
+                "text": "Referred to Senate Committee on Commerce, Science, and Transportation."
+            },
+            "number": "2246",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to continue rail service by the Chicago, Rock Island, and Pacific Railroad for 90 days.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2246?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-11-13",
+            "latestAction": {
+                "actionDate": "1979-11-13",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "2001",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to extend the tax treatment of certain government health provision scholarship programs.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2001?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-11-05",
+            "latestAction": {
+                "actionDate": "1979-11-05",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "1979",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to extend section 530 of the Revenue Act of 1978 involving the tax treatment of employees and independent contractors.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/1979?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-11-02",
+            "latestAction": {
+                "actionDate": "1979-11-02",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "1969",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Rulemaking Improvements Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/1969?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-09-20",
+            "latestAction": {
+                "actionDate": "1979-09-20",
+                "text": "Referred to Senate Select Committee on Small Business."
+            },
+            "number": "1783",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Fuel Oil Guarantee Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/1783?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-09-19",
+            "latestAction": {
+                "actionDate": "1979-09-19",
+                "text": "Referred to Senate Committee on Armed Services."
+            },
+            "number": "1777",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to amend title 10, United States Code, to authorize reserve enlisted members of the Army and the Air Force to retire with twenty years of service.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/1777?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-08-03",
+            "latestAction": {
+                "actionDate": "1979-08-03",
+                "text": "Referred to Senate Committee on Agriculture, Nutrition and Forestry."
+            },
+            "number": "1696",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to further the purpose of the Food and Agriculture Act of 1977 in providing price and income protection for farmers and assuring consumers of an abundance of food and fiber at reasonable prices.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/1696?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-08-03",
+            "latestAction": {
+                "actionDate": "1979-08-03",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "1694",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to make permanent the allowance of a deduction for eliminating architectural and transportation barriers for the handicapped and to increase the amount of such deduction from $25,000 to $100,000.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/1694?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-07-27",
+            "latestAction": {
+                "actionDate": "1979-07-27",
+                "text": "Referred to Senate Committee on Banking, Housing and Urban Affairs."
+            },
+            "number": "1592",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill entitled the \"Financial Regulation Simplification Act of 1979\".",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/1592?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-07-17",
+            "latestAction": {
+                "actionDate": "1979-07-17",
+                "text": "Referred to Senate Committee on Governmental Affairs."
+            },
+            "number": "1524",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to prohibit the enforcement of compliance with voluntary guidelines by withholding Government contracts.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/1524?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-07-13",
+            "latestAction": {
+                "actionDate": "1979-07-13",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "1517",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Energy Development Surtax Act of 1979",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/1517?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-07-12",
+            "latestAction": {
+                "actionDate": "1979-12-12",
+                "text": "Public Law 96-139."
+            },
+            "number": "1491",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to designate the building known as the Federal Building, at 211 Main Street, in Scott City, Kansas, as the \"Henry D. Parkinson Federal Building\".",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/1491?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-07-09",
+            "latestAction": {
+                "actionDate": "1979-07-09",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "1467",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide that the retirement-replacement-betterment method of accounting for property used by a common carrier (including a railroad switching company or a terminal company) is an acceptable method for determining depreciation allowances for income tax purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/1467?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-06-27",
+            "latestAction": {
+                "actionDate": "1979-06-27",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "1430",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Amendments to the Maternal and Child Health and Crippled Children's Service Act of 1979",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/1430?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-06-27",
+            "latestAction": {
+                "actionDate": "1979-06-27",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "1426",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow a deduction to enlisted members of the Armed Forces not entitled to severance pay on their involuntary release from the Armed Forces, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/1426?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-06-18",
+            "latestAction": {
+                "actionDate": "1979-06-18",
+                "text": "Referred to Senate Committee on Armed Services."
+            },
+            "number": "1354",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to require the President to submit a report on the manpower needs of the Armed Forces.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/1354?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-05-23",
+            "latestAction": {
+                "actionDate": "1979-05-23",
+                "text": "Referred to Senate Committee on Agriculture, Nutrition and Forestry."
+            },
+            "number": "1219",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to require the Secretary of Agriculture to carry out a price support program for high moisture corn and grain sorghums.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/1219?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-05-16",
+            "latestAction": {
+                "actionDate": "1979-05-16",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "1163",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to repeal the carryover basis provisions added by the Tax Reform Act of 1976.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/1163?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-05-03",
+            "latestAction": {
+                "actionDate": "1979-05-03",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "1068",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend title XVI of the Social Security Act to maintain for an additional three years the current program of services for disabled children receiving SSI benefits.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/1068?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-05-01",
+            "latestAction": {
+                "actionDate": "1979-05-01",
+                "text": "Referred to Senate Committee on Agriculture, Nutrition and Forestry."
+            },
+            "number": "1054",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to authorize additional projects for the production and marketing of industrial hydrocarbons and alcohols from agricultural commodities and forest products.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/1054?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-04-05",
+            "latestAction": {
+                "actionDate": "1979-04-05",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "906",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Alcohol Fuels Production Incentive Act of 1979",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/906?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-04-02",
+            "latestAction": {
+                "actionDate": "1979-04-02",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "861",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to extend the exemption from federal excise tax on the use of gasohol and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/861?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-03-29",
+            "latestAction": {
+                "actionDate": "1979-03-29",
+                "text": "Referred to Senate Committee on Governmental Affairs."
+            },
+            "number": "831",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to establish a temporary Commission on Governmental Organization and Regulation.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/831?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-03-26",
+            "latestAction": {
+                "actionDate": "1979-03-26",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "748",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Catastrophic Health Insurance and Medicare Improvements Act of 1979",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/748?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-03-22",
+            "latestAction": {
+                "actionDate": "1979-03-22",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "736",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Employment Tax Act of 1979",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/736?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-03-21",
+            "latestAction": {
+                "actionDate": "1979-03-21",
+                "text": "Referred to Senate Committee on Rules and Administration."
+            },
+            "number": "704",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend the Federal Election Campaign Act of 1971 to extend the Statute of Limitations to a period of 4 years.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/704?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-03-12",
+            "latestAction": {
+                "actionDate": "1979-03-12",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "616",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow a deduction for contributions for the construction or maintenance of buildings housing fraternal organizations.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/616?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-03-08",
+            "latestAction": {
+                "actionDate": "1979-03-08",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "591",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend title XVI of the Social Security Act with respect to presumptive disability, earned income in sheltered workshops, benefits for individuals who work despite a severe medical impairment, and the exclusion of certain work expenses in determining substantial gainful activity.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/591?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-03-01",
+            "latestAction": {
+                "actionDate": "1979-03-01",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "507",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Medicare-Medicaid Miscellaneous and Technical Amendments of 1979",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/507?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-03-01",
+            "latestAction": {
+                "actionDate": "1979-03-01",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "508",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend Social Security Act to provide that the Administrator of the Health Care Financing Administration henceforth shall be appointed by the President by and with the advice and consent of the Senate.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/508?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-02-22",
+            "latestAction": {
+                "actionDate": "1979-02-22",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "454",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Hector O. Fernandez.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/454?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-02-22",
+            "latestAction": {
+                "actionDate": "1979-02-22",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "455",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Leonides T. Fernado.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/455?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-02-21",
+            "latestAction": {
+                "actionDate": "1979-02-21",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "441",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Meat Import Act of 1979",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/441?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-02-09",
+            "latestAction": {
+                "actionDate": "1979-02-09",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "417",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to amend the Trade Act of 1974 to prohibit the extension of nondiscriminatory treatment to the products of any country not a party to certain treaties relating to the control and non-proliferation of nuclear weapons.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/417?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-02-08",
+            "latestAction": {
+                "actionDate": "1979-02-08",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "396",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to exempt farm trucks and soil and water conservation trucks from the Highway Use Tax.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/396?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-02-08",
+            "latestAction": {
+                "actionDate": "1979-02-08",
+                "text": "Referred to Senate Committee on Agriculture, Nutrition and Forestry."
+            },
+            "number": "399",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Federal Crop Insurance Expansion Act of 1979",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/399?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-31",
+            "latestAction": {
+                "actionDate": "1979-01-31",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "306",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Reginald Carlson Lim.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/306?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-31",
+            "latestAction": {
+                "actionDate": "1979-01-31",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "305",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Carlo Lim, M.D., his wife Cecilia Lim, and his son Ronald Christopher Lim.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/305?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-31",
+            "latestAction": {
+                "actionDate": "1979-01-31",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "302",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Vincente Alvarez.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/302?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-31",
+            "latestAction": {
+                "actionDate": "1979-01-31",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "303",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of William Armstrong and Rita Armstrong.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/303?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-31",
+            "latestAction": {
+                "actionDate": "1979-01-31",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "304",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Roman Enriquez, Andrieta Enriquez, and their son Sol Allan Enriquez.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/304?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-29",
+            "latestAction": {
+                "actionDate": "1979-01-29",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "248",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend title II of the Social Security Act so as to modify the criteria respecting certain self-employment income, derived from the sale of certain agricultural or horticultural commodities, for purposes of the social security retirement test.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/248?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-25",
+            "latestAction": {
+                "actionDate": "1979-01-25",
+                "text": "Referred to Senate Committee on Agriculture, Nutrition and Forestry."
+            },
+            "number": "225",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Rural Economic Development Bank Act of 1979",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/225?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-23",
+            "latestAction": {
+                "actionDate": "1979-01-23",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "112",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A Bill to repeal the carryover basis provisions added by the Tax Reform Act of 1976.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/112?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-18",
+            "latestAction": {
+                "actionDate": "1979-01-18",
+                "text": "Referred to Senate Committee on Governmental Affairs."
+            },
+            "number": "99",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A Bill to amend title 5, United States Code, to eliminate an inequity in computing annuities of Federal law enforcement officers or firefighters.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/99?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-18",
+            "latestAction": {
+                "actionDate": "1979-01-18",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "75",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A Bill to amend the Internal Revenue Code of 1954 to allow a retirement savings deduction for persons covered by certain pension plans.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/75?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-15",
+            "latestAction": {
+                "actionDate": "1979-01-15",
+                "text": "Referred to Senate Committee on Governmental Affairs."
+            },
+            "number": "13",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A Bill to amend the Congressional Budget Act of 1974 to impose limits on the amounts of total budget outlays and Federal revenues set forth in concurrent resolutions on the budget, to require a two-thirds vote for agreeing to concurrent resolutions on the budget which set forth a deficit, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/13?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-15",
+            "latestAction": {
+                "actionDate": "1979-01-15",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "12",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Tax Equalization Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/12?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-15",
+            "latestAction": {
+                "actionDate": "1979-01-15",
+                "text": "Referred to Senate Committee on Foreign Relations."
+            },
+            "number": "8",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A Bill to extend diplomatic privileges and immunities to any principal liaison office of the Republic of China that may be established in Washington, District of Columbia, and to members thereof.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/8?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-15",
+            "latestAction": {
+                "actionDate": "1979-01-15",
+                "text": "Referred to Senate Committee on Agriculture, Nutrition and Forestry."
+            },
+            "number": "1",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Food and Agriculture Act of 1979",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/1?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-08-27",
+            "latestAction": {
+                "actionDate": "1980-09-30",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "199",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "A joint resolution designating the week of September 28 to October 4, 1980, as \"National High School Activities Week\".",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/96/sjres/199?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-04-29",
+            "latestAction": {
+                "actionDate": "1980-07-08",
+                "text": "Public Law 97-307."
+            },
+            "number": "168",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A joint resolution designating July 18, 1980, as \"National P.O.W. - M.I.A. Recognition Day\".",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/96/sjres/168?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-04-17",
+            "latestAction": {
+                "actionDate": "1980-04-17",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "164",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "A joint resolution to authorize and request the President to designate June 17, 1980 as \"Business Productivity Day\".",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/96/sjres/164?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-04-02",
+            "latestAction": {
+                "actionDate": "1980-06-06",
+                "text": "Measure indefinitely postponed in Senate."
+            },
+            "number": "159",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A joint resolution disapproving the action taken by the President under the Trade Expansion Act of 1962 in imposing a fee on imports of petroleum or petroleum products.",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/96/sjres/159?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-02-21",
+            "latestAction": {
+                "actionDate": "1980-02-21",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "147",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A joint resolution to designate the third week of September as \"National Cystic Fibrosis Week\".",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/96/sjres/147?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-02-18",
+            "latestAction": {
+                "actionDate": "1980-02-18",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "145",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A joint resolution designating February 19, 1980, as \"Iwo Jima Commemoration Day\".",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/96/sjres/145?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-02-01",
+            "latestAction": {
+                "actionDate": "1980-02-19",
+                "text": "Measure indefinitely postponed in Senate."
+            },
+            "number": "140",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A joint resolution designating February 19, 1980 as \"Iwo Jima Commemoration Day.",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/96/sjres/140?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-09-10",
+            "latestAction": {
+                "actionDate": "1979-09-10",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "104",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "A joint resolution to authorize and request the President to proclaim September 16, 1979 through September 22, 1979, as \"Responsible Pet Care Week\".",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/96/sjres/104?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-05-01",
+            "latestAction": {
+                "actionDate": "1979-05-24",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "68",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "A joint resolution to authorize and request the President to proclaim the week of June 17 through 23, 1979, as \"Product Safety Week\".",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/96/sjres/68?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-04-10",
+            "latestAction": {
+                "actionDate": "1979-05-24",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "63",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A joint resolution to designate the year of 1979 as the \"Food for Peace Year\".",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/96/sjres/63?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-15",
+            "latestAction": {
+                "actionDate": "1979-01-15",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "5",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A joint resolution proposing an amendment to the constitution to provide expenditures of the Government may not exceed the revenues of the Government during any fiscal year, and for limits on Federal spending and taxing.",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/96/sjres/5?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-08-21",
+            "latestAction": {
+                "actionDate": "1980-08-21",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "506",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution expressing the sense of the Senate with respect to the repatriation to Cuba of certain Cuban refugees who have recently entered the United States.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/96/sres/506?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-08-06",
+            "latestAction": {
+                "actionDate": "1980-08-06",
+                "text": "Referred to Senate Committee on Foreign Relations."
+            },
+            "number": "500",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution to prevent U. S. funding of PLO activities.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/96/sres/500?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-06-10",
+            "latestAction": {
+                "actionDate": "1980-06-10",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "456",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution regarding prosecution of persons in violation of the Logan Act and the International Emergency Economic Powers Act.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/96/sres/456?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-06-06",
+            "latestAction": {
+                "actionDate": "1980-06-06",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "453",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution concerning the hostages in Iran and enforcement of the Logan Act.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/96/sres/453?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-05-06",
+            "latestAction": {
+                "actionDate": "1980-05-28",
+                "text": "Measure passed Senate."
+            },
+            "number": "422",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "A resolution to proclaim National Circle K Week.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/96/sres/422?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-03-11",
+            "latestAction": {
+                "actionDate": "1980-03-11",
+                "text": "Referred to Senate Committee on Banking, Housing and Urban Affairs."
+            },
+            "number": "382",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A resolution relating to wage and price controls.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/96/sres/382?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-12-11",
+            "latestAction": {
+                "actionDate": "1979-12-11",
+                "text": "Referred to Senate Committee on Foreign Relations."
+            },
+            "number": "306",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution expressing the Sense of the Senate with respect to providing special compensation to U.S. personnel held hostage in Iran.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/96/sres/306?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-11-05",
+            "latestAction": {
+                "actionDate": "1979-11-05",
+                "text": "Measure passed Senate."
+            },
+            "number": "273",
+            "policyArea": {
+                "name": "Social Sciences and History"
+            },
+            "title": "A resolution to honor Mamie Geneva Doud Eisenhower and to express the sorrow of the Senate with respect to her death.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/96/sres/273?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-10-05",
+            "latestAction": {
+                "actionDate": "1979-10-05",
+                "text": "Referred to Senate Committee on Foreign Relations."
+            },
+            "number": "252",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution relating to alleviation of famine in Cambodia.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/96/sres/252?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-09-06",
+            "latestAction": {
+                "actionDate": "1979-09-06",
+                "text": "Referred to Senate Committee on Foreign Relations."
+            },
+            "number": "228",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution relating to consideration by the Senate of the Treaty between the United States of America and the Union of Soviet Socialist Republics on the Limitation of Strategic Offensive Arms, and the resolution of ratification with respect thereto, and for other purposes.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/96/sres/228?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-03-28",
+            "latestAction": {
+                "actionDate": "1979-03-28",
+                "text": "Referred to Senate Committee on the Budget."
+            },
+            "number": "116",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A resolution waiving section 303 (a) of the Congressional Budget Act of 1974 with respect to an amendment repeal carryover basis.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/96/sres/116?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-03-21",
+            "latestAction": {
+                "actionDate": "1979-03-21",
+                "text": "Referred to Senate Committee on Foreign Relations."
+            },
+            "number": "110",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A resolution expressing the support of the Senate for certain United States scientists protesting the conviction and continued imprisonment of Yuri Orlov and Anatoly Shcharansky.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/96/sres/110?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-15",
+            "latestAction": {
+                "actionDate": "1979-01-15",
+                "text": "Referred to Senate Committee on Foreign Relations."
+            },
+            "number": "13",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A Resolution expressing the sense of the Senate with respect to the continuing relationship of the United States with the Republic of China.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/96/sres/13?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-15",
+            "latestAction": {
+                "actionDate": "1979-01-15",
+                "text": "Referred to Senate Committee on Foreign Relations."
+            },
+            "number": "10",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A Resolution expressing the disapproval of the Senate with respect to the action of the President of the United States sending notice of termination of the Mutual Defense Treaty with the Republic of China without prior consultation with the Senate.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/96/sres/10?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-03-11",
+            "latestAction": {
+                "actionDate": "1980-03-11",
+                "text": "Referred to Senate Committee on Banking, Housing and Urban Affairs."
+            },
+            "number": "81",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "To express the sense of Congress against wage and price controls.",
+            "type": "SCONRES",
+            "url": "https://api.congress.gov/v3/bill/96/sconres/81?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-01-31",
+            "latestAction": {
+                "actionDate": "1980-09-30",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "73",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A concurrent resolution expressing the sense of the Congress with respect to implementing the objectives of the International Year of Disabled Persons.",
+            "type": "SCONRES",
+            "url": "https://api.congress.gov/v3/bill/96/sconres/73?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-11-13",
+            "latestAction": {
+                "actionDate": "1979-11-13",
+                "text": "Referred to Senate Committee on Foreign Relations."
+            },
+            "number": "49",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution relating to the Iranian crisis and the world response.",
+            "type": "SCONRES",
+            "url": "https://api.congress.gov/v3/bill/96/sconres/49?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-06-25",
+            "latestAction": {
+                "actionDate": "1979-06-25",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "31",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "A concurrent resolution expressing the sense of the Senate that the Senate supports and encourages the President's efforts to encourage all nations to increase aid and resettlement assistance to Indochinese refugees, and that in conjunction with their effort the Attorney General should substantially increase the number of Indochinese refugees paroled into the United States, and for other purposes.",
+            "type": "SCONRES",
+            "url": "https://api.congress.gov/v3/bill/96/sconres/31?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-05-24",
+            "latestAction": {
+                "actionDate": "1979-05-24",
+                "text": "Referred to Senate Committee on Energy and Natural Resources."
+            },
+            "number": "28",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A concurrent resolution to express the sense of the Congress that the President should immediately establish and appoint a National Energy Council.",
+            "type": "SCONRES",
+            "url": "https://api.congress.gov/v3/bill/96/sconres/28?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-05-21",
+            "latestAction": {
+                "actionDate": "1979-05-21",
+                "text": "Referred to Senate Committee on Foreign Relations."
+            },
+            "number": "27",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A concurrent resolution expressing the sense of the Congress that the United States, Mexico, and Canada should establish a common economic bond of energy cooperation.",
+            "type": "SCONRES",
+            "url": "https://api.congress.gov/v3/bill/96/sconres/27?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-03-29",
+            "latestAction": {
+                "actionDate": "1979-07-18",
+                "text": "Measure indefinitely postponed in Senate, H.Con.Res. 10 passed in lieu."
+            },
+            "number": "17",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution to express the sense of the Congress that a United Nations special investigatory commission should be established to secure a full accounting of Americans listed as missing in Southeast Asia.",
+            "type": "SCONRES",
+            "url": "https://api.congress.gov/v3/bill/96/sconres/17?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-11-19",
+            "latestAction": {
+                "actionDate": "1974-11-19",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "4164",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend title XVI of the Social Security Act so as to provide for the referral, for appropriate services provided by other State agencies, of blind or disabled children who are receiving supplemental security income benefits.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/4164?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-09-19",
+            "latestAction": {
+                "actionDate": "1974-09-19",
+                "text": "Referred to Senate Committee on Rules and Administration."
+            },
+            "number": "4032",
+            "policyArea": {
+                "name": "Inflation"
+            },
+            "title": "Inflationary Impact Statement Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/4032?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-09-11",
+            "latestAction": {
+                "actionDate": "1974-09-11",
+                "text": "Referred to Senate Committee on Government Operations."
+            },
+            "number": "3992",
+            "policyArea": {
+                "name": "Inflation"
+            },
+            "title": "Inflationary Impact Statement Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/3992?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-09-23",
+            "latestAction": {
+                "actionDate": "1974-09-23",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "4035",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to exempt highway motor vehicles used exclusively in soil and water conservation work from the highway use tax.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/4035?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-09-06",
+            "latestAction": {
+                "actionDate": "1974-09-06",
+                "text": "Referred to Senate Committee on Veterans' Affairs."
+            },
+            "number": "3971",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to amend title 38, United States Code, to increase the rates and income limitations for payments of pensions to veterans and their widows.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/3971?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-09-05",
+            "latestAction": {
+                "actionDate": "1974-09-05",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "3967",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to extend the State and Local Fiscal Assistance Act of 1972 for 5 years.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/3967?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-08-05",
+            "latestAction": {
+                "actionDate": "1974-08-05",
+                "text": "Referred to Senate Committee on Commerce."
+            },
+            "number": "3878",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "A bill to amend the Emergency Daylight Saving Time Energy Conservation Act of 1973.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/3878?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-07-31",
+            "latestAction": {
+                "actionDate": "1974-07-31",
+                "text": "Referred to Senate Committee on Armed Services."
+            },
+            "number": "3841",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to amend sections 555 and 556 of title 37, United States Code, relating to members of the uniformed services who are in a missing status.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/3841?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-06-27",
+            "latestAction": {
+                "actionDate": "1974-06-27",
+                "text": "Referred to Senate Committee on Government Operations."
+            },
+            "number": "3725",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to raise the Veterans' Administration to the status of an executive department of the Government to be known as the \"Department of Veterans' Affairs\".",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/3725?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-07-18",
+            "latestAction": {
+                "actionDate": "1974-07-18",
+                "text": "Referred to Senate Committee on Veterans' Affairs."
+            },
+            "number": "3779",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to amend chapter 37 of title 38, United States Code, to improve the basic provisions of the veterans farm and business loan programs.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/3779?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-06-11",
+            "latestAction": {
+                "actionDate": "1974-06-11",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "3624",
+            "policyArea": {
+                "name": "Livestock"
+            },
+            "title": "Livestock Producer and Consumer Protection Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/3624?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-06-06",
+            "latestAction": {
+                "actionDate": "1974-06-06",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "3589",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend part B of title XI of the Social Security Act to provide a more effective administration of professional standards review of health care services, to expand the Professional Standards Review Organization activity to include review of services performed by or in federally operated health care institutions, and to protect the confidentiality of medical records.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/3589?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-05-31",
+            "latestAction": {
+                "actionDate": "1974-05-31",
+                "text": "Referred to Senate Committee on Commerce."
+            },
+            "number": "3559",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "A bill to prohibit the use of dogs in research and experiments conducted by departments, agencies, and instrumentalities of the United States when such use is likely to result in needless or excessive suffering by such dogs.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/3559?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-05-22",
+            "latestAction": {
+                "actionDate": "1974-05-22",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "3526",
+            "policyArea": {
+                "name": "Meat"
+            },
+            "title": "A bill to prohibit the importation into the United States of certain meat and meat products.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/3526?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-04-25",
+            "latestAction": {
+                "actionDate": "1974-04-25",
+                "text": "Referred to Senate Committee on Veterans' Affairs."
+            },
+            "number": "3384",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to amend chapter 34 of title 38, United States Code, to extend the time period within which veterans may be entitled to educational assistance under such chapter after their discharge or release from active duty.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/3384?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-05-09",
+            "latestAction": {
+                "actionDate": "1974-05-09",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "3465",
+            "policyArea": {
+                "name": "Rural conditions"
+            },
+            "title": "A bill to amend the Consolidated Farmers Home Administration Act.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/3465?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-04-25",
+            "latestAction": {
+                "actionDate": "1974-04-25",
+                "text": "Referred to Senate Committee on Public Works."
+            },
+            "number": "3387",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to amend the Emergency Highway Energy Conservation Act in order to change the 55 miles per hour speed limit prescribed therein to 60 miles per hour.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/3387?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-04-30",
+            "latestAction": {
+                "actionDate": "1974-04-30",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "3403",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to amend the Act of August 31, 1922, to prevent the introduction and spread of diseases and parasites harmful to honeybees, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/3403?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-03-22",
+            "latestAction": {
+                "actionDate": "1974-03-29",
+                "text": "Public law 93-257."
+            },
+            "number": "3228",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "An Act to provide funeral transportation and living expense benefits to the families of deceased prisoners of war, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/3228?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-03-08",
+            "latestAction": {
+                "actionDate": "1974-03-08",
+                "text": "Referred to Senate Committee on Public Works."
+            },
+            "number": "3141",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to authorize construction of the Clinton Parkway, Douglas County, Kans., and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/3141?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-03-04",
+            "latestAction": {
+                "actionDate": "1974-03-04",
+                "text": "Referred to Senate Committee on Interior and Insular Affairs."
+            },
+            "number": "3098",
+            "policyArea": {
+                "name": "Petrochemicals"
+            },
+            "title": "A bill to amend the Emergency Petroleum Allocation Act of 1973.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/3098?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-01-28",
+            "latestAction": {
+                "actionDate": "1974-01-28",
+                "text": "Referred to Senate Committee on Commerce."
+            },
+            "number": "2894",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "A bill to terminate the Emergency Daylight Saving Time Energy Conservation Act of 1973.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/2894?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-01-28",
+            "latestAction": {
+                "actionDate": "1974-01-28",
+                "text": "Referred to Senate Committee on Banking, Housing and Urban Affairs."
+            },
+            "number": "2895",
+            "policyArea": {
+                "name": "Economic stabilization"
+            },
+            "title": "A bill to amend the Economic Stabilization Act of 1970 to stabilize the price of propane.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/2895?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-10-12",
+            "latestAction": {
+                "actionDate": "1973-10-12",
+                "text": "Referred to Senate Committee on Government Operations."
+            },
+            "number": "2573",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend the Federal Property and Administrative Services Act of 1949 as amended to permit donations of surplus supplies and equipment to older Americans.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/2573?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-10-01",
+            "latestAction": {
+                "actionDate": "1973-10-01",
+                "text": "Referred to Senate Committee on Labor and Public Welfare."
+            },
+            "number": "2511",
+            "policyArea": {
+                "name": "Rural affairs legislation"
+            },
+            "title": "Rural Health Care Delivery Improvement Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/2511?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-08-03",
+            "latestAction": {
+                "actionDate": "1973-08-03",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "2361",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to authorize the President to enter into agreements establishing totalization arrangements between the social security system established by title II of the Social Security Act and the social security systems of other countries.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/2361?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-08-01",
+            "latestAction": {
+                "actionDate": "1973-08-01",
+                "text": "Referred to Senate Committee on Public Works."
+            },
+            "number": "2304",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A bill to provide for mobile home-State offices for Senators.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/2304?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-07-13",
+            "latestAction": {
+                "actionDate": "1973-07-13",
+                "text": "Referred to Senate Committee on Interior and Insular Affairs."
+            },
+            "number": "2173",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to amend the Act of August 31, 1965, commemorating certain historical events in the State of Kansas.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/2173?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-06-29",
+            "latestAction": {
+                "actionDate": "1974-04-12",
+                "text": "Private Law 93-65."
+            },
+            "number": "2112",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Vo Thi Suong (Nini Anne Hoyt).",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/2112?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-06-04",
+            "latestAction": {
+                "actionDate": "1973-07-10",
+                "text": "Public law 93-68."
+            },
+            "number": "1938",
+            "policyArea": {
+                "name": null
+            },
+            "title": "A bill to extend the time for conducting the referendum with respect to the national marketing quota for wheat for the marketing year beginning July 1, 1974.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/1938?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-05-23",
+            "latestAction": {
+                "actionDate": "1973-05-23",
+                "text": "Referred to Senate Committee on Labor and Public Welfare."
+            },
+            "number": "1874",
+            "policyArea": {
+                "name": "Rural affairs legislation"
+            },
+            "title": "Rural Medical Practice Incentive Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/1874?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-05-30",
+            "latestAction": {
+                "actionDate": "1973-05-30",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "1902",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to amend section 8(b) of the Soil Conservation and Domestic Allotment Act, as amended, to reinstitute certain permanent soil- and water-conserving practices under such act.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/1902?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-05-03",
+            "latestAction": {
+                "actionDate": "1973-05-03",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "1696",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to amend section 4491 of the Internal Revenue Code of 1954 to provide that the weight portion of the excise tax on the use of civil aircraft shall apply to piston-engined aircraft only if they have a maximum certificated takeoff weight of more than 6,000 pounds.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/1696?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-05-15",
+            "latestAction": {
+                "actionDate": "1973-05-15",
+                "text": "Referred to Senate Committee on Interior and Insular Affairs."
+            },
+            "number": "1819",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill to direct the Secretary of the Interior to convey certain lands in Geary County, Kans., to Margaret G. More.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/1819?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-04-13",
+            "latestAction": {
+                "actionDate": "1973-04-18",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "1572",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to provide equity in the feed grain set-aside program by allowing participants in plan B to switch to plan A.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/1572?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-04-13",
+            "latestAction": {
+                "actionDate": "1973-04-13",
+                "text": "Referred to Senate Committee on Banking, Housing and Urban Affairs."
+            },
+            "number": "1579",
+            "policyArea": {
+                "name": "Disabled"
+            },
+            "title": "Housing Opportunities for the Handicapped Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/1579?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-04-13",
+            "latestAction": {
+                "actionDate": "1973-04-13",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "1571",
+            "policyArea": {
+                "name": "Rural affairs legislation"
+            },
+            "title": "A bill to clarify and extend the provision of title IV of the Rural Development Act of 1972.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/1571?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-04-17",
+            "latestAction": {
+                "actionDate": "1973-04-17",
+                "text": "Referred to Senate Committee on Armed Services."
+            },
+            "number": "1607",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to authorize the Commandant of the U.S. Army Command and General Staff College to award the degree of master of military art and science.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/1607?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-31",
+            "latestAction": {
+                "actionDate": "1973-01-31",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "622",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to provide price support for milk at not less than 85 per cent of the parity price therefor.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/622?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-12",
+            "latestAction": {
+                "actionDate": "1973-01-12",
+                "text": "Referred to Senate Committee on Labor and Public Welfare."
+            },
+            "number": "341",
+            "policyArea": {
+                "name": "Disabled"
+            },
+            "title": "A bill to provide for the establishment of the National Information and Resource Center for the Handicapped.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/341?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-04",
+            "latestAction": {
+                "actionDate": "1973-01-04",
+                "text": "Referred to Senate Committee on Labor and Public Welfare."
+            },
+            "number": "159",
+            "policyArea": {
+                "name": "Disabled"
+            },
+            "title": "Disabled Workers Transportation Assistance Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/159?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-04",
+            "latestAction": {
+                "actionDate": "1973-01-04",
+                "text": "Referred to Senate Committee on Public Works."
+            },
+            "number": "45",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to authorize advance relocation of FAS Route 1343 in connection with the Onaga Lake project in Kansas.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/45?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-04",
+            "latestAction": {
+                "actionDate": "1973-01-04",
+                "text": "Referred to Senate Committee on Banking, Housing and Urban Affairs."
+            },
+            "number": "44",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "A bill to amend the Small Business Act to increase the availability of management counseling to small business concerns.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/44?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-04",
+            "latestAction": {
+                "actionDate": "1973-01-04",
+                "text": "Referred to Senate Committee on Interior and Insular Affairs."
+            },
+            "number": "42",
+            "policyArea": {
+                "name": null
+            },
+            "title": "A bill to provide for the disposition of funds appropriated to pay certain judgments in favor of the Iowa Tribes of Oklahoma and of Kansas and Nebraska.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/42?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-04",
+            "latestAction": {
+                "actionDate": "1973-01-04",
+                "text": "Referred to Senate Committee on Public Works."
+            },
+            "number": "46",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill authorizing the improvement of certain roads in the vicinity of Melvern and Pomona Reservoirs, Osage County, Kansas.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/46?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-04",
+            "latestAction": {
+                "actionDate": "1973-01-04",
+                "text": "Referred to Senate Committee on Judiciary."
+            },
+            "number": "41",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to designate November 11 of each year as Veterans Day and to make such day a legal public holiday.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/41?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-04",
+            "latestAction": {
+                "actionDate": "1973-02-22",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "43",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to provide for the mandatory inspection of rabbits slaughtered for human food.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/93/s/43?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-04",
+            "latestAction": {
+                "actionDate": "1973-01-04",
+                "text": "Referred to Senate Committee on Judiciary."
+            },
+            "number": "4",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution to authorize and request the President to issue a proclamation designating a week as \"National Welcome Home our Prisoners Week\" upon the release and return to the United States of American prisoners of war in Southeast Asia.",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/93/sjres/4?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-02-06",
+            "latestAction": {
+                "actionDate": "1973-02-06",
+                "text": "Referred to Senate Committee on Foreign Relations."
+            },
+            "number": "53",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A joint resolution to establish a joint congressional committee to investigate the causes and origins of United States involvement in the hostilities in Vietnam.",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/93/sjres/53?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-01-04",
+            "latestAction": {
+                "actionDate": "1973-01-04",
+                "text": "Referred to Senate Committee on Judiciary."
+            },
+            "number": "3",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A joint resolution to provide for a 1974 centennial celebration observing the introduction into the United States of Hard Red Winter wheat.",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/93/sjres/3?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-09-05",
+            "latestAction": {
+                "actionDate": "1973-09-05",
+                "text": "Referred to Senate Committee on Rules and Administration."
+            },
+            "number": "164",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A resolution relating to the Select Committee on Campaign Activities.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/93/sres/164?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-09-06",
+            "latestAction": {
+                "actionDate": "1973-09-06",
+                "text": "Referred to Senate Committee on Rules and Administration."
+            },
+            "number": "166",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A resolution relating to the Select Committee on Campaign Activities.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/93/sres/166?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1974-02-25",
+            "latestAction": {
+                "actionDate": "1974-02-26",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "70",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Resolved by the Senate (the House of Representatives concurring), that it is the sense of the Congress that the Secretary of Agriculture should immediately conduct a survey of all wheat milling firms and bakeries to determine their position with regard to wheat supplies and requirements during the remainder of the 1973-74 marketing year.",
+            "type": "SCONRES",
+            "url": "https://api.congress.gov/v3/bill/93/sconres/70?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-06-23",
+            "latestAction": {
+                "actionDate": "1976-06-23",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "3611",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to provide an alternative to the salary equivalence standard for determining the reasonable costs of services furnished by independent practitioners of physical therapy to medicare beneficiaries.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/3611?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-06-10",
+            "latestAction": {
+                "actionDate": "1976-06-10",
+                "text": "Referred to Senate Committee on Banking, Housing and Urban Affairs."
+            },
+            "number": "3543",
+            "policyArea": {
+                "name": null
+            },
+            "title": "National Full Employment and Anti-Inflation Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/3543?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-06-04",
+            "latestAction": {
+                "actionDate": "1976-10-01",
+                "text": "Measure passed Senate."
+            },
+            "number": "3520",
+            "policyArea": {
+                "name": "Rural affairs legislation"
+            },
+            "title": "A bill to extend the rural community fire protection program.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/3520?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-06-10",
+            "latestAction": {
+                "actionDate": "1976-06-10",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "3549",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "National Agricultural Research Policy Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/3549?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-05-06",
+            "latestAction": {
+                "actionDate": "1976-05-06",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "3396",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Alfred Yuk-Bun Yip.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/3396?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-05-13",
+            "latestAction": {
+                "actionDate": "1976-05-13",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "3426",
+            "policyArea": {
+                "name": "Revenue sharing"
+            },
+            "title": "State and Local Fiscal Assistance Act Amendments",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/3426?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-04-14",
+            "latestAction": {
+                "actionDate": "1976-04-14",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "3316",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide income tax incentives for the modification of certain facilities and vehicles so as to remove architectural and transportational barriers to the handicapped and olderly.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/3316?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-04-13",
+            "latestAction": {
+                "actionDate": "1976-04-13",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "3299",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to amend the Soil Conservation and Domestic Allotment Act to provide an updated national direction to the conditions under which the Federal Government will provide financial assistance to agricultural producers for needed soil, water, woodland, and wildlife conservation on agricultural lands.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/3299?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-04-01",
+            "latestAction": {
+                "actionDate": "1976-04-01",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "3235",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide a tax credit for wages paid to certain new employees during periods of high unemployment.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/3235?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-02-26",
+            "latestAction": {
+                "actionDate": "1976-09-29",
+                "text": "Measure passed House, amended."
+            },
+            "number": "3051",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Commodity Futures Trading Commission Act Amendments",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/3051?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-02-26",
+            "latestAction": {
+                "actionDate": "1976-10-01",
+                "text": "Public law 94-449."
+            },
+            "number": "3052",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "An Act to authorize orientation and language training for families of certain officers and employees of the Department of Agriculture.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/3052?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-03-15",
+            "latestAction": {
+                "actionDate": "1976-03-15",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "3141",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "United States Grain Standards Act Amendments",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/3141?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-02-26",
+            "latestAction": {
+                "actionDate": "1976-02-26",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "3054",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to repeal certain requirements relating to notice of animal and plant quarantines, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/3054?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-03-04",
+            "latestAction": {
+                "actionDate": "1976-09-08",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "3081",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to amend section 301 of the Federal Meat Inspection Act, as amended, and section 5 of the Poultry Products Inspection Act, as amended, so as to increase from 50 to 80 percent the amount that may be paid as the Federal Government's share of the costs of any cooperative meat or poultry inspection program carried out by any State under such sections.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/3081?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-02-26",
+            "latestAction": {
+                "actionDate": "1976-02-26",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "3053",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to upgrade the position of Under Secretary of Agriculture to Deputy Secretary of Agriculture; to provide for two additional Assistant Secretaries of Agriculture; to increase the compensation of certain officials of the Department of Agriculture; to provide for an additional member of the Board of Directors, Commodity Credit Corporation.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/3053?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-02-24",
+            "latestAction": {
+                "actionDate": "1976-09-28",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "3017",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Lee Young Soo.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/3017?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-02-18",
+            "latestAction": {
+                "actionDate": "1976-02-18",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "2993",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to prohibit the Federal Government from restricting export sales of agricultural commodities.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/2993?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-12-18",
+            "latestAction": {
+                "actionDate": "1975-12-18",
+                "text": "Referred to Senate Committee on Post Office and Civil Service."
+            },
+            "number": "2820",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend title 5, United States Code, to change the method of computing annuities of employees with at least 5 but less than 20 years of service as law enforcement officers or firefighters.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/2820?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-01-20",
+            "latestAction": {
+                "actionDate": "1976-01-20",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "2850",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of John Ming Chan.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/2850?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-12-04",
+            "latestAction": {
+                "actionDate": "1975-12-04",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "2739",
+            "policyArea": {
+                "name": "Commodity control"
+            },
+            "title": "A bill to facilitate the sale of U.S. agricultural commodities to be stored in the United States not subject to export control and restricted from resale into the U.S. markets.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/2739?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-11-20",
+            "latestAction": {
+                "actionDate": "1975-11-20",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "2704",
+            "policyArea": {
+                "name": "Life insurance"
+            },
+            "title": "A bill to amend section 815 of the Internal Revenue Code of 1954.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/2704?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-12-17",
+            "latestAction": {
+                "actionDate": "1975-12-17",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "2805",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "A bill to permit any person otherwise eligible to become a naturalized citizen during calendar year 1977 to become a naturalized citizen during calendar year 1976.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/2805?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-12-15",
+            "latestAction": {
+                "actionDate": "1975-12-15",
+                "text": "Referred to Senate Committee on Interior and Insular Affairs."
+            },
+            "number": "2785",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Emergency Petroleum Allocation Extension Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/2785?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-10-09",
+            "latestAction": {
+                "actionDate": "1975-10-09",
+                "text": "Referred to Senate Committee on Government Operations."
+            },
+            "number": "2516",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A bill to provide for further assistance to Senate committees in conducting evaluations of the efficiency and economy of Federal Government programs and their operation.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/2516?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-10-02",
+            "latestAction": {
+                "actionDate": "1975-10-02",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "2451",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Food Stamp Reform Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/2451?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-10-07",
+            "latestAction": {
+                "actionDate": "1975-10-07",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "2483",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Harald and Sylvia Schubert.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/2483?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-09-29",
+            "latestAction": {
+                "actionDate": "1975-09-29",
+                "text": "Referred to Senate Committee on Post Office and Civil Service."
+            },
+            "number": "2426",
+            "policyArea": {
+                "name": "Postal service"
+            },
+            "title": "Private Individuals' Postal Rate Relief Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/2426?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-09-10",
+            "latestAction": {
+                "actionDate": "1975-09-10",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "2324",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Income Tax Return Confidentiality Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/2324?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-07-30",
+            "latestAction": {
+                "actionDate": "1975-07-30",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "2226",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Severiano Vasquez Valle, Rosario Lazaro de Valle, and Rosa Maricela Valle.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/2226?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-09-05",
+            "latestAction": {
+                "actionDate": "1975-09-05",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "2297",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to amend the U.S. Grain Standards Act to improve grain inspection and operations of official inspection agencies.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/2297?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-07-07",
+            "latestAction": {
+                "actionDate": "1975-07-07",
+                "text": "Referred to Senate Committee on Public Works."
+            },
+            "number": "2048",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to provide for the modification of the project for Tuttle Creek Lake, Big Blue River, Kans.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/2048?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-07-09",
+            "latestAction": {
+                "actionDate": "1975-07-09",
+                "text": "Referred to Senate Committee on Commerce."
+            },
+            "number": "2070",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "Animal Welfare Act Amendments",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/2070?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-05-22",
+            "latestAction": {
+                "actionDate": "1975-05-22",
+                "text": "Referred to Senate Committee on Interior and Insular Affairs."
+            },
+            "number": "1820",
+            "policyArea": {
+                "name": "Hydraulic engineering"
+            },
+            "title": "A bill to authorize the Secretary of the Interior to construct, operate, and maintain the Glen Elder unit of the Pick-Sloan Missouri Basin program, Kansas.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/1820?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-06-17",
+            "latestAction": {
+                "actionDate": "1975-06-17",
+                "text": "Referred to Senate Committee on Interior and Insular Affairs."
+            },
+            "number": "1953",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "A bill to provide for the disposition of funds appropriated to pay judgments in favor of the Sac and Fox Indians in Indian Claims Commission Dockets 153 and 135.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/1953?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-06-03",
+            "latestAction": {
+                "actionDate": "1975-06-03",
+                "text": "Referred to Senate Committee on Public Works."
+            },
+            "number": "1843",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to amend and clarify certain regulatory authorities of the Federal government over work and activities in navigable waters.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/1843?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-05-22",
+            "latestAction": {
+                "actionDate": "1975-05-22",
+                "text": "Referred to Senate Committee on Post Office and Civil Service."
+            },
+            "number": "1808",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend title 5, United States Code, to provide for the payment of overtime to certain personnel employed in the Department of Agriculture, Animal and Plant Health Inspection Service.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/1808?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-05-22",
+            "latestAction": {
+                "actionDate": "1976-09-07",
+                "text": "Measure passed Senate, amended."
+            },
+            "number": "1821",
+            "policyArea": {
+                "name": "Hydraulic engineering"
+            },
+            "title": "A bill to authorize the Secretary of the Interior to construct, operate, and maintain the Kanopolis unit of the Pick-Sloan Missouri Basin program, Kansas.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/1821?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-05-12",
+            "latestAction": {
+                "actionDate": "1975-05-12",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "1718",
+            "policyArea": {
+                "name": "Lotteries"
+            },
+            "title": "A bill to amend chapter 61 of title 18, United States Code, relating to lotteries.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/1718?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-05-06",
+            "latestAction": {
+                "actionDate": "1975-05-06",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "1650",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to amend the Perishable Agricultural Commodities Act, 1930.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/1650?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-05-06",
+            "latestAction": {
+                "actionDate": "1975-05-06",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "1647",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to amend the Federal Crop Insurance Act, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/1647?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-05-06",
+            "latestAction": {
+                "actionDate": "1975-05-06",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "1646",
+            "policyArea": {
+                "name": "Cotton"
+            },
+            "title": "Extra Long Staple Cotton Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/1646?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-05-06",
+            "latestAction": {
+                "actionDate": "1975-05-06",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "1643",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to further amend the Agricultural Marketing Act of 1946.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/1643?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-05-06",
+            "latestAction": {
+                "actionDate": "1975-05-06",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "1648",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend section 1114 of Title 18 of the United States Code to include officers and employees of the Department of Agriculture assigned to perform investigative, inspection, or law enforcement functions.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/1648?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-05-06",
+            "latestAction": {
+                "actionDate": "1975-05-06",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "1642",
+            "policyArea": {
+                "name": "Independent regulatory commissions"
+            },
+            "title": "A bill to amend the Commodity Futures Trading Commission Act of 1974.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/1642?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-05-06",
+            "latestAction": {
+                "actionDate": "1975-05-06",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "1644",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to authorize certain payments to States from National Forest receipts during the period July 1, 1976, through September 30, 1976, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/1644?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-05-06",
+            "latestAction": {
+                "actionDate": "1975-05-06",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "1645",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Rice Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/1645?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-05-06",
+            "latestAction": {
+                "actionDate": "1975-11-13",
+                "text": "Public law 94-129."
+            },
+            "number": "1649",
+            "policyArea": {
+                "name": "Arts, Culture, Religion"
+            },
+            "title": "A bill to amend the Act of March 4, 1927, to authorize the Secretary of Agriculture to accept and administer on behalf of the United States gifts or devises of real and personal property for the benefit of the National Arboretum.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/1649?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-04-24",
+            "latestAction": {
+                "actionDate": "1975-04-24",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "1522",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A bill to continue the special food service program for children, the school breakfast program, and the special supplemental food program for women, infants, and children through September 30, 1976.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/1522?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-04-21",
+            "latestAction": {
+                "actionDate": "1975-04-21",
+                "text": "Referred to Senate Committee on Labor and Public Welfare."
+            },
+            "number": "1495",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Occupational Safety and Health Act Amendments",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/1495?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-05-06",
+            "latestAction": {
+                "actionDate": "1975-05-06",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "1641",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to amend the Agricultural Trade Development and Assistance Act of 1954 to provide to the United States with the flexibility to carry out the national interest or humanitarian objectives of that Act.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/1641?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-04-18",
+            "latestAction": {
+                "actionDate": "1975-04-18",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "1472",
+            "policyArea": {
+                "name": "Professional ethics"
+            },
+            "title": "A bill to amend part B of title XI of the Social Security Act to provide a more effective administration of professional standards review of health care services; to expand the Professional Standards Review Organization activity to include review of services performed by or in federally operated health care institutions; and to protect the confidentiality of medical records.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/1472?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-04-17",
+            "latestAction": {
+                "actionDate": "1975-04-17",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "1445",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Betty and Bill Ferland.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/1445?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-03-26",
+            "latestAction": {
+                "actionDate": "1975-03-26",
+                "text": "Referred to Senate Committee on Banking, Housing and Urban Affairs."
+            },
+            "number": "1354",
+            "policyArea": {
+                "name": "Commodity control"
+            },
+            "title": "A bill to assure foreign countries that reserve stocks of agricultural commodities stored in the United States under certain conditions shall not be subject to export controls.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/1354?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-03-26",
+            "latestAction": {
+                "actionDate": "1975-03-26",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "1331",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to amend the Commodity Credit Corporation Charter Act.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/1331?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-03-17",
+            "latestAction": {
+                "actionDate": "1975-03-17",
+                "text": "Referred to Senate Committee on Banking, Housing and Urban Affairs."
+            },
+            "number": "1206",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to assure foreign countries that reserve stocks of agricultural commodities stored in the United States under certain conditions shall not be subject to export controls.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/1206?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-03-07",
+            "latestAction": {
+                "actionDate": "1975-03-07",
+                "text": "Referred to Senate Committee on Commerce."
+            },
+            "number": "1007",
+            "policyArea": {
+                "name": "Ammunition"
+            },
+            "title": "A bill to prohibit the Consumer Product Safety Commission from restricting the sale or manufacture of firearms or ammunition.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/1007?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-03-05",
+            "latestAction": {
+                "actionDate": "1975-03-05",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "950",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to terminate the requirement for the prior approval of the export sales of agricultural commodities.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/950?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-02-18",
+            "latestAction": {
+                "actionDate": "1975-02-18",
+                "text": "Referred to Senate Committee on Post Office and Civil Service."
+            },
+            "number": "732",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to grant a preference in employment in the competitive Civil Service to individuals who have served an enlistment in a National Guard or Reserve unit.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/732?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-02-17",
+            "latestAction": {
+                "actionDate": "1975-02-17",
+                "text": "Referred to Senate Committee on Government Operations."
+            },
+            "number": "699",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A bill to permit Senators to use mobile offices in their home State.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/699?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-02-13",
+            "latestAction": {
+                "actionDate": "1975-02-13",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "678",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 as it relates to the Federal estate tax, to increase the individual exemption, to provide an alternate method of valuing for estate tax purposes certain real property including that listed on the National Register of Historic Places, in order to encourage the preservation of open lands and historic places if they continue to be used as such for at least 5 years after the estate tax is applicable.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/678?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-02-13",
+            "latestAction": {
+                "actionDate": "1975-02-13",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "679",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 as it relates to the Federal estate tax, to increase the individual exemption when real property is involved, to provide an alternate method of valuing for estate tax purposes certain real property including that listed on the National Register of Historic Places, in order to encourage the preservation of open lands and historic places if they continue to be used as such for at least 5 years after the estate tax is applicable.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/679?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-27",
+            "latestAction": {
+                "actionDate": "1975-01-27",
+                "text": "Referred to Senate Committee on Armed Services."
+            },
+            "number": "427",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to amend sections 555 and 556 of title 37, United States Code, relating to members of the uniformed services who are in a missing status.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/427?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-23",
+            "latestAction": {
+                "actionDate": "1975-01-23",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "330",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to provide tax credit for increased natural gas expenses resulting from changes in regulation of wellhead prices.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/330?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-27",
+            "latestAction": {
+                "actionDate": "1975-01-27",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "405",
+            "policyArea": {
+                "name": "Citizen lawsuits"
+            },
+            "title": "A bill to provide for the reimbursement to taxpayers of all expenses, including court costs and legal and accounting fees, incurred by them in contesting unwarranted second audits of their income tax liability.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/405?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-16",
+            "latestAction": {
+                "actionDate": "1975-01-16",
+                "text": "Referred to Senate Committee on Commerce."
+            },
+            "number": "187",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Natural Gas Priority Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/187?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-15",
+            "latestAction": {
+                "actionDate": "1975-01-15",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "102",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to provide price support for milk at not less than 85 percent of the parity price therefor.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/102?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-15",
+            "latestAction": {
+                "actionDate": "1975-01-15",
+                "text": "Referred to Senate Committee on Labor and Public Welfare."
+            },
+            "number": "103",
+            "policyArea": {
+                "name": "Disabled"
+            },
+            "title": "Disabled Workers Transportation Assistance Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/103?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-15",
+            "latestAction": {
+                "actionDate": "1975-01-15",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "16",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to provide for the mandatory inspection of rabbits slaughtered for human food, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/16?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-15",
+            "latestAction": {
+                "actionDate": "1975-01-15",
+                "text": "Referred to Senate Committee on Government Operations."
+            },
+            "number": "15",
+            "policyArea": {
+                "name": "Inflation"
+            },
+            "title": "Inflationary Impact Statement Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/15?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-15",
+            "latestAction": {
+                "actionDate": "1975-01-15",
+                "text": "Referred to Senate Committee on Interior and Insular Affairs."
+            },
+            "number": "101",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill to direct the Secretary of the Interior to convey certain lands in Geary County, Kansas, to Margaret G. More.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/101?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-05-06",
+            "latestAction": {
+                "actionDate": "1976-05-06",
+                "text": "Referred to Senate Committee on Government Operations."
+            },
+            "number": "192",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A joint resolution clarifying the implementation of section 403(1) of the Congressional Budget Act of 1974; to require estimation of costs incurred by State and local governments as a result of proposed legislation.",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/94/sjres/192?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-15",
+            "latestAction": {
+                "actionDate": "1975-01-15",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "8",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to designate November 11 of each as Veterans Day and to make such day a legal public holiday.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/8?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-15",
+            "latestAction": {
+                "actionDate": "1976-06-25",
+                "text": "Public law 94-319."
+            },
+            "number": "18",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "An Act to amend the Act of August 31, 1922, to prevent the introduction and spread of diseases and parasites harmful to honeybees, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/18?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-15",
+            "latestAction": {
+                "actionDate": "1975-01-15",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "19",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend title XVI of the Social Security Act so as to provide for the referral, for appropriate services provided by other State agencies, of blind or disabled children who are receiving supplemental security income benefits.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/19?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-15",
+            "latestAction": {
+                "actionDate": "1975-01-15",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "9",
+            "policyArea": {
+                "name": "Revenue sharing"
+            },
+            "title": "A bill to extend the State and Local Fiscal Assistance Act of 1972 for 5 years.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/9?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-15",
+            "latestAction": {
+                "actionDate": "1975-01-15",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "17",
+            "policyArea": {
+                "name": "Motor vehicles"
+            },
+            "title": "A bill to exempt highway motor vehicles used exclusively in soil and water conservation work from the highway use tax.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/94/s/17?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-10-22",
+            "latestAction": {
+                "actionDate": "1975-10-22",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "142",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution authorizing and requesting the President to issue a proclamation designating the 7 calendar days commencing April 4, 1976, as \"National Rural Health Week.\"",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/94/sjres/142?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-04-30",
+            "latestAction": {
+                "actionDate": "1976-04-01",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "76",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution authorizing and requesting the President to issue a proclamation designating the 7 calendar days commencing on April 30 of each year as \"National Beta Sigma Phi Week\".",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/94/sjres/76?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-02-28",
+            "latestAction": {
+                "actionDate": "1975-02-28",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "39",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution to designate the week of March 17 to 23, 1975, as \"National Lead Poisoning Prevention Week\".",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/94/sjres/39?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-09-04",
+            "latestAction": {
+                "actionDate": "1975-09-04",
+                "text": "Referred to Senate Committee on Agriculture and Forestry."
+            },
+            "number": "240",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A resolution relating to the sale of grain to the Soviet Union.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/94/sres/240?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-05-13",
+            "latestAction": {
+                "actionDate": "1975-05-13",
+                "text": "Referred to Senate Committee on Government Operations."
+            },
+            "number": "152",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A resolution relating to present Federal spending programs.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/94/sres/152?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-03-13",
+            "latestAction": {
+                "actionDate": "1975-03-13",
+                "text": "Referred to Senate Committee on Commerce."
+            },
+            "number": "114",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A resolution relating to a loan by the U.S. Railway Association to the Chicago, Rock Island and Pacific Railway.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/94/sres/114?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-02-05",
+            "latestAction": {
+                "actionDate": "1975-02-05",
+                "text": "Measure passed Senate, roll call #6 (83-0)."
+            },
+            "number": "58",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A resolution to direct the Secretary of Agriculture to make a study of the food stamp program and submit legislative recommendations.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/94/sres/58?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-03-31",
+            "latestAction": {
+                "actionDate": "1976-04-01",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "108",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A concurrent resolution seeking to eliminate discriminatory trade practices of the European Economic Community.",
+            "type": "SCONRES",
+            "url": "https://api.congress.gov/v3/bill/94/sconres/108?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-27",
+            "latestAction": {
+                "actionDate": "1975-01-27",
+                "text": "Referred to Senate Committee on Foreign Relations."
+            },
+            "number": "5",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A concurrent resolution urging the President to establish a council on MIAs.",
+            "type": "SCONRES",
+            "url": "https://api.congress.gov/v3/bill/94/sconres/5?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-10-12",
+            "latestAction": {
+                "actionDate": "1978-10-12",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "3594",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to amend the Tariff Schedules of the United States to provide duty-free treatment of any aircraft engine used as a temporary replacement for an aircraft engine being overhauled within the United States or for an aircraft engine being overhauled outside the United States by its manufacturer, if duty was paid on such replacement engine during a previous importation.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/95/s/3594?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-09-28",
+            "latestAction": {
+                "actionDate": "1978-09-28",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "3535",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A Bill for the relief of Carlo Lim, doctor of medicine, his wife Cecilia Lim, and his son Ronald Christopher Lim.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/95/s/3535?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-09-28",
+            "latestAction": {
+                "actionDate": "1978-09-28",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "3536",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A Bill for the relief of Reginald Carlson Lim.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/95/s/3536?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-09-13",
+            "latestAction": {
+                "actionDate": "1978-09-13",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "3496",
+            "policyArea": {
+                "name": "Inventions"
+            },
+            "title": "Small Business Nonprofit Organization Patent Procedures Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/95/s/3496?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-08-24",
+            "latestAction": {
+                "actionDate": "1978-08-24",
+                "text": "Placed on calendar in Senate."
+            },
+            "number": "3460",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "International Emergency Food Fund Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/95/s/3460?format=json"
+        }
+    ]
+}

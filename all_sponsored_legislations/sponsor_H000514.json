@@ -1,0 +1,780 @@
+{
+    "pagination": {
+        "count": 53
+    },
+    "request": {
+        "bioguideId": "h000514",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "379",
+            "congress": 99,
+            "introducedDate": "1985-07-25",
+            "latestAction": {
+                "actionDate": "1985-07-25",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 112 - 300 (Record Vote No: 259). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/379?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-08-13",
+            "latestAction": {
+                "actionDate": "1986-09-20",
+                "text": "Placed on Union Calendar No: 519."
+            },
+            "number": "5409",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Children's Options for Intensive Compensatory Education Act of 1986",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5409?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-09-18",
+            "latestAction": {
+                "actionDate": "1985-09-18",
+                "text": "Referred to House Committee on The Judiciary."
+            },
+            "number": "3364",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Pietro Russo.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3364?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-05-01",
+            "latestAction": {
+                "actionDate": "1985-09-26",
+                "text": "Executive Comment Received From Commerce."
+            },
+            "number": "2303",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to create a separate tariff classification for imports of pigskin footwear.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2303?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-06-05",
+            "latestAction": {
+                "actionDate": "1985-10-01",
+                "text": "Became Public Law No: 99-111."
+            },
+            "number": "305",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution to recognize both Peace Corps volunteers and Peace Corps on the agency's 25th anniversary, 1985-1986.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/99/hjres/305?format=json"
+        },
+        {
+            "amendmentNumber": "439",
+            "congress": 100,
+            "introducedDate": "1987-10-14",
+            "latestAction": {
+                "actionDate": "1987-10-14",
+                "text": "Amendment Withdrawn in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/439?format=json"
+        },
+        {
+            "amendmentNumber": "444",
+            "congress": 100,
+            "introducedDate": "1987-10-15",
+            "latestAction": {
+                "actionDate": "1987-10-15",
+                "text": "Amendment Passed in Committee of the Whole by Recorded Vote: 216 - 197 (Record Vote No: 357). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/444?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-09-17",
+            "latestAction": {
+                "actionDate": "1987-09-17",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "3304",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to provide that the exception from the hospital insurance tax for service performed by an election official or election worker shall apply where renumeration for such service is less than $500 in a calendar year.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3304?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-07-30",
+            "latestAction": {
+                "actionDate": "1988-11-10",
+                "text": "Provisions of Measure Incorporated Into H.R.4333."
+            },
+            "number": "3064",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to exclude from gross income the interest on certain savings bonds used to pay college tuition expenses.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3064?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-06-11",
+            "latestAction": {
+                "actionDate": "1987-06-11",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "2670",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to provide that the exclusion from gross income for qualified scholarships shall include scholarships received for travel, research, and living expenses.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2670?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-05-05",
+            "latestAction": {
+                "actionDate": "1987-05-27",
+                "text": "Referred to Subcommittee on Health and Safety."
+            },
+            "number": "2278",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Occupational Hazard Communication Act of 1987",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2278?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-03-05",
+            "latestAction": {
+                "actionDate": "1987-03-10",
+                "text": "Referred to Subcommittee on Trade."
+            },
+            "number": "1446",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "A bill relating to the treatment of environmental protection and natural resource conservation as aspects of open and fair international trade.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/1446?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-03-03",
+            "latestAction": {
+                "actionDate": "1987-03-09",
+                "text": "Referred to Subcommittee on Trade."
+            },
+            "number": "1363",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Radon Gas Tax Relief Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/1363?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-02-10",
+            "latestAction": {
+                "actionDate": "1987-02-10",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "1071",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to provide an exception from the medicare tax for State and local employees who are paid less than $500 in a calendar year.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/1071?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-02-10",
+            "latestAction": {
+                "actionDate": "1987-03-04",
+                "text": "Referred to Subcommittee on Labor-Management Relations."
+            },
+            "number": "1072",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986, the Employment Retirement Income Security Act of 1974, and the Public Health Service Act with respect to continuation of health care coverage.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/1072?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-07-20",
+            "latestAction": {
+                "actionDate": "1990-08-01",
+                "text": "Referred to the Subcommittee on Consumer Affairs and Coinage."
+            },
+            "number": "5332",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "James Madison-Bicentennial of the Bill of Rights Commemorative Coin Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5332?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-05-08",
+            "latestAction": {
+                "actionDate": "1990-05-08",
+                "text": "Referred to the House Committee on Science, Space and Technology."
+            },
+            "number": "4747",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "National Solid Waste Research and Measurement Standardization Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4747?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-03-08",
+            "latestAction": {
+                "actionDate": "1990-05-15",
+                "text": "See H.R.1454."
+            },
+            "number": "4232",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "National College Athletics Accountability Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4232?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-02-28",
+            "latestAction": {
+                "actionDate": "1990-03-15",
+                "text": "Referred to the Subcommittee on Consumer Affairs and Coinage."
+            },
+            "number": "4137",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Bill of Rights Commemorative Coin Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4137?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-01-31",
+            "latestAction": {
+                "actionDate": "1990-01-31",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3926",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to remove certain limitations on the exclusion of income from United States savings bonds when used to pay higher education tuition and fees.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3926?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-08-04",
+            "latestAction": {
+                "actionDate": "1989-08-24",
+                "text": "Referred to the Subcommittee on Health and Safety."
+            },
+            "number": "3173",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "To apply the provisions of OSHA to certain Department of Energy nuclear facilities.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3173?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-04-13",
+            "latestAction": {
+                "actionDate": "1990-02-08",
+                "text": "Favorable Executive Comment Received from DOD."
+            },
+            "number": "1922",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend titles 10 and 14, United States Code, to make references to members of the Armed Forces who are eligible to receive a medal of honor gender neutral.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/1922?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-07",
+            "latestAction": {
+                "actionDate": "1989-02-07",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "894",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to provide that the exclusion from gross income for qualified scholarships shall include scholarships received for travel, research, and living expenses.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/894?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-01-27",
+            "latestAction": {
+                "actionDate": "1989-01-27",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "692",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To provide that the new nondiscrimination requirements for coverage and benefits under certain statutory employee benefit plans will not take effect until the Internal Revenue Service issues regulations to implement such requirements.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/692?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-01-27",
+            "latestAction": {
+                "actionDate": "1989-02-03",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "691",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To provide that the exception from the hospital insurance tax for service performed by an election official or election worker shall apply where remuneration for such service is less than $500 in a calendar year.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/691?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-01-27",
+            "latestAction": {
+                "actionDate": "1989-02-13",
+                "text": "Referred to the Subcommittee on Military Personnel and Compensation."
+            },
+            "number": "690",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To provide for the payment to former members of the Armed Forces held as prisoners of war during the Korean conflict of amounts attributable to leave accrued and lost while in a missing status.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/690?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-01-20",
+            "latestAction": {
+                "actionDate": "1989-02-21",
+                "text": "Referred to the Subcommittee on Labor-Management Relations."
+            },
+            "number": "585",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend the Internal Revenue Code of 1986, the Employment Retirement Income Security Act of 1974, and the Public Health Service Act with respect to continuation of health care coverage.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/585?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-01-20",
+            "latestAction": {
+                "actionDate": "1989-02-06",
+                "text": "Referred to the Subcommittee on Commerce, Consumer Protection and Competitiveness."
+            },
+            "number": "586",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Beverage Container Reuse and Recycling Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/586?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-07-20",
+            "latestAction": {
+                "actionDate": "1990-07-24",
+                "text": "Referred to the Subcommittee on Census and Population."
+            },
+            "number": "628",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Designating October 27, 1990, as \"National Hostage Awareness Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/628?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-09-12",
+            "latestAction": {
+                "actionDate": "1989-10-23",
+                "text": "Became Public Law No: 101-122."
+            },
+            "number": "400",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Designating October 27, 1989, as \"National Hostage Awareness Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/400?format=json"
+        },
+        {
+            "amendmentNumber": "786",
+            "congress": 102,
+            "introducedDate": "1992-08-04",
+            "latestAction": {
+                "actionDate": "1992-08-04",
+                "actionTime": "14:46:33",
+                "text": "On agreeing to the Henry amendment (A001) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/786?format=json"
+        },
+        {
+            "amendmentNumber": "853",
+            "congress": 102,
+            "introducedDate": "1992-09-22",
+            "latestAction": {
+                "actionDate": "1992-09-22",
+                "actionTime": "17:18:29",
+                "text": "On agreeing to the Henry amendment (A009) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/853?format=json"
+        },
+        {
+            "amendmentNumber": "495",
+            "congress": 102,
+            "introducedDate": "1992-03-26",
+            "latestAction": {
+                "actionDate": "1992-03-26",
+                "actionTime": "18:35:05",
+                "text": "On agreeing to the Henry amendment (A049) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/495?format=json"
+        },
+        {
+            "amendmentNumber": "452",
+            "congress": 102,
+            "introducedDate": "1992-03-26",
+            "latestAction": {
+                "actionDate": "1992-03-26",
+                "actionTime": "12:16:02",
+                "text": "On agreeing to the Henry amendment (A006) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/452?format=json"
+        },
+        {
+            "amendmentNumber": "453",
+            "congress": 102,
+            "introducedDate": "1992-03-26",
+            "latestAction": {
+                "actionDate": "1992-03-26",
+                "actionTime": "13:08:37",
+                "text": "On agreeing to the Henry amendment (A007) Failed by recorded vote: 28 - 385 (Roll no. 56). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/453?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-10-02",
+            "latestAction": {
+                "actionDate": "1992-10-09",
+                "text": "Referred to the Subcommittee on Health and Safety."
+            },
+            "number": "6101",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Worker Protection Warnings Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/6101?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-04-09",
+            "latestAction": {
+                "actionDate": "1992-05-12",
+                "text": "Referred to the Subcommittee on Postsecondary Education."
+            },
+            "number": "4914",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Strategic Manufacturing Alliance Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4914?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-04-07",
+            "latestAction": {
+                "actionDate": "1992-04-07",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4787",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to permit penalty-free withdrawals from individual retirement accounts for purposes of starting a new business.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4787?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-03-26",
+            "latestAction": {
+                "actionDate": "1992-04-29",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "4595",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "American Math and Science Student Support Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4595?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-03-10",
+            "latestAction": {
+                "actionDate": "1992-03-27",
+                "text": "Referred to the Subcommittee on Elementary, Secondary and Vocational Education."
+            },
+            "number": "4417",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Department of Manufacturing and Commerce Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4417?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-07-25",
+            "latestAction": {
+                "actionDate": "1991-08-13",
+                "text": "Referred to the Subcommittee on Postsecondary Education."
+            },
+            "number": "3044",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Defense Manufacturing Engineering Education Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3044?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-07-10",
+            "latestAction": {
+                "actionDate": "1991-07-10",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2853",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to provide that the percentage of completion method of accounting shall not be required to be used with respect to contracts for the manufacture of property if no payments are required to be made before the completion of the manufacture of such property.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2853?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-06-18",
+            "latestAction": {
+                "actionDate": "1991-06-25",
+                "text": "Referred to the Subcommittee on Technology and Competitiveness."
+            },
+            "number": "2679",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Next Generation Automobile Research and Development Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2679?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-05-22",
+            "latestAction": {
+                "actionDate": "1991-10-24",
+                "text": "Referred to the Subcommittee on Postsecondary Education."
+            },
+            "number": "2433",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "National College Athletics Accountability (NCAA) Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2433?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-02-27",
+            "latestAction": {
+                "actionDate": "1991-02-27",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1136",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to remove certain limitations on the exclusion of income from United States savings bonds when used to pay higher education tuition and fees.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1136?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-02-20",
+            "latestAction": {
+                "actionDate": "1991-03-01",
+                "text": "Referred to the Subcommittee on Transportation and Hazardous Materials."
+            },
+            "number": "997",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "National Recycling Resource Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/997?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-02-19",
+            "latestAction": {
+                "actionDate": "1991-02-19",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "969",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to provide that the unrelated business tax on colleges and universities shall apply to revenues from broadcasting athletic events and to certain other athletics-related revenues and to provide that scholarships received for travel, research, and living expenses are excluded from gross income.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/969?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-02-19",
+            "latestAction": {
+                "actionDate": "1991-02-22",
+                "text": "Referred to the Subcommittee on Military Personnel and Compensation."
+            },
+            "number": "968",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To provide for the payment to former members of the Armed Forces held as prisoners of war during the Korean conflict of amounts attributable to leave accrued and lost while in a missing status.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/968?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-01-03",
+            "latestAction": {
+                "actionDate": "1991-02-08",
+                "text": "Referred to the Subcommittee on Postsecondary Education."
+            },
+            "number": "337",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "To amend the Higher Education Act of 1965 to require a high school diploma or recognized equivalent as a prerequisite for Federal student financial assistance.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/337?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-01-03",
+            "latestAction": {
+                "actionDate": "1991-02-11",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "338",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend the Internal Revenue Code of 1986, the Employment Retirement Income Security Act of 1974, and the Public Health Service Act with respect to continuation of health care coverage.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/338?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-02-19",
+            "latestAction": {
+                "actionDate": "1991-02-26",
+                "text": "For Further Action See S.J.Res.76."
+            },
+            "number": "131",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Commending the Peace Corps and the current and former Peace Corps volunteers on the thirtieth anniversary of the establishment of the Peace Corps.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/102/hjres/131?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-04-25",
+            "latestAction": {
+                "actionDate": "1991-04-25",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "140",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "To commend the U.S. Savings Bond Program on the occasion of its 50th Anniversary.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/102/hconres/140?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-01-21",
+            "latestAction": {
+                "actionDate": "1993-01-21",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "514",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend the Federal Election Campaign Act of 1971 to provide for a House of Representatives election limitation on contributions from persons other than local individual residents.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/514?format=json"
+        }
+    ]
+}

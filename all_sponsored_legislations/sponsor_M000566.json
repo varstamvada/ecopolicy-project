@@ -1,0 +1,582 @@
+{
+    "pagination": {
+        "count": 39
+    },
+    "request": {
+        "bioguideId": "m000566",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 99,
+            "introducedDate": "1986-08-08",
+            "latestAction": {
+                "actionDate": "1986-08-08",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "5370",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Textile and Apparel Import Licensing Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5370?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-07-28",
+            "latestAction": {
+                "actionDate": "1986-08-04",
+                "text": "Referred to Subcommittee on Health and the Environment."
+            },
+            "number": "5264",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend title XVIII of the Social Security Act to permit certain individuals with physical or mental impairments to continue medicare coverage at their own expense.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5264?format=json"
+        },
+        {
+            "amendmentNumber": "629",
+            "congress": 100,
+            "introducedDate": "1988-04-29",
+            "latestAction": {
+                "actionDate": "1988-04-29",
+                "text": "Amendment Passed in Committee of the Whole by Recorded Vote: 350 - 0 (Record Vote No: 85). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/629?format=json"
+        },
+        {
+            "amendmentNumber": "342",
+            "congress": 100,
+            "introducedDate": "1987-07-13",
+            "latestAction": {
+                "actionDate": "1987-07-13",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/342?format=json"
+        },
+        {
+            "amendmentNumber": "343",
+            "congress": 100,
+            "introducedDate": "1987-07-13",
+            "latestAction": {
+                "actionDate": "1987-07-13",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/343?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-05-28",
+            "latestAction": {
+                "actionDate": "1987-06-15",
+                "text": "Referred to Subcommittee on International Finance, Trade and Monetary Policy."
+            },
+            "number": "2556",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "International Debt Recovery Act of 1987",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2556?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-04-07",
+            "latestAction": {
+                "actionDate": "1987-04-14",
+                "text": "Referred to Subcommittee on Health."
+            },
+            "number": "1971",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Disabled Americans Work Incentive Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/1971?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-03-16",
+            "latestAction": {
+                "actionDate": "1987-06-23",
+                "text": "Executive Comment Received From ITC."
+            },
+            "number": "1625",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill relating to the tariff treatment of trifluromethylaniline (also known as m-Aminobenzotrifluride).",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/1625?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-03-16",
+            "latestAction": {
+                "actionDate": "1987-03-19",
+                "text": "Referred to Subcommittee on Trade."
+            },
+            "number": "1624",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to amend the Tariff Act of 1930 to require that certain revenues attributable to tariffs levied on imports of textile machinery and parts thereof be applied to support research for the modernization of the American textile machinery industry.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/1624?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-02-03",
+            "latestAction": {
+                "actionDate": "1987-02-10",
+                "text": "Referred to Subcommittee on Civil and Constitutional Rights."
+            },
+            "number": "128",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A joint resolution proposing an amendment to the Constitution of the United States to provide for a four year term of office for Representatives in Congress, and to require that any Representative who officially declares his candidacy for election to the Senate immediately vacate his seat.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/128?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-06-11",
+            "latestAction": {
+                "actionDate": "1987-06-22",
+                "text": "Referred to Subcommittee on Asian and Pacific Affairs."
+            },
+            "number": "139",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution to express the sense of the Congress that the United States should enter into negotiations with countries which participate in a common defense alliance with the United States for the purpose of a more equitable apportionment of the burden of financial support for the alliance.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/100/hconres/139?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-05-22",
+            "latestAction": {
+                "actionDate": "1990-05-30",
+                "text": "Referred to the Subcommittee on Immigration, Refugees, and International Law."
+            },
+            "number": "4885",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Leslie Leigh Moore.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4885?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-04-18",
+            "latestAction": {
+                "actionDate": "1990-07-11",
+                "text": "Executive Comment Received from ITC."
+            },
+            "number": "4544",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend for a 3-year peroid the duty on DNCB.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4544?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-04-18",
+            "latestAction": {
+                "actionDate": "1990-07-24",
+                "text": "Executive Comment Received from ITC."
+            },
+            "number": "4545",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend for a 3-year period the duty on C.I. Pigment Red 214.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4545?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-04-18",
+            "latestAction": {
+                "actionDate": "1990-07-13",
+                "text": "Executive Comment Received from ITC."
+            },
+            "number": "4547",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend for a 3-year period the duty on C.I. Pigment Red 242.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4547?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-04-18",
+            "latestAction": {
+                "actionDate": "1990-07-13",
+                "text": "Executive Comment Received from ITC."
+            },
+            "number": "4546",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend for a 3-year period the duty on C.I. Pigment Yellow 155.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4546?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-06-14",
+            "latestAction": {
+                "actionDate": "1989-11-22",
+                "text": "Became Public Law No: 101-171."
+            },
+            "number": "2642",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Southeast Interstate Low-Level Radioactive Waste Compact Amendments Consent Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2642?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-04-13",
+            "latestAction": {
+                "actionDate": "1990-08-20",
+                "text": "See H.R.1594."
+            },
+            "number": "1939",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To amend the Harmonized Tariff Schedule of the United States to correct the classification of gripping narrow fabrics of man-made fibers.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/1939?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-04-12",
+            "latestAction": {
+                "actionDate": "1990-08-20",
+                "text": "See H.R.1594."
+            },
+            "number": "1817",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on chemical light activator blend.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/1817?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-03-15",
+            "latestAction": {
+                "actionDate": "1990-08-20",
+                "text": "See H.R.1594."
+            },
+            "number": "1442",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Relating to the tariff treatment of trifluromethylaniline (also known as m-Aminobenzotrifluoride).",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/1442?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-03-15",
+            "latestAction": {
+                "actionDate": "1989-03-29",
+                "text": "Referred to the Subcommittee on Civil and Constitutional Rights."
+            },
+            "number": "203",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Proposing an amendment to the Constitution of the United States to provide for a four-year term of office for Representatives in Congress, and to require that any Representative who officially declares his candidacy for election to the Senate immediately vacate his seat.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/203?format=json"
+        },
+        {
+            "amendmentNumber": "826",
+            "congress": 102,
+            "introducedDate": "1992-09-10",
+            "latestAction": {
+                "actionDate": "1992-09-10",
+                "actionTime": "15:14:37",
+                "text": "On agreeing to the McMillan (NC) amendment (A002) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/826?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-07-02",
+            "latestAction": {
+                "actionDate": "1992-07-15",
+                "text": "Referred to the Subcommittee on Financial Institutions Supervision, Regulation and Insurance."
+            },
+            "number": "5544",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Resolution Trust Corporation Cost Reduction Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5544?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-06-04",
+            "latestAction": {
+                "actionDate": "1992-07-15",
+                "text": "Executive Comment Requested from Treasury, Commerce, ITC, USTR."
+            },
+            "number": "5332",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend until January 1, 1995, the existing suspension of duty on gripping narrow fabrics.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5332?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-05-06",
+            "latestAction": {
+                "actionDate": "1992-07-15",
+                "text": "Executive Comment Requested from Treasury, Commerce, ITC, USTR."
+            },
+            "number": "5081",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend until January 1, 1995, the duty on 2,4-dichloro-3,5-dinitrobenzotrifluoride.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5081?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-11-21",
+            "latestAction": {
+                "actionDate": "1992-01-15",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "3857",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medical Injury Compensation Fairness Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3857?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-10-16",
+            "latestAction": {
+                "actionDate": "1992-08-07",
+                "text": "Executive Comment Received from ITC."
+            },
+            "number": "3573",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend for a 3-year period the duty on DMCB.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3573?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-09-24",
+            "latestAction": {
+                "actionDate": "1992-05-18",
+                "text": "Executive Comment Received from ITC."
+            },
+            "number": "3392",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend for a 3-year period the duty on C.I. Pigment Red 214.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3392?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-09-24",
+            "latestAction": {
+                "actionDate": "1992-04-28",
+                "text": "Executive Comment Received from ITC."
+            },
+            "number": "3390",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend for a 3-year period the duty on C.I. Pigment Red 242.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3390?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-09-24",
+            "latestAction": {
+                "actionDate": "1992-04-28",
+                "text": "Executive Comment Received from ITC."
+            },
+            "number": "3391",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend for a 3-year period the duty on C.I. Pigment Yellow 155.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3391?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-10-06",
+            "latestAction": {
+                "actionDate": "1994-10-20",
+                "text": "Referred to the Subcommittee on Crime and Criminal Justice."
+            },
+            "number": "5232",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Firearms Licensing Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/5232?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-03-17",
+            "latestAction": {
+                "actionDate": "1994-04-07",
+                "text": "Referred to the Subcommittee On Merchant Marine."
+            },
+            "number": "4090",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To authorize the Secretary of Transportation to issue a certificate of documentation with appropriate endorsement for employment in the coastwise trade for the vessel SEASCAPE.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4090?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-07-14",
+            "latestAction": {
+                "actionDate": "1994-08-02",
+                "text": "See H.R.3600."
+            },
+            "number": "2640",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Health Care Cooperative Antitrust Protection Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2640?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-05-19",
+            "latestAction": {
+                "actionDate": "1993-05-25",
+                "text": "Referred to the Subcommittee on Legislation and National Security."
+            },
+            "number": "2172",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Health Care Reform Budget Enforcement Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2172?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-05-05",
+            "latestAction": {
+                "actionDate": "1994-08-02",
+                "text": "See H.R.3600."
+            },
+            "number": "1989",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medical Injury Compensation Fairness Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1989?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-29",
+            "latestAction": {
+                "actionDate": "1993-08-27",
+                "text": "Executive Comment Received from ITC."
+            },
+            "number": "1920",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend until January 1, 1997, the existing suspension of duty on trifluoromethylaniline.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1920?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-16",
+            "latestAction": {
+                "actionDate": "1993-11-05",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "1357",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Municipal Solid Waste Flow Control Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1357?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-09-23",
+            "latestAction": {
+                "actionDate": "1994-10-03",
+                "text": "Referred to the Subcommittee on Commerce, Consumer Protection and Competitiveness."
+            },
+            "number": "414",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "To authorize and encourage States to adopt interstate compacts for the regulation of interstate insurance.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/414?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-08-04",
+            "latestAction": {
+                "actionDate": "1994-08-04",
+                "text": "Referred to the House Committee on Rules."
+            },
+            "number": "508",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Making in order, in the consideration by the House of Representatives of H.R. 3600 (the \"Health Security Act\"), an amendment-in-the-nature-of-a-substitute consisting of the text of H.R. 3080 and including a title providing for assistance for the purpose of health insurance.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/103/hres/508?format=json"
+        }
+    ]
+}

@@ -1,0 +1,581 @@
+{
+    "pagination": {
+        "count": 38
+    },
+    "request": {
+        "bioguideId": "k000365",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "597",
+            "congress": 111,
+            "introducedDate": "2010-04-15",
+            "latestAction": {
+                "actionDate": "2010-04-15",
+                "actionTime": "15:09:56",
+                "text": "On agreeing to the Kagen amendment (A003) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/hamdt/597?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-12-02",
+            "latestAction": {
+                "actionDate": "2010-12-02",
+                "text": "Referred to the House Committee on Transportation and Infrastructure."
+            },
+            "number": "6474",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To direct the Secretary of the Army to cease construction of a temporary causeway in connection with the project for the Renard Island Confined Disposal Facility, Green Bay Harbor, Wisconsin, until certain conditions are met, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/6474?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-09-29",
+            "latestAction": {
+                "actionDate": "2010-09-29",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "6285",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To prohibit the importation into the United States of paper products that are not manufactured in accordance with requirements that are at least as stringent as the requirements under the Clean Air Act and the Federal Water Pollution Control Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/6285?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-07-30",
+            "latestAction": {
+                "actionDate": "2010-08-09",
+                "text": "Referred to the Subcommittee on National Parks, Forests and Public Lands."
+            },
+            "number": "6039",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Fox-Wisconsin Heritage Parkway National Heritage Area Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/6039?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-06-14",
+            "latestAction": {
+                "actionDate": "2010-06-15",
+                "text": "Referred to the Subcommittee on Coast Guard and Maritime Transportation."
+            },
+            "number": "5520",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Oil Spill Responsibility Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5520?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-02-25",
+            "latestAction": {
+                "actionDate": "2010-05-06",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "4700",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Transparency in All Health Care Pricing Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4700?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-11-07",
+            "latestAction": {
+                "actionDate": "2009-11-07",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4066",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to make permanent the alternative fuel credit and the alternative fuel mixture credit.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4066?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-07-31",
+            "latestAction": {
+                "actionDate": "2009-09-11",
+                "text": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs."
+            },
+            "number": "3491",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Thomas G. Schubert Agent Orange Fairness Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/3491?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-07-14",
+            "latestAction": {
+                "actionDate": "2009-07-14",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3211",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Cost of Living Equity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/3211?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-05-06",
+            "latestAction": {
+                "actionDate": "2009-05-06",
+                "text": "Referred to the Subcommittee on Finance and Tax."
+            },
+            "number": "2281",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Small Business Opportunity Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2281?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-02",
+            "latestAction": {
+                "actionDate": "2009-04-21",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "1928",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Home Healthcare Nurse Promotion Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1928?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-03-12",
+            "latestAction": {
+                "actionDate": "2009-03-12",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1480",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To amend the Tariff Act of 1930 to require that certain laminated woven bags be marked with the country of origin.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1480?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-02-13",
+            "latestAction": {
+                "actionDate": "2009-03-30",
+                "text": "Referred to the Subcommittee on Health, Employment, Labor, and Pensions."
+            },
+            "number": "1092",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "No Discrimination in Health Insurance Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1092?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-01-22",
+            "latestAction": {
+                "actionDate": "2009-01-22",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "650",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Cleaner Trucks for America Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/650?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-09-29",
+            "latestAction": {
+                "actionDate": "2010-09-29",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1699",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Expressing the sense of the House of Representatives that foreign countries have engaged in unfair trade practices in the United States with regards to paper products.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/1699?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-05-21",
+            "latestAction": {
+                "actionDate": "2009-05-21",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "481",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Honoring the life and public service of Reverend Robert Cornell, distinguished former Congressman, academic, and clergyman from the State of Wisconsin.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/481?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-09-25",
+            "latestAction": {
+                "actionDate": "2008-09-25",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "7064",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Cleaner Trucks for America Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/7064?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-09-11",
+            "latestAction": {
+                "actionDate": "2008-09-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "6876",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Cleaner Trucks for America Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6876?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-08-01",
+            "latestAction": {
+                "actionDate": "2008-08-01",
+                "text": "Referred to the House Committee on Veterans' Affairs."
+            },
+            "number": "6798",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 38, United States Code, to establish a presumption of service connection for certain cancers occurring in veterans who served in the Republic of Vietnam and were exposed to certain herbicide agents, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6798?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-08-01",
+            "latestAction": {
+                "actionDate": "2008-08-01",
+                "text": "Referred to the House Committee on Education and Labor."
+            },
+            "number": "6797",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Incumbent Worker Development Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6797?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-07-31",
+            "latestAction": {
+                "actionDate": "2008-07-31",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "6744",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To amend the Tariff Act of 1930 to require that certain laminated woven bags be marked with the country of origin.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6744?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-07-16",
+            "latestAction": {
+                "actionDate": "2008-07-18",
+                "text": "Referred to the Subcommittee on Energy and Mineral Resources."
+            },
+            "number": "6523",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Oil for Americans Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6523?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-05-15",
+            "latestAction": {
+                "actionDate": "2008-05-21",
+                "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 744."
+            },
+            "number": "6074",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Gas Price Relief for Consumers Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6074?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-04-16",
+            "latestAction": {
+                "actionDate": "2008-04-25",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "5824",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veterans Mortgage Education Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/5824?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-03-03",
+            "latestAction": {
+                "actionDate": "2008-03-03",
+                "text": "Referred to the House Committee on Natural Resources."
+            },
+            "number": "5521",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "To authorize the Lac du Flambeau Band of Lake Superior Chippewa Indians of Wisconsin to convey land and interests in land owned by the Tribe.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/5521?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-02-14",
+            "latestAction": {
+                "actionDate": "2008-02-14",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "5449",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "No Discrimination in Health Insurance Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/5449?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-13",
+            "latestAction": {
+                "actionDate": "2007-12-13",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4662",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to provide that the exclusion for qualified scholarships shall apply to allowances for room, board, and special needs services.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4662?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-13",
+            "latestAction": {
+                "actionDate": "2007-12-13",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4661",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to increase the limitation on capital loss applicable to individuals.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4661?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-11-15",
+            "latestAction": {
+                "actionDate": "2007-11-16",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4231",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Rural Veterans Health Care Access Act of 2007",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4231?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-10-17",
+            "latestAction": {
+                "actionDate": "2007-10-17",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3874",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Small Business Growth and Opportunity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3874?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-07-25",
+            "latestAction": {
+                "actionDate": "2007-07-25",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3171",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Fast Track for Healthy Children Act of 2007",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3171?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-06-27",
+            "latestAction": {
+                "actionDate": "2007-07-06",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2875",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare Residency Program Technical Correction Act of 2007",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/2875?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-05-21",
+            "latestAction": {
+                "actionDate": "2007-12-21",
+                "text": "Became Public Law No: 110-145."
+            },
+            "number": "2408",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To designate the Department of Veterans Affairs outpatient clinic in Green Bay, Wisconsin, as the \"Milo C. Huempfner Department of Veterans Affairs Outpatient Clinic\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/2408?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-03-14",
+            "latestAction": {
+                "actionDate": "2007-03-20",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "1521",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Universal Health Act of 2007: Repeal of the Late Enrollment Penalty in Medicare Part D",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/1521?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-03-10",
+            "latestAction": {
+                "actionDate": "2008-03-10",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "1032",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Recognizing former Green Bay Packers quarterback Brett Favre on the occasion of his retirement from the National Football League, and honoring him for his years of commitment to the city of Green Bay and the State of Wisconsin, and his extensive charitable activities in Wisconsin and his home State of Mississippi.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/1032?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-03-11",
+            "latestAction": {
+                "actionDate": "2008-03-11",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "1037",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Expressing the need for enhanced public awareness of Hidradenitis Suppurativa, and for the support of the designation of a National Hidradenitis Suppurativa Awareness Month.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/1037?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-10-01",
+            "latestAction": {
+                "actionDate": "2007-10-09",
+                "actionTime": "15:29:39",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "697",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Commending Green Bay Packers quarterback Brett Favre for establishing a National Football League record for most career touchdown passes, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/697?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-05-21",
+            "latestAction": {
+                "actionDate": "2007-06-06",
+                "actionTime": "11:18:28",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "421",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Honoring the trailblazing accomplishments of the \"Mercury 13\" women, whose efforts in the early 1960s demonstrated the capabilities of American women to undertake the human exploration of space.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/421?format=json"
+        }
+    ]
+}

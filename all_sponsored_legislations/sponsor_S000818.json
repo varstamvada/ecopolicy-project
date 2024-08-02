@@ -1,0 +1,53 @@
+{
+    "pagination": {
+        "count": 3
+    },
+    "request": {
+        "bioguideId": "s000818",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "296",
+            "congress": 97,
+            "introducedDate": "1981-10-06",
+            "latestAction": {
+                "actionDate": "1981-10-06",
+                "text": "Amendment Failed of Passage in Committee of Whole by Division Vote: 8 - 64. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/296?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-05-27",
+            "latestAction": {
+                "actionDate": "1981-05-29",
+                "text": "Referred to Subcommittee on Military Installations and Facilities."
+            },
+            "number": "3706",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to direct the Secretary of the Army and the Secretary of the Navy to convey certain real property owned by the United States in South Charleston, West Virginia, to the State of West Virginia.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/3706?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-05-12",
+            "latestAction": {
+                "actionDate": "1982-05-18",
+                "text": "Referred to Subcommittee on Health and the Environment."
+            },
+            "number": "343",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A concurrent resolution expressing the sense of the Congress concerning the right of children born with birth defects to life sustaining medical treatment.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/97/hconres/343?format=json"
+        }
+    ]
+}

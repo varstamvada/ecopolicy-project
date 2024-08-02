@@ -1,0 +1,595 @@
+{
+    "pagination": {
+        "count": 40
+    },
+    "request": {
+        "bioguideId": "m001168",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "714",
+            "congress": 111,
+            "introducedDate": "2010-06-24",
+            "latestAction": {
+                "actionDate": "2010-06-24",
+                "actionTime": "15:40:34",
+                "text": "On agreeing to the Murphy, Patrick amendment (A005) Agreed to by recorded vote: 274 - 152 (Roll no. 389). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/hamdt/714?format=json"
+        },
+        {
+            "amendmentNumber": "672",
+            "congress": 111,
+            "introducedDate": "2010-05-27",
+            "latestAction": {
+                "actionDate": "2010-05-27",
+                "actionTime": "22:08:16",
+                "text": "On agreeing to the Murphy, Patrick amendment (A019) Agreed to by recorded vote: 234 - 194 (Roll no. 317). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/hamdt/672?format=json"
+        },
+        {
+            "amendmentNumber": "7",
+            "congress": 111,
+            "introducedDate": "2009-01-15",
+            "latestAction": {
+                "actionDate": "2009-01-15",
+                "actionTime": "14:03:38",
+                "text": "On agreeing to the Murphy, Patrick amendment (A006) Agreed to by recorded vote: 426 - 0 (Roll no. 22). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/hamdt/7?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-12-14",
+            "latestAction": {
+                "actionDate": "2010-12-23",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "6520",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Don't Ask, Don't Tell Repeal Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/6520?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-07-29",
+            "latestAction": {
+                "actionDate": "2010-09-20",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "5966",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Cybersecurity Enhancement Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5966?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-03-25",
+            "latestAction": {
+                "actionDate": "2010-03-25",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "4980",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Kick OPIC Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4980?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-03-09",
+            "latestAction": {
+                "actionDate": "2010-03-09",
+                "text": "Referred to House Energy and Commerce"
+            },
+            "number": "4796",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare Secondary Payer Enhancement Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4796?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-02-24",
+            "latestAction": {
+                "actionDate": "2010-02-24",
+                "text": "Referred to the House Committee on Agriculture."
+            },
+            "number": "4683",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Scrap the MAP Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4683?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-02-09",
+            "latestAction": {
+                "actionDate": "2010-04-26",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "4622",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Secure Borders Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4622?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-01-27",
+            "latestAction": {
+                "actionDate": "2010-02-23",
+                "text": "Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness."
+            },
+            "number": "4546",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Truth in Tuition Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4546?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-07-29",
+            "latestAction": {
+                "actionDate": "2010-04-29",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "3393",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Improper Payments Elimination and Recovery Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/3393?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-07-28",
+            "latestAction": {
+                "actionDate": "2009-07-29",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3369",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "IMPROVE Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/3369?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-05-19",
+            "latestAction": {
+                "actionDate": "2009-05-20",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2496",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Children's Health Insurance Accessibility Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2496?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-30",
+            "latestAction": {
+                "actionDate": "2009-04-30",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "2217",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Student Credit Card Transparency Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2217?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-03-12",
+            "latestAction": {
+                "actionDate": "2009-03-12",
+                "text": "Referred to the House Committee on Education and Labor."
+            },
+            "number": "1492",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "To establish a pilot program to provide assistance for partnerships supporting applied sciences in renewable energy.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1492?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-03-02",
+            "latestAction": {
+                "actionDate": "2009-03-02",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1249",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Equipping a 21st Century Green Workforce Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1249?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-02-10",
+            "latestAction": {
+                "actionDate": "2010-05-17",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "959",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Officer Daniel Faulkner Children of Fallen Heroes Scholarship Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/959?format=json"
+        },
+        {
+            "amendmentNumber": "1083",
+            "congress": 110,
+            "introducedDate": "2008-06-11",
+            "latestAction": {
+                "actionDate": "2008-06-11",
+                "actionTime": "13:28:42",
+                "text": "On agreeing to the Murphy, Patrick amendment (A007) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/hamdt/1083?format=json"
+        },
+        {
+            "amendmentNumber": "954",
+            "congress": 110,
+            "introducedDate": "2008-02-07",
+            "latestAction": {
+                "actionDate": "2008-02-07",
+                "actionTime": "16:46:43",
+                "text": "On agreeing to the Murphy, Patrick amendment (A022) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/hamdt/954?format=json"
+        },
+        {
+            "amendmentNumber": "820",
+            "congress": 110,
+            "introducedDate": "2007-09-27",
+            "latestAction": {
+                "actionDate": "2007-09-27",
+                "actionTime": "15:06:37",
+                "text": "On agreeing to the Murphy, Patrick amendment (A007) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/hamdt/820?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-02-28",
+            "latestAction": {
+                "actionDate": "2008-04-17",
+                "text": "Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness."
+            },
+            "number": "5516",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Officer Daniel Faulkner Children of Fallen Heroes Scholarship Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/5516?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-02-14",
+            "latestAction": {
+                "actionDate": "2008-03-06",
+                "text": "Referred to the Subcommittee on Government Management, Organization, and Procurement."
+            },
+            "number": "5467",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Improper Payments Elimination and Recovery Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/5467?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-11-09",
+            "latestAction": {
+                "actionDate": "2008-01-22",
+                "text": "Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness."
+            },
+            "number": "4149",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Truth-in-Tuition Act of 2007",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4149?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-10-17",
+            "latestAction": {
+                "actionDate": "2007-10-17",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3879",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to extend the deduction for qualified tuition and related expenses.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3879?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-10-16",
+            "latestAction": {
+                "actionDate": "2007-10-16",
+                "text": "Referred to the House Committee on Veterans' Affairs."
+            },
+            "number": "3856",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend the Servicemembers Civil Relief Act to guarantee the right of deployed members of the Armed Forces who are elected members of State and local legislatures to vote on matters pending before such legislatures.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3856?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-09-20",
+            "latestAction": {
+                "actionDate": "2007-09-20",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3623",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to extend the deduction for contributions of real property made for conservation purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3623?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-08-03",
+            "latestAction": {
+                "actionDate": "2007-09-25",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "3429",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Hire a Hero Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3429?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-08-01",
+            "latestAction": {
+                "actionDate": "2008-06-26",
+                "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote ."
+            },
+            "number": "3298",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "21st Century Servicemembers Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3298?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-08-01",
+            "latestAction": {
+                "actionDate": "2007-11-30",
+                "text": "Became Public Law No: 110-123."
+            },
+            "number": "3297",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To designate the facility of the United States Postal Service located at 950 West Trenton Avenue in Morrisville, Pennsylvania, as the \"Nate DeTample Post Office Building\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3297?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-07-27",
+            "latestAction": {
+                "actionDate": "2007-07-30",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3214",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Trade-Related American National Security Enhancement and Accountability Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3214?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-06-25",
+            "latestAction": {
+                "actionDate": "2007-06-26",
+                "text": "Referred to the Subcommittee on Water Resources and Environment."
+            },
+            "number": "2853",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Alerting Localities of Environmental Risks and Threats (ALERT) Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/2853?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-06-13",
+            "latestAction": {
+                "actionDate": "2007-06-20",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2699",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 38, United States Code, to repeal authority for adjustments to per diem payments to homeless veterans service centers for receipt of other sources of income, to extend authorities for certain programs to benefit homeless veterans, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/2699?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-05-17",
+            "latestAction": {
+                "actionDate": "2007-06-20",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "2385",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "21st Century GI Bill of Rights Act of 2007",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/2385?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-05-07",
+            "latestAction": {
+                "actionDate": "2007-06-20",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "2194",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 10, United States Code, to authorize an allowance for civilian clothing for members of the Armed Forces traveling in connection with medical evacuation.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/2194?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-05-07",
+            "latestAction": {
+                "actionDate": "2007-06-20",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "2195",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 10, United States Code, to expand the education loan repayment program for members of the Selected Reserve.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/2195?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-04-26",
+            "latestAction": {
+                "actionDate": "2007-06-20",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "2072",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To authorize and request the President to award the Medal of Honor to Richard Gresko, of Newtown, Pennsylvania, for acts of valor in the Republic of Vietnam on March 11 and 12, 1970, while serving as a lance corporal in the Marine Corps during the Vietnam War.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/2072?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-06-06",
+            "latestAction": {
+                "actionDate": "2007-07-11",
+                "actionTime": "20:36:51",
+                "text": "The title of the measure was amended. Agreed to without objection."
+            },
+            "number": "467",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Condemning the decision by the leadership of the University and College Union of the United Kingdom to support a boycott of Israeli academia.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/467?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-06-06",
+            "latestAction": {
+                "actionDate": "2007-06-06",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "468",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Expressing the sense of the House of Representatives that officials of local governments who are also members of the National Guard or Reserves and are deployed as part of their service in the Armed Forces should be granted reasonable accommodation to fulfill their governmental duties while so deployed.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/468?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-01-24",
+            "latestAction": {
+                "actionDate": "2007-06-22",
+                "text": "Sponsor introductory remarks on measure. (CR E1381-1382)"
+            },
+            "number": "97",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Providing for Operation Iraqi Freedom cost accountability.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/97?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-05-24",
+            "latestAction": {
+                "actionDate": "2007-11-08",
+                "text": "Received in the Senate and referred to the Committee on Armed Services."
+            },
+            "number": "162",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Expressing the sense of Congress that Congress and the President should increase basic pay for members of the Armed Forces.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/162?format=json"
+        }
+    ]
+}

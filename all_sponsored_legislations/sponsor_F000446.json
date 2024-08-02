@@ -1,0 +1,966 @@
+{
+    "pagination": {
+        "count": 64
+    },
+    "request": {
+        "bioguideId": "f000446",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 118,
+            "introducedDate": "2024-06-27",
+            "latestAction": {
+                "actionDate": "2024-06-27",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "8860",
+            "policyArea": {
+                "name": null
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to enhance the paid family and medical leave credit, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/8860?format=json"
+        },
+        {
+            "amendmentNumber": "1004",
+            "congress": 118,
+            "introducedDate": "2024-06-26",
+            "latestAction": {
+                "actionDate": "2024-06-26",
+                "actionTime": "12:49:32",
+                "text": "On agreeing to the Feenstra amendment (A007) Agreed to by voice vote."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/hamdt/1004?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-06-25",
+            "latestAction": {
+                "actionDate": "2024-06-25",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "8814",
+            "policyArea": {
+                "name": null
+            },
+            "title": "To amend part B of title IV of the Social Security Act to establish a competitive grant program to enhance the ability of evidence-based child welfare programs to meet the research standards set by the Family First Prevention Services Clearinghouse, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/8814?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-05-16",
+            "latestAction": {
+                "actionDate": "2024-05-16",
+                "text": "Referred to the House Committee on Agriculture."
+            },
+            "number": "8431",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Livestock Indemnity Program Improvement Act of 2024",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/8431?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-05-06",
+            "latestAction": {
+                "actionDate": "2024-05-08",
+                "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 24 - 18."
+            },
+            "number": "8245",
+            "policyArea": {
+                "name": null
+            },
+            "title": "Rural Hospital Stabilization Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/8245?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-04-29",
+            "latestAction": {
+                "actionDate": "2024-04-29",
+                "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "8148",
+            "policyArea": {
+                "name": null
+            },
+            "title": "Audio-Only Telehealth Access Act of 2024",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/8148?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-04-18",
+            "latestAction": {
+                "actionDate": "2024-04-18",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "8067",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Internal Revenue Service Math and Taxpayer Help Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/8067?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-01-18",
+            "latestAction": {
+                "actionDate": "2024-01-18",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "7035",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Death Tax Repeal Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/7035?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-12-19",
+            "latestAction": {
+                "actionDate": "2023-12-19",
+                "text": "Referred to the House Committee on the Budget."
+            },
+            "number": "6853",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "SOS Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/6853?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-12-14",
+            "latestAction": {
+                "actionDate": "2023-12-14",
+                "text": "Referred to the House Committee on Agriculture."
+            },
+            "number": "6806",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Farm Tech Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/6806?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-11-29",
+            "latestAction": {
+                "actionDate": "2024-01-24",
+                "text": "Referred to the Subcommittee on Nutrition, Foreign Agriculture, and Horticulture."
+            },
+            "number": "6501",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Snap Back Inaccurate SNAP Payments Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/6501?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-11-14",
+            "latestAction": {
+                "actionDate": "2023-11-14",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "6402",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Upward Mobility Enhancement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/6402?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-11-13",
+            "latestAction": {
+                "actionDate": "2024-01-24",
+                "text": "Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development."
+            },
+            "number": "6379",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Farmers First Act of 2023",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/6379?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-10-03",
+            "latestAction": {
+                "actionDate": "2023-10-25",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "5885",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Honoring Police Officer and K9 Service Act of 2023",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/5885?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-09-26",
+            "latestAction": {
+                "actionDate": "2023-10-03",
+                "text": "Sponsor introductory remarks on measure. (CR H4954-4955)"
+            },
+            "number": "724",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "Honoring the life and legacy of Jack Trice.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/118/hres/724?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-09-26",
+            "latestAction": {
+                "actionDate": "2023-09-26",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5707",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Secure Family Futures Act of 2023",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/5707?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-08-08",
+            "latestAction": {
+                "actionDate": "2023-08-08",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "5167",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Protecting Girls with Turner Syndrome Act of 2023",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/5167?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-07-28",
+            "latestAction": {
+                "actionDate": "2023-07-28",
+                "text": "Referred to the Committee on Agriculture, and in addition to the Committees on Financial Services, Foreign Affairs, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "5078",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "FARMLAND Act of 2023",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/5078?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-07-26",
+            "latestAction": {
+                "actionDate": "2023-07-26",
+                "text": "Referred to the Subcommittee on Border Security and Enforcement."
+            },
+            "number": "4904",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Build the Wall and Fight Fentanyl Act of 2023",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/4904?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-07-25",
+            "latestAction": {
+                "actionDate": "2023-07-25",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "4860",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "PROTECT the Second Amendment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/4860?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-07-13",
+            "latestAction": {
+                "actionDate": "2023-07-13",
+                "text": "Referred to the House Committee on Agriculture."
+            },
+            "number": "4612",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "FRIDGE Act of 2023",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/4612?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-06-30",
+            "latestAction": {
+                "actionDate": "2023-06-30",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "4407",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Voluntarily Offered Tools for Election Reforms by States Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/4407?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-06-09",
+            "latestAction": {
+                "actionDate": "2023-07-28",
+                "text": "Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development."
+            },
+            "number": "3964",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Rural Broadband Modernization Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/3964?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-06-07",
+            "latestAction": {
+                "actionDate": "2023-07-28",
+                "text": "Referred to the Subcommittee on Conservation, Research, and Biotechnology."
+            },
+            "number": "3905",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Genome to Phenome Initiative Reauthorization Act of 2023",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/3905?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-06-07",
+            "latestAction": {
+                "actionDate": "2023-07-28",
+                "text": "Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit."
+            },
+            "number": "3904",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Crop Insurance for Future Farmers Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/3904?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-05-31",
+            "latestAction": {
+                "actionDate": "2023-05-31",
+                "text": "Referred to the House Committee on Science, Space, and Technology."
+            },
+            "number": "3764",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "WING Act of 2023",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/3764?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-05-30",
+            "latestAction": {
+                "actionDate": "2023-05-30",
+                "text": "Referred to the Committee on Agriculture, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "3748",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Safe American Food Exports Act of 2023",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/3748?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-05-22",
+            "latestAction": {
+                "actionDate": "2023-05-22",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "3573",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "Rural Housing Accessibility Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/3573?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-03-09",
+            "latestAction": {
+                "actionDate": "2023-05-16",
+                "text": "Placed on the Union Calendar, Calendar No. 41."
+            },
+            "number": "1496",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "National Weather Service Communications Improvement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/1496?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-05-09",
+            "latestAction": {
+                "actionDate": "2023-05-09",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3139",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Access to Credit for our Rural Economy Act of 2023",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/3139?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-04-20",
+            "latestAction": {
+                "actionDate": "2023-04-20",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2755",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "National Taxpayer Advocate Enhancement Act of 2023",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/2755?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-03-23",
+            "latestAction": {
+                "actionDate": "2023-03-23",
+                "text": "Referred to the House Committee on Science, Space, and Technology."
+            },
+            "number": "1748",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Quantum in Practice Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/1748?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-03-09",
+            "latestAction": {
+                "actionDate": "2023-04-05",
+                "text": "Referred to the Subcommittee on Conservation, Research, and Biotechnology."
+            },
+            "number": "1495",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Precision Agriculture Loan Program Act of 2023",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/1495?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-03-08",
+            "latestAction": {
+                "actionDate": "2023-03-08",
+                "text": "Referred to the Committee on Financial Services, and in addition to the Committees on Foreign Affairs, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "1448",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "DARE Act of 2023",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/1448?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-03-01",
+            "latestAction": {
+                "actionDate": "2023-04-04",
+                "text": "Referred to the Subcommittee on Livestock, Dairy, and Poultry."
+            },
+            "number": "1287",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Cattle Price Discovery and Transparency Act of 2023",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/1287?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-03-01",
+            "latestAction": {
+                "actionDate": "2023-03-01",
+                "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, and Oversight and Accountability, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "1288",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Holding Countries Accountable for Negligent Chemical and Biological Programs Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/1288?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-03-01",
+            "latestAction": {
+                "actionDate": "2023-03-01",
+                "text": "Referred to the Committee on Ways and Means, and in addition to the Committees on Rules, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "1289",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Dollar-for-Dollar Deficit Reduction Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/1289?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-02-28",
+            "latestAction": {
+                "actionDate": "2024-07-08",
+                "text": "Presented to President."
+            },
+            "number": "1240",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "Winnebago Land Transfer Act of 2023",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/1240?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-02-21",
+            "latestAction": {
+                "actionDate": "2023-02-21",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "1125",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Student Transparency for Understanding Decisions in Education Net Terms Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/1125?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-02-09",
+            "latestAction": {
+                "actionDate": "2023-02-09",
+                "text": "Referred to the House Committee on Science, Space, and Technology."
+            },
+            "number": "910",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Biofuel Cell Research Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/910?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-02-09",
+            "latestAction": {
+                "actionDate": "2023-02-17",
+                "text": "Referred to the Subcommittee on Environment, Manufacturing, and Critical Materials."
+            },
+            "number": "912",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "COST Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/912?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-02-09",
+            "latestAction": {
+                "actionDate": "2023-02-09",
+                "text": "Referred to the House Committee on Science, Space, and Technology."
+            },
+            "number": "909",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Biojet Fuel Research Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/909?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-02-01",
+            "latestAction": {
+                "actionDate": "2023-02-01",
+                "text": "Referred to the House Committee on Oversight and Accountability."
+            },
+            "number": "91",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Expressing support for the designation of February 1, 2023, as \"George Washington Carver Day\".",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/118/hres/91?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-01-31",
+            "latestAction": {
+                "actionDate": "2024-04-05",
+                "text": "Placed on the Union Calendar, Calendar No. 366."
+            },
+            "number": "661",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Sarah\u2019s Law",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/661?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-03-13",
+            "latestAction": {
+                "actionDate": "2024-03-13",
+                "text": "Referred to the House Committee on the Budget."
+            },
+            "number": "7656",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Balanced Budget and Accounting Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/7656?format=json"
+        },
+        {
+            "amendmentNumber": "266",
+            "congress": 118,
+            "introducedDate": "2023-07-19",
+            "latestAction": {
+                "actionDate": "2023-07-19",
+                "actionTime": "21:43:55",
+                "text": "On agreeing to the Feenstra amendment (A007) Failed by recorded vote: 203 - 231 (Roll no. 342). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/hamdt/266?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-11-17",
+            "latestAction": {
+                "actionDate": "2022-11-17",
+                "text": "Referred to the House Committee on Science, Space, and Technology."
+            },
+            "number": "9334",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Quantum in Practice Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/9334?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-09-29",
+            "latestAction": {
+                "actionDate": "2022-10-28",
+                "text": "Referred to the Subcommittee on Commodity Exchanges, Energy, and Credit."
+            },
+            "number": "9047",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Precision Agriculture Loan Program Act of 2022",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/9047?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-08-19",
+            "latestAction": {
+                "actionDate": "2022-11-01",
+                "text": "Referred to the Subcommittee on Antitrust, Commercial, and Administrative Law."
+            },
+            "number": "8730",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Digital Commodities Consumer Protection Act of 2022",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/8730?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-07-15",
+            "latestAction": {
+                "actionDate": "2022-07-15",
+                "text": "Referred to the House Committee on Science, Space, and Technology."
+            },
+            "number": "8400",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "WING Act of 2022",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/8400?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-06-07",
+            "latestAction": {
+                "actionDate": "2022-06-07",
+                "text": "Referred to the House Committee on Education and Labor."
+            },
+            "number": "7964",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "STUDENT Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/7964?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-05-11",
+            "latestAction": {
+                "actionDate": "2022-05-11",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "7718",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Formula Act of 2022",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/7718?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-05-06",
+            "latestAction": {
+                "actionDate": "2022-05-06",
+                "text": "Referred to the House Committee on Science, Space, and Technology."
+            },
+            "number": "1090",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Congratulating Ames Laboratory on 75 years of outstanding service.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/117/hres/1090?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-04-01",
+            "latestAction": {
+                "actionDate": "2022-07-28",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+            },
+            "number": "7361",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "National Weather Service Communications Improvement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/7361?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-03-21",
+            "latestAction": {
+                "actionDate": "2022-11-01",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "7179",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Protecting Girls with Turner Syndrome Act of 2022",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/7179?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-03-18",
+            "latestAction": {
+                "actionDate": "2022-04-04",
+                "text": "Referred to the Subcommittee on Commodity Exchanges, Energy, and Credit."
+            },
+            "number": "7155",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Home Front Energy Independence Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/7155?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-12-13",
+            "latestAction": {
+                "actionDate": "2021-12-13",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "6247",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "PROTECT the Second Amendment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/6247?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-07-01",
+            "latestAction": {
+                "actionDate": "2021-07-02",
+                "text": "Referred to the Subcommittee on Energy."
+            },
+            "number": "4313",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Small Refinery Exemption Clarification Act of 2021",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/4313?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-10-19",
+            "latestAction": {
+                "actionDate": "2021-10-20",
+                "text": "Referred to the Subcommittee on Energy."
+            },
+            "number": "5621",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "COST Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/5621?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-10-19",
+            "latestAction": {
+                "actionDate": "2021-10-19",
+                "text": "Referred to the House Committee on Science, Space, and Technology."
+            },
+            "number": "5620",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Biojet Fuel Research Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/5620?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-08-24",
+            "latestAction": {
+                "actionDate": "2021-08-24",
+                "text": "Referred to the House Committee on Science, Space, and Technology."
+            },
+            "number": "5090",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Biofuel Cell Research Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/5090?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-08-17",
+            "latestAction": {
+                "actionDate": "2021-08-17",
+                "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, and Oversight and Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "5046",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Holding Countries Accountable for Negligent Chemical and Biological Programs Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/5046?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-06-11",
+            "latestAction": {
+                "actionDate": "2021-06-11",
+                "text": "Referred to the House Committee on Appropriations."
+            },
+            "number": "3821",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "To make payments for certain losses of crops, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/3821?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-03-02",
+            "latestAction": {
+                "actionDate": "2021-05-18",
+                "text": "Referred to the Subcommittee on Immigration and Citizenship."
+            },
+            "number": "1496",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Sarah's Law",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/1496?format=json"
+        }
+    ]
+}

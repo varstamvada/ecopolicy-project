@@ -1,0 +1,3052 @@
+{
+    "pagination": {
+        "count": 1977,
+        "next": "https://api.congress.gov/v3/member/H000463/sponsored-legislation?offset=250&limit=250&format=json"
+    },
+    "request": {
+        "bioguideId": "h000463",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "1299",
+            "congress": 102,
+            "introducedDate": "1991-10-31",
+            "latestAction": {
+                "actionDate": "1991-10-31",
+                "text": "Motion to table agreed to in Senate by Yea-Nay Vote. 73-25. Record Vote No: 241. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/samdt/1299?format=json"
+        },
+        {
+            "amendmentNumber": "1175",
+            "congress": 102,
+            "introducedDate": "1991-09-19",
+            "latestAction": {
+                "actionDate": "1991-09-19",
+                "text": "Amendment SP 1175 agreed to in Senate by Yea-Nay Vote. 68-28. Record Vote No: 197. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/samdt/1175?format=json"
+        },
+        {
+            "amendmentNumber": "1177",
+            "congress": 102,
+            "introducedDate": "1991-09-19",
+            "latestAction": {
+                "actionDate": "1991-09-19",
+                "text": "Proposed amendment withdrawn in Senate. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/samdt/1177?format=json"
+        },
+        {
+            "amendmentNumber": "694",
+            "congress": 101,
+            "introducedDate": "1989-08-04",
+            "latestAction": {
+                "actionDate": "1989-08-04",
+                "text": "Proposed amendment SP 694 withdrawn in Senate. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/samdt/694?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-09-30",
+            "latestAction": {
+                "actionDate": "1980-09-30",
+                "text": "Referred to Senate Committee on Banking, Housing and Urban Affairs."
+            },
+            "number": "3181",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Gold Reserve Act of 1980",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/3181?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-07-29",
+            "latestAction": {
+                "actionDate": "1980-07-29",
+                "text": "Referred to Senate Committee on Foreign Relations."
+            },
+            "number": "2986",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Foreign Service Act Amendment of 1980",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2986?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-06-23",
+            "latestAction": {
+                "actionDate": "1980-09-25",
+                "text": "Reported to Senate from the Committee on Agriculture, Nutrition and Forestry with amendment, S. Rept. 96-994."
+            },
+            "number": "2861",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to designate certain National Forest System lands in the State of North Carolina for inclusion in the National Wilderness Preservation System, to release other national forest lands within the State of North Carolina from further consideration for wilderness designation, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2861?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-06-16",
+            "latestAction": {
+                "actionDate": "1980-06-16",
+                "text": "Referred to Senate Committee on Environment and Public Works."
+            },
+            "number": "2834",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill relating to access through the Back Bay National Wildlife Refuge.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2834?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-06-06",
+            "latestAction": {
+                "actionDate": "1980-06-06",
+                "text": "Referred to Senate Committee on Agriculture, Nutrition and Forestry."
+            },
+            "number": "2799",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "School Lunch and Child Nutrition Amendments Act of 1980",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2799?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-06-05",
+            "latestAction": {
+                "actionDate": "1980-06-05",
+                "text": "Referred to Senate Committee on Energy and Natural Resources."
+            },
+            "number": "2792",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to designate the Overmountain Victory Trail as a national historic trail.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2792?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-04-16",
+            "latestAction": {
+                "actionDate": "1980-10-01",
+                "text": "Reported to Senate from the Committee on Agriculture, Nutrition and Forestry with amendment, S. Rept. 96-1013."
+            },
+            "number": "2569",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to amend the United States Grain Standards Act to permit the Administrator of the Federal Grain Inspection Service to delegate authority, under certain circumstances to a State agency to perform official inspection at export port locations within the State if such State agency performed official inspections under such Act at an export port location at any time before July 1, 1976, and such State agency is presently designated to perform official inspections at locations other than export port locations.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2569?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-04-16",
+            "latestAction": {
+                "actionDate": "1980-04-16",
+                "text": "Referred to Senate Committee on Agriculture, Nutrition and Forestry."
+            },
+            "number": "2568",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "National Forest Multiple Use Management Act of 1980",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2568?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-02-28",
+            "latestAction": {
+                "actionDate": "1980-02-28",
+                "text": "Referred to Senate Committee on Agriculture, Nutrition and Forestry."
+            },
+            "number": "2360",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to reduce overlap between the Food Stamp and School Lunch Programs.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2360?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-02-27",
+            "latestAction": {
+                "actionDate": "1980-02-27",
+                "text": "Referred to Senate Committee on Agriculture, Nutrition and Forestry."
+            },
+            "number": "2356",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Agricultural Trade Suspension Mitigation Act of 1980",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2356?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-02-21",
+            "latestAction": {
+                "actionDate": "1980-02-21",
+                "text": "Referred to Senate Committee on Rules and Administration."
+            },
+            "number": "2325",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend the Federal Election Campaign Act with respect to contributions and expenditures by national banks, corporations, and labor organizations.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2325?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-12-20",
+            "latestAction": {
+                "actionDate": "1979-12-20",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "2161",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "A bill to provide equitable relief for parties to contracts containing gold clauses.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2161?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-11-15",
+            "latestAction": {
+                "actionDate": "1979-11-15",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "2011",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Wayne Sung.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/2011?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-11-01",
+            "latestAction": {
+                "actionDate": "1979-11-01",
+                "text": "Referred to Senate Committee on Banking, Housing and Urban Affairs."
+            },
+            "number": "1963",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "A bill relating to purchases and sales of gold by the United States.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/1963?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-10-25",
+            "latestAction": {
+                "actionDate": "1979-10-25",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "1941",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Bertram Tang.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/1941?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-10-11",
+            "latestAction": {
+                "actionDate": "1979-10-11",
+                "text": "Referred to Senate Committee on Governmental Affairs."
+            },
+            "number": "1875",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to eliminate the pay comparability system for Federal employees.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/1875?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-09-26",
+            "latestAction": {
+                "actionDate": "1980-12-22",
+                "text": "Public Law 96-562."
+            },
+            "number": "1824",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to designate the \"John D. Larkins, Jr., Federal Building\".",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/1824?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-07-25",
+            "latestAction": {
+                "actionDate": "1979-07-25",
+                "text": "Referred to Senate Committee on Labor and Human Resources."
+            },
+            "number": "1572",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Family Farm Occupational Safety and Health Amendments of 1979",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/1572?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-07-12",
+            "latestAction": {
+                "actionDate": "1979-07-12",
+                "text": "Referred to Senate Committee on Armed Services."
+            },
+            "number": "1494",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Panama Canal Defense Act of 1979",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/1494?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-05-08",
+            "latestAction": {
+                "actionDate": "1979-05-08",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "1093",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Lily Montano.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/1093?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-05-03",
+            "latestAction": {
+                "actionDate": "1979-05-03",
+                "text": "Referred to Senate Committee on Energy and Natural Resources."
+            },
+            "number": "1071",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to preclude the Secretary of Interior from acquiring certain lands by condemnation for purposes of the Cape Lookout National Seashore.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/1071?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-05-01",
+            "latestAction": {
+                "actionDate": "1979-05-01",
+                "text": "Referred to Senate Committee on Banking, Housing and Urban Affairs."
+            },
+            "number": "1055",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Gold Coinage Act of 1979",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/1055?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-04-24",
+            "latestAction": {
+                "actionDate": "1979-04-24",
+                "text": "Referred to Senate Committee on Foreign Relations."
+            },
+            "number": "996",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A bill to amend the United Nations Participation Act of 1945 with respect to the enforceability to Executive orders which apply measures against Rhodesia.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/996?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-04-24",
+            "latestAction": {
+                "actionDate": "1979-04-24",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "995",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Private School Non-Discrimination and Due Process Act of 1979",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/995?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-04-10",
+            "latestAction": {
+                "actionDate": "1979-04-10",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "955",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Taxpayers Bill of Rights Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/955?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-03-13",
+            "latestAction": {
+                "actionDate": "1979-03-13",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "652",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Gerardo Madrazo and Rosemelia Madrazo.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/652?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-03-01",
+            "latestAction": {
+                "actionDate": "1979-04-09",
+                "text": "Placed on calendar in Senate."
+            },
+            "number": "520",
+            "policyArea": {
+                "name": null
+            },
+            "title": "Constitutional Convention Procedures Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/520?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-03-01",
+            "latestAction": {
+                "actionDate": "1979-04-09",
+                "text": "Placed on calendar in Senate."
+            },
+            "number": "519",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Academic Freedom Act of 1979",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/519?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-02-26",
+            "latestAction": {
+                "actionDate": "1979-02-26",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "482",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Chatchai \"Rick\" Chatranon",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/482?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-02-21",
+            "latestAction": {
+                "actionDate": "1979-02-21",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "438",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A bill to limit the jurisdiction of the Supreme Court of the United States and of the district courts to enter any judgment, decree, or order, denying or restricting, as unconstitutional, voluntary prayer in any public school.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/438?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-02-08",
+            "latestAction": {
+                "actionDate": "1979-02-08",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "409",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Muradali P. Gillani.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/409?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-02-08",
+            "latestAction": {
+                "actionDate": "1979-02-08",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "408",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Yasmeen Muredali Gillani and Aneela Gillani.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/408?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-02-01",
+            "latestAction": {
+                "actionDate": "1979-02-01",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "329",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend the supplemental security income program established by title XVI of the Social Security Act to exclude a family cemetery or burial plot owned by an individual or married couple in determining such individual's or couple's resources.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/329?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-23",
+            "latestAction": {
+                "actionDate": "1979-04-24",
+                "text": "Reported to Senate from the Committee on the Judiciary, S. Rept. 96-78."
+            },
+            "number": "134",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Shyy Wen-Huei.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/134?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-23",
+            "latestAction": {
+                "actionDate": "1979-01-23",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "133",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Veronica Anthony.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/133?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-23",
+            "latestAction": {
+                "actionDate": "1979-01-23",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "136",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Antony C. Hui.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/136?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-23",
+            "latestAction": {
+                "actionDate": "1979-01-23",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "135",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Vasudev B. Bhatt.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/135?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-23",
+            "latestAction": {
+                "actionDate": "1979-01-23",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "137",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of George Bolus Boutros and Pierre Philip Boutros.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/137?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-18",
+            "latestAction": {
+                "actionDate": "1979-01-18",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "79",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A Bill to amend the Internal Revenue Code of 1954 to reinstate the nonbusiness deduction for State and local taxes on gasoline and other motor fuels.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/79?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-15",
+            "latestAction": {
+                "actionDate": "1979-01-15",
+                "text": "Referred to Senate Committee on Banking, Housing and Urban Affairs."
+            },
+            "number": "35",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "A bill to repeal the Credit Control Act.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/35?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-15",
+            "latestAction": {
+                "actionDate": "1979-01-15",
+                "text": "Referred to Senate Committee on Banking, Housing and Urban Affairs."
+            },
+            "number": "30",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "A bill to repeal section 11(n) of the Federal Reserve Act (12 U.S.C. 248 (n)).",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/30?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-15",
+            "latestAction": {
+                "actionDate": "1979-01-15",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "3",
+            "policyArea": {
+                "name": null
+            },
+            "title": "Federal Constitutional Convention Procedures Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/96/s/3?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-03-12",
+            "latestAction": {
+                "actionDate": "1980-03-12",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "151",
+            "policyArea": {
+                "name": "Social Sciences and History"
+            },
+            "title": "Constitutional Bicentennial Observance Act",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/96/sjres/151?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-29",
+            "latestAction": {
+                "actionDate": "1979-01-29",
+                "text": "Referred to Senate Committee on Foreign Relations."
+            },
+            "number": "29",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A joint resolution to establish a Commission on Security and Cooperation in China.",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/96/sjres/29?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-24",
+            "latestAction": {
+                "actionDate": "1979-01-24",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "26",
+            "policyArea": {
+                "name": "Social Sciences and History"
+            },
+            "title": "A joint resolution to authorize the President to issue a proclamation designating July 4 of each year as Independence Day.",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/96/sjres/26?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-15",
+            "latestAction": {
+                "actionDate": "1979-01-15",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "13",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A joint resolution to amend the Constitution of the United States.",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/96/sjres/13?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-15",
+            "latestAction": {
+                "actionDate": "1979-01-15",
+                "text": "Referred to Senate Committee on the Judiciary."
+            },
+            "number": "12",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A joint resolution proposing an amendment to the Constitution of the United States guaranteeing the right of life to the unborn.",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/96/sjres/12?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-06-18",
+            "latestAction": {
+                "actionDate": "1979-06-18",
+                "text": "Referred to Senate Committee on Foreign Relations."
+            },
+            "number": "184",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution expressing the sense of the Senate with respect to the matter of Josef Mengele.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/96/sres/184?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-04-17",
+            "latestAction": {
+                "actionDate": "1980-04-17",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "87",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A concurrent resolution to express the sense of the Congress regarding the economic policy of the United States.",
+            "type": "SCONRES",
+            "url": "https://api.congress.gov/v3/bill/96/sconres/87?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-11-14",
+            "latestAction": {
+                "actionDate": "1979-12-04",
+                "text": "Reported to Senate from the Committee on Foreign Relations, S. Rept. 96-448."
+            },
+            "number": "51",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution stating the rejection by the Congress of the determination of the President with respect to sanctions against Zimbabwe-Rhodesia.",
+            "type": "SCONRES",
+            "url": "https://api.congress.gov/v3/bill/96/sconres/51?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-10-23",
+            "latestAction": {
+                "actionDate": "1979-10-23",
+                "text": "Referred to Senate Committee on Banking, Housing and Urban Affairs."
+            },
+            "number": "46",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "A concurrent resolution expressing the sense of the Congress that the one dollar bill should remain in circulation and the one dollar coin should be produced in such volume as demand warrants.",
+            "type": "SCONRES",
+            "url": "https://api.congress.gov/v3/bill/96/sconres/46?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-03-15",
+            "latestAction": {
+                "actionDate": "1979-03-15",
+                "text": "Referred to Senate Committee on Foreign Relations."
+            },
+            "number": "12",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution regarding the Panama Canal Treaties.",
+            "type": "SCONRES",
+            "url": "https://api.congress.gov/v3/bill/96/sconres/12?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-04-07",
+            "latestAction": {
+                "actionDate": "2000-04-11",
+                "text": "Referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "2382",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Technical Assistance, Trade Promotion, and Anti-Corruption Act of 2000 ",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/106/s/2382?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-01-19",
+            "latestAction": {
+                "actionDate": "1999-01-20",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 3."
+            },
+            "number": "42",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Federal Adoption Services Act of 1999",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/106/s/42?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-01-22",
+            "latestAction": {
+                "actionDate": "2001-01-23",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 3."
+            },
+            "number": "75",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Unborn Children's Civil Rights Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/75?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-01-22",
+            "latestAction": {
+                "actionDate": "2001-01-23",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 4."
+            },
+            "number": "76",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Civil Rights of Infants Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/76?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-01-19",
+            "latestAction": {
+                "actionDate": "1999-01-20",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 2."
+            },
+            "number": "41",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Civil Rights of Infants Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/106/s/41?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-01-19",
+            "latestAction": {
+                "actionDate": "1999-01-20",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 1."
+            },
+            "number": "40",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Unborn Children's Civil Rights Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/106/s/40?format=json"
+        },
+        {
+            "amendmentNumber": "4955",
+            "congress": 107,
+            "introducedDate": "2002-11-14",
+            "latestAction": {
+                "actionDate": "2002-11-14",
+                "text": "Amendment SA 4955 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/4955?format=json"
+        },
+        {
+            "amendmentNumber": "4098",
+            "congress": 107,
+            "introducedDate": "2002-06-26",
+            "latestAction": {
+                "actionDate": "2002-06-26",
+                "text": "Amendment SA 4098 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/4098?format=json"
+        },
+        {
+            "amendmentNumber": "4017",
+            "congress": 107,
+            "introducedDate": "2002-06-26",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/4017?format=json"
+        },
+        {
+            "amendmentNumber": "3767",
+            "congress": 107,
+            "introducedDate": "2002-06-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/3767?format=json"
+        },
+        {
+            "amendmentNumber": "3768",
+            "congress": 107,
+            "introducedDate": "2002-06-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/3768?format=json"
+        },
+        {
+            "amendmentNumber": "3770",
+            "congress": 107,
+            "introducedDate": "2002-06-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/3770?format=json"
+        },
+        {
+            "amendmentNumber": "3769",
+            "congress": 107,
+            "introducedDate": "2002-06-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/3769?format=json"
+        },
+        {
+            "amendmentNumber": "3725",
+            "congress": 107,
+            "introducedDate": "2002-06-05",
+            "latestAction": {
+                "actionDate": "2002-06-06",
+                "text": "Amendment SA 3725 as modified agreed to in Senate by Yea-Nay Vote. 79 - 14. Record Vote Number: 142. (consideration: CR S5160-5162; text as modified: CR S5160-5161)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/3725?format=json"
+        },
+        {
+            "amendmentNumber": "3724",
+            "congress": 107,
+            "introducedDate": "2002-06-05",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/3724?format=json"
+        },
+        {
+            "amendmentNumber": "3721",
+            "congress": 107,
+            "introducedDate": "2002-06-05",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/3721?format=json"
+        },
+        {
+            "amendmentNumber": "3723",
+            "congress": 107,
+            "introducedDate": "2002-06-05",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/3723?format=json"
+        },
+        {
+            "amendmentNumber": "3720",
+            "congress": 107,
+            "introducedDate": "2002-06-05",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/3720?format=json"
+        },
+        {
+            "amendmentNumber": "3722",
+            "congress": 107,
+            "introducedDate": "2002-06-05",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/3722?format=json"
+        },
+        {
+            "amendmentNumber": "3574",
+            "congress": 107,
+            "introducedDate": "2002-06-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/3574?format=json"
+        },
+        {
+            "amendmentNumber": "3497",
+            "congress": 107,
+            "introducedDate": "2002-05-21",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/3497?format=json"
+        },
+        {
+            "amendmentNumber": "3496",
+            "congress": 107,
+            "introducedDate": "2002-05-21",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/3496?format=json"
+        },
+        {
+            "amendmentNumber": "2822",
+            "congress": 107,
+            "introducedDate": "2002-02-06",
+            "latestAction": {
+                "actionDate": "2002-02-12",
+                "text": "Amendment SA 2822 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2822?format=json"
+        },
+        {
+            "amendmentNumber": "2666",
+            "congress": 107,
+            "introducedDate": "2001-12-18",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2666?format=json"
+        },
+        {
+            "amendmentNumber": "2667",
+            "congress": 107,
+            "introducedDate": "2001-12-18",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2667?format=json"
+        },
+        {
+            "amendmentNumber": "2668",
+            "congress": 107,
+            "introducedDate": "2001-12-18",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2668?format=json"
+        },
+        {
+            "amendmentNumber": "2664",
+            "congress": 107,
+            "introducedDate": "2001-12-18",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2664?format=json"
+        },
+        {
+            "amendmentNumber": "2669",
+            "congress": 107,
+            "introducedDate": "2001-12-18",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2669?format=json"
+        },
+        {
+            "amendmentNumber": "2665",
+            "congress": 107,
+            "introducedDate": "2001-12-18",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2665?format=json"
+        },
+        {
+            "amendmentNumber": "2663",
+            "congress": 107,
+            "introducedDate": "2001-12-18",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2663?format=json"
+        },
+        {
+            "amendmentNumber": "2662",
+            "congress": 107,
+            "introducedDate": "2001-12-18",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2662?format=json"
+        },
+        {
+            "amendmentNumber": "2567",
+            "congress": 107,
+            "introducedDate": "2001-12-13",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2567?format=json"
+        },
+        {
+            "amendmentNumber": "2566",
+            "congress": 107,
+            "introducedDate": "2001-12-13",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2566?format=json"
+        },
+        {
+            "amendmentNumber": "2568",
+            "congress": 107,
+            "introducedDate": "2001-12-13",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2568?format=json"
+        },
+        {
+            "amendmentNumber": "2570",
+            "congress": 107,
+            "introducedDate": "2001-12-13",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2570?format=json"
+        },
+        {
+            "amendmentNumber": "2565",
+            "congress": 107,
+            "introducedDate": "2001-12-13",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2565?format=json"
+        },
+        {
+            "amendmentNumber": "2564",
+            "congress": 107,
+            "introducedDate": "2001-12-13",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2564?format=json"
+        },
+        {
+            "amendmentNumber": "2563",
+            "congress": 107,
+            "introducedDate": "2001-12-13",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2563?format=json"
+        },
+        {
+            "amendmentNumber": "2569",
+            "congress": 107,
+            "introducedDate": "2001-12-13",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2569?format=json"
+        },
+        {
+            "amendmentNumber": "2393",
+            "congress": 107,
+            "introducedDate": "2001-12-07",
+            "latestAction": {
+                "actionDate": "2001-12-07",
+                "text": "Amendment SA 2393 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2393?format=json"
+        },
+        {
+            "amendmentNumber": "2374",
+            "congress": 107,
+            "introducedDate": "2001-12-07",
+            "latestAction": {
+                "actionDate": "2001-12-07",
+                "text": "Amendment SA 2374 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2374?format=json"
+        },
+        {
+            "amendmentNumber": "2373",
+            "congress": 107,
+            "introducedDate": "2001-12-07",
+            "latestAction": {
+                "actionDate": "2001-12-07",
+                "text": "Amendment SA 2373 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2373?format=json"
+        },
+        {
+            "amendmentNumber": "2372",
+            "congress": 107,
+            "introducedDate": "2001-12-07",
+            "latestAction": {
+                "actionDate": "2001-12-07",
+                "text": "Amendment SA 2372 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2372?format=json"
+        },
+        {
+            "amendmentNumber": "2336",
+            "congress": 107,
+            "introducedDate": "2001-12-07",
+            "latestAction": {
+                "actionDate": "2001-12-07",
+                "text": "Amendment SA 2336 agreed to in Senate by Yea-Nay Vote. 78 - 21. Record Vote Number: 359. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2336?format=json"
+        },
+        {
+            "amendmentNumber": "2276",
+            "congress": 107,
+            "introducedDate": "2001-12-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2276?format=json"
+        },
+        {
+            "amendmentNumber": "2274",
+            "congress": 107,
+            "introducedDate": "2001-12-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2274?format=json"
+        },
+        {
+            "amendmentNumber": "2273",
+            "congress": 107,
+            "introducedDate": "2001-12-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2273?format=json"
+        },
+        {
+            "amendmentNumber": "2275",
+            "congress": 107,
+            "introducedDate": "2001-12-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2275?format=json"
+        },
+        {
+            "amendmentNumber": "2247",
+            "congress": 107,
+            "introducedDate": "2001-12-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2247?format=json"
+        },
+        {
+            "amendmentNumber": "1955",
+            "congress": 107,
+            "introducedDate": "2001-10-24",
+            "latestAction": {
+                "actionDate": "2001-10-24",
+                "text": "Amendment SA 1955 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1955?format=json"
+        },
+        {
+            "amendmentNumber": "1942",
+            "congress": 107,
+            "introducedDate": "2001-10-24",
+            "latestAction": {
+                "actionDate": "2001-10-24",
+                "text": "Amendment SA 1942 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1942?format=json"
+        },
+        {
+            "amendmentNumber": "1915",
+            "congress": 107,
+            "introducedDate": "2001-10-23",
+            "latestAction": {
+                "actionDate": "2001-10-23",
+                "text": "Amendment SA 1915 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1915?format=json"
+        },
+        {
+            "amendmentNumber": "1724",
+            "congress": 107,
+            "introducedDate": "2001-09-26",
+            "latestAction": {
+                "actionDate": "2001-10-02",
+                "text": "Amendment SA 1724 ruled non-germane by the chair. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1724?format=json"
+        },
+        {
+            "amendmentNumber": "1690",
+            "congress": 107,
+            "introducedDate": "2001-09-25",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1690?format=json"
+        },
+        {
+            "amendmentNumber": "1636",
+            "congress": 107,
+            "introducedDate": "2001-09-24",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1636?format=json"
+        },
+        {
+            "amendmentNumber": "1525",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1525?format=json"
+        },
+        {
+            "amendmentNumber": "1526",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1526?format=json"
+        },
+        {
+            "amendmentNumber": "1517",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1517?format=json"
+        },
+        {
+            "amendmentNumber": "1521",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1521?format=json"
+        },
+        {
+            "amendmentNumber": "1516",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1516?format=json"
+        },
+        {
+            "amendmentNumber": "1523",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1523?format=json"
+        },
+        {
+            "amendmentNumber": "1524",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1524?format=json"
+        },
+        {
+            "amendmentNumber": "1519",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1519?format=json"
+        },
+        {
+            "amendmentNumber": "1518",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1518?format=json"
+        },
+        {
+            "amendmentNumber": "1520",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1520?format=json"
+        },
+        {
+            "amendmentNumber": "1522",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1522?format=json"
+        },
+        {
+            "amendmentNumber": "1507",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1507?format=json"
+        },
+        {
+            "amendmentNumber": "1511",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1511?format=json"
+        },
+        {
+            "amendmentNumber": "1513",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1513?format=json"
+        },
+        {
+            "amendmentNumber": "1506",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1506?format=json"
+        },
+        {
+            "amendmentNumber": "1514",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1514?format=json"
+        },
+        {
+            "amendmentNumber": "1509",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1509?format=json"
+        },
+        {
+            "amendmentNumber": "1508",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1508?format=json"
+        },
+        {
+            "amendmentNumber": "1510",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1510?format=json"
+        },
+        {
+            "amendmentNumber": "1515",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1515?format=json"
+        },
+        {
+            "amendmentNumber": "1505",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1505?format=json"
+        },
+        {
+            "amendmentNumber": "1512",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1512?format=json"
+        },
+        {
+            "amendmentNumber": "1502",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1502?format=json"
+        },
+        {
+            "amendmentNumber": "1497",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1497?format=json"
+        },
+        {
+            "amendmentNumber": "1501",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1501?format=json"
+        },
+        {
+            "amendmentNumber": "1503",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1503?format=json"
+        },
+        {
+            "amendmentNumber": "1493",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1493?format=json"
+        },
+        {
+            "amendmentNumber": "1496",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1496?format=json"
+        },
+        {
+            "amendmentNumber": "1504",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1504?format=json"
+        },
+        {
+            "amendmentNumber": "1494",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1494?format=json"
+        },
+        {
+            "amendmentNumber": "1499",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1499?format=json"
+        },
+        {
+            "amendmentNumber": "1498",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1498?format=json"
+        },
+        {
+            "amendmentNumber": "1500",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1500?format=json"
+        },
+        {
+            "amendmentNumber": "1495",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1495?format=json"
+        },
+        {
+            "amendmentNumber": "1492",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1492?format=json"
+        },
+        {
+            "amendmentNumber": "1482",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1482?format=json"
+        },
+        {
+            "amendmentNumber": "1487",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1487?format=json"
+        },
+        {
+            "amendmentNumber": "1491",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1491?format=json"
+        },
+        {
+            "amendmentNumber": "1483",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1483?format=json"
+        },
+        {
+            "amendmentNumber": "1489",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1489?format=json"
+        },
+        {
+            "amendmentNumber": "1484",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1484?format=json"
+        },
+        {
+            "amendmentNumber": "1486",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1486?format=json"
+        },
+        {
+            "amendmentNumber": "1488",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1488?format=json"
+        },
+        {
+            "amendmentNumber": "1490",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1490?format=json"
+        },
+        {
+            "amendmentNumber": "1485",
+            "congress": 107,
+            "introducedDate": "2001-09-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1485?format=json"
+        },
+        {
+            "amendmentNumber": "1479",
+            "congress": 107,
+            "introducedDate": "2001-08-03",
+            "latestAction": {
+                "actionDate": "2001-08-03",
+                "text": "Amendment SA 1479 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1479?format=json"
+        },
+        {
+            "amendmentNumber": "648",
+            "congress": 107,
+            "introducedDate": "2001-05-14",
+            "latestAction": {
+                "actionDate": "2001-06-14",
+                "text": "Amendment SA 648 as modified agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 189. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/648?format=json"
+        },
+        {
+            "amendmentNumber": "573",
+            "congress": 107,
+            "introducedDate": "2001-05-09",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/573?format=json"
+        },
+        {
+            "amendmentNumber": "574",
+            "congress": 107,
+            "introducedDate": "2001-05-09",
+            "latestAction": {
+                "actionDate": "2001-06-14",
+                "text": "Amendment SA 574 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/574?format=json"
+        },
+        {
+            "amendmentNumber": "141",
+            "congress": 107,
+            "introducedDate": "2001-03-22",
+            "latestAction": {
+                "actionDate": "2001-03-23",
+                "text": "Motion to table amendment SA 141 agreed to in Senate by Yea-Nay Vote. 53 - 40. Record Vote Number: 46. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/141?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-11-13",
+            "latestAction": {
+                "actionDate": "2002-11-13",
+                "text": "Read twice and referred to the Committee on Foreign Relations. (text of measure as introduced: CR S10892-10893)"
+            },
+            "number": "3155",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Language Mastery Support Act of 2002",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/3155?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-09-25",
+            "latestAction": {
+                "actionDate": "2002-09-25",
+                "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+            },
+            "number": "3004",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Rural Community Revitalization and Transition Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/3004?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2193",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Vanguard 75 WDG.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2193?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2191",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on petroleum sulfonic acids, sodium salts.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2191?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2192",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on certain TAED chemicals.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2192?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2177",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Glufosinate-Ammonium.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2177?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2176",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Triticonazole.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2176?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2165",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on paclobutrazole technical.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2165?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2163",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on isobornyl acetate.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2163?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2164",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty of azocystrobin technical.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2164?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2157",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on p-Chloro aniline.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2157?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2158",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on 4-methoxyphenacychloride.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2158?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2160",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on acetyl chloride.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2160?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2159",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on 3-methoxy-thiophenol.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2159?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2161",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on esters and sodium esters of parahydroxybenzoic acid.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2161?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2162",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on chloroacetic acid.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2162?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2146",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on cyprodinil technical.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2146?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2155",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the duty suspension on 3,5-Dibromo-4-hydoxybenzonitril ester and inerts.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2155?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2145",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on mixtures of lambdacyhalothrin.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2145?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2153",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the duty suspension on cyclanilide technical.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2153?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2147",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on oxasulfuron technical.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2147?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2154",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the duty suspension on Fipronil Technical.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2154?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2144",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on methidathion technical.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2144?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2148",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Paclobutrazole 2SC.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2148?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2150",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on mucochloric acid.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2150?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2149",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on difenoconazole.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2149?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2151",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the duty suspension on 3,5-Dibromo-4-hydoxybenzonitril.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2151?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2152",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the duty suspension on isoxaflutole.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2152?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2156",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on 2,4-Xylidine.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2156?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2142",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on primisulfuron.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2142?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2143",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on flumetralin technical.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2143?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2140",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on 1,2 cyclohexanedione.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2140?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-17",
+            "latestAction": {
+                "actionDate": "2002-04-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2141",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Wakil XL.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2141?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-11-14",
+            "latestAction": {
+                "actionDate": "2001-11-14",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1702",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on endosulfan.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/1702?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-11-14",
+            "latestAction": {
+                "actionDate": "2001-11-14",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1703",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on ethoprop.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/1703?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-11-14",
+            "latestAction": {
+                "actionDate": "2001-11-14",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1701",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on fosetyl-A1.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/1701?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-11-14",
+            "latestAction": {
+                "actionDate": "2001-11-14",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1692",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the temporary suspension of duty with respect to Ethofumesate.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/1692?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-11-14",
+            "latestAction": {
+                "actionDate": "2001-11-14",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1696",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on asulox.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/1696?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-11-14",
+            "latestAction": {
+                "actionDate": "2001-11-14",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1695",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on bronate.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/1695?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-11-14",
+            "latestAction": {
+                "actionDate": "2001-11-14",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1693",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the temporary suspension of duty with respect to Tralomehtrin.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/1693?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-11-14",
+            "latestAction": {
+                "actionDate": "2001-11-14",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1694",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on buctril.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/1694?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-11-14",
+            "latestAction": {
+                "actionDate": "2001-11-14",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1697",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on cyclanilide.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/1697?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-11-14",
+            "latestAction": {
+                "actionDate": "2001-11-14",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1698",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on iprodione.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/1698?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-11-14",
+            "latestAction": {
+                "actionDate": "2001-11-14",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1699",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on foramsulfuron.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/1699?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-11-14",
+            "latestAction": {
+                "actionDate": "2001-11-14",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1689",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the temporary suspension of duty with respect to Deltamethrin.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/1689?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-11-14",
+            "latestAction": {
+                "actionDate": "2001-11-14",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1700",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on acetamiprid.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/1700?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-11-14",
+            "latestAction": {
+                "actionDate": "2001-11-14",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1690",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the temporary suspension of duty with respect to Phenmedipham.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/1690?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-11-14",
+            "latestAction": {
+                "actionDate": "2001-11-14",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1691",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the temporary suspension of duty with respect to Desmedipham.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/1691?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-11-14",
+            "latestAction": {
+                "actionDate": "2001-11-14",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1687",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the temporary suspension of duty with respect to Diclofop.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/1687?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-11-14",
+            "latestAction": {
+                "actionDate": "2001-11-14",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1688",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the temporary suspension of duty with respect to Thidiazuron.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/1688?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-11-07",
+            "latestAction": {
+                "actionDate": "2001-11-07",
+                "text": "Read twice and referred to the Committee on Foreign Relations. (text of measure as introduced: CR S11553-11556)"
+            },
+            "number": "1645",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Belarus Democracy Act of 2001",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/1645?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-11-01",
+            "latestAction": {
+                "actionDate": "2001-11-01",
+                "text": "Read twice and referred to the Committee on Foreign Relations."
+            },
+            "number": "1610",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "American Servicemembers' Protection Act of 2001",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/1610?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-10-24",
+            "latestAction": {
+                "actionDate": "2001-10-24",
+                "text": "Read twice and referred to the Committee on Foreign Relations."
+            },
+            "number": "1572",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Freedom Consolidation Act of 2001 ",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/1572?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-08-02",
+            "latestAction": {
+                "actionDate": "2001-08-02",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "1307",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "China Free Enterprise Act of 2001",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/1307?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-06-11",
+            "latestAction": {
+                "actionDate": "2002-12-04",
+                "text": "Became Public Law No: 107-322."
+            },
+            "number": "1010",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to extend the deadline for commencement of construction of a hydroelectric project in the State of North Carolina.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/1010?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-05-16",
+            "latestAction": {
+                "actionDate": "2001-05-16",
+                "text": "Read twice and referred to the Committee on Foreign Relations."
+            },
+            "number": "894",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "SOLIDARIDAD Act of 2001",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/894?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-05-14",
+            "latestAction": {
+                "actionDate": "2001-05-14",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "873",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "National Right-to-Work Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/873?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-05-09",
+            "latestAction": {
+                "actionDate": "2001-09-26",
+                "text": "Sponsor introductory remarks on measure. (CR S9854-9856)"
+            },
+            "number": "857",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "American Servicemembers' Protection Act of 2001",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/857?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-04-04",
+            "latestAction": {
+                "actionDate": "2001-04-04",
+                "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S3443)"
+            },
+            "number": "692",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill to issue a certificate of documentation for the vessel EAGLE.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/692?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-02-06",
+            "latestAction": {
+                "actionDate": "2001-10-05",
+                "text": "Became Public Law No: 107-46."
+            },
+            "number": "248",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A bill to amend the Admiral James W. Nance and Meg Donovan Foreign Relations Authorization Act, Fiscal Years 2000 and 2001, to adjust a condition on the payment of arrearages to the United Nations that sets the maximum share of any United Nations peacekeeping operation's budget that may be assessed of any  country.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/248?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-01-22",
+            "latestAction": {
+                "actionDate": "2001-01-23",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 1."
+            },
+            "number": "73",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Voluntary School Prayer Protection Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/73?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-01-22",
+            "latestAction": {
+                "actionDate": "2001-01-23",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 2."
+            },
+            "number": "74",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Schoolchildren's Health Protection Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/74?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-01-22",
+            "latestAction": {
+                "actionDate": "2001-01-23",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 5."
+            },
+            "number": "78",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Civil Rights Restoration Act of 2001",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/78?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-01-22",
+            "latestAction": {
+                "actionDate": "2001-01-23",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 6."
+            },
+            "number": "79",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Safe Schools Act of 2001",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/79?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-10-31",
+            "latestAction": {
+                "actionDate": "2001-10-31",
+                "text": "Read twice and referred to the Committee on Foreign Relations."
+            },
+            "number": "27",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A joint resolution relating to the political, economic, and military relations of the United States with Nicaragua.",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/107/sjres/27?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-06-08",
+            "latestAction": {
+                "actionDate": "2001-06-25",
+                "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S6865-6866)"
+            },
+            "number": "107",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution congratulating the people of Peru on the occasion of their democratic elections on June 3, 2001.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/107/sres/107?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-05-03",
+            "latestAction": {
+                "actionDate": "2001-05-09",
+                "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text:  CR S4584)"
+            },
+            "number": "81",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A resolution commending the members of the United States mission in the People's Republic of China for their persistence, devotion to duty, sacrifice, and success in obtaining the safe repatriation to the United States of the crew of the Navy EP-3E ARIES II aircraft who had been detained in China.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/107/sres/81?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-04-05",
+            "latestAction": {
+                "actionDate": "2001-04-05",
+                "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S3554, S3633-3634; text of measure as passed Senate: CR: S3634; text of measure as introduced: CR S3554)"
+            },
+            "number": "67",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A resolution commending the Blue Devils of Duke University for winning the 2001 National Collegiate Athletic Association Men's Basketball Championship.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/107/sres/67?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-02-28",
+            "latestAction": {
+                "actionDate": "2001-02-28",
+                "text": "Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S1713-1714)"
+            },
+            "number": "32",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "An original resolution authorizing expenditures by the Committee on Foreign Relations.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/107/sres/32?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-02-15",
+            "latestAction": {
+                "actionDate": "2001-04-06",
+                "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S3766; text as passed Senate: CR S3766)"
+            },
+            "number": "27",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution to express the sense of the Senate regarding the 1944 deportation of the Chechen people to central Asia, and for other purposes.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/107/sres/27?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-12-10",
+            "latestAction": {
+                "actionDate": "2001-12-11",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "91",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution expressing deep gratitude to the government and the people of the Philippines for their sympathy and support since September 11, 2001, and for other purposes.",
+            "type": "SCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/sconres/91?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-07-31",
+            "latestAction": {
+                "actionDate": "2001-09-05",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "62",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution congratulating Ukraine on the 10th anniversary of the restoration of its independence and supporting its full integration into the Euro-Atlantic community of democracies.",
+            "type": "SCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/sconres/62?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-07-17",
+            "latestAction": {
+                "actionDate": "2001-07-17",
+                "text": "Referred to the Committee on Foreign Relations. (text of measure as introduced:  CR S7824-7825)"
+            },
+            "number": "60",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution expressing the sense of the Congress that the continued participation of the Russian Federation in meetings of the Group of Eight countries must be conditioned on the Russian Federation's voluntary acceptance of and adherence to the norms and standards of democracy.",
+            "type": "SCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/sconres/60?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-21",
+            "latestAction": {
+                "actionDate": "2001-03-21",
+                "text": "Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S2674-2675)"
+            },
+            "number": "27",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution expressing the sense of Congress that the 2008 Olympic Games should not be held in Beijing unless the Government of the People's Republic of China  releases all political prisoners, ratifies the International  Covenant on Civil and Political Rights, and observes internationally recognized human rights.",
+            "type": "SCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/sconres/27?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-04-06",
+            "latestAction": {
+                "actionDate": "2000-04-06",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2371",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Cibacron Red LS-BHC.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/106/s/2371?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-04-06",
+            "latestAction": {
+                "actionDate": "2000-04-06",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2374",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on certain TAED chemicals.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/106/s/2374?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-04-06",
+            "latestAction": {
+                "actionDate": "2000-04-06",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2373",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Cibacron Scarlet LS-2G HC.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/106/s/2373?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-04-06",
+            "latestAction": {
+                "actionDate": "2000-04-06",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2372",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Cibacron Brilliant Blue FN-G.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/106/s/2372?format=json"
+        },
+        {
+            "amendmentNumber": "4364",
+            "congress": 106,
+            "introducedDate": "2000-12-14",
+            "latestAction": {
+                "actionDate": "2000-12-14",
+                "text": "Amendment SA 4364 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/samdt/4364?format=json"
+        },
+        {
+            "amendmentNumber": "4313",
+            "congress": 106,
+            "introducedDate": "2000-10-12",
+            "latestAction": {
+                "actionDate": "2000-10-12",
+                "text": "Amendment SA 4313 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/samdt/4313?format=json"
+        },
+        {
+            "amendmentNumber": "4287",
+            "congress": 106,
+            "introducedDate": "2000-10-03",
+            "latestAction": {
+                "actionDate": "2000-10-03",
+                "text": "Amendment SA 4287 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/samdt/4287?format=json"
+        },
+        {
+            "amendmentNumber": "4166",
+            "congress": 106,
+            "introducedDate": "2000-09-21",
+            "latestAction": {
+                "actionDate": "2000-09-21",
+                "text": "Amendment SA 4166 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/samdt/4166?format=json"
+        },
+        {
+            "amendmentNumber": "4128",
+            "congress": 106,
+            "introducedDate": "2000-09-07",
+            "latestAction": {
+                "actionDate": "2000-09-13",
+                "text": "Amendment SA 4128 not agreed to in Senate by Yea-Nay Vote. 43 - 53. Record Vote Number: 243. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/samdt/4128?format=json"
+        },
+        {
+            "amendmentNumber": "4127",
+            "congress": 106,
+            "introducedDate": "2000-09-07",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/samdt/4127?format=json"
+        },
+        {
+            "amendmentNumber": "4126",
+            "congress": 106,
+            "introducedDate": "2000-09-07",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/samdt/4126?format=json"
+        },
+        {
+            "amendmentNumber": "4125",
+            "congress": 106,
+            "introducedDate": "2000-09-07",
+            "latestAction": {
+                "actionDate": "2000-09-12",
+                "text": "Amendment SA 4125 not agreed to in Senate by Yea-Nay Vote. 32 - 63. Record Vote Number: 239. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/samdt/4125?format=json"
+        },
+        {
+            "amendmentNumber": "4123",
+            "congress": 106,
+            "introducedDate": "2000-09-07",
+            "latestAction": {
+                "actionDate": "2000-09-13",
+                "text": "Amendment SA 4123 not agreed to in Senate by Yea-Nay Vote. 23 - 73. Record Vote Number: 244. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/samdt/4123?format=json"
+        },
+        {
+            "amendmentNumber": "4124",
+            "congress": 106,
+            "introducedDate": "2000-09-07",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/samdt/4124?format=json"
+        },
+        {
+            "amendmentNumber": "4023",
+            "congress": 106,
+            "introducedDate": "2000-07-27",
+            "latestAction": {
+                "actionDate": "2000-07-27",
+                "text": "Amendment SA 4023 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/samdt/4023?format=json"
+        }
+    ]
+}

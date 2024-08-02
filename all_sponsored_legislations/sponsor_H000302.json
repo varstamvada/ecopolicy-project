@@ -1,0 +1,658 @@
+{
+    "pagination": {
+        "count": 47
+    },
+    "request": {
+        "bioguideId": "h000302",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "657",
+            "congress": 97,
+            "introducedDate": "1982-07-27",
+            "latestAction": {
+                "actionDate": "1982-07-27",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/657?format=json"
+        },
+        {
+            "amendmentNumber": "698",
+            "congress": 97,
+            "introducedDate": "1982-07-29",
+            "latestAction": {
+                "actionDate": "1982-07-29",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/698?format=json"
+        },
+        {
+            "amendmentNumber": "678",
+            "congress": 97,
+            "introducedDate": "1982-07-28",
+            "latestAction": {
+                "actionDate": "1982-07-28",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/678?format=json"
+        },
+        {
+            "amendmentNumber": "384",
+            "congress": 97,
+            "introducedDate": "1981-10-28",
+            "latestAction": {
+                "actionDate": "1981-10-28",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 170 - 242 (Record Vote No: 284). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/384?format=json"
+        },
+        {
+            "amendmentNumber": "268",
+            "congress": 97,
+            "introducedDate": "1981-10-05",
+            "latestAction": {
+                "actionDate": "1981-10-05",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/268?format=json"
+        },
+        {
+            "amendmentNumber": "227",
+            "congress": 97,
+            "introducedDate": "1981-09-16",
+            "latestAction": {
+                "actionDate": "1981-09-16",
+                "text": "Amendment Withdrawn in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/227?format=json"
+        },
+        {
+            "amendmentNumber": "28",
+            "congress": 97,
+            "introducedDate": "1981-06-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/28?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-10-01",
+            "latestAction": {
+                "actionDate": "1982-10-18",
+                "text": "Referred to Subcommittee on Trade."
+            },
+            "number": "7267",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on certain menthol feedstocks until July 1, 1986.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/7267?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-09-15",
+            "latestAction": {
+                "actionDate": "1982-09-22",
+                "text": "Referred to Subcommittee on Merchant Marine."
+            },
+            "number": "7120",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill to clear certain impediments to the licensing of the yacht \"Ellen Ruth\" for employment in the coastwise trade.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/7120?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-06-09",
+            "latestAction": {
+                "actionDate": "1982-08-04",
+                "text": "Tabled by Committee."
+            },
+            "number": "6547",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to prohibit the transfer of the Naval Reserve training vessel U.S.S. Cone to another nation.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6547?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-04-29",
+            "latestAction": {
+                "actionDate": "1982-04-29",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "6234",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Public Debt Reduction Act of 1982",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6234?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-11-13",
+            "latestAction": {
+                "actionDate": "1981-11-13",
+                "text": "Referred to House Committee on The Judiciary."
+            },
+            "number": "4976",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Elizabeth Ann Jones.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4976?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-10-07",
+            "latestAction": {
+                "actionDate": "1981-10-07",
+                "text": "Referred to House Committee on The Judiciary."
+            },
+            "number": "4729",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Henry Brown, Byron R. Buchanan, Arthur Canady, Robert E. Carter, Edwin L. Clickner, William F. Cummings, Edward F. Fuller, Wilbur Geathers, Donell E. Gourdine, David D. Lorick, Martin N. Olmeda, Lawrence E. Riley, Dean W. Sabo, Leon T. Scarborough, George B. Stone, and Paul K. Vincent.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4729?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-09-09",
+            "latestAction": {
+                "actionDate": "1981-10-02",
+                "text": "Referred to Subcommittee on Labor-Management Relations."
+            },
+            "number": "4429",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "A bill to amend the Labor Management Relations Act, 1947, with respect to suits for damages brought against individual defendants acting not in behalf of their union but in their personal and nonunion capacity for violating a no-strike provision of a collective bargaining agreement, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4429?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-09-09",
+            "latestAction": {
+                "actionDate": "1981-09-15",
+                "text": "Referred to Subcommittee on Compensation and Employee Benefits."
+            },
+            "number": "4430",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend section 8345 of title 5, United States Code, to provide that unless individuals who are entitled to civil service retirement benefits receive their initial annuity payments promptly, such individuals shall be entitled to receive payments for interest that has accrued on the delayed payments.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4430?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-04-08",
+            "latestAction": {
+                "actionDate": "1981-04-16",
+                "text": "Referred to Subcommittee on Accounts."
+            },
+            "number": "3152",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A bill to limit purchases of office furniture by departing Members of the House of Representatives, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/3152?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-02-24",
+            "latestAction": {
+                "actionDate": "1981-02-24",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "2033",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow a deduction for contributions to saving accounts for use by first-time home buyers in purchasing a principal residence.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/2033?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-02-24",
+            "latestAction": {
+                "actionDate": "1981-05-18",
+                "text": "For Further Action See H.R.3603."
+            },
+            "number": "2032",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to amend the Food Stamp Act of 1977 to prohibit certain households containing persons involved in labor-management disputes from participating in the food stamp program.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/2032?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-01-28",
+            "latestAction": {
+                "actionDate": "1982-08-18",
+                "text": "See H.J.Res.350."
+            },
+            "number": "142",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A joint resolution proposing an amendment to the Constitution of the United States which requires (except during fiscal years during which the United States is at war) that the total amount of money expended by the United States during any fiscal year not exceed the total amount of revenue of the United States received during that fiscal year.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/97/hjres/142?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-01-30",
+            "latestAction": {
+                "actionDate": "1981-02-06",
+                "text": "Referred to Subcommittee on International Economic Policy and Trade."
+            },
+            "number": "48",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution expressing the sense of the Congress that further steps may not be taken to implement the agreements between the United States and Iran until such time as the agreements receive Congressional approval.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/97/hconres/48?format=json"
+        },
+        {
+            "amendmentNumber": "949",
+            "congress": 98,
+            "introducedDate": "1984-06-27",
+            "latestAction": {
+                "actionDate": "1984-06-27",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/949?format=json"
+        },
+        {
+            "amendmentNumber": "771",
+            "congress": 98,
+            "introducedDate": "1984-05-24",
+            "latestAction": {
+                "actionDate": "1984-05-24",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 27 - 379 (Record Vote No: 176). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/771?format=json"
+        },
+        {
+            "amendmentNumber": "470",
+            "congress": 98,
+            "introducedDate": "1983-10-26",
+            "latestAction": {
+                "actionDate": "1983-10-26",
+                "text": "Amendment Failed of Passage in Committee of Whole by Division Vote: 15 - 28. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/470?format=json"
+        },
+        {
+            "amendmentNumber": "261",
+            "congress": 98,
+            "introducedDate": "1983-07-26",
+            "latestAction": {
+                "actionDate": "1983-07-26",
+                "text": "Amendment Passed in Committee of the Whole by Division Vote: 45 - 35. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/261?format=json"
+        },
+        {
+            "amendmentNumber": "170",
+            "congress": 98,
+            "introducedDate": "1983-06-15",
+            "latestAction": {
+                "actionDate": "1983-06-15",
+                "text": "Amendment Failed of Passage in Committee of Whole by Division Vote: 6 - 19. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/170?format=json"
+        },
+        {
+            "amendmentNumber": "141",
+            "congress": 98,
+            "introducedDate": "1983-06-03",
+            "latestAction": {
+                "actionDate": "1983-06-03",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/141?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-08-10",
+            "latestAction": {
+                "actionDate": "1984-08-16",
+                "text": "Referred to Subcommittee on Military Personnel and Compensation."
+            },
+            "number": "6158",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to provide that the Secretary of the Army and the Secretary of the Air Force may authorize certain reserve officers who are employed as military technicians to be retained in an active status until age 60.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/6158?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-05-30",
+            "latestAction": {
+                "actionDate": "1984-06-11",
+                "text": "Referred to Subcommittee on Public Buildings and Grounds."
+            },
+            "number": "5746",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to deauthorize the project to construct an annex to the United States Post Office and Court House Building in Charleston, South Carolina.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5746?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-02-07",
+            "latestAction": {
+                "actionDate": "1984-02-07",
+                "text": "Referred to House Committee on The Judiciary."
+            },
+            "number": "4783",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Alexandru and Nicolae Buchovschi.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4783?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-10-24",
+            "latestAction": {
+                "actionDate": "1983-11-09",
+                "text": "Measure Incorporated Into S.1186."
+            },
+            "number": "4205",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill to make the vessel Zorba eligible for a coastwise license endorsement.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4205?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-07-29",
+            "latestAction": {
+                "actionDate": "1983-08-04",
+                "text": "Referred to Subcommittee on Social Security."
+            },
+            "number": "3711",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to postpone for 10 years the effective date of provisions terminating mother's and father's benefits under title II of the Social Security Act upon the child's attainment of age 16.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/3711?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-03-03",
+            "latestAction": {
+                "actionDate": "1983-03-03",
+                "text": "Referred to House Committee on The Judiciary."
+            },
+            "number": "1934",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Siu Kee Tong and Yuan Kiang Chou.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/1934?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-02-17",
+            "latestAction": {
+                "actionDate": "1983-03-02",
+                "text": "Referred to Subcommittee on Wheat, Soybeans, and Feed Grains."
+            },
+            "number": "1541",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to require the Secretary of Agriculture to revise rules establishing a special program of payment-in-kind for acreage diversion for the 1983 crop of certain commodities to permit producers to divert soybean acreage from production and receive corn as payment-in-kind.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/1541?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-01-31",
+            "latestAction": {
+                "actionDate": "1983-06-08",
+                "text": "Executive Comment Received From Commerce."
+            },
+            "number": "1086",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on certain menthol feedstocks until July 1, 1986.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/1086?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-01-31",
+            "latestAction": {
+                "actionDate": "1983-01-31",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "1087",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to exclude from gross income amounts which are received from a public retirement system and which are attributable to services as a Federal, State, or local policeman and fireman.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/1087?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-01-31",
+            "latestAction": {
+                "actionDate": "1983-02-04",
+                "text": "Referred to Subcommittee on Monopolies and Commercial Law."
+            },
+            "number": "108",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A joint resolution proposing an amendment to the Constitution of the United States which requires (except for fiscal years during which the United States is at war) that the total amount of money expended by the United States during any fiscal year not exceed the total amount of revenue of the United States received during that fiscal year.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/98/hjres/108?format=json"
+        },
+        {
+            "amendmentNumber": "181",
+            "congress": 99,
+            "introducedDate": "1985-06-25",
+            "latestAction": {
+                "actionDate": "1985-06-25",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/181?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-10-03",
+            "latestAction": {
+                "actionDate": "1986-10-10",
+                "text": "Referred to Subcommittee on Health and the Environment."
+            },
+            "number": "5648",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to provide for a waiver of certain requirements of title XIX of the Social Security Act with respect to care and services provided by the Medical University of South Carolina.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5648?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-06-24",
+            "latestAction": {
+                "actionDate": "1986-09-08",
+                "text": "Executive Comment Requested from Interior."
+            },
+            "number": "5075",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to authorize the acquisition of certain real property located in Charleston, South Carolina, for a tour boat facility for Fort Sumter National Monument, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5075?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-06-19",
+            "latestAction": {
+                "actionDate": "1986-06-24",
+                "text": "Referred to Subcommittee on Trade."
+            },
+            "number": "5063",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to amend the Tariff Schedules of the United States to provide for the continuance of the suspension of any duty on menthol feedstocks.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5063?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-10-02",
+            "latestAction": {
+                "actionDate": "1985-11-06",
+                "text": "Executive Comment Requested from State, Treasury, Commerce, Labor, Customs, USTR, ITC."
+            },
+            "number": "3481",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to prohibit the importation into the customs territory of the United States of high-carbon ferrochromium from South Africa.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3481?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-06-20",
+            "latestAction": {
+                "actionDate": "1985-06-20",
+                "text": "Referred to House Committee on The Judiciary."
+            },
+            "number": "2838",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Siu Kee Tong and Yuan Kiang Chou.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2838?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-02-20",
+            "latestAction": {
+                "actionDate": "1985-02-27",
+                "text": "Referred to Subcommittee on Military Personnel and Compensation."
+            },
+            "number": "1164",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to provide that the Secretary of the Army and the Secretary of the Air Force may authorize certain reserve officers who are employed as military technicians to be retained in an active status until age 60.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/1164?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-01-30",
+            "latestAction": {
+                "actionDate": "1985-06-26",
+                "text": "See H.R.6."
+            },
+            "number": "795",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to authorize the Secretary of the Army, acting through the Chief of Engineers, to proceed with the planning, designing, engineering, and construction of the Charleston Harbor Deepening Project.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/795?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-01-30",
+            "latestAction": {
+                "actionDate": "1985-02-28",
+                "text": "Referred to Subcommittee on Census and Population."
+            },
+            "number": "109",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution designating August 7, 1985, as \"National Camps for Children with Cancer Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/99/hjres/109?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-07-31",
+            "latestAction": {
+                "actionDate": "1985-07-31",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "245",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A resolution urging the Postmaster General to issue a commemorative stamp in honor of the 350th anniversary of the National Guard.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/99/hres/245?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-04-30",
+            "latestAction": {
+                "actionDate": "1986-05-09",
+                "text": "Referred to Subcommittee on Europe and the Middle East."
+            },
+            "number": "327",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution to recognize the visit by the descendants of the original Swiss settlers of Purrysburg, South Carolina, to Neufchatel, Switzerland, in October 1986 as an international gesture of goodwill.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/99/hconres/327?format=json"
+        }
+    ]
+}

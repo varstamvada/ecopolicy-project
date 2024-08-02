@@ -1,0 +1,102 @@
+{
+    "pagination": {
+        "count": 6
+    },
+    "request": {
+        "bioguideId": "b000151",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 103,
+            "introducedDate": "1994-03-11",
+            "latestAction": {
+                "actionDate": "1994-04-27",
+                "text": "Referred to the Subcommittee on National Parks, Forests and Public Lands."
+            },
+            "number": "4014",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To amend the Flood Control Act of 1968 to prohibit the imposition of certain fees for use of developed recreation sites and facilities.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4014?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-01-25",
+            "latestAction": {
+                "actionDate": "1994-08-09",
+                "text": "Sponsor introductory remarks on measure. (CR E1690)"
+            },
+            "number": "3722",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Education Savings Assistance Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3722?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-09-22",
+            "latestAction": {
+                "actionDate": "1993-09-22",
+                "text": "Referred to the House Committee on Appropriations."
+            },
+            "number": "3117",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To initiate planning and design for a replacement facility at Fort Campbell, Kentucky for the purpose of providing educational opportunities for military personnel and their dependents.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3117?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-08-05",
+            "latestAction": {
+                "actionDate": "1993-09-16",
+                "text": "Referred to the Subcommittee on Energy and Mineral Resources."
+            },
+            "number": "2877",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Federal Coal Equity Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2877?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-07-14",
+            "latestAction": {
+                "actionDate": "1993-07-16",
+                "text": "Executive Comment Requested from USDA."
+            },
+            "number": "2631",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Agricultural Disaster Assistance Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2631?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-05-19",
+            "latestAction": {
+                "actionDate": "1993-06-01",
+                "text": "Referred to the Subcommittee on Water Resources and Environment."
+            },
+            "number": "2149",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "To modify the project for replacement of Locks and Dams 52 and 53, Lower Ohio River, Illinois and Kentucky, to provide a local resident hiring preference.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2149?format=json"
+        }
+    ]
+}

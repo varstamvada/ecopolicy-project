@@ -1,0 +1,2401 @@
+{
+    "pagination": {
+        "count": 167
+    },
+    "request": {
+        "bioguideId": "g000524",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "932",
+            "congress": 97,
+            "introducedDate": "1982-12-03",
+            "latestAction": {
+                "actionDate": "1982-12-03",
+                "text": "Amendment Withdrawn in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/932?format=json"
+        },
+        {
+            "amendmentNumber": "361",
+            "congress": 97,
+            "introducedDate": "1981-10-22",
+            "latestAction": {
+                "actionDate": "1981-10-22",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/361?format=json"
+        },
+        {
+            "amendmentNumber": "338",
+            "congress": 97,
+            "introducedDate": "1981-10-21",
+            "latestAction": {
+                "actionDate": "1981-10-21",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/338?format=json"
+        },
+        {
+            "amendmentNumber": "308",
+            "congress": 97,
+            "introducedDate": "1981-10-14",
+            "latestAction": {
+                "actionDate": "1981-10-14",
+                "text": "Point of Order Sustained Against Amendment in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/308?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-11-29",
+            "latestAction": {
+                "actionDate": "1982-11-29",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "7314",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to amend the Agricultural Act of 1949 to modify the dairy price support program for fiscal years 1983 through 1985.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/7314?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-08-12",
+            "latestAction": {
+                "actionDate": "1982-08-16",
+                "text": "Referred to Subcommittee on Crime."
+            },
+            "number": "6981",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Federal Firearms-Owner Protection Act of 1982",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6981?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-04-29",
+            "latestAction": {
+                "actionDate": "1982-05-04",
+                "text": "Referred to Subcommittee on Immigration, Refugees, and International Law."
+            },
+            "number": "6232",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "A bill to amend the Immigration and Nationality Act to require that cash and medical assistance be made available for the full 36-month period to refugees under 25 years of age while attending school.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6232?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-04-05",
+            "latestAction": {
+                "actionDate": "1982-04-05",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "6076",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Milk Marketing Improvement Act of 1982",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6076?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-02-04",
+            "latestAction": {
+                "actionDate": "1982-05-26",
+                "text": "Executive Comment Received From DOT."
+            },
+            "number": "5459",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Upper Mississippi River System Management Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/5459?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-01-25",
+            "latestAction": {
+                "actionDate": "1982-01-27",
+                "text": "Referred to Subcommittee on Trade."
+            },
+            "number": "5318",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to direct the President to impose certain limitations on the importation of casein and other milk protein products into the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/5318?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-11-02",
+            "latestAction": {
+                "actionDate": "1981-11-16",
+                "text": "Referred to Subcommittee on Water Resources."
+            },
+            "number": "4877",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "A bill to amend the Disaster Relief Act of 1974 to direct the President to determine the Federal contribution for grants to repair and restore damaged facilities based on the facts of each major disaster, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4877?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-10-02",
+            "latestAction": {
+                "actionDate": "1981-10-16",
+                "text": "Referred to Subcommittee on Water Resources."
+            },
+            "number": "4668",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "A bill to amend the Federal Water Pollution Control Act to extend certain compliance deadlines applying to publicly owned treatment works.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4668?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-07-14",
+            "latestAction": {
+                "actionDate": "1981-07-14",
+                "text": "Referred to House Committee on The Judiciary."
+            },
+            "number": "4135",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "A bill for the relief of certain towns, townships, villages, cities, and other entities in the State of Wisconsin and certain departments of the State of Wisconsin.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4135?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-04-27",
+            "latestAction": {
+                "actionDate": "1981-10-28",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3253",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 with respect to the treatment for purposes of the unemployment tax of certain services performed by students.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/3253?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-04-29",
+            "latestAction": {
+                "actionDate": "1982-05-05",
+                "text": "Referred to Subcommittee on Immigration, Refugees, and International Law."
+            },
+            "number": "323",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "A concurrent resolution expressing the sense of Congress respecting the provision of refugee cash and medical assistance for the full 36-month period for refugees under 25 years of age while attending school.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/97/hconres/323?format=json"
+        },
+        {
+            "amendmentNumber": "1002",
+            "congress": 98,
+            "introducedDate": "1984-07-26",
+            "latestAction": {
+                "actionDate": "1984-07-26",
+                "text": "Amendment Passed in Committee of the Whole by Recorded Vote: 378 - 29 (Record Vote No: 320). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/1002?format=json"
+        },
+        {
+            "amendmentNumber": "999",
+            "congress": 98,
+            "introducedDate": "1984-07-26",
+            "latestAction": {
+                "actionDate": "1984-07-26",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/999?format=json"
+        },
+        {
+            "amendmentNumber": "626",
+            "congress": 98,
+            "introducedDate": "1984-03-08",
+            "latestAction": {
+                "actionDate": "1984-03-08",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/626?format=json"
+        },
+        {
+            "amendmentNumber": "629",
+            "congress": 98,
+            "introducedDate": "1984-03-08",
+            "latestAction": {
+                "actionDate": "1984-03-08",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/629?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-04-05",
+            "latestAction": {
+                "actionDate": "1984-04-27",
+                "text": "Referred to Subcommittee on Postsecondary Education."
+            },
+            "number": "5382",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "A bill to amend title I of the Higher Education Act of 1965.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5382?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-11-18",
+            "latestAction": {
+                "actionDate": "1983-11-18",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "4514",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend Section 165 of the Internal Revenue Code of 1954 by repealing the limitation on the deduction for nonbusiness casualty losses created by Section 203 of the Tax Equity and Fiscal Responsibility Act of 1982.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4514?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-08-04",
+            "latestAction": {
+                "actionDate": "1983-08-04",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "3816",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Congressional Compensation Responsibility Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/3816?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-07-13",
+            "latestAction": {
+                "actionDate": "1983-07-13",
+                "text": "Referred to House Committee on House Administration."
+            },
+            "number": "3550",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to provide for Federal primary elections and for inclusion of not more than two national advisory referendum questions on the ballot in each biennial general election.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/3550?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-07-13",
+            "latestAction": {
+                "actionDate": "1983-07-13",
+                "text": "Referred to House Committee on Rules."
+            },
+            "number": "3551",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A bill to establish a Commission on Standards of Official Conduct and to abolish the Committee on Standards of Official Conduct of the House of Representatives.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/3551?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-06-13",
+            "latestAction": {
+                "actionDate": "1983-07-01",
+                "text": "Referred to Subcommittee on Elementary, Secondary and Vocational Education."
+            },
+            "number": "3281",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "A bill to amend the Vocational Education Act of 1963 regarding communications and telecommunications equipment and utilization.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/3281?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-06-13",
+            "latestAction": {
+                "actionDate": "1983-07-01",
+                "text": "Referred to Subcommittee on Elementary, Secondary and Vocational Education."
+            },
+            "number": "3280",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "A bill to amend the Vocational Education Act of 1963 regarding high technology equipment and training.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/3280?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-02-23",
+            "latestAction": {
+                "actionDate": "1983-02-23",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "1612",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to repeal withholding on interest and dividends and, in order to compensate for revenue reductions resulting from such repeal, to repeal certain changes in the windfall profit tax on domestic crude oil enacted by the Economic Recovery Tax Act of 1981, to increase to 55 percent the maximum rate of income tax on individuals, and to repeal the exclusion for net savings.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/1612?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-02-23",
+            "latestAction": {
+                "actionDate": "1983-03-02",
+                "text": "Referred to Subcommittee on Military Personnel and Compensation."
+            },
+            "number": "1611",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to amend the Military Selective Service Act to provide that registrants for selective service may indicate at the time of registration their desire to be classified as conscientious objectors.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/1611?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-02-17",
+            "latestAction": {
+                "actionDate": "1983-03-15",
+                "text": "Executive Comment Requested from USDA."
+            },
+            "number": "1528",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Dairy Surplus Reduction Act of 1983",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/1528?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-02-03",
+            "latestAction": {
+                "actionDate": "1983-07-27",
+                "text": "For Further Action See H.R.3678."
+            },
+            "number": "1254",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Upper Mississippi River System Management Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/1254?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-01-03",
+            "latestAction": {
+                "actionDate": "1983-02-08",
+                "text": "Executive Comment Requested from USDA."
+            },
+            "number": "135",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to amend the Agricultural Act of 1949 to modify the dairy price support program for fiscal years 1983 through 1985.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/135?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-03-14",
+            "latestAction": {
+                "actionDate": "1984-03-16",
+                "text": "Referred to Subcommittee on Civil and Constitutional Rights."
+            },
+            "number": "515",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A joint resolution proposing an amendment to the Constitution of the United States with respect to voluntary silent prayer in public schools and equal access to public school facilities.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/98/hjres/515?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-07-13",
+            "latestAction": {
+                "actionDate": "1983-07-28",
+                "text": "Referred to Subcommittee on Monopolies and Commercial Law."
+            },
+            "number": "318",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A joint resolution proposing an amendment to the Constitution of the United States with respect to the privilege of Senators and Representatives from arrest for traffic offenses in going to and returning from a session of their respective Houses.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/98/hjres/318?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-07-13",
+            "latestAction": {
+                "actionDate": "1984-06-26",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "319",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "A joint resolution to clarify congressional intent with respect to the requirements for approval of State plans under the Occupational Safety and Health Act of 1970.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/98/hjres/319?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-07-13",
+            "latestAction": {
+                "actionDate": "1983-07-13",
+                "text": "Referred to House Committee on Rules."
+            },
+            "number": "263",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A resolution to amend the Rules of the House of Representatives to eliminate the practice of providing part-year funding of full-year programs and the use of continuing resolutions in lieu of general appropriation measures.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/98/hres/263?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-07-13",
+            "latestAction": {
+                "actionDate": "1983-07-13",
+                "text": "Referred to House Committee on House Administration."
+            },
+            "number": "143",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A concurrent resolution recommending elimination of voter registration on the basis of political party affiliation, and for other purposes.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/98/hconres/143?format=json"
+        },
+        {
+            "amendmentNumber": "1239",
+            "congress": 99,
+            "introducedDate": "1986-09-18",
+            "latestAction": {
+                "actionDate": "1986-09-18",
+                "text": "Amendment Failed of Passage in Committee of Whole by Division Vote: 6 - 13. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/1239?format=json"
+        },
+        {
+            "amendmentNumber": "1161",
+            "congress": 99,
+            "introducedDate": "1986-08-14",
+            "latestAction": {
+                "actionDate": "1986-08-14",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/1161?format=json"
+        },
+        {
+            "amendmentNumber": "1159",
+            "congress": 99,
+            "introducedDate": "1986-08-14",
+            "latestAction": {
+                "actionDate": "1986-08-14",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/1159?format=json"
+        },
+        {
+            "amendmentNumber": "655",
+            "congress": 99,
+            "introducedDate": "1985-12-04",
+            "latestAction": {
+                "actionDate": "1985-12-04",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/655?format=json"
+        },
+        {
+            "amendmentNumber": "664",
+            "congress": 99,
+            "introducedDate": "1985-12-04",
+            "latestAction": {
+                "actionDate": "1985-12-04",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/664?format=json"
+        },
+        {
+            "amendmentNumber": "537",
+            "congress": 99,
+            "introducedDate": "1985-10-10",
+            "latestAction": {
+                "actionDate": "1985-10-10",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/537?format=json"
+        },
+        {
+            "amendmentNumber": "437",
+            "congress": 99,
+            "introducedDate": "1985-09-26",
+            "latestAction": {
+                "actionDate": "1985-09-26",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/437?format=json"
+        },
+        {
+            "amendmentNumber": "443",
+            "congress": 99,
+            "introducedDate": "1985-09-26",
+            "latestAction": {
+                "actionDate": "1985-09-26",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/443?format=json"
+        },
+        {
+            "amendmentNumber": "442",
+            "congress": 99,
+            "introducedDate": "1985-09-26",
+            "latestAction": {
+                "actionDate": "1985-09-26",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/442?format=json"
+        },
+        {
+            "amendmentNumber": "70",
+            "congress": 99,
+            "introducedDate": "1985-06-05",
+            "latestAction": {
+                "actionDate": "1985-06-05",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 112 - 313 (Record Vote No: 138). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/70?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-10-02",
+            "latestAction": {
+                "actionDate": "1986-10-06",
+                "text": "Referred to Subcommittee on Livestock, Dairy, and Poultry."
+            },
+            "number": "5642",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Dairy Target Price Act of 1986",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5642?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-09-19",
+            "latestAction": {
+                "actionDate": "1986-09-25",
+                "text": "Referred to Subcommittee on Livestock, Dairy, and Poultry."
+            },
+            "number": "5563",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to require the Secretary of Agriculture to submit to the Congress an analysis of the effect that the use of bovine growth hormone will have on the milk price support program and on the milk production industry in the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5563?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-09-16",
+            "latestAction": {
+                "actionDate": "1986-09-23",
+                "text": "Referred to Subcommittee on Conservation Credit and Rural Development."
+            },
+            "number": "5527",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Buyer Protection Amendments of 1986",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5527?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-07-31",
+            "latestAction": {
+                "actionDate": "1986-08-19",
+                "text": "Referred to Subcommittee on National Parks and Recreation."
+            },
+            "number": "5302",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to permit trapping in the Saint Croix National Scenic Riverway.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5302?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-06-26",
+            "latestAction": {
+                "actionDate": "1986-07-14",
+                "text": "Referred to Subcommittee on Health and the Environment."
+            },
+            "number": "5122",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Bovine Growth Hormone Study Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5122?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-06-19",
+            "latestAction": {
+                "actionDate": "1986-06-30",
+                "text": "Referred to Subcommittee on Employment Opportunities."
+            },
+            "number": "5062",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Dislocated Farmer Training Amendments of 1986",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5062?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-05-22",
+            "latestAction": {
+                "actionDate": "1986-09-03",
+                "text": "Unfavorable Executive Comment Received From FEMA."
+            },
+            "number": "4895",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Nuclear Waste Transportation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/4895?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-04-08",
+            "latestAction": {
+                "actionDate": "1986-04-08",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "4520",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to deny the tax exemption for interest on industrial development bonds used to finance the acquisition of farm property by foreign persons.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/4520?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-04-08",
+            "latestAction": {
+                "actionDate": "1986-04-14",
+                "text": "Referred to Subcommittee on Wheat, Soybeans, and Feed Grains."
+            },
+            "number": "4519",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to provide that certain individuals who are not citizens or nationals of the United States and certain persons who are not individuals shall be ineligible to receive financial assistance under price support and related programs administered by the Secretary of Agriculture.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/4519?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-10-23",
+            "latestAction": {
+                "actionDate": "1985-11-04",
+                "text": "Referred to Subcommittee on Water Resources."
+            },
+            "number": "3611",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "A bill to amend the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 to clarify the liability of the United States Government for hazardous substances released during the manufacture of munitions or ordnance parts using equipment owned by the Department of Defense or any subdivision thereof.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3611?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-07-26",
+            "latestAction": {
+                "actionDate": "1986-08-23",
+                "text": "Became Private Law No: 99-8."
+            },
+            "number": "3093",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Juan Ricardo McRae.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3093?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-04-22",
+            "latestAction": {
+                "actionDate": "1985-06-26",
+                "text": "See H.R.6."
+            },
+            "number": "2152",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Upper Mississippi River System Management Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2152?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-04-04",
+            "latestAction": {
+                "actionDate": "1985-04-12",
+                "text": "Referred to Subcommittee on Africa."
+            },
+            "number": "1999",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Investment in South Africa Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/1999?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-03-07",
+            "latestAction": {
+                "actionDate": "1985-03-25",
+                "text": "Referred to Subcommittee on Postsecondary Education."
+            },
+            "number": "1473",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "A bill to amend title I of the Higher Education Act of 1965.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/1473?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-01-03",
+            "latestAction": {
+                "actionDate": "1985-02-20",
+                "text": "Executive Comment Requested from USDA."
+            },
+            "number": "111",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Milk Diversion Program Extension Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/111?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-06-04",
+            "latestAction": {
+                "actionDate": "1985-09-13",
+                "text": "See H.R.2100."
+            },
+            "number": "303",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "National Dairy Policy Commission Act of 1985",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/99/hjres/303?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-05-06",
+            "latestAction": {
+                "actionDate": "1986-05-13",
+                "text": "Referred to Subcommittee on Legislation and National Security."
+            },
+            "number": "331",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A concurrent resolution expressing the sense of Congress in favor of more equitable and uniform treatment of federally-funded and federally-administered retirement programs, and their cost-of-living adjustments, under the deficit reduction process.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/99/hconres/331?format=json"
+        },
+        {
+            "amendmentNumber": "486",
+            "congress": 100,
+            "introducedDate": "1987-11-04",
+            "latestAction": {
+                "actionDate": "1987-11-04",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 197 - 220 (Record Vote No: 411). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/486?format=json"
+        },
+        {
+            "amendmentNumber": "173",
+            "congress": 100,
+            "introducedDate": "1987-05-28",
+            "latestAction": {
+                "actionDate": "1987-05-28",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/173?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-08-11",
+            "latestAction": {
+                "actionDate": "1988-09-16",
+                "text": "Referred to Subcommittee on Employment Opportunities."
+            },
+            "number": "5218",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "At-Risk Youth Employment and Training Amendments of 1988",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/5218?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-08-02",
+            "latestAction": {
+                "actionDate": "1988-08-08",
+                "text": "Referred to Subcommittee on Department Operations, Research, and Foreign Agriculture."
+            },
+            "number": "5129",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "A bill to eliminate unnecessary and redundant data requirements requested by states or the federal government under the \"Registration of Pesticides -- Additional Data to Support Existing Registration\" (7 U.S.C. 136a(c)(2)(B)) -- section of our pesticide laws.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/5129?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-07-07",
+            "latestAction": {
+                "actionDate": "1988-10-28",
+                "text": "Became Public Law No: 100-542."
+            },
+            "number": "4992",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Telecommunications Accessibility Enhancement Act of 1988",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4992?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-02-09",
+            "latestAction": {
+                "actionDate": "1988-02-16",
+                "text": "Referred to Subcommittee on Census and Population."
+            },
+            "number": "3935",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to remove the designation of the third Monday in February as a legal public holiday.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3935?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-11-17",
+            "latestAction": {
+                "actionDate": "1987-11-30",
+                "text": "Referred to Subcommittee on Water Resources."
+            },
+            "number": "3649",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "A bill to amend the Upper Mississippi River Management Act of 1986 to extend the amounts authorized for an additional year without increasing the total amounts authorized.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3649?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-10-01",
+            "latestAction": {
+                "actionDate": "1987-10-26",
+                "text": "Referred to Subcommittee on Telecommunications and Finance."
+            },
+            "number": "3401",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Domestic Industry Safeguard Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3401?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-09-23",
+            "latestAction": {
+                "actionDate": "1988-01-21",
+                "text": "Referred to Subcommittee on Civil and Constitutional Rights."
+            },
+            "number": "3336",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Crimes Against Older Americans Information and Coordination Act of 1987",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3336?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-08-07",
+            "latestAction": {
+                "actionDate": "1988-01-15",
+                "text": "Unfavorable Executive Comment Received From USDA."
+            },
+            "number": "3206",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to extend deadlines for the redemption of commodity payment-in-kind certificates issued by the Commodity Credit Corporation.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3206?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-08-05",
+            "latestAction": {
+                "actionDate": "1987-08-05",
+                "text": "Referred to House Committee on Appropriations."
+            },
+            "number": "3111",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A bill to appropriate funds for the improvement project for the Kickapoo River, Wisconsin.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3111?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-07-22",
+            "latestAction": {
+                "actionDate": "1987-07-28",
+                "text": "Referred to Subcommittee on Department Operations, Research, and Foreign Agriculture."
+            },
+            "number": "2986",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Dairy Export Incentive Program Amendments Act of 1987",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2986?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-07-01",
+            "latestAction": {
+                "actionDate": "1987-07-07",
+                "text": "Referred to Subcommittee on Department Operations, Research, and Foreign Agriculture."
+            },
+            "number": "2869",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "A bill to amend section 3 of the Federal Insecticide, Fungicide, and Rodenticide Act to coordinate and synchronize pesticide data requirements.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2869?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-03-30",
+            "latestAction": {
+                "actionDate": "1987-04-20",
+                "text": "Referred to Subcommittee on Employment Opportunities."
+            },
+            "number": "1853",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Rural Worker Readjustment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/1853?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-03-17",
+            "latestAction": {
+                "actionDate": "1988-05-25",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "1649",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Nuclear Waste Transportation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/1649?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-02-18",
+            "latestAction": {
+                "actionDate": "1987-04-24",
+                "text": "Became Public Law No: 100-28."
+            },
+            "number": "1123",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to amend the Food Security Act of 1985 to extend the date for submitting the report required by the National Commission on Dairy Policy.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/1123?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-01-22",
+            "latestAction": {
+                "actionDate": "1987-05-19",
+                "text": "Unfavorable Executive Comment Received From USDA."
+            },
+            "number": "723",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to provide for a nationwide milk marketing order with multiple basing points, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/723?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-01-22",
+            "latestAction": {
+                "actionDate": "1987-03-26",
+                "text": "Unfavorable Executive Comment Received From USDA."
+            },
+            "number": "726",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "National Advisory Commission on the Future of Rural America Act of 1987",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/726?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-01-22",
+            "latestAction": {
+                "actionDate": "1987-01-27",
+                "text": "Referred to Subcommittee on Trade."
+            },
+            "number": "727",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to provide for the accreditation, as congressional delegates to trade negotiations, of members of the House Committee on Agriculture and the Senate Committee on Agriculture, Nutrition, and Forestry.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/727?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-01-22",
+            "latestAction": {
+                "actionDate": "1987-02-05",
+                "text": "Referred to Subcommittee on Livestock, Dairy, and Poultry."
+            },
+            "number": "725",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Milk Price Support Revision Act of 1987",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/725?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-01-22",
+            "latestAction": {
+                "actionDate": "1987-02-05",
+                "text": "Referred to Subcommittee on Livestock, Dairy, and Poultry."
+            },
+            "number": "724",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Dairy Target Price Act of 1987",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/724?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-01-08",
+            "latestAction": {
+                "actionDate": "1987-02-03",
+                "text": "Subcommittee Failed to Report to Full Committee."
+            },
+            "number": "559",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to provide that no increase in pay relating to recommendations made by the Commission on Executive, Legislative, and Judicial Salaries may be made unless the Federal budget is in balance.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/559?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-07-14",
+            "latestAction": {
+                "actionDate": "1988-10-21",
+                "text": "Received in the Senate and read twice and referred to the Committee on Judiciary."
+            },
+            "number": "613",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution designating the week beginning March 7, 1989, as \"Deaf Awareness Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/613?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-06-03",
+            "latestAction": {
+                "actionDate": "1988-06-16",
+                "text": "Referred to Subcommittee on Census and Population."
+            },
+            "number": "584",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A joint resolution calling upon all churches, synagogues, schools, community centers, and other public buildings to toll their bells for one minute beginning at 11:00 a.m. on each Memorial Day holiday.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/584?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-04-29",
+            "latestAction": {
+                "actionDate": "1988-05-06",
+                "text": "Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment."
+            },
+            "number": "559",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "A joint resolution to require the U.S. Fish and Wildlife Service to develop a plan to halt the illegal harvesting of migratory waterfowl.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/559?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-01-20",
+            "latestAction": {
+                "actionDate": "1987-01-26",
+                "text": "Referred to Subcommittee on Africa."
+            },
+            "number": "26",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution calling for the release of Reverend Tshenuwani Simon Farisani from detention in Venda, a homeland in South Africa.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/100/hconres/26?format=json"
+        },
+        {
+            "amendmentNumber": "388",
+            "congress": 101,
+            "introducedDate": "1990-03-28",
+            "latestAction": {
+                "actionDate": "1990-03-28",
+                "actionTime": "13:45:29",
+                "text": "By unanimous consent, the Gunderson amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/388?format=json"
+        },
+        {
+            "amendmentNumber": "337",
+            "congress": 101,
+            "introducedDate": "1989-11-09",
+            "latestAction": {
+                "actionDate": "1989-11-09",
+                "actionTime": "16:18:32",
+                "text": "On agreeing to the Gunderson amendment (A026) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/337?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-05-15",
+            "latestAction": {
+                "actionDate": "1990-05-21",
+                "text": "Referred to the Subcommittee on Livestock, Dairy, and Poultry."
+            },
+            "number": "4813",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Milk Producers' Financial Protection Amendments of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4813?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-04-30",
+            "latestAction": {
+                "actionDate": "1990-05-01",
+                "text": "Executive Comment Requested from USDA."
+            },
+            "number": "4679",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Crop Disaster Assistance Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4679?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-04-19",
+            "latestAction": {
+                "actionDate": "1990-05-04",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "4564",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To delay the effective date of final regulations of the Secretary of Treasury implementing the labeling requirements of the Alcoholic Beverage Labeling Act of 1988.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4564?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-04-03",
+            "latestAction": {
+                "actionDate": "1990-04-23",
+                "text": "Referred to the Subcommittee on Telecommunications and Finance."
+            },
+            "number": "4448",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To require the Federal Communications Commission to amend the syndicated exclusivity and network nonduplication rules to protect the community of one State that falls in the primary market of a broadcaster in another State.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4448?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-02-21",
+            "latestAction": {
+                "actionDate": "1990-04-04",
+                "text": "Referred to the Subcommittee on Employment Opportunities."
+            },
+            "number": "4046",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Youth Service Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4046?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-02-07",
+            "latestAction": {
+                "actionDate": "1990-11-05",
+                "text": "Provisions Included In H.R.5769."
+            },
+            "number": "3985",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To require the Director of the Geological Survey to conduct a study of the water quality of the Mississippi River.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3985?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-08-04",
+            "latestAction": {
+                "actionDate": "1989-10-06",
+                "text": "Referred to the Subcommittee on Telecommunications and Finance."
+            },
+            "number": "3171",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend the Communications Act of 1934 to require common carriers to provide improved access for hearing-impaired and speech-impaired individuals to interstate and intrastate telecommunications.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3171?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-06-22",
+            "latestAction": {
+                "actionDate": "1989-07-20",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "2722",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Chinese Foreign Student and Exchange Visitor Relief Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2722?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-09",
+            "latestAction": {
+                "actionDate": "1989-02-22",
+                "text": "Executive Comment Requested from OMB, OPM."
+            },
+            "number": "977",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To remove the designation of the third Monday in February as a legal public holiday.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/977?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-07",
+            "latestAction": {
+                "actionDate": "1989-02-07",
+                "text": "Referred to the House Committee on Post Office and Civil Service."
+            },
+            "number": "891",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To abolish the Commission on Executive, Legislative, and Judicial Salaries.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/891?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-01-27",
+            "latestAction": {
+                "actionDate": "1989-01-27",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "687",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To exempt educational institutions from user fees on permits for industrial use of specially denatured distilled spirits.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/687?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-01-03",
+            "latestAction": {
+                "actionDate": "1990-08-01",
+                "text": "See H.R.5314."
+            },
+            "number": "184",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "To amend the Upper Mississippi River Management Act of 1986 to extend the amounts authorized for an additional two years without increasing the total amounts authorized.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/184?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-01-03",
+            "latestAction": {
+                "actionDate": "1989-01-10",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "185",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To require the Secretary of Health and Human Services to provide periodic interim payments under the medicare program to hospitals with 100 beds or fewer within 10 days, rather than 14 days, of the end of each payment period.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/185?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-01-03",
+            "latestAction": {
+                "actionDate": "1989-01-10",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "186",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Small Rural Hospital Preservation Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/186?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-09",
+            "latestAction": {
+                "actionDate": "1989-11-22",
+                "text": "Read twice and referred to the Committee on Judiciary."
+            },
+            "number": "140",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Designating March 7 through March 13, 1989, as \"Deaf Awareness Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/140?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-01-27",
+            "latestAction": {
+                "actionDate": "1989-03-13",
+                "text": "Executive Comment Received from State."
+            },
+            "number": "100",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "To require the United States Fish and Wildlife Service develop a plan to halt the illegal harvesting of migratory waterfowl.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/100?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-03-14",
+            "latestAction": {
+                "actionDate": "1990-03-15",
+                "text": "Referred to the Subcommittee on Communications, Computers and Office Systems."
+            },
+            "number": "358",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for acquisition of telecommunications devices for the deaf for use in offices of Members of the House of Representatives.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/101/hres/358?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-07-31",
+            "latestAction": {
+                "actionDate": "1989-07-31",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "220",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Making the clerk hire allowance available for payment of merit pay.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/101/hres/220?format=json"
+        },
+        {
+            "amendmentNumber": "458",
+            "congress": 102,
+            "introducedDate": "1992-03-26",
+            "latestAction": {
+                "actionDate": "1992-03-26",
+                "actionTime": "13:44:57",
+                "text": "On agreeing to the Gunderson amendment (A012) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/458?format=json"
+        },
+        {
+            "amendmentNumber": "457",
+            "congress": 102,
+            "introducedDate": "1992-03-26",
+            "latestAction": {
+                "actionDate": "1992-03-26",
+                "actionTime": "13:43:46",
+                "text": "On agreeing to the Gunderson amendment (A011) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/457?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-10-06",
+            "latestAction": {
+                "actionDate": "1992-10-09",
+                "text": "Referred to the Subcommittee on Employment Opportunities."
+            },
+            "number": "6197",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Employment Dispute Resolution Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/6197?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-06-03",
+            "latestAction": {
+                "actionDate": "1992-06-29",
+                "text": "Referred to the Subcommittee on Commerce, Consumer Protection and Competitiveness."
+            },
+            "number": "5315",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Farm and Rural Medical Equity Reform Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5315?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-04-09",
+            "latestAction": {
+                "actionDate": "1992-05-12",
+                "text": "Referred to the Subcommittee on Employment Opportunities."
+            },
+            "number": "4976",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "School to Work Transition and Youth Apprenticeship Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4976?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-04-08",
+            "latestAction": {
+                "actionDate": "1992-04-16",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "4817",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to provide that a monthly insurance benefit thereunder shall be paid for the month in which the recipient dies, and to cover the costs thereof by means of benefit reductions in the first month of entitlement for future beneficiaries proportionate to the periods before entitlement, and to further cover early costs by providing a $0.50 reduction in monthly benefits for current beneficiaries for a transitional period of 5 years.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4817?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-04-07",
+            "latestAction": {
+                "actionDate": "1992-04-21",
+                "text": "Referred to the Subcommittee on Transportation and Hazardous Materials."
+            },
+            "number": "4785",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To amend the Solid Waste Disposal Act to define the term \"yard waste\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4785?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-04-02",
+            "latestAction": {
+                "actionDate": "1992-04-07",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4755",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XVIII of the Social Security Act to extend until March 31, 1994, the period during which medicare-dependent, small rural hospitals may be paid under alternative reimbursement methodologies for the operating costs of inpatient hospital services under the medicare program.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4755?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-03-12",
+            "latestAction": {
+                "actionDate": "1992-04-03",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "4464",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Rural Health Outreach Grants Amendments Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4464?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-02-19",
+            "latestAction": {
+                "actionDate": "1992-03-13",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "4256",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Emergency Medical Services Amendments of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4256?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-02-05",
+            "latestAction": {
+                "actionDate": "1992-02-13",
+                "text": "Executive Comment Requested from Commerce, DOE, Interior, Army Corps of Engineers."
+            },
+            "number": "4169",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Cooperative Interjurisdictional Rivers Fisheries Resources Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4169?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-11-22",
+            "latestAction": {
+                "actionDate": "1991-11-25",
+                "text": "Executive Comment Requested from EPA."
+            },
+            "number": "3882",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "To amend section 3 of the Federal Insecticide, Fungicide, and Rodenticide Act to coordinate and synchronize pesticide data requirements.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3882?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-11-21",
+            "latestAction": {
+                "actionDate": "1992-01-14",
+                "text": "Referred to the Subcommittee on Telecommunications and Finance."
+            },
+            "number": "3847",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Domestic Industry Safeguard Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3847?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-11-20",
+            "latestAction": {
+                "actionDate": "1992-03-18",
+                "text": "Referred to the Subcommittee on Administrative Law and Governmental Relations."
+            },
+            "number": "3824",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Real Estate Recovery Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3824?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-11-18",
+            "latestAction": {
+                "actionDate": "1991-11-21",
+                "text": "Referred to the Subcommittee on Housing and Community Development."
+            },
+            "number": "3798",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Real Estate Recovery Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3798?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-09-26",
+            "latestAction": {
+                "actionDate": "1991-10-24",
+                "text": "Referred to the Subcommittee on Postsecondary Education."
+            },
+            "number": "3426",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Postsecondary Opportunities Act for Students With Disabilities",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3426?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-08-02",
+            "latestAction": {
+                "actionDate": "1991-10-24",
+                "text": "Referred to the Subcommittee on Postsecondary Education."
+            },
+            "number": "3241",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Nontraditional Student Opportunity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3241?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-08-02",
+            "latestAction": {
+                "actionDate": "1991-10-24",
+                "text": "Referred to the Subcommittee on Postsecondary Education."
+            },
+            "number": "3240",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "To amend the Higher Education Act of 1965 to establish a Commission on Graduate Education.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3240?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-07-30",
+            "latestAction": {
+                "actionDate": "1991-08-05",
+                "text": "Referred to the Subcommittee on Livestock, Dairy, and Poultry."
+            },
+            "number": "3108",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Dairy Production Stabilization Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3108?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-07-31",
+            "latestAction": {
+                "actionDate": "1991-11-08",
+                "text": "Unfavorable Executive Comment Received from HHS."
+            },
+            "number": "3131",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Dairy Production Stabilization Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3131?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-06-25",
+            "latestAction": {
+                "actionDate": "1991-07-11",
+                "text": "Referred to the Subcommittee on Employment Opportunities."
+            },
+            "number": "2751",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "To establish the National Commission on American Labor Law.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2751?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-06-07",
+            "latestAction": {
+                "actionDate": "1991-07-11",
+                "text": "Referred to the Subcommittee on Postsecondary Education."
+            },
+            "number": "2590",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Diversity in Education Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2590?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-05-09",
+            "latestAction": {
+                "actionDate": "1991-05-16",
+                "text": "Referred to the Subcommittee on Fisheries and Wildlife Conservation and the Environment."
+            },
+            "number": "2289",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Cooperative Large Rivers Fisheries Research and Restoration Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2289?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-02-27",
+            "latestAction": {
+                "actionDate": "1992-03-03",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "384",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Expressing the sense of the House of Representatives that the President should terminate certain current Generalized System of Preferences petitions from Central and Eastern European Countries.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/102/hres/384?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-01-28",
+            "latestAction": {
+                "actionDate": "1992-01-28",
+                "text": "Referred to the House Committee on Rules."
+            },
+            "number": "332",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To amend the Rules of the House of Representatives to require a recorded vote upon final passage of legislation that would make an appropriation or provide direct spending authority or new credit authority.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/102/hres/332?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-01-03",
+            "latestAction": {
+                "actionDate": "1991-06-11",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "14",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Expressing the sense of the Congress regarding the awarding of contracts in units of the National Park System.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/102/hconres/14?format=json"
+        },
+        {
+            "amendmentNumber": "494",
+            "congress": 103,
+            "introducedDate": "1994-03-24",
+            "latestAction": {
+                "actionDate": "1994-03-24",
+                "actionTime": "19:05:54",
+                "text": "On agreeing to the Gunderson amendment (A045) as amended Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/494?format=json"
+        },
+        {
+            "amendmentNumber": "456",
+            "congress": 103,
+            "introducedDate": "1994-03-09",
+            "latestAction": {
+                "actionDate": "1994-03-09",
+                "actionTime": "13:04:09",
+                "text": "On agreeing to the Gunderson amendment (A018) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/456?format=json"
+        },
+        {
+            "amendmentNumber": "448",
+            "congress": 103,
+            "introducedDate": "1994-03-03",
+            "latestAction": {
+                "actionDate": "1994-03-03",
+                "actionTime": "14:18:13",
+                "text": "On agreeing to the Gunderson amendment (A010) as amended Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/448?format=json"
+        },
+        {
+            "amendmentNumber": "443",
+            "congress": 103,
+            "introducedDate": "1994-03-02",
+            "latestAction": {
+                "actionDate": "1994-03-02",
+                "actionTime": "15:41:57",
+                "text": "On agreeing to the Gunderson amendment (A005) Failed by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/443?format=json"
+        },
+        {
+            "amendmentNumber": "361",
+            "congress": 103,
+            "introducedDate": "1993-10-14",
+            "latestAction": {
+                "actionDate": "1993-10-14",
+                "actionTime": "14:49:22",
+                "text": "On agreeing to the Gunderson amendment (A003) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/361?format=json"
+        },
+        {
+            "amendmentNumber": "249",
+            "congress": 103,
+            "introducedDate": "1993-07-28",
+            "latestAction": {
+                "actionDate": "1993-07-28",
+                "actionTime": "14:21:31",
+                "text": "On agreeing to the Gunderson amendment (A017) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/249?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-10-05",
+            "latestAction": {
+                "actionDate": "1994-10-17",
+                "text": "Executive Comment Requested from USDA."
+            },
+            "number": "5184",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "To enable the Secretary of Agriculture to adjust the base period of milk production when calculating refunds of assessments made in calendar year 1994 under Section 204(h) of the Agricultural Act of 1949 on milk producers affected by floods and excessive moisture during calendar year 1993.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/5184?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-06-14",
+            "latestAction": {
+                "actionDate": "1994-10-03",
+                "text": "See H.R.4460."
+            },
+            "number": "4575",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "To direct the Secretary of the Army to transfer to the State of Wisconsin lands and improvements associated with the LaFarge Dam and Lake portion of the project for flood control and allied purposes, Kickapoo River, Wisconsin, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4575?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-04-14",
+            "latestAction": {
+                "actionDate": "1994-05-17",
+                "text": "Referred to the Subcommittee on Labor-Management Relations."
+            },
+            "number": "4222",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "To amend the Job Training Partnership Act to establish a workforce skills and development loan program to provide grants to States to guarantee loans made to employers, representatives of employees, and other entities to provide skills upgrading for non-managerial employees, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4222?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-03-24",
+            "latestAction": {
+                "actionDate": "1994-03-29",
+                "text": "Executive Comment Requested from USDA."
+            },
+            "number": "4134",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Dairy Industry Security Reserve Fund Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4134?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-01-26",
+            "latestAction": {
+                "actionDate": "1994-03-24",
+                "text": "See H.R.6."
+            },
+            "number": "3734",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "21st Century Community Learning Centers Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3734?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-11-22",
+            "latestAction": {
+                "actionDate": "1994-09-28",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3646",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Meat and Poultry Products Inspection Amendments of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3646?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-06-23",
+            "latestAction": {
+                "actionDate": "1994-04-20",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "2500",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Cooperative Interjurisdictional Rivers Fisheries Resources Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2500?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-05-06",
+            "latestAction": {
+                "actionDate": "1993-05-27",
+                "text": "Referred to the Subcommittee on Select Education and Civil Rights."
+            },
+            "number": "2016",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Employment Dispute Resolution Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2016?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-21",
+            "latestAction": {
+                "actionDate": "1993-05-06",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "1764",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XVIII of the Social Security Act to extend until October 1, 1994, the period during which medicare-dependent, small rural hospitals may be paid under alternative reimbursement methodologies for the operating costs of inpatient hospital services under the medicare program.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1764?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-21",
+            "latestAction": {
+                "actionDate": "1993-05-12",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "1766",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Emergency Medical Services Amendments Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1766?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-21",
+            "latestAction": {
+                "actionDate": "1993-05-12",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "1774",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Rural Health Outreach Grants Amendments Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1774?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-30",
+            "latestAction": {
+                "actionDate": "1993-07-28",
+                "text": "Sponsor introductory remarks on measure. (CR E1913-1914)"
+            },
+            "number": "1529",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Teamwork for Employees and Management Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1529?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-24",
+            "latestAction": {
+                "actionDate": "1993-08-05",
+                "text": "Sponsor introductory remarks on measure. (CR E2008-2009)"
+            },
+            "number": "1454",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "National School-To-Work Transition and Youth Apprenticeship Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1454?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-01-05",
+            "latestAction": {
+                "actionDate": "1993-02-03",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "443",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Emergency Medical Services Amendments Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/443?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-01-05",
+            "latestAction": {
+                "actionDate": "1993-02-24",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "192",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Farm and Rural Medical Equity Reform Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/192?format=json"
+        },
+        {
+            "amendmentNumber": "891",
+            "congress": 104,
+            "introducedDate": "1995-11-02",
+            "latestAction": {
+                "actionDate": "1995-11-02",
+                "actionTime": "14:14:28",
+                "text": "On agreeing to the Gunderson amendment (A005) Agreed to by recorded vote: 241 - 177, 1 Present (Roll no. 763). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/891?format=json"
+        },
+        {
+            "amendmentNumber": "523",
+            "congress": 104,
+            "introducedDate": "1995-07-12",
+            "latestAction": {
+                "actionDate": "1995-07-12",
+                "actionTime": "18:24:17",
+                "text": "On agreeing to the Gunderson amendment (A021) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/523?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-28",
+            "latestAction": {
+                "actionDate": "1996-09-28",
+                "text": "Referred to the House Committee on Agriculture."
+            },
+            "number": "4302",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Meat, Poultry, and Seafood Inspection Reform Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/4302?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-27",
+            "latestAction": {
+                "actionDate": "1996-10-04",
+                "text": "Executive Comment Requested from USDA."
+            },
+            "number": "4249",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "Animal Welfare Act Amendments of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/4249?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-27",
+            "latestAction": {
+                "actionDate": "1996-10-04",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "4250",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XIX of the Social Security Act to permit a State the option of covering community-based attendant services under the Medicaid program.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/4250?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-06-27",
+            "latestAction": {
+                "actionDate": "1996-07-16",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "3753",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Rural Health Improvement Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3753?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-07-09",
+            "latestAction": {
+                "actionDate": "1996-07-11",
+                "text": "Subcommittee Hearings Held. Hearings Printed: H. Hrg. 104-33."
+            },
+            "number": "3762",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Dairy and Livestock Producer Protection Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3762?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-02-01",
+            "latestAction": {
+                "actionDate": "1996-05-09",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "2939",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Mississippi Interstate Cooperative Resource Agreement Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2939?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-02-08",
+            "latestAction": {
+                "actionDate": "1995-02-21",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "859",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Rural Emergency Access Care Hospital Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/859?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-30",
+            "latestAction": {
+                "actionDate": "1996-07-31",
+                "text": "On motion to refer the bill and the accompanying veto message to the Committee on Economic and Educational Opportunities. Agreed to without objection."
+            },
+            "number": "743",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Teamwork for Employees and Managers Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/743?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-04",
+            "latestAction": {
+                "actionDate": "1995-01-20",
+                "text": "Referred to the Subcommittee on Water Resources and Environment."
+            },
+            "number": "50",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "To direct the Secretary of the Army to transfer to the State of Wisconsin lands and improvements associated with the LaFarge Dam and Lake portion of the project for flood control and allied purposes, Kickapoo River, Wisconsin, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/50?format=json"
+        }
+    ]
+}

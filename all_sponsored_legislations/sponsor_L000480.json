@@ -1,0 +1,3721 @@
+{
+    "pagination": {
+        "count": 554,
+        "next": "https://api.congress.gov/v3/member/L000480/sponsored-legislation?offset=250&limit=250&format=json"
+    },
+    "request": {
+        "bioguideId": "l000480",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 116,
+            "introducedDate": "2020-12-21",
+            "latestAction": {
+                "actionDate": "2020-12-21",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "128",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Directing the Clerk of the House of Representatives to make a correction in the enrollment of H.R. 1520.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/116/hconres/128?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2020-12-21",
+            "latestAction": {
+                "actionDate": "2020-12-22",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "127",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Directing the Clerk of the House of Representatives to make a correction in the enrollment of H.R. 133.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/116/hconres/127?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2020-12-20",
+            "latestAction": {
+                "actionDate": "2020-12-20",
+                "text": "Became Public Law No: 116-226."
+            },
+            "number": "110",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Extension of Continuing Appropriations Act, 2021",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/116/hjres/110?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2020-12-18",
+            "latestAction": {
+                "actionDate": "2020-12-18",
+                "text": "Became Public Law No: 116-225."
+            },
+            "number": "107",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Further Additional Continuing Appropriations Act, 2021",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/116/hjres/107?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2020-12-08",
+            "latestAction": {
+                "actionDate": "2020-12-11",
+                "text": "Became Public Law No: 116-215."
+            },
+            "number": "8900",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Further Continuing Appropriations Act, 2021, and Other Extensions Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/8900?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2020-09-29",
+            "latestAction": {
+                "actionDate": "2020-09-29",
+                "text": "Referred to the Committee on Appropriations, and in addition to the Committees on the Budget, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "8406",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Making emergency supplemental appropriations for the fiscal year ending September 30, 2021, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/8406?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2020-09-22",
+            "latestAction": {
+                "actionDate": "2020-10-01",
+                "text": "Became Public Law No: 116-159."
+            },
+            "number": "8337",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Continuing Appropriations Act, 2021 and Other Extensions Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/8337?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2020-09-21",
+            "latestAction": {
+                "actionDate": "2020-09-23",
+                "actionTime": "15:48:55",
+                "text": "Rule H. Res. 1129 passed House."
+            },
+            "number": "8319",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Continuing Appropriations Act, 2021 and Other Extensions Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/8319?format=json"
+        },
+        {
+            "amendmentNumber": "860",
+            "congress": 116,
+            "introducedDate": "2020-07-30",
+            "latestAction": {
+                "actionDate": "2020-07-30",
+                "actionTime": "12:06:19",
+                "text": "On agreeing to the Lowey amendments (A002) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/116/hamdt/860?format=json"
+        },
+        {
+            "amendmentNumber": "861",
+            "congress": 116,
+            "introducedDate": "2020-07-30",
+            "latestAction": {
+                "actionDate": "2020-07-30",
+                "actionTime": "12:36:07",
+                "text": "On agreeing to the Lowey amendments (A003) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/116/hamdt/861?format=json"
+        },
+        {
+            "amendmentNumber": "862",
+            "congress": 116,
+            "introducedDate": "2020-07-30",
+            "latestAction": {
+                "actionDate": "2020-07-30",
+                "actionTime": "12:58:27",
+                "text": "On agreeing to the Lowey amendments (A004) Failed by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/116/hamdt/862?format=json"
+        },
+        {
+            "amendmentNumber": "852",
+            "congress": 116,
+            "introducedDate": "2020-07-23",
+            "latestAction": {
+                "actionDate": "2020-07-23",
+                "actionTime": "18:41:06",
+                "text": "On agreeing to the Lowey amendments (A005) Failed by the Yeas and Nays: 187 - 230 (Roll no. 161). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/116/hamdt/852?format=json"
+        },
+        {
+            "amendmentNumber": "851",
+            "congress": 116,
+            "introducedDate": "2020-07-23",
+            "latestAction": {
+                "actionDate": "2020-07-23",
+                "actionTime": "18:05:47",
+                "text": "On agreeing to the Lowey amendments (A004) Agreed to by the Yeas and Nays: 223 - 194 (Roll no. 160). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/116/hamdt/851?format=json"
+        },
+        {
+            "amendmentNumber": "850",
+            "congress": 116,
+            "introducedDate": "2020-07-23",
+            "latestAction": {
+                "actionDate": "2020-07-23",
+                "actionTime": "15:51:01",
+                "text": "On agreeing to the Lowey amendments (A003) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/116/hamdt/850?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2020-07-13",
+            "latestAction": {
+                "actionDate": "2020-07-30",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Appropriations."
+            },
+            "number": "7608",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "State, Foreign Operations, Agriculture, Rural Development, Interior, Environment, Military Construction, and Veterans Affairs Appropriations Act, 2021",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/7608?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2020-06-25",
+            "latestAction": {
+                "actionDate": "2020-07-30",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Appropriations."
+            },
+            "number": "7327",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Child Care for Economic Recovery Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/7327?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2020-05-12",
+            "latestAction": {
+                "actionDate": "2020-07-23",
+                "text": "Committee on Small Business and Entrepreneurship. Hearings held."
+            },
+            "number": "6800",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "The Heroes Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/6800?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2020-03-23",
+            "latestAction": {
+                "actionDate": "2020-03-23",
+                "text": "Referred to the Committee on Appropriations, and in addition to the Committees on the Budget, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "6379",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Workforce Emergency Response Act of 2020",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/6379?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2020-03-11",
+            "latestAction": {
+                "actionDate": "2020-03-19",
+                "actionTime": "11:19:48",
+                "text": "Engrossment Correction"
+            },
+            "number": "6201",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Families First Coronavirus Response Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/6201?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2020-03-04",
+            "latestAction": {
+                "actionDate": "2020-03-06",
+                "text": "Became Public Law No: 116-123."
+            },
+            "number": "6074",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/6074?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2020-01-28",
+            "latestAction": {
+                "actionDate": "2020-02-11",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 416."
+            },
+            "number": "5687",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Emergency Supplemental Appropriations for Disaster Relief and Puerto Rico Disaster Tax Relief Act, 2020",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/5687?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-12-17",
+            "latestAction": {
+                "actionDate": "2019-12-19",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "82",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Directing the Clerk of the House of Representatives to make a correction in the enrollment of H.R. 1865.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/116/hconres/82?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-12-17",
+            "latestAction": {
+                "actionDate": "2019-12-19",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "81",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Directing the Clerk of the House of Representatives to make a correction in the enrollment of H.R. 1158.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/116/hconres/81?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-11-19",
+            "latestAction": {
+                "actionDate": "2019-11-21",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "75",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Directing the Clerk of the House of Representatives to make a correction in the enrollment of H.R. 3055.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/116/hconres/75?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-11-15",
+            "latestAction": {
+                "actionDate": "2019-12-04",
+                "text": "Referred to the Subcommittee on Water, Oceans, and Wildlife."
+            },
+            "number": "5127",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Refuge From Cruel Trapping Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/5127?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-09-18",
+            "latestAction": {
+                "actionDate": "2019-09-27",
+                "text": "Became Public Law No: 116-59."
+            },
+            "number": "4378",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Continuing Appropriations Act, 2020, and Health Extenders Act of 2019",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/4378?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-08-16",
+            "latestAction": {
+                "actionDate": "2019-08-16",
+                "text": "Referred to the House Committee on Education and Labor."
+            },
+            "number": "540",
+            "policyArea": {
+                "name": "Arts, Culture, Religion"
+            },
+            "title": "Recognizing the 50th anniversary of Sesame Street.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/116/hres/540?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-07-30",
+            "latestAction": {
+                "actionDate": "2019-07-31",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4126",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Caregiver Credit Act of 2019",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/4126?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-07-30",
+            "latestAction": {
+                "actionDate": "2019-07-30",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "4125",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to repeal the 7-year restriction on eligibility for widow's and widower's insurance benefits based on disability.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/4125?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-07-30",
+            "latestAction": {
+                "actionDate": "2019-07-30",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "4124",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to eliminate the two-year waiting period for divorced spouse's benefits following the divorce.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/4124?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-07-30",
+            "latestAction": {
+                "actionDate": "2019-07-30",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "4123",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to provide for increases in widow's and widower's insurance benefits by reason of delayed retirement.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/4123?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-07-30",
+            "latestAction": {
+                "actionDate": "2019-07-30",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "4122",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to provide for full benefits for disabled widows and widowers without regard to age.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/4122?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-07-25",
+            "latestAction": {
+                "actionDate": "2019-08-22",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4042",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To designate the Department of Veterans Affairs community clinic in New City, New York, as the \"Jerry Donnellan VA Community Clinic\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/4042?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-07-12",
+            "latestAction": {
+                "actionDate": "2019-07-15",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "3746",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "United States Cadet Nurse Corps Equity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/3746?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-06-27",
+            "latestAction": {
+                "actionDate": "2019-07-17",
+                "text": "Referred to the Subcommittee on Africa, Global Health, Global Human Rights, and International Organizations."
+            },
+            "number": "467",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Recognizing the essential contributions of frontline health workers to strengthening the United States national security and economic prosperity, sustaining and expanding progress on global health, and saving the lives of millions of women, men, and children around the world.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/116/hres/467?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-06-21",
+            "latestAction": {
+                "actionDate": "2019-07-01",
+                "text": "Became Public Law No: 116-26."
+            },
+            "number": "3401",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Emergency Supplemental Appropriations for Humanitarian Assistance and Security at the Southern Border Act, 2019",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/3401?format=json"
+        },
+        {
+            "amendmentNumber": "348",
+            "congress": 116,
+            "introducedDate": "2019-06-13",
+            "latestAction": {
+                "actionDate": "2019-06-18",
+                "actionTime": "19:48:01",
+                "text": "On agreeing to the Lowey amendments (A083) Agreed to by recorded vote: 231 - 187 (Roll no. 332). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/116/hamdt/348?format=json"
+        },
+        {
+            "amendmentNumber": "350",
+            "congress": 116,
+            "introducedDate": "2019-06-13",
+            "latestAction": {
+                "actionDate": "2019-06-18",
+                "actionTime": "22:20:25",
+                "text": "On agreeing to the Lowey amendments (A085) Agreed to by recorded vote: 283 - 144 (Roll no. 339). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/116/hamdt/350?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-06-05",
+            "latestAction": {
+                "actionDate": "2019-06-05",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "3104",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Partnership Fund for Peace Act of 2019",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/3104?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-05-23",
+            "latestAction": {
+                "actionDate": "2019-05-24",
+                "text": "Referred to the Subcommittee on Highways and Transit."
+            },
+            "number": "2998",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Impaired Driving Repeat Offender Prevention Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/2998?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-05-20",
+            "latestAction": {
+                "actionDate": "2019-05-20",
+                "text": "Placed on the Union Calendar, Calendar No. 54."
+            },
+            "number": "2839",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Making appropriations for Department of State, foreign operations, and related programs for the fiscal year ending September 30, 2020, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/2839?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-04-09",
+            "latestAction": {
+                "actionDate": "2019-06-06",
+                "text": "Became Public Law No: 116-20."
+            },
+            "number": "2157",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Additional Supplemental Appropriations for Disaster Relief Act, 2019",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/2157?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-04-01",
+            "latestAction": {
+                "actionDate": "2019-04-01",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "277",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Affirming the importance of access to safe, quality education, including protection from attacks on education, for children in conflict settings.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/116/hres/277?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-07-08",
+            "latestAction": {
+                "actionDate": "2014-07-09",
+                "text": "Referred to the Subcommittee on Highways and Transit."
+            },
+            "number": "5025",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Alisa's Law of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5025?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-07-08",
+            "latestAction": {
+                "actionDate": "2014-07-08",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5024",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Caregiver Credit Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5024?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-05-06",
+            "latestAction": {
+                "actionDate": "2014-05-06",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "4578",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Peace Corps Equity Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4578?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-11-15",
+            "latestAction": {
+                "actionDate": "2013-11-19",
+                "text": "Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs."
+            },
+            "number": "3513",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Refuge from Cruel Trapping Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3513?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-07-30",
+            "latestAction": {
+                "actionDate": "2013-08-02",
+                "text": "Referred to the Subcommittee on Energy and Power."
+            },
+            "number": "2861",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "To require the Nuclear Regulatory Commission to retain and redistribute certain amounts collected as fines.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2861?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-07-22",
+            "latestAction": {
+                "actionDate": "2013-07-22",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "2780",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Education for All Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2780?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-07-18",
+            "latestAction": {
+                "actionDate": "2013-07-18",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "2738",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Global Democracy Promotion Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2738?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-07-17",
+            "latestAction": {
+                "actionDate": "2013-07-19",
+                "text": "Referred to the Subcommittee on Energy and Power."
+            },
+            "number": "2712",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Nuclear Power Licensing Reform Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2712?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-07-09",
+            "latestAction": {
+                "actionDate": "2013-07-10",
+                "text": "Referred to the Subcommittee on Public Lands and Environmental Regulation."
+            },
+            "number": "2636",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Hudson River Valley Special Resource Study Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2636?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-06-18",
+            "latestAction": {
+                "actionDate": "2013-06-18",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "2419",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Small Business Credit Card Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2419?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-05-06",
+            "latestAction": {
+                "actionDate": "2013-06-20",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "1835",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "United States Cadet Nurse Corps Equity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/1835?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-03-21",
+            "latestAction": {
+                "actionDate": "2013-03-21",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "135",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Recognizing the importance of frontline health workers toward accelerating progress on global health and saving the lives of women and children, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/135?format=json"
+        },
+        {
+            "amendmentNumber": "372",
+            "congress": 112,
+            "introducedDate": "2011-06-01",
+            "latestAction": {
+                "actionDate": "2011-06-01",
+                "actionTime": "20:48:57",
+                "text": "Mr. Aderholt raised a point of order against the Lowey amendment (A024). Mr. Aderholt stated that the amendment seeks to amend portions of the bill not yet read for consideration. The Chair sustained the point of order. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/372?format=json"
+        },
+        {
+            "amendmentNumber": "81",
+            "congress": 112,
+            "introducedDate": "2011-02-17",
+            "latestAction": {
+                "actionDate": "2011-02-17",
+                "actionTime": "13:18:22",
+                "text": "On agreeing to the Lowey amendment (A071) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/81?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-05-31",
+            "latestAction": {
+                "actionDate": "2012-05-31",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5878",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "DIPLOMA Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5878?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-05-31",
+            "latestAction": {
+                "actionDate": "2012-09-26",
+                "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education."
+            },
+            "number": "5877",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Child Care Public-Private Partnership Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5877?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-01-24",
+            "latestAction": {
+                "actionDate": "2012-01-24",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "3822",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "To require the Nuclear Regulatory Commission to retain and redistribute certain amounts collected as fines.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3822?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-12-20",
+            "latestAction": {
+                "actionDate": "2011-12-20",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3747",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to increase the alternative minimum tax exemption amount and index such amount for inflation.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3747?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-09-13",
+            "latestAction": {
+                "actionDate": "2011-09-27",
+                "text": "Referred to the Subcommittee on Transportation Security."
+            },
+            "number": "2907",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Guaranteeing Airport Physical Screening Standards Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2907?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-09-12",
+            "latestAction": {
+                "actionDate": "2011-09-19",
+                "text": "Referred to the Subcommittee on Technology and Innovation."
+            },
+            "number": "2894",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Firefighters Special Operation Task Force Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2894?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-07-29",
+            "latestAction": {
+                "actionDate": "2011-07-29",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "2705",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Education for All Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2705?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-07-26",
+            "latestAction": {
+                "actionDate": "2011-07-28",
+                "text": "Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs."
+            },
+            "number": "2657",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Refuge from Cruel Trapping Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2657?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-07-25",
+            "latestAction": {
+                "actionDate": "2011-10-25",
+                "text": "Referred to the Subcommittee on Africa, Global Health, and Human Rights."
+            },
+            "number": "2639",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Global Democracy Promotion Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2639?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-06-22",
+            "latestAction": {
+                "actionDate": "2011-07-07",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "2291",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to repeal the 7-year restriction on eligibility for widow's and widower's insurance benefits based on disability.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2291?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-06-22",
+            "latestAction": {
+                "actionDate": "2011-07-07",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "2294",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to provide for increases in widow's and widower's insurance benefits by reason of delayed retirement.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2294?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-06-22",
+            "latestAction": {
+                "actionDate": "2011-07-07",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "2293",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to provide for full benefits for disabled widows and widowers without regard to age.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2293?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-06-22",
+            "latestAction": {
+                "actionDate": "2011-07-07",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "2292",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to eliminate the two-year waiting period for divorced spouse's benefits following the divorce.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2292?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-06-22",
+            "latestAction": {
+                "actionDate": "2011-07-07",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "2290",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Caregiver Credit Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2290?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-06-03",
+            "latestAction": {
+                "actionDate": "2011-06-03",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2132",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Skin Cancer Prevention, Education, and Consumer Right-To-Know Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2132?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-05-04",
+            "latestAction": {
+                "actionDate": "2011-05-25",
+                "text": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs."
+            },
+            "number": "1718",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "United States Cadet Nurse Corps Equity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1718?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-04-14",
+            "latestAction": {
+                "actionDate": "2011-05-04",
+                "text": "Referred to the Subcommittee on Emergency Preparedness, Response and Communications."
+            },
+            "number": "1555",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "To amend the Homeland Security Act of 2002 to limit the number of Urban Area Security Initiative grants awarded and to clarify the risk assessment formula to be used when making such grants, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1555?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-04-14",
+            "latestAction": {
+                "actionDate": "2011-05-04",
+                "text": "Referred to the Subcommittee on Transportation Security."
+            },
+            "number": "1554",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "COVERT Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1554?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-03-30",
+            "latestAction": {
+                "actionDate": "2011-04-07",
+                "text": "Referred to the Subcommittee on Energy and Power."
+            },
+            "number": "1268",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Nuclear Power Licensing Reform Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1268?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-03-16",
+            "latestAction": {
+                "actionDate": "2011-04-04",
+                "text": "Referred to the Subcommittee on Financial Institutions and Consumer Credit."
+            },
+            "number": "1137",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Small Business Credit Card Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1137?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-07-18",
+            "latestAction": {
+                "actionDate": "2012-07-18",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "734",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Recognizing the importance of frontline health workers toward accelerating progress on global health and saving the lives of women and children, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/734?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-05-04",
+            "latestAction": {
+                "actionDate": "2011-05-06",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "246",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Supporting the goals and ideals of National Celiac Awareness Month, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/246?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-02-07",
+            "latestAction": {
+                "actionDate": "2019-02-07",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "1055",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Global Health, Empowerment and Rights Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/1055?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-01-17",
+            "latestAction": {
+                "actionDate": "2019-01-28",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 16."
+            },
+            "number": "648",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Consolidated Appropriations Act, 2019",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/648?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-01-14",
+            "latestAction": {
+                "actionDate": "2019-01-25",
+                "text": "Became Public Law No: 116-5."
+            },
+            "number": "28",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Further Additional Continuing Appropriations Act, 2019",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/116/hjres/28?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-01-14",
+            "latestAction": {
+                "actionDate": "2019-01-15",
+                "actionTime": "15:19:09",
+                "text": "On motion to suspend the rules and pass the resolution Failed by the Yeas and Nays: (2/3 required): 237 - 187 (Roll no. 31)."
+            },
+            "number": "27",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Further Additional Continuing Appropriations Act, 2019",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/116/hjres/27?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-01-08",
+            "latestAction": {
+                "actionDate": "2019-04-01",
+                "text": "Motion by Senator McConnell to reconsider the vote by which cloture on H.R. 268 was not invoked (Record Vote No. 56) entered in Senate."
+            },
+            "number": "268",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Supplemental Appropriations Act, 2019",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/268?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-01-03",
+            "latestAction": {
+                "actionDate": "2019-01-03",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "188",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "SALT Deductibility Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/188?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-01-03",
+            "latestAction": {
+                "actionDate": "2019-01-08",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 5."
+            },
+            "number": "21",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Consolidated Appropriations Act, 2019",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/21?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-01-03",
+            "latestAction": {
+                "actionDate": "2019-02-11",
+                "text": "Motion to proceed to consideration of measure withdrawn in Senate."
+            },
+            "number": "1",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Making further continuing appropriations for the Department of Homeland Security for fiscal year 2019, and for other purposes.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/116/hjres/1?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-12-12",
+            "latestAction": {
+                "actionDate": "2018-12-12",
+                "text": "Referred to the House Committee on Appropriations."
+            },
+            "number": "7264",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Making further additional continuing appropriations for fiscal year 2019, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/7264?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-10-30",
+            "latestAction": {
+                "actionDate": "2018-10-30",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "7108",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To designate the Department of Veterans Affairs community clinic in New City, New York, as the \"Jerry Donnellan VA Community Clinic\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/7108?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-09-27",
+            "latestAction": {
+                "actionDate": "2018-10-10",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "6952",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Caregiver Credit Act of 2018",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/6952?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-04-27",
+            "latestAction": {
+                "actionDate": "2018-04-27",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "5660",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Small Business Credit Card Act of 2018",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/5660?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-01-08",
+            "latestAction": {
+                "actionDate": "2018-01-08",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4740",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "SALT Deductibility Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4740?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-12-07",
+            "latestAction": {
+                "actionDate": "2017-12-07",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4594",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to provide for increases in widow's and widower's insurance benefits by reason of delayed retirement.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4594?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-12-07",
+            "latestAction": {
+                "actionDate": "2017-12-07",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4592",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to eliminate the two-year waiting period for divorced spouse's benefits following the divorce.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4592?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-12-07",
+            "latestAction": {
+                "actionDate": "2017-12-07",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4595",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to repeal the 7-year restriction on eligibility for widow's and widower's insurance benefits based on disability.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4595?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-12-07",
+            "latestAction": {
+                "actionDate": "2017-12-07",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4593",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to provide for full benefits for disabled widows and widowers without regard to age.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4593?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-11-16",
+            "latestAction": {
+                "actionDate": "2017-11-17",
+                "text": "Referred to the Subcommittee on Energy."
+            },
+            "number": "4442",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Removing Nuclear Waste from our Communities Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4442?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-11-16",
+            "latestAction": {
+                "actionDate": "2017-11-17",
+                "text": "Referred to the Subcommittee on Energy."
+            },
+            "number": "4440",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Redistribution of Fines to Our Communities Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4440?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-11-16",
+            "latestAction": {
+                "actionDate": "2017-11-17",
+                "text": "Referred to the Subcommittee on Energy."
+            },
+            "number": "4441",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Safe and Secure Decommissioning Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4441?format=json"
+        },
+        {
+            "amendmentNumber": "413",
+            "congress": 115,
+            "introducedDate": "2017-09-12",
+            "latestAction": {
+                "actionDate": "2017-09-13",
+                "actionTime": "18:11:44",
+                "text": "On agreeing to the Lowey amendment (A141) Agreed to by recorded vote: 228 - 188 (Roll no. 506). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/115/hamdt/413?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-07-26",
+            "latestAction": {
+                "actionDate": "2017-07-27",
+                "text": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials."
+            },
+            "number": "3435",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To prohibit the transportation of certain volatile crude oil by rail.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/3435?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-05-18",
+            "latestAction": {
+                "actionDate": "2017-05-18",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "342",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Recognizing the essential contributions of frontline health workers to strengthening the United States national security and economic prosperity, sustaining and expanding progress on global health, and saving the lives of millions of women, men, and children around the world.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/115/hres/342?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-03-08",
+            "latestAction": {
+                "actionDate": "2017-03-16",
+                "text": "Referred to the Subcommittee on Federal Lands."
+            },
+            "number": "1438",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Refuge From Cruel Trapping Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/1438?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-02-16",
+            "latestAction": {
+                "actionDate": "2017-03-23",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "1168",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "United States Cadet Nurse Corps Equity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/1168?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-01-24",
+            "latestAction": {
+                "actionDate": "2017-01-24",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "671",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "HER Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/671?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-01-24",
+            "latestAction": {
+                "actionDate": "2019-01-14",
+                "text": "Became Public Law No: 115-434."
+            },
+            "number": "672",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "An act to require continued and enhanced annual reporting to Congress in the Annual Report on International Religious Freedom on anti-Semitic incidents in Europe, the safety and security of European Jewish communities, and the efforts of the United States to partner with European governments, the European Union, and civil society groups, to combat anti-Semitism, and for other purposes",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/672?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-01-23",
+            "latestAction": {
+                "actionDate": "2017-09-08",
+                "text": "Became Public Law No: 115-56."
+            },
+            "number": "601",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "An act making continuing appropriations for the fiscal year ending September 30, 2018, and for other purposes",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/601?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-09-28",
+            "latestAction": {
+                "actionDate": "2016-09-28",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "6208",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Combating European Anti-Semitism Act of 2016",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/6208?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-04-29",
+            "latestAction": {
+                "actionDate": "2016-04-29",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "5156",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Small Business Credit Card Act of 2016",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5156?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-04-25",
+            "latestAction": {
+                "actionDate": "2016-06-21",
+                "text": "Motion to Discharge Committee filed by Mrs. Lowey. Petition No: 114-5. (<a href=\"http://clerk.house.gov/114/lrc/pd/petitions/DisPet0005.xml\r\n\">Discharge petition</a> text with signatures.)"
+            },
+            "number": "5044",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Making supplemental appropriations for fiscal year 2016 to respond to Zika virus.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5044?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-02-25",
+            "latestAction": {
+                "actionDate": "2016-04-01",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations."
+            },
+            "number": "4628",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Requiring Reporting of Online Terrorist Activity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/4628?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-02-04",
+            "latestAction": {
+                "actionDate": "2016-12-07",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 712."
+            },
+            "number": "4481",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Education for All Act of 2016",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/4481?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-12-16",
+            "latestAction": {
+                "actionDate": "2016-02-12",
+                "text": "Referred to the Subcommittee on Middle East and North Africa."
+            },
+            "number": "567",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing opposition to the European Commission interpretive notice regarding labeling Israeli products and goods manufactured in the West Bank and other areas, as such actions undermine efforts to achieve a negotiated Israeli-Palestinian peace process.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/114/hres/567?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-10-20",
+            "latestAction": {
+                "actionDate": "2016-03-23",
+                "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education."
+            },
+            "number": "3772",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Stop Obesity in Schools Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3772?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-09-11",
+            "latestAction": {
+                "actionDate": "2015-09-14",
+                "text": "Referred to the Subcommittee on Highways and Transit."
+            },
+            "number": "3501",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Alisa's Law of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3501?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-07-29",
+            "latestAction": {
+                "actionDate": "2015-09-28",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations."
+            },
+            "number": "3375",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "To amend chapter 44 of title 18, United States Code, to extend the period during which a firearms licensee is required to wait for a response from the national instant criminal background check system before being allowed to transfer a firearm to a prospective transferee.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3375?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-07-29",
+            "latestAction": {
+                "actionDate": "2015-08-12",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "3377",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Caregiver Credit Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3377?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-06-15",
+            "latestAction": {
+                "actionDate": "2015-06-23",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "2781",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to provide for full benefits for disabled widows and widowers without regard to age.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/2781?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-06-15",
+            "latestAction": {
+                "actionDate": "2015-06-24",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "2782",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to provide for increases in widow's and widower's insurance benefits by reason of delayed retirement.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/2782?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-06-15",
+            "latestAction": {
+                "actionDate": "2015-06-22",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "2779",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to repeal the 7-year restriction on eligibility for widow's and widower's insurance benefits based on disability.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/2779?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-05-15",
+            "latestAction": {
+                "actionDate": "2015-05-18",
+                "text": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials."
+            },
+            "number": "2379",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To prohibit the transportation of certain volatile crude oil by rail.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/2379?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-04-22",
+            "latestAction": {
+                "actionDate": "2015-04-24",
+                "text": "Referred to the Subcommittee on Environment and the Economy."
+            },
+            "number": "1973",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "To require the Nuclear Regulatory Commission to retain and redistribute certain amounts collected as fines.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/1973?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-09-15",
+            "latestAction": {
+                "actionDate": "2015-09-15",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "419",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Recognizing the importance of frontline health workers toward accelerating progress on global health and saving the lives of women and children, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/114/hres/419?format=json"
+        },
+        {
+            "amendmentNumber": "507",
+            "congress": 109,
+            "introducedDate": "2005-07-21",
+            "latestAction": {
+                "actionDate": "2005-07-21",
+                "actionTime": "20:01:36",
+                "text": "On agreeing to the Lowey amendment (A019) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/507?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-09-29",
+            "latestAction": {
+                "actionDate": "2006-11-02",
+                "text": "Referred to the Subcommittee on Education Reform."
+            },
+            "number": "6290",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Food Allergy and Anaphylaxis Management Act of 2006",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/6290?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-09-29",
+            "latestAction": {
+                "actionDate": "2006-10-02",
+                "text": "Referred to the Subcommittee on Energy and Air Quality, for a period to be subsequently determined by the Chairman ."
+            },
+            "number": "6291",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Renewable Energy and Energy Efficiency Stimulus Act of 2006",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/6291?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-09-21",
+            "latestAction": {
+                "actionDate": "2006-09-21",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "6152",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Education for All Act of 2006",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/6152?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-07-28",
+            "latestAction": {
+                "actionDate": "2006-07-28",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "6006",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to provide an increased exclusion of gain from the sale of a principal residence by certain widows and widowers.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/6006?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-07-28",
+            "latestAction": {
+                "actionDate": "2006-07-31",
+                "text": "Referred to the Subcommittee on Aviation."
+            },
+            "number": "6005",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To provide additional security for nuclear facilities under certain circumstances.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/6005?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-07-27",
+            "latestAction": {
+                "actionDate": "2006-07-27",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5936",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Caregiver Credit Act of 2006",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/5936?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-07-27",
+            "latestAction": {
+                "actionDate": "2006-09-28",
+                "text": "Referred to the Subcommittee on Education Reform."
+            },
+            "number": "5938",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Stop Obesity in Schools Act of 2006",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/5938?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-07-27",
+            "latestAction": {
+                "actionDate": "2006-09-28",
+                "text": "Referred to the Subcommittee on Employer-Employee Relations."
+            },
+            "number": "5937",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Prescription Drug Benefit Equity Act of 2006",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/5937?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-07-20",
+            "latestAction": {
+                "actionDate": "2006-07-20",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "5858",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "GROWTH Act of 2006",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/5858?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-07-13",
+            "latestAction": {
+                "actionDate": "2006-08-01",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "5795",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Unintended Pregnancy Reduction Act of 2006",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/5795?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-17",
+            "latestAction": {
+                "actionDate": "2006-05-17",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5407",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Deductibility and Incentives to Promote Learning Opportunities and Maximize Assistance (DIPLOMA) Act of 2006",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/5407?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-02",
+            "latestAction": {
+                "actionDate": "2006-05-12",
+                "text": "Referred to the Subcommittee on Research."
+            },
+            "number": "5272",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Firefighters Special Operation Task Force Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/5272?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-06",
+            "latestAction": {
+                "actionDate": "2006-04-19",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "5147",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend part B of title XVIII of the Social Security Act to repeal the income-related increase in part B premiums that was enacted as part of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108-173).",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/5147?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-03-16",
+            "latestAction": {
+                "actionDate": "2006-03-16",
+                "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "4996",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Existing Drug Coverage Protection Act of 2006",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4996?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-03-16",
+            "latestAction": {
+                "actionDate": "2006-08-02",
+                "text": "Became Public Law No: 109-262."
+            },
+            "number": "4995",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To designate the facility of the United States Postal Service located at 7 Columbus Avenue in Tuckahoe, New York, as the \"Ronald Bucca Post Office\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4995?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-12-22",
+            "latestAction": {
+                "actionDate": "2006-03-27",
+                "text": "Referred to the Subcommittee on Employer-Employee Relations."
+            },
+            "number": "4651",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Equity in Prescription Insurance and Contraceptive Coverage Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4651?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-12-16",
+            "latestAction": {
+                "actionDate": "2006-05-01",
+                "text": "Referred to the Subcommittee on 21st Century Competitiveness."
+            },
+            "number": "4603",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Pandemic and Seasonal Influenza Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4603?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-12-16",
+            "latestAction": {
+                "actionDate": "2006-01-03",
+                "text": "Referred to the Subcommittee on Energy and Air Quality."
+            },
+            "number": "4602",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Nuclear Security Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4602?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-12-16",
+            "latestAction": {
+                "actionDate": "2006-01-03",
+                "text": "Referred to the Subcommittee on Energy and Air Quality."
+            },
+            "number": "4601",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Nuclear Accountability Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4601?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-12-07",
+            "latestAction": {
+                "actionDate": "2005-12-07",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "4465",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Global Democracy Promotion Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4465?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-10-25",
+            "latestAction": {
+                "actionDate": "2005-11-04",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4137",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Better Screening Test for Women Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4137?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-10-25",
+            "latestAction": {
+                "actionDate": "2005-11-04",
+                "text": "Referred to the Subcommittee on Energy and Air Quality."
+            },
+            "number": "4138",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Weatherization Assistance Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4138?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-10-17",
+            "latestAction": {
+                "actionDate": "2005-11-04",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4062",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Pandemic Preparedness and Response Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4062?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-10-17",
+            "latestAction": {
+                "actionDate": "2006-05-01",
+                "text": "Referred to the Subcommittee on Education Reform."
+            },
+            "number": "4063",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Food Allergy and Anaphylaxis Management Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4063?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-09-20",
+            "latestAction": {
+                "actionDate": "2005-09-20",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3832",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "AID for America Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3832?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-09-14",
+            "latestAction": {
+                "actionDate": "2005-09-14",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3773",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Assistance to Individuals Delivering for America Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3773?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-28",
+            "latestAction": {
+                "actionDate": "2005-08-05",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3570",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Food Freshness Disclosure Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3570?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-28",
+            "latestAction": {
+                "actionDate": "2005-09-19",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "3572",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Homeland Security Overtime Reimbursement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3572?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-28",
+            "latestAction": {
+                "actionDate": "2005-08-05",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3571",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Food Ingredient Right to Know Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3571?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-28",
+            "latestAction": {
+                "actionDate": "2005-09-19",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "3573",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Zero Tolerance School Terror Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3573?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-28",
+            "latestAction": {
+                "actionDate": "2005-08-05",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3569",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Nurse Education, Expansion, and Development Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3569?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-26",
+            "latestAction": {
+                "actionDate": "2005-08-23",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "3442",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "Inhumane Trapping Prevention Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3442?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-20",
+            "latestAction": {
+                "actionDate": "2005-07-29",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3369",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Attacking Viral Influenza Across Nations Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3369?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-06-21",
+            "latestAction": {
+                "actionDate": "2005-07-01",
+                "text": "Referred to the Subcommittee on Energy and Air Quality."
+            },
+            "number": "3017",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Nuclear Power Licensing Reform Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3017?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-06-14",
+            "latestAction": {
+                "actionDate": "2005-07-01",
+                "text": "Referred to the Subcommittee on Environment and Hazardous Materials."
+            },
+            "number": "2895",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Quiet Communities Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/2895?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-05-26",
+            "latestAction": {
+                "actionDate": "2005-06-06",
+                "text": "Referred to the Subcommittee on Economic Security, Infrastructure Protection, and Cybersecurity."
+            },
+            "number": "2688",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Guaranteeing Airport Physical Screening Standards Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/2688?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-05-11",
+            "latestAction": {
+                "actionDate": "2005-05-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2296",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Guard and Reserve Financial Stability Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/2296?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-05-10",
+            "latestAction": {
+                "actionDate": "2005-10-25",
+                "text": "Sponsor introductory remarks on measure. (CR E2175-2176)"
+            },
+            "number": "2231",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Breast Cancer and Environmental Research Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/2231?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-05-05",
+            "latestAction": {
+                "actionDate": "2005-05-10",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "2191",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to provide for full benefits for disabled widows and widowers without regard to age.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/2191?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-05-05",
+            "latestAction": {
+                "actionDate": "2005-05-16",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "2189",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to eliminate the two-year waiting period for divorced spouse's benefits following the divorce.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/2189?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-05-05",
+            "latestAction": {
+                "actionDate": "2005-05-05",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2190",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to provide for increases in widow's and widower's insurance benefits by reason of delayed retirement.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/2190?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-05-05",
+            "latestAction": {
+                "actionDate": "2005-05-10",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "2192",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to repeal the 7-year restriction on eligibility for widow's and widower's insurance benefits based on disability.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/2192?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-05-05",
+            "latestAction": {
+                "actionDate": "2005-07-20",
+                "text": "Subcommittee on Economic Opportunity Discharged."
+            },
+            "number": "2193",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "United States Cadet Nurse Corps Equity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/2193?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-05-04",
+            "latestAction": {
+                "actionDate": "2005-05-20",
+                "text": "Referred to the Subcommittee on 21st Century Competitiveness."
+            },
+            "number": "2097",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Child Care Public-Private Partnership Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/2097?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-05-04",
+            "latestAction": {
+                "actionDate": "2005-05-23",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2098",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Asthma Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/2098?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-04-19",
+            "latestAction": {
+                "actionDate": "2005-05-09",
+                "text": "Referred to the Subcommittee on 21st Century Competitiveness."
+            },
+            "number": "1693",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Investment in Quality School Leadership Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1693?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-04-13",
+            "latestAction": {
+                "actionDate": "2005-04-13",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1614",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Estate Tax Reduction Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1614?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-03-17",
+            "latestAction": {
+                "actionDate": "2005-03-17",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "1413",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Women and Children in Crisis and Conflict Protection Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1413?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-03-10",
+            "latestAction": {
+                "actionDate": "2005-09-20",
+                "text": "Sponsor introductory remarks on measure. (CR H8143-8144)"
+            },
+            "number": "1251",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Connecting the Operations of National Networks of Emergency Communications Technologies for First Responders Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1251?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-09-21",
+            "latestAction": {
+                "actionDate": "2005-09-28",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "66",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Supporting the goals and ideals of \"Lights On Afterschool!\", a national celebration of after-school programs.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/109/hjres/66?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-09-13",
+            "latestAction": {
+                "actionDate": "2006-09-27",
+                "text": "Motion to Discharge Committee filed by Mrs. Lowey. Petition No: 109-17. (<a href=\"http://clerk.house.gov/109/lrc/pd/Petitions/Dis17.htm\">Discharge petition</a> text with signatures.)"
+            },
+            "number": "1007",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the bill (H.R. 5147) to amend part B of title XVIII of the Social Security Act to repeal the income-related increase in part B premiums that was enacted as part of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108-173).",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/1007?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-09-21",
+            "latestAction": {
+                "actionDate": "2006-11-13",
+                "text": "Referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "478",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Supporting the goals and ideals of \"Lights On Afterschool!\", a national celebration of after-school programs.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/109/hconres/478?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-07-27",
+            "latestAction": {
+                "actionDate": "2006-08-01",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "457",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Supporting the goals and ideals of National Celiac Awareness Month, and for other purposes.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/109/hconres/457?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-17",
+            "latestAction": {
+                "actionDate": "2006-06-05",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "404",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Expressing the sense of the Congress concerning contraceptives for women.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/109/hconres/404?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-27",
+            "latestAction": {
+                "actionDate": "2005-07-27",
+                "text": "Referred to the House Committee on Government Reform."
+            },
+            "number": "223",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Expressing the sense of Congress that a commemorative postage stamp should be issued in honor of Helen Hayes.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/109/hconres/223?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-07-29",
+            "latestAction": {
+                "actionDate": "2015-07-30",
+                "text": "Referred to the Subcommittee on Highways and Transit."
+            },
+            "number": "3376",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To authorize States to carry out bridge construction, maintenance, repair, and replacement projects using previously allocated surface transportation funds that are identified as being excess or inactive, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3376?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-07-13",
+            "latestAction": {
+                "actionDate": "2015-07-14",
+                "text": "Referred to the Subcommittee on Highways and Transit."
+            },
+            "number": "3044",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "ROADS SAFE Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3044?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-06-15",
+            "latestAction": {
+                "actionDate": "2015-06-22",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "2780",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to eliminate the two-year waiting period for divorced spouse's benefits following the divorce.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/2780?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-06-11",
+            "latestAction": {
+                "actionDate": "2015-06-11",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "2740",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Global Democracy Promotion Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/2740?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-05-12",
+            "latestAction": {
+                "actionDate": "2015-08-13",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "2248",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "United States Cadet Nurse Corps Equity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/2248?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-04-23",
+            "latestAction": {
+                "actionDate": "2015-05-26",
+                "text": "Referred to the Subcommittee on Federal Lands."
+            },
+            "number": "2016",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Refuge From Cruel Trapping Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/2016?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-04-22",
+            "latestAction": {
+                "actionDate": "2015-04-24",
+                "text": "Referred to the Subcommittee on Environment and the Economy."
+            },
+            "number": "1972",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Nuclear Power Licensing Reform Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/1972?format=json"
+        },
+        {
+            "amendmentNumber": "306",
+            "congress": 111,
+            "introducedDate": "2009-07-09",
+            "latestAction": {
+                "actionDate": "2009-07-09",
+                "actionTime": "18:00:21",
+                "text": "On agreeing to the Lowey amendment (A001) Agreed to by recorded vote: 261 - 168 (Roll no. 516). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/hamdt/306?format=json"
+        },
+        {
+            "amendmentNumber": "158",
+            "congress": 111,
+            "introducedDate": "2009-05-21",
+            "latestAction": {
+                "actionDate": "2009-05-21",
+                "actionTime": "16:21:04",
+                "text": "On agreeing to the Lowey amendment (A011) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/hamdt/158?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-07-30",
+            "latestAction": {
+                "actionDate": "2010-08-02",
+                "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management."
+            },
+            "number": "6048",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to ensure that certain tenants are able to return to affordable housing after a major disaster.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/6048?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-07-30",
+            "latestAction": {
+                "actionDate": "2010-08-26",
+                "text": "Referred to the Subcommittee on Transportation Security and Infrastructure Protection."
+            },
+            "number": "6047",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Guaranteeing Airport Physical Screening Standards Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/6047?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-07-28",
+            "latestAction": {
+                "actionDate": "2010-07-29",
+                "text": "Referred to the Subcommittee on Technology and Innovation."
+            },
+            "number": "5909",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Firefighters Special Operation Task Force Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5909?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-07-28",
+            "latestAction": {
+                "actionDate": "2010-07-29",
+                "text": "Referred to the Subcommittee on Aviation."
+            },
+            "number": "5910",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "To amend the Homeland Security Act of 2002 to authorize the Secretary of Homeland Security to issue rules that designate no-fly zones in the vicinity of certain nuclear power plants, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5910?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-07-27",
+            "latestAction": {
+                "actionDate": "2010-10-13",
+                "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education."
+            },
+            "number": "5886",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Investment in Quality School Leadership Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5886?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-07-27",
+            "latestAction": {
+                "actionDate": "2010-07-27",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "5887",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Choking Hazard Awareness Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5887?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-07-01",
+            "latestAction": {
+                "actionDate": "2010-07-01",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5695",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Economic Credit Opportunity for Businesses Acting Green Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5695?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-06-08",
+            "latestAction": {
+                "actionDate": "2010-06-08",
+                "text": "Referred to House Administration"
+            },
+            "number": "5483",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To award a congressional gold medal to the United States Cadet Nurse Corps.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5483?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-05-05",
+            "latestAction": {
+                "actionDate": "2010-05-19",
+                "text": "Referred to the Subcommittee on Border, Maritime, and Global Counterterrorism."
+            },
+            "number": "5221",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "To amend title 49, United States Code, to require air carriers and foreign air carriers to transmit a passenger and crew manifest for a flight in foreign air transportation to or from the United States to the Commissioner of U.S. Customs and Border Protection at least 24 hours before the departure of the flight, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5221?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-04-29",
+            "latestAction": {
+                "actionDate": "2010-04-29",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "5191",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Global Resources and Opportunities for Women to Thrive Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5191?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-04-22",
+            "latestAction": {
+                "actionDate": "2010-04-22",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "5117",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Education for All Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5117?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-03-18",
+            "latestAction": {
+                "actionDate": "2010-03-18",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "4879",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Global Democracy Promotion Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4879?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-02-22",
+            "latestAction": {
+                "actionDate": "2010-02-23",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4642",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Shaken Baby Syndrome Prevention Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4642?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-12-02",
+            "latestAction": {
+                "actionDate": "2010-01-08",
+                "text": "Referred to the Subcommittee on Emergency Communications, Preparedness, and Response."
+            },
+            "number": "4182",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "To amend the Homeland Security Act of 2002 to limit the number of Urban Area Security Initiative grants awarded and to clarify the risk assessment formula to be used when making such grants, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4182?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-01",
+            "latestAction": {
+                "actionDate": "2009-10-06",
+                "text": "Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife."
+            },
+            "number": "3710",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Refuge from Cruel Trapping Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/3710?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-09-17",
+            "latestAction": {
+                "actionDate": "2009-09-17",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "3601",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Credit CARD Act Effective Date Change Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/3601?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-06-26",
+            "latestAction": {
+                "actionDate": "2010-09-30",
+                "text": "Became Public Law No: 111-242."
+            },
+            "number": "3081",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Continuing Appropriations Act, 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/3081?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-05-18",
+            "latestAction": {
+                "actionDate": "2009-05-18",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2466",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Guard and Reserve Financial Stability Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2466?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-05-18",
+            "latestAction": {
+                "actionDate": "2009-05-18",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2465",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "AID for America Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2465?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-05-18",
+            "latestAction": {
+                "actionDate": "2009-05-26",
+                "text": "Referred to the Subcommittee on Transportation Security and Infrastructure Protection."
+            },
+            "number": "2464",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "COVERT Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2464?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-05-05",
+            "latestAction": {
+                "actionDate": "2009-06-04",
+                "text": "Referred to the Subcommittee on Health, Employment, Labor, and Pensions."
+            },
+            "number": "2260",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Asthma Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2260?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-23",
+            "latestAction": {
+                "actionDate": "2009-04-27",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2086",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Food Ingredient Right to Know Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2086?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-23",
+            "latestAction": {
+                "actionDate": "2009-04-27",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2088",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Skin Cancer Prevention, Education, and Consumer Right-To-Know Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2088?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-23",
+            "latestAction": {
+                "actionDate": "2009-04-27",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2087",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Food Freshness Disclosure Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2087?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-22",
+            "latestAction": {
+                "actionDate": "2009-04-23",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2043",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Nurse Education, Expansion, and Development Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2043?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-22",
+            "latestAction": {
+                "actionDate": "2009-10-08",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "2042",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Better Screening Test for Women Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2042?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-22",
+            "latestAction": {
+                "actionDate": "2009-05-21",
+                "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education."
+            },
+            "number": "2041",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Child Care Public-Private Partnership Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2041?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-22",
+            "latestAction": {
+                "actionDate": "2009-04-23",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2044",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Stop Obesity in Schools Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2044?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-02",
+            "latestAction": {
+                "actionDate": "2009-05-14",
+                "text": "Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness."
+            },
+            "number": "1938",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Promoting Wellness for Individuals with Disabilities Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1938?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-02",
+            "latestAction": {
+                "actionDate": "2009-04-21",
+                "text": "Referred to the Subcommittee on Energy and Environment."
+            },
+            "number": "1937",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "To require the Nuclear Regulatory Commission to retain and redistribute certain amounts collected as fines.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1937?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-02",
+            "latestAction": {
+                "actionDate": "2009-04-21",
+                "text": "Referred to the Subcommittee on Energy and Environment."
+            },
+            "number": "1936",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Nuclear Power Licensing Reform Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1936?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-02",
+            "latestAction": {
+                "actionDate": "2009-09-29",
+                "text": "Placed on the Union Calendar, Calendar No. 154."
+            },
+            "number": "1881",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Transportation Security Workforce Enhancement Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1881?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-03-16",
+            "latestAction": {
+                "actionDate": "2009-05-22",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "1522",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "United States Cadet Nurse Corps Equity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1522?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-03-09",
+            "latestAction": {
+                "actionDate": "2009-08-19",
+                "text": "Became Public Law No: 111-54."
+            },
+            "number": "1397",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To designate the facility of the United States Postal Service located at 41 Purdy Avenue in Rye, New York, as the \"Caroline O'Day Post Office Building\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1397?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-03-06",
+            "latestAction": {
+                "actionDate": "2009-03-09",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "1378",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Food Allergy and Anaphylaxis Management Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1378?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-01-28",
+            "latestAction": {
+                "actionDate": "2009-01-28",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "769",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Caregiver Credit Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/769?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-01-28",
+            "latestAction": {
+                "actionDate": "2009-01-28",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "770",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to repeal the 7-year restriction on eligibility for widow's and widower's insurance benefits based on disability.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/770?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-01-28",
+            "latestAction": {
+                "actionDate": "2009-01-28",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "773",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to provide for increases in widow's and widower's insurance benefits by reason of delayed retirement.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/773?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-01-28",
+            "latestAction": {
+                "actionDate": "2009-01-28",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "772",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to provide for full benefits for disabled widows and widowers without regard to age.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/772?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-01-28",
+            "latestAction": {
+                "actionDate": "2009-01-28",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "771",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to eliminate the two-year waiting period for divorced spouse's benefits following the divorce.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/771?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-09-16",
+            "latestAction": {
+                "actionDate": "2010-11-18",
+                "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education."
+            },
+            "number": "1633",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Supporting the goals and ideals of \"Lights On Afterschool!\", a national celebration of after-school programs.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/1633?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-07-01",
+            "latestAction": {
+                "actionDate": "2010-07-01",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "1506",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Encouraging State and local governments to establish plastic bag recycling programs.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/1506?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-05-21",
+            "latestAction": {
+                "actionDate": "2009-06-02",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "485",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Expressing support for designation of the third week of April 2009 as \"National Shaken Baby Syndrome Awareness Week\".",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/485?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-22",
+            "latestAction": {
+                "actionDate": "2009-04-23",
+                "text": "Referred to the Subcommittee on Energy and Environment."
+            },
+            "number": "354",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Recognizing that the climate system of the Earth is warming and that most of the increase in global average temperatures is very likely due to the observed increase in human greenhouse gas emissions.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/354?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-12-16",
+            "latestAction": {
+                "actionDate": "2010-12-20",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "335",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Honoring the exceptional achievements of Ambassador Richard Holbrooke and recognizing the significant contributions he has made to United States national security, humanitarian causes, and peaceful resolutions of international conflict.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/111/hconres/335?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-07-27",
+            "latestAction": {
+                "actionDate": "2010-07-27",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "305",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Expressing the sense of the Congress concerning contraceptives for women.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/111/hconres/305?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-06",
+            "latestAction": {
+                "actionDate": "2009-11-16",
+                "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education."
+            },
+            "number": "194",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Supporting the goals and ideals of \"Lights On Afterschool!\", a national celebration of after-school programs.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/111/hconres/194?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-27",
+            "latestAction": {
+                "actionDate": "2009-04-28",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "110",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Supporting the goals and ideals of National Celiac Awareness Month, and for other purposes.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/111/hconres/110?format=json"
+        },
+        {
+            "amendmentNumber": "367",
+            "congress": 110,
+            "introducedDate": "2007-06-21",
+            "latestAction": {
+                "actionDate": "2007-06-21",
+                "actionTime": "18:25:17",
+                "text": "On agreeing to the Lowey amendment (A017) Agreed to by recorded vote: 223 - 201 (Roll no. 533). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/hamdt/367?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-09-26",
+            "latestAction": {
+                "actionDate": "2008-09-26",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "7155",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Guard and Reserve Financial Stability Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/7155?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-07-31",
+            "latestAction": {
+                "actionDate": "2008-07-31",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "6749",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Economic Credit Opportunity for Businesses Acting Green Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6749?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-07-31",
+            "latestAction": {
+                "actionDate": "2008-09-29",
+                "text": "Referred to the Subcommittee on Emergency Communications, Preparedness, and Response."
+            },
+            "number": "6748",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "To amend the Homeland Security Act of 2002 to limit the number of Urban Area Security Initiative grants awarded and to clarify the risk assessment formula to be used when making such grants, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6748?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-06-20",
+            "latestAction": {
+                "actionDate": "2008-08-12",
+                "text": "Became Public Law No: 110-311."
+            },
+            "number": "6340",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To designate the Federal building and United States courthouse located at 300 Quarropas Street in White Plains, New York, as the \"Charles L. Brieant, Jr., Federal Building and United States Courthouse\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6340?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-06-12",
+            "latestAction": {
+                "actionDate": "2008-06-12",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "6265",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To designate the facility of the United States Postal Service located at 41 Purdy Avenue in Rye, New York, as the \"Caroline O'Day Post Office Building\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6265?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-04-24",
+            "latestAction": {
+                "actionDate": "2008-06-19",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+            },
+            "number": "5909",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "COVERT Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/5909?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-06",
+            "latestAction": {
+                "actionDate": "2008-04-25",
+                "text": "Referred to the Subcommittee on Horticulture and Organic Agriculture."
+            },
+            "number": "4331",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Attacking Viral Influenza Across Nations Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4331?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-06",
+            "latestAction": {
+                "actionDate": "2007-12-10",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4330",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend part B of title XVIII of the Social Security Act to repeal the income-related increase in part B premiums that was enacted as part of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108-173).",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4330?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-11-15",
+            "latestAction": {
+                "actionDate": "2007-11-15",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "4234",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Food Ingredient Right to Know Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4234?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-11-15",
+            "latestAction": {
+                "actionDate": "2007-11-15",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "4233",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Food Freshness Disclosure Act of 2007",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4233?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-11-15",
+            "latestAction": {
+                "actionDate": "2007-11-15",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4235",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Estate Tax Reduction Act of 2007",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4235?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-11-13",
+            "latestAction": {
+                "actionDate": "2008-02-25",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "4163",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Zero Tolerance School Terror Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4163?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-08-03",
+            "latestAction": {
+                "actionDate": "2007-09-25",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "3423",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "United States Cadet Nurse Corps Equity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3423?format=json"
+        }
+    ]
+}

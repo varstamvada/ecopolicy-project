@@ -1,0 +1,102 @@
+{
+    "pagination": {
+        "count": 6
+    },
+    "request": {
+        "bioguideId": "t000405",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 103,
+            "introducedDate": "1993-10-06",
+            "latestAction": {
+                "actionDate": "1993-10-06",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3231",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to permit tax-exempt financing of certain transportation facilities.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3231?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-09-15",
+            "latestAction": {
+                "actionDate": "1993-09-20",
+                "text": "Executive Comment Requested from Navy."
+            },
+            "number": "3092",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To provide for the conveyance of real property located at the Naval Housing Cabrillo Site, Long Beach, California, to the California State University, Long Beach Foundation.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3092?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-08-05",
+            "latestAction": {
+                "actionDate": "1994-03-03",
+                "text": "See H.R.3948."
+            },
+            "number": "2905",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Coastal Cities Clean Water Initiative of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2905?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-08-05",
+            "latestAction": {
+                "actionDate": "1993-08-05",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2906",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Adopt-A-School Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2906?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-04-19",
+            "latestAction": {
+                "actionDate": "1994-05-04",
+                "text": "Received in the Senate and read twice and referred to the Committee on Judiciary."
+            },
+            "number": "357",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Designating the week beginning February 12, 1995, as \"National Random Acts of Kindness Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/357?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-02-09",
+            "latestAction": {
+                "actionDate": "1994-02-23",
+                "text": "Sponsor introductory remarks on measure. (CR H564)"
+            },
+            "number": "355",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Expressing the sense of the House of Representatives that the people of the United States should be encouraged to practice random acts of kindness.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/103/hres/355?format=json"
+        }
+    ]
+}

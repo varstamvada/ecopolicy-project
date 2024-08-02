@@ -1,0 +1,3670 @@
+{
+    "pagination": {
+        "count": 470,
+        "next": "https://api.congress.gov/v3/member/B001149/sponsored-legislation?offset=250&limit=250&format=json"
+    },
+    "request": {
+        "bioguideId": "b001149",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "212",
+            "congress": 102,
+            "introducedDate": "1991-06-25",
+            "latestAction": {
+                "actionDate": "1991-06-25",
+                "actionTime": "13:35:46",
+                "text": "On agreeing to the Burton amendment (A003) Failed by recorded vote: 104 - 318 (Roll no. 190). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/212?format=json"
+        },
+        {
+            "amendmentNumber": "214",
+            "congress": 102,
+            "introducedDate": "1991-06-25",
+            "latestAction": {
+                "actionDate": "1991-06-25",
+                "actionTime": "14:43:15",
+                "text": "On agreeing to the Burton amendment (A005) Failed by recorded vote: 92 - 323 (Roll no. 191). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/214?format=json"
+        },
+        {
+            "amendmentNumber": "39",
+            "congress": 112,
+            "introducedDate": "2011-02-16",
+            "latestAction": {
+                "actionDate": "2011-02-16",
+                "actionTime": "15:03:36",
+                "text": "On agreeing to the Burton (IN) amendment (A029) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/39?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-12-12",
+            "latestAction": {
+                "actionDate": "2012-12-12",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "6650",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend title 39, United States Code, to allow the United States Postal Service to provide nonpostal services, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6650?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5024",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on Benfluralin.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5024?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5023",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on Acetic Acid, 5 Chloro-8-quinolinoxy, 1 Methylhexylester.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5023?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5027",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on mixed isomers of 1,3-dichloropropene.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5027?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5026",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on 4,4-Dimethoxy-2-butanone.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5026?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5025",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on trifluralin.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5025?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5019",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on Gallery.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5019?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5020",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on mixtures of fungicide.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5020?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5021",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on myclobutanil.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5021?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5022",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on (R)-(+)-2-(4 hydroxyphenoxy)propionic acid.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5022?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5013",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on Tebuthiuron.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5013?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5014",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on 4 Ethoxy 1,1,1 trifluoro 3 butene-2-one.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5014?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5015",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on Ethalfluralin.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5015?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5016",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on 2 Chloro 1 (3 ethoxy 4 nitrophenoxy) 4 (trifluoromethyl) Benzene.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5016?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5017",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on Dichlormid.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5017?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5018",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on Propiconazole.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5018?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5009",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on 1,3-Dimethyl-2-imidazolidinone.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5009?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5010",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on 2-Amino-5,7-dimethoxy-1,2,4-triazolo[1,5-a]pyrimidine.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5010?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5011",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on a Formulated product containing Propyzamide as the active ingredient.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5011?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5012",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on MCPA-2-ethylhexyl.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5012?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "4999",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary reduction of duty on DMDS.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/4999?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5001",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on Quintec.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5001?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5000",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary reduction of duty on methoxyfenozide.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5000?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5002",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on Benzamide, N[[[3,5 Dichloro-2-fluoro-4-1,1,2,3,3,3-hexafluoropropoxy)phenyl] amino]carbonyl] 2,6 difluoro - (9Cl).",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5002?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5003",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on Dimethyl malonate.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5003?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5004",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on diphenyl sulfide.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5004?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5005",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on 2,6-Dichloroaniline.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5005?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5006",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on DEPCT.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5006?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5007",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on 2 methoxy-4-trifluoromethylpyridine.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5007?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5008",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on fenbuconazole.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5008?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "4997",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend and modify the temporary suspension of duty on 2-Cyanopyridine.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/4997?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "4998",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary reduction of duty on DAT intermediate.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/4998?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "4996",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on quinoline.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/4996?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-11-18",
+            "latestAction": {
+                "actionDate": "2011-11-18",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3489",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "White House Conference on Autism Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3489?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-11-04",
+            "latestAction": {
+                "actionDate": "2011-11-04",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3380",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Dietary Supplement Protection Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3380?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-09-19",
+            "latestAction": {
+                "actionDate": "2011-10-04",
+                "text": "Referred to the Subcommittee on Livestock, Dairy, and Poultry."
+            },
+            "number": "2966",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "American Horse Slaughter Prevention Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2966?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-08-01",
+            "latestAction": {
+                "actionDate": "2011-08-05",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2736",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Access to Medical Treatment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2736?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-08-01",
+            "latestAction": {
+                "actionDate": "2011-08-01",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "2737",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Kaytlynn Noggle Federal Life Insurance Equity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2737?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-06-13",
+            "latestAction": {
+                "actionDate": "2011-06-24",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "2148",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Disabled Veterans Commissary and Exchange Store Benefits Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2148?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-05-26",
+            "latestAction": {
+                "actionDate": "2011-07-11",
+                "text": "Referred to the Subcommittee on the Constitution."
+            },
+            "number": "2023",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Veterans' Memorials, Boy Scouts, Public Seals, and Other Public Expressions of Religion Protection Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2023?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-03-10",
+            "latestAction": {
+                "actionDate": "2011-03-29",
+                "text": "Referred to the Subcommittee on Middle East and South Asia ."
+            },
+            "number": "1006",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Jerusalem Embassy and Recognition Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1006?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-03-02",
+            "latestAction": {
+                "actionDate": "2011-03-21",
+                "text": "Referred to the Subcommittee on the Constitution."
+            },
+            "number": "875",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Marriage Protection Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/875?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-01-05",
+            "latestAction": {
+                "actionDate": "2011-02-25",
+                "text": "Referred to the Subcommittee on Health, Employment, Labor, and Pensions."
+            },
+            "number": "105",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Empowering Patients First Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/105?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-09-20",
+            "latestAction": {
+                "actionDate": "2011-09-20",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "407",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Expressing support for designation of September 2011 as National Ovarian Cancer Awareness Month.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/407?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-01-24",
+            "latestAction": {
+                "actionDate": "2011-01-24",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "50",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for enclosing the visitors' galleries of the House of Representatives with a clear and bomb-proof material.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/50?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-01-19",
+            "latestAction": {
+                "actionDate": "2011-09-01",
+                "text": "Recalled by full committee."
+            },
+            "number": "44",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Expressing the sense of the House of Representatives that an effective moratorium by the Executive Branch on offshore oil and gas exploration and drilling should be terminated.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/44?format=json"
+        },
+        {
+            "amendmentNumber": "1083",
+            "congress": 109,
+            "introducedDate": "2006-06-27",
+            "latestAction": {
+                "actionDate": "2006-06-27",
+                "actionTime": "14:38:52",
+                "text": "On agreeing to the Burton (IN) amendment (A002) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/1083?format=json"
+        },
+        {
+            "amendmentNumber": "757",
+            "congress": 109,
+            "introducedDate": "2006-03-29",
+            "latestAction": {
+                "actionDate": "2006-03-29",
+                "actionTime": "18:24:48",
+                "text": "On agreeing to the Burton (IN) amendment (A007) Failed by recorded vote: 120 - 306 (Roll no. 72). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/757?format=json"
+        },
+        {
+            "amendmentNumber": "708",
+            "congress": 109,
+            "introducedDate": "2006-03-15",
+            "latestAction": {
+                "actionDate": "2006-03-16",
+                "actionTime": "10:56:50",
+                "text": "On agreeing to the Burton (IN) amendment (A008) Agreed to by recorded vote: 250 - 172 (Roll no. 45). (consideration: CR H1067-1068; text: CR H1067)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/708?format=json"
+        },
+        {
+            "amendmentNumber": "459",
+            "congress": 109,
+            "introducedDate": "2005-07-19",
+            "latestAction": {
+                "actionDate": "2005-07-19",
+                "actionTime": "15:05:08",
+                "text": "On agreeing to the Burton (IN) amendment (A006) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/459?format=json"
+        },
+        {
+            "amendmentNumber": "469",
+            "congress": 109,
+            "introducedDate": "2005-07-19",
+            "latestAction": {
+                "actionDate": "2005-07-19",
+                "actionTime": "16:30:09",
+                "text": "On agreeing to the Burton (IN) amendment (A016) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/469?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-09-28",
+            "latestAction": {
+                "actionDate": "2006-11-02",
+                "text": "Referred to the Subcommittee on Select Education."
+            },
+            "number": "6234",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Get Information on Financial Transactions Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/6234?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-09-25",
+            "latestAction": {
+                "actionDate": "2006-09-25",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "6170",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to modify and make permanent the deduction for qualified tuition and related expenses.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/6170?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-23",
+            "latestAction": {
+                "actionDate": "2006-07-14",
+                "text": "Referred to the Subcommittee on Education Reform."
+            },
+            "number": "5456",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Illegal Immigration Crisis Response Act of 2006",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/5456?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-03-01",
+            "latestAction": {
+                "actionDate": "2006-03-17",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4829",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Reducing Fraudulent and Imitation Drugs Act of 2006",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4829?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-10-06",
+            "latestAction": {
+                "actionDate": "2005-10-06",
+                "text": "Referred to the Committee on House Administration, and in addition to the Committee on Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "3979",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To suspend temporarily the provisions of title 5, United States Code, relating to the mandatory separation of members of the Capitol Police by reason of age or years of service.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3979?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-06-08",
+            "latestAction": {
+                "actionDate": "2005-06-17",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2792",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Access to Medical Treatment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/2792?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-05-19",
+            "latestAction": {
+                "actionDate": "2005-05-19",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2486",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Dietary Supplement Tax Fairness Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/2486?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-05-19",
+            "latestAction": {
+                "actionDate": "2005-06-03",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2485",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "DSHEA Full Implementation and Enforcement Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/2485?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-05-12",
+            "latestAction": {
+                "actionDate": "2005-05-13",
+                "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management."
+            },
+            "number": "2333",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To redesignate the Federal building located at 935 Pennsylvania Avenue Northwest in the District of Columbia as the \"Federal Bureau of Investigation Building\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/2333?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-03-16",
+            "latestAction": {
+                "actionDate": "2005-03-16",
+                "text": "Referred to the Committee on House Administration, and in addition to the Committee on Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "1335",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend title 5, United States Code, to increase the mandatory retirement age for members of the Capitol Police from 57 to 60 years of age.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1335?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-03-15",
+            "latestAction": {
+                "actionDate": "2005-03-22",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "1297",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "National Vaccine Injury Compensation Program Improvement Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1297?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-12-08",
+            "latestAction": {
+                "actionDate": "2006-12-08",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "1109",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Honoring Physicians for Peace for its efforts to foster peace and diplomacy throughout the world, and paying tribute to the life and achievements of its founder, Dr. Charles E. Horton, on the occasion of his death.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/1109?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-11-14",
+            "latestAction": {
+                "actionDate": "2006-11-14",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "1081",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sympathy of House of Representatives to the families of women and girls murdered in Guatemala and encouraging the Government of Guatemala to bring an end to these crimes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/1081?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-25",
+            "latestAction": {
+                "actionDate": "2006-04-25",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "775",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Commending the Community of Sant'Egidio for their extensive charity and generosity on behalf of the poor throughout the world.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/775?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-11-17",
+            "latestAction": {
+                "actionDate": "2005-12-01",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "561",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Commending the outstanding efforts by members of the United States Armed Forces and civilian employees of the Department of State and the United States Agency for International Development in response to the earthquake in South Asia that occurred on October 8, 2005.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/561?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-03-17",
+            "latestAction": {
+                "actionDate": "2005-04-07",
+                "text": "Referred to the Subcommittee on Europe and Emerging Threats."
+            },
+            "number": "172",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the condemnation of the House of Representatives on the one year anniversary of ethnic violence in Kosovo that occurred on March 17 and 18, 2004, and expressing condolences to the families of individuals who were killed or injured.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/172?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-19",
+            "latestAction": {
+                "actionDate": "2006-06-29",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 508."
+            },
+            "number": "408",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Commending the Government of Canada for its renewed commitment to the Global War on Terror in Afghanistan.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/109/hconres/408?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-11",
+            "latestAction": {
+                "actionDate": "2006-07-27",
+                "text": "Received in the Senate and referred to the Committee on Foreign Relations."
+            },
+            "number": "400",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of Congress that the Government of Venezuela should actively support strategies for ensuring secure airport facilities that meet international certifications to prevent trafficking of controlled substances, narcotics, and laundered money.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/109/hconres/400?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-10-27",
+            "latestAction": {
+                "actionDate": "2005-12-12",
+                "text": "Received in the Senate and referred to the Committee on Foreign Relations."
+            },
+            "number": "280",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Mourning the horrific loss of life caused by the floods and mudslides that occurred in October 2005 in Central America and Mexico and expressing the sense of Congress that the United States should do everything possible to assist the affected people and communities.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/109/hconres/280?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-09-27",
+            "latestAction": {
+                "actionDate": "2006-01-27",
+                "text": "Referred to the Committee on Foreign Relations."
+            },
+            "number": "252",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of Congress that the Government of the United States should support democracy, the rule of law, and human rights in the Republic of Nicaragua and work cooperatively with regional and international organizations to bolster Nicaraguan efforts to establish the requisite conditions for free, fair, transparent, and inclusive presidential and legislative elections in 2006.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/109/hconres/252?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-05-17",
+            "latestAction": {
+                "actionDate": "2005-05-17",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "154",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of Congress that Taiwan should be accorded full and equal membership in the World Health Organization (WHO) and other international organizations.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/109/hconres/154?format=json"
+        },
+        {
+            "amendmentNumber": "622",
+            "congress": 111,
+            "introducedDate": "2010-04-29",
+            "latestAction": {
+                "actionDate": "2010-04-29",
+                "actionTime": "17:51:44",
+                "text": "On agreeing to the Burton (IN) amendment (A004) Agreed to by recorded vote: 301 - 100 (Roll no. 237). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/hamdt/622?format=json"
+        },
+        {
+            "amendmentNumber": "580",
+            "congress": 111,
+            "introducedDate": "2010-02-25",
+            "latestAction": {
+                "actionDate": "2010-02-25",
+                "actionTime": "15:52:34",
+                "text": "On agreeing to the Burton (IN) amendment (A008) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/hamdt/580?format=json"
+        },
+        {
+            "amendmentNumber": "371",
+            "congress": 111,
+            "introducedDate": "2009-07-23",
+            "latestAction": {
+                "actionDate": "2009-07-23",
+                "actionTime": "14:57:57",
+                "text": "On agreeing to the Burton (IN) amendment (A009) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/hamdt/371?format=json"
+        },
+        {
+            "amendmentNumber": "227",
+            "congress": 111,
+            "introducedDate": "2009-06-18",
+            "latestAction": {
+                "actionDate": "2009-06-18",
+                "actionTime": "14:47:22",
+                "text": "On agreeing to the Burton (IN) amendment (A017) Agreed to by the Yeas and Nays: 251 - 168 (Roll no. 383). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/hamdt/227?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-07-20",
+            "latestAction": {
+                "actionDate": "2010-07-26",
+                "text": "Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law."
+            },
+            "number": "5796",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Putting an End to Sanctuary Cities Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5796?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-04-13",
+            "latestAction": {
+                "actionDate": "2010-06-15",
+                "text": "Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law."
+            },
+            "number": "5002",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "No Sanctuary for Illegals Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5002?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-03-22",
+            "latestAction": {
+                "actionDate": "2010-04-30",
+                "text": "Referred to the Subcommittee on Health, Employment, Labor, and Pensions."
+            },
+            "number": "4910",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To repeal the Patient Protection and Affordable Care Act and enact the Empowering Patients First Act in order to provide incentives to encourage health insurance coverage.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4910?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-03-11",
+            "latestAction": {
+                "actionDate": "2010-03-11",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "4821",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Kaytlynn Noggle Federal Life Insurance Equity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4821?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-03-04",
+            "latestAction": {
+                "actionDate": "2010-03-04",
+                "text": "Referred to House Oversight and Government Reform"
+            },
+            "number": "4762",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Congressional Pay Cut for Debt Reduction Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4762?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-01",
+            "latestAction": {
+                "actionDate": "2009-10-02",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3703",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "White House Conference on Autism Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/3703?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-07-30",
+            "latestAction": {
+                "actionDate": "2009-07-31",
+                "text": "Sponsor introductory remarks on measure. (CR E2106)"
+            },
+            "number": "3412",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Jerusalem Embassy and Recognition Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/3412?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-07-20",
+            "latestAction": {
+                "actionDate": "2009-07-21",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3261",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Access to Medical Treatment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/3261?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-07-20",
+            "latestAction": {
+                "actionDate": "2009-07-20",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3263",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Dietary Supplement Tax Fairness Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/3263?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-07-20",
+            "latestAction": {
+                "actionDate": "2009-07-21",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3262",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "DSHEA Full Implementation and Enforcement Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/3262?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-06-24",
+            "latestAction": {
+                "actionDate": "2009-06-24",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "3016",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To prohibit the use of certain funds to host Iranian officials for Independence Day celebrations, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/3016?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-06-02",
+            "latestAction": {
+                "actionDate": "2009-06-02",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2655",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to expand and extend the first-time homebuyer credit.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2655?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-05-18",
+            "latestAction": {
+                "actionDate": "2009-05-19",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2459",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "National Vaccine Injury Compensation Program Improvement Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2459?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-05-05",
+            "latestAction": {
+                "actionDate": "2009-05-22",
+                "text": "Referred to the Subcommittee on Readiness."
+            },
+            "number": "2250",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Energy Independence Now Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2250?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-22",
+            "latestAction": {
+                "actionDate": "2009-05-26",
+                "text": "Referred to the Subcommittee on Commercial and Administrative Law."
+            },
+            "number": "2032",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Savannah's Law",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2032?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-03-31",
+            "latestAction": {
+                "actionDate": "2009-04-27",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "1818",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Disabled Veterans Commissary and Exchange Store Benefits Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1818?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-03-04",
+            "latestAction": {
+                "actionDate": "2009-08-19",
+                "text": "Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties."
+            },
+            "number": "1300",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Veterans' Memorials, Boy Scouts, Public Seals, and Other Public Expressions of Religion Protection Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1300?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-03-03",
+            "latestAction": {
+                "actionDate": "2009-03-16",
+                "text": "Referred to the Subcommittee on Courts and Competition Policy."
+            },
+            "number": "1269",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Marriage Protection Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1269?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-01-09",
+            "latestAction": {
+                "actionDate": "2009-01-09",
+                "text": "Referred to House Oversight and Government Reform"
+            },
+            "number": "395",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Stop the Congressional COLA Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/395?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-11-29",
+            "latestAction": {
+                "actionDate": "2010-11-29",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "1738",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing condolences to the people and Government of the Republic of China (Taiwan) and the people and Government of the Republic of the Philippines in the aftermath of Super Typhoon Megi which struck in October 2010.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/1738?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-07-29",
+            "latestAction": {
+                "actionDate": "2010-12-02",
+                "actionTime": "12:21:15",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "1576",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Expressing the sense of the House of Representatives that a National Day of Recognition for Parents of Special Needs Children should be established.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/1576?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-03-25",
+            "latestAction": {
+                "actionDate": "2010-04-23",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "1229",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Expressing the sense of the House of Representatives that the President should overturn the policy that prohibits sending a presidential letter of condolence to the family of a member of the Armed Forces who has died by suicide.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/1229?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-15",
+            "latestAction": {
+                "actionDate": "2009-10-15",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "840",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Condemning continuing violations of religious freedom in the Middle East, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/840?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-07",
+            "latestAction": {
+                "actionDate": "2009-10-14",
+                "actionTime": "12:06:40",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "810",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing condolences to the citizens of Indonesia and support for the Government of Indonesia in the aftermath of the devastating earthquake that struck the island of Sumatra.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/810?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-06-24",
+            "latestAction": {
+                "actionDate": "2009-06-24",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "579",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing support for all Iranian citizens who embrace the values of freedom, human rights, civil liberties, and rule of law, and rescinding the invitation to Iranian officials to attend July 4th celebrations at United States embassies and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/579?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-05-20",
+            "latestAction": {
+                "actionDate": "2009-07-15",
+                "text": "Motion to Discharge Committee filed by Mr. Burton (IN). Petition No: 111-4. (<a href=\"http://clerk.house.gov/111/lrc/pd/Petitions/Dis4.htm\">Discharge petition</a> text with signatures.)"
+            },
+            "number": "460",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the bill (H.R. 2194) to amend the Iran Sanctions Act of 1996 to enhance United States diplomatic efforts with respect to Iran by expanding economic sanctions against Iran.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/460?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-01-21",
+            "latestAction": {
+                "actionDate": "2009-04-28",
+                "actionTime": "14:25:51",
+                "text": "The title of the measure was amended. Agreed to without objection."
+            },
+            "number": "76",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution mourning the horrific loss of life in January 2009 caused by a landslide in Guatemala and an earthquake in Costa Rica.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/76?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-07-17",
+            "latestAction": {
+                "actionDate": "2008-08-04",
+                "text": "Referred to the Subcommittee on Readiness."
+            },
+            "number": "6544",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Relief Now on the Road to Renewable Energy Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6544?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-06-26",
+            "latestAction": {
+                "actionDate": "2008-06-26",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "6391",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "National Vaccine Injury Compensation Program Improvement Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6391?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-02-26",
+            "latestAction": {
+                "actionDate": "2008-03-17",
+                "text": "Referred to the Subcommittee on Commercial and Administrative Law."
+            },
+            "number": "5494",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Savannah's Law",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/5494?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-02-14",
+            "latestAction": {
+                "actionDate": "2008-03-17",
+                "text": "Referred to the Subcommittee on Commercial and Administrative Law."
+            },
+            "number": "5455",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "To amend title 11 of the United States Code to make nondischargeable debts for personal injuries that result in permanent disability.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/5455?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-01-22",
+            "latestAction": {
+                "actionDate": "2008-01-22",
+                "text": "Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "5091",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Members of Congress Personal Fiscal Responsibility Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/5091?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4406",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on 3, 4-Dichlorobenzonitrile.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4406?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4401",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on 2-Propenoic acid, polymer.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4401?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4410",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on Tebuthiuron.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4410?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4402",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on methyl hydroxyethyl cellulose.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4402?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4403",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary duty suspension on methyl hydroxyethyl cellulose products.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4403?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4405",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on 2-Phenylphenol.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4405?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4404",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on 1,2-Benzenedicarboxaldehyde.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4404?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4409",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on Dimethyl Malonate.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4409?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4408",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on 2,6-Dichloroaniline.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4408?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4400",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on diiodomethyl-p-tolylsulfone.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4400?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4407",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on DEPCT.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4407?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4395",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend and modify the temporary suspension of duty on Trifluralin.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4395?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4387",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on Ethalfluralin.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4387?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4391",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on Propiconazole.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4391?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4394",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on mixed isomers of 1,3-dichloropropene.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4394?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4397",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on -Bromo- -nitrostyrene.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4397?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4399",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on mixtures of insecticide.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4399?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4389",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on Quintec.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4389?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4393",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend and modify the temporary suspension of duty on Methoxyfenozide.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4393?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4392",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend and modify the temporary suspension of duty on Myclobutanil.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4392?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4396",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on 1,2-Benzisothiazol-3(2H)-one (9Cl).",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4396?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4390",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on Quinoline.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4390?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4388",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on Tebufenozide.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4388?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4398",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To amend the Harmonized Tariff Schedule of the United States to clarify and extend the temporary duty reduction on cellulose nitrate.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4398?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4377",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on Benfluralin.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4377?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4380",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on DCBTF.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4380?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4378",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on DMDS.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4378?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4383",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on MCPA acid.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4383?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4386",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on Fenbuconazole.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4386?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4376",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the suspension of duty on Styrene, ar-ethyl-, polymer with divinylbenzene and styrene beads with low ash.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4376?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4375",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend and modify the temporary suspension of duty on 2-Cyanopyridine.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4375?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4385",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on isoxaben.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4385?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4379",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on 1,3-Dimethyl-2-imidazolidinone.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4379?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4381",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on mixtures of fungicide.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4381?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4382",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on MCPA ester.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4382?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4374",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on 2-Phenylphenol sodium salt.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4374?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4384",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on Halofenozide.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4384?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4372",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend and modify the temporary suspension of duty on ADTP.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4372?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4370",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on 4,4-Dimethoxy-2-butanone.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4370?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4369",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on diphenyl sulfide.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4369?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4371",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on 3-Amino-5-mercapto-1,2,4-triazole.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4371?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4373",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend and modify the temporary suspension of duty on Cyhalofop.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4373?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-09-24",
+            "latestAction": {
+                "actionDate": "2007-10-12",
+                "text": "Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law."
+            },
+            "number": "3638",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Border Security and Elimination of Sanctuary for Illegal Aliens Act of 2007",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3638?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-09-17",
+            "latestAction": {
+                "actionDate": "2007-10-12",
+                "text": "Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law."
+            },
+            "number": "3549",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "No Sanctuary for Illegals Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3549?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-06-28",
+            "latestAction": {
+                "actionDate": "2007-06-28",
+                "text": "Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "2916",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Members of Congress Personal Fiscal Responsibility Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/2916?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-06-14",
+            "latestAction": {
+                "actionDate": "2007-06-14",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2719",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Dietary Supplement Tax Fairness Act of 2007",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/2719?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-06-14",
+            "latestAction": {
+                "actionDate": "2007-06-14",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2717",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Access to Medical Treatment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/2717?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-06-14",
+            "latestAction": {
+                "actionDate": "2007-06-14",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2718",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "DSHEA Full Implementation and Enforcement Act of 2007",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/2718?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-06-14",
+            "latestAction": {
+                "actionDate": "2007-06-14",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2716",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Reducing Fraudulent and Imitation Drugs Act of 2007",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/2716?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-05-24",
+            "latestAction": {
+                "actionDate": "2007-06-28",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "2495",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Disabled Veterans Commissary and Exchange Store Benefits Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/2495?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-03-09",
+            "latestAction": {
+                "actionDate": "2007-03-09",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1437",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to modify and make permanent the deduction for qualified tuition and related expenses.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/1437?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-01-30",
+            "latestAction": {
+                "actionDate": "2007-03-01",
+                "text": "Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties."
+            },
+            "number": "725",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Veterans' Memorials, Boy Scouts, Public Seals, and Other Public Expressions of Religion Protection Act of 2007",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/725?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-01-30",
+            "latestAction": {
+                "actionDate": "2007-03-01",
+                "text": "Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties."
+            },
+            "number": "724",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Marriage Protection Act of 2007",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/724?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-09-23",
+            "latestAction": {
+                "actionDate": "2008-09-23",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "1483",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Regarding the recent decision by the President to declare Venezuela and Bolivia as nations that have \"failed demonstrably\" to meet their international commitments to combat the production and trafficking of illicit drugs.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/1483?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-09-16",
+            "latestAction": {
+                "actionDate": "2008-09-16",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "1442",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Supporting and congratulating the people of Serbia on the formation of a new coalition government.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/1442?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-17",
+            "latestAction": {
+                "actionDate": "2007-12-17",
+                "actionTime": "19:21:21",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "880",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Expressing the condolences of the House of Representatives on the death of the Honorable Julia Carson, a Representative of the State of Indiana.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/880?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-05-23",
+            "latestAction": {
+                "actionDate": "2007-05-23",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "432",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for enclosing the visitors' galleries of the House of Representatives with a transparent and substantial material.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/432?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-07-06",
+            "latestAction": {
+                "actionDate": "2004-07-19",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4760",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "DSHEA Full Implementation and Enforcement Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/4760?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-11-14",
+            "latestAction": {
+                "actionDate": "2003-12-17",
+                "text": "Referred to the Subcommittee on Total Force."
+            },
+            "number": "3489",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To authorize the appointment of Brigadier General Charles E. Yeager, United States Air Force (Retired), to the grade of major general on the retired list.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3489?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-10-17",
+            "latestAction": {
+                "actionDate": "2003-11-03",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3332",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare Safety Net Prescription Drug Coverage Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3332?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-06-26",
+            "latestAction": {
+                "actionDate": "2003-06-26",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2627",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Dietary Supplement Tax Fairness Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2627?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-06-19",
+            "latestAction": {
+                "actionDate": "2003-06-20",
+                "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management."
+            },
+            "number": "2524",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To redesignate the Federal building located at 935 Pennsylvania Avenue Northwest in the District of Columbia as the \"Federal Bureau of Investigation Building\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2524?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-03-19",
+            "latestAction": {
+                "actionDate": "2003-03-24",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "1349",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "National Vaccine Injury Compensation Program Improvement Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/1349?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-01-08",
+            "latestAction": {
+                "actionDate": "2003-02-03",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "237",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To repeal certain amendments to the National Vaccine Injury Compensation Program.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/237?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-09-13",
+            "latestAction": {
+                "actionDate": "2004-09-22",
+                "actionTime": "17:47:34",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "767",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Condemning the terrorist attack in Jakarta, Indonesia, that occurred on September 9, 2004.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/767?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-07-22",
+            "latestAction": {
+                "actionDate": "2004-07-22",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "744",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Congratulating the people and Government of the Republic of Indonesia on successfully completing elections for national, provincial, and regional parliamentary representatives, and praising the growth of democracy in Indonesia.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/744?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-06-08",
+            "latestAction": {
+                "actionDate": "2004-06-08",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "665",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for enclosing the visitors' galleries of the House of Representatives with a transparent and substantial material.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/665?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-06-08",
+            "latestAction": {
+                "actionDate": "2004-06-08",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "666",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Congratulating the people and Government of the Republic of Indonesia on successfully completing elections for national, provincial, and regional parliamentary representatives, and praising the growing friendship between the United States and Indonesia.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/666?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-04-02",
+            "latestAction": {
+                "actionDate": "2004-04-02",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "596",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Condemning ethnic violence in Kosovo.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/596?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-10-16",
+            "latestAction": {
+                "actionDate": "2004-05-06",
+                "actionTime": "13:18:10",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "402",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of the House of Representatives regarding the urgent need for freedom, democratic reform, and international monitoring of elections, human rights, and religious liberty in the Lao People's Democratic Republic.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/402?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-09-16",
+            "latestAction": {
+                "actionDate": "2003-09-16",
+                "actionTime": "15:58:48",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "369",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Expressing the profound sorrow of the House of Representatives for the death of Indiana Governor Frank O'Bannon and extending thoughts, prayers, and condolences to his family, friends, and loved ones.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/369?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-09-10",
+            "latestAction": {
+                "actionDate": "2003-10-09",
+                "text": "Referred to the Subcommittee on Civil Service and Agency Organization."
+            },
+            "number": "365",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Extending the thoughts and prayers of the House of Representatives to Governor Frank O'Bannon of Indiana, his wife Judy, and his family and friends, and expressing hope for a full recovery from the stroke he suffered on September 8, 2003.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/365?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-02-25",
+            "latestAction": {
+                "actionDate": "2003-02-25",
+                "actionTime": "18:30:21",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "98",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Designating majority membership on certain standing committees of the House.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/98?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-11-13",
+            "latestAction": {
+                "actionDate": "2002-11-13",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "5715",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "To amend the Immigration and Nationality Act to render inadmissible to the United States the extended family of international child abductors, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5715?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-07-25",
+            "latestAction": {
+                "actionDate": "2002-07-26",
+                "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management."
+            },
+            "number": "5213",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To redesignate the Federal building located at 935 Pennsylvania Avenue Northwest in the District of Columbia as the \"Federal Bureau of Investigation Building\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5213?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-07-16",
+            "latestAction": {
+                "actionDate": "2002-08-20",
+                "text": "Referred to the Subcommittee on the Constitution."
+            },
+            "number": "5131",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Clemency Lobbying Disclosure Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5131?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-05-09",
+            "latestAction": {
+                "actionDate": "2002-05-09",
+                "text": "Referred to the House Committee on Government Reform."
+            },
+            "number": "4694",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal Emergency Procurement Flexibility Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4694?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-03-11",
+            "latestAction": {
+                "actionDate": "2002-04-10",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Governmental Affairs."
+            },
+            "number": "3921",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Acquisition Streamlining Improvement Act ",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3921?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-03-07",
+            "latestAction": {
+                "actionDate": "2002-03-07",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3893",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to exclude from gross income amounts paid on behalf of Federal employees under Federal student loan repayment programs.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3893?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-03-05",
+            "latestAction": {
+                "actionDate": "2002-03-05",
+                "text": "Referred to the House Committee on Government Reform."
+            },
+            "number": "3843",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal Information Technology Work Force and Acquisition Improvement Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3843?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-02-13",
+            "latestAction": {
+                "actionDate": "2002-03-05",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3741",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "National  Vaccine Injury Compensation Program Improvement Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3741?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-12-12",
+            "latestAction": {
+                "actionDate": "2001-12-13",
+                "text": "Sponsor introductory remarks on measure. (CR E2288)"
+            },
+            "number": "3475",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Dietary Supplement Tax Fairness Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3475?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-10-04",
+            "latestAction": {
+                "actionDate": "2001-10-04",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3021",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "United States Defense of Freedom Bond Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3021?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-07-18",
+            "latestAction": {
+                "actionDate": "2001-07-30",
+                "text": "Referred to the Subcommittee on Government Efficiency, Financial Management and Intergovernmental Relations."
+            },
+            "number": "2547",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Erroneous Payments Recovery Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2547?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-07-11",
+            "latestAction": {
+                "actionDate": "2001-11-14",
+                "text": "Committee on Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably."
+            },
+            "number": "2456",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To provide that Federal employees may retain for personal use promotional items received as a result of travel taken in the course of employment.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2456?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-06-20",
+            "latestAction": {
+                "actionDate": "2001-06-20",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "2252",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Conduit Contribution Prevention Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2252?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-22",
+            "latestAction": {
+                "actionDate": "2001-03-22",
+                "text": "Referred to the House Committee on Government Reform."
+            },
+            "number": "1169",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend title 39, United States Code, with respect to \"cooperative mailings\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1169?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-14",
+            "latestAction": {
+                "actionDate": "2001-03-14",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "1019",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Conduit Contribution Prevention Act of 2001 ",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1019?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-02-07",
+            "latestAction": {
+                "actionDate": "2001-02-07",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "494",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Charitable Giving Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/494?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-01-31",
+            "latestAction": {
+                "actionDate": "2002-06-28",
+                "text": "Became Public Law No: 107-198."
+            },
+            "number": "327",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Small Business Paperwork Relief Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/327?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-09",
+            "latestAction": {
+                "actionDate": "2002-04-09",
+                "actionTime": "19:17:40",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "377",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Recognizing the Ellis Island Medal of Honor and commending the National Ethnic Coalition of Organizations.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/107/hres/377?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-03-14",
+            "latestAction": {
+                "actionDate": "2002-03-18",
+                "text": "Referred to the Subcommittee on Immigration and Claims."
+            },
+            "number": "370",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Recognizing the Ellis Island Medal of Honor and commending the National Ethnic Coalition of Organizations.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/107/hres/370?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-02-27",
+            "latestAction": {
+                "actionDate": "2001-02-27",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "64",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing amounts for the expenses of the Committee on Government Reform in the One Hundred Seventh Congress.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/107/hres/64?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-11-13",
+            "latestAction": {
+                "actionDate": "2002-11-13",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "516",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of Congress that United States diplomatic and consular missions should provide the full and complete protection of the United States to certain citizens of the United States living abroad.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/hconres/516?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-02-27",
+            "latestAction": {
+                "actionDate": "2001-03-14",
+                "text": "Referred to the Subcommittee on Commerce, Trade and Consumer Protection."
+            },
+            "number": "40",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Expressing the sense of the Congress that national news organizations should refrain from projecting the winner of a Presidential election until all of the polls in the Continental United States have closed.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/hconres/40?format=json"
+        },
+        {
+            "amendmentNumber": "1005",
+            "congress": 106,
+            "introducedDate": "2000-07-13",
+            "latestAction": {
+                "actionDate": "2000-07-13",
+                "actionTime": "14:34:58",
+                "text": "By unanimous consent, the Burton amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/1005?format=json"
+        },
+        {
+            "amendmentNumber": "977",
+            "congress": 106,
+            "introducedDate": "2000-07-11",
+            "latestAction": {
+                "actionDate": "2000-07-11",
+                "actionTime": "15:29:11",
+                "text": "On agreeing to the Burton amendment (A038) Failed by recorded vote: 168 - 253 (Roll no. 384). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/977?format=json"
+        },
+        {
+            "amendmentNumber": "981",
+            "congress": 106,
+            "introducedDate": "2000-07-12",
+            "latestAction": {
+                "actionDate": "2000-07-12",
+                "actionTime": "21:37:13",
+                "text": "By unanimous consent, the Burton amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/981?format=json"
+        },
+        {
+            "amendmentNumber": "588",
+            "congress": 106,
+            "introducedDate": "2000-03-08",
+            "latestAction": {
+                "actionDate": "2000-03-08",
+                "actionTime": "13:24:25",
+                "text": "On agreeing to the Burton amendment (A001) Agreed to by voice vote. (text: CR H720)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/588?format=json"
+        },
+        {
+            "amendmentNumber": "374",
+            "congress": 106,
+            "introducedDate": "1999-08-02",
+            "latestAction": {
+                "actionDate": "1999-08-02",
+                "actionTime": "21:36:32",
+                "text": "By unanimous consent, the Burton amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/374?format=json"
+        },
+        {
+            "amendmentNumber": "38",
+            "congress": 106,
+            "introducedDate": "1999-03-24",
+            "latestAction": {
+                "actionDate": "1999-03-24",
+                "actionTime": "17:24:33",
+                "text": "Mr. Young (FL) raised a point of order against the Burton amendment (A006). Mr. Young stated that the amendment sought to change existing law by constituting legislation in an appropriations bill. The Chair sustained the point of order. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/38?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-06-13",
+            "latestAction": {
+                "actionDate": "2000-10-13",
+                "text": "Became Public Law No: 106-303."
+            },
+            "number": "4642",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To make certain personnel flexibilities available with respect to the General Accounting Office, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4642?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-03-21",
+            "latestAction": {
+                "actionDate": "2000-03-21",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4044",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Charitable Giving Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4044?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-02-16",
+            "latestAction": {
+                "actionDate": "2000-12-15",
+                "text": "Sponsor introductory remarks on measure. (CR E2230-2231)"
+            },
+            "number": "3677",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Thomas Navarro FDA Patient Rights Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3677?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-11-10",
+            "latestAction": {
+                "actionDate": "1999-11-11",
+                "text": "Sponsor introductory remarks on measure. (CR E2347-2348)"
+            },
+            "number": "3306",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to provide that amounts paid for foods for special dietary use, dietary supplements, or medical foods shall be treated as medical expenses.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3306?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-11-10",
+            "latestAction": {
+                "actionDate": "1999-11-30",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "3305",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Dietary Supplement Fairness in Labeling and Advertising Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3305?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-11-10",
+            "latestAction": {
+                "actionDate": "1999-11-19",
+                "text": "Referred to the Subcommittee on Department Operations, Oversight, Nutrition and Forestry."
+            },
+            "number": "3304",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Food Stamp Vitamin and Mineral Improvement Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3304?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-14",
+            "latestAction": {
+                "actionDate": "1999-07-14",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2507",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Charitable Giving Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2507?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-01",
+            "latestAction": {
+                "actionDate": "1999-07-01",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "2422",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Cuban Drug-Trafficking Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2422?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-09",
+            "latestAction": {
+                "actionDate": "1999-06-24",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "2092",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Inclusion of Alternative Approaches in Cancer Research Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2092?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-09",
+            "latestAction": {
+                "actionDate": "1999-07-09",
+                "text": "Referred to the Subcommittee on Early Childhood, Youth and Families."
+            },
+            "number": "2093",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "National Youth Violence Commission Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2093?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-05-17",
+            "latestAction": {
+                "actionDate": "2000-03-09",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Governmental Affairs."
+            },
+            "number": "1827",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Government Waste Corrections Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1827?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-05-11",
+            "latestAction": {
+                "actionDate": "1999-05-11",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "1747",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Conduit Contribution Prevention Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1747?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-03-16",
+            "latestAction": {
+                "actionDate": "1999-03-25",
+                "text": "Referred to the Subcommittee on Crime."
+            },
+            "number": "1114",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "To amend part S of title I of the Omnibus Crime Control and Safe Streets Act of 1968 to permit the use of certain amounts for assistance to jail-based substance treatment programs, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1114?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-01-06",
+            "latestAction": {
+                "actionDate": "1999-01-06",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "19",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Caddie Relief Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/19?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-05-06",
+            "latestAction": {
+                "actionDate": "1999-05-06",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "162",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for enclosing the galleries of the House of Representatives with a transparent and substantial material.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/106/hres/162?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-12",
+            "latestAction": {
+                "actionDate": "1999-02-12",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "69",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing amounts for the expenses of the Committee on Government Reform in the One Hundred Sixth Congress.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/106/hres/69?format=json"
+        },
+        {
+            "amendmentNumber": "334",
+            "congress": 98,
+            "introducedDate": "1983-08-03",
+            "latestAction": {
+                "actionDate": "1983-08-03",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/334?format=json"
+        },
+        {
+            "amendmentNumber": "166",
+            "congress": 98,
+            "introducedDate": "1983-06-09",
+            "latestAction": {
+                "actionDate": "1983-06-09",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/166?format=json"
+        },
+        {
+            "amendmentNumber": "179",
+            "congress": 98,
+            "introducedDate": "1983-06-16",
+            "latestAction": {
+                "actionDate": "1983-06-16",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/179?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-10-02",
+            "latestAction": {
+                "actionDate": "1984-10-10",
+                "text": "Referred to Subcommittee on Health."
+            },
+            "number": "6357",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A bill to amend title XVIII of the Social Security Act to permit flexible billing and payment arrangements where a physician substitutes on an occasional basis for another physician in solo practice.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/6357?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-06-19",
+            "latestAction": {
+                "actionDate": "1984-06-27",
+                "text": "Referred to Subcommittee on Military Personnel and Compensation."
+            },
+            "number": "5889",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to amend section 1086 of title 10, United States Code, to delete the provision which excludes persons entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act from eligibility for health benefits under such section.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5889?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-03-07",
+            "latestAction": {
+                "actionDate": "1984-03-13",
+                "text": "Referred to Subcommittee on Domestic Marketing, Consumer Relations, and Nutrition."
+            },
+            "number": "5054",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to amend the Food Stamp Act of 1977 to require State agencies to carry out a workfare program applicable to households participating in the food stamp program.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5054?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-02-08",
+            "latestAction": {
+                "actionDate": "1984-02-16",
+                "text": "Referred to Subcommittee on Social Security."
+            },
+            "number": "4788",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Freedom of Choice Act of 1984",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4788?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-10-05",
+            "latestAction": {
+                "actionDate": "1983-10-12",
+                "text": "Referred to Subcommittee on Livestock, Dairy, and Poultry."
+            },
+            "number": "4079",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to repeal the National Wool Act of 1954, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4079?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-08-04",
+            "latestAction": {
+                "actionDate": "1983-11-03",
+                "text": "Executive Comment Received From NTSB."
+            },
+            "number": "3794",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to amend section 312(c) of the Federal Aviation Act of 1958, relating to research and development, to require the Secretary of Transportation to assure the development of a collision avoidance system for use on all civil and military aircraft of the United States in the interest of air safety.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/3794?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-08-04",
+            "latestAction": {
+                "actionDate": "1984-08-02",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3793",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to require commercial passenger-carrying aircraft to be equipped with comprehensive manually operated fire extinguishing systems to require newly built commercial passenger-carrying aircraft to be equipped with all available comprehensive fire protection technology, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/3793?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-08-04",
+            "latestAction": {
+                "actionDate": "1984-03-13",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "347",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A joint resolution to waive certain provisions of law and request the President to award the Congressional Medal of Honor to Kenneth Koon.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/98/hjres/347?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-10-05",
+            "latestAction": {
+                "actionDate": "1983-10-13",
+                "text": "Referred to Subcommittee on Social Security."
+            },
+            "number": "185",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A concurrent resolution to direct the Commissioner of Social Security and the Secretary of Health and Human Services to immediately develop a plan outlining steps which can be taken to correct the social security benefits disparity known as the notch problem, in order to insure equitable and fair treatment for those who have based their retirement plans on benefit levels which have existed for the past decade.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/98/hconres/185?format=json"
+        },
+        {
+            "amendmentNumber": "923",
+            "congress": 99,
+            "introducedDate": "1986-06-18",
+            "latestAction": {
+                "actionDate": "1986-06-18",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 150 - 268 (Record Vote No: 180). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/923?format=json"
+        },
+        {
+            "amendmentNumber": "922",
+            "congress": 99,
+            "introducedDate": "1986-06-18",
+            "latestAction": {
+                "actionDate": "1986-06-18",
+                "text": "Amendment Passed in Committee of the Whole by Recorded Vote: 365 - 49 (Record Vote No: 179). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/922?format=json"
+        },
+        {
+            "amendmentNumber": "525",
+            "congress": 99,
+            "introducedDate": "1985-10-09",
+            "latestAction": {
+                "actionDate": "1985-10-09",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 150 - 272 (Record Vote No: 349). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/525?format=json"
+        },
+        {
+            "amendmentNumber": "534",
+            "congress": 99,
+            "introducedDate": "1985-10-09",
+            "latestAction": {
+                "actionDate": "1985-10-09",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 142 - 277 (Record Vote No: 351). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/534?format=json"
+        },
+        {
+            "amendmentNumber": "282",
+            "congress": 99,
+            "introducedDate": "1985-07-10",
+            "latestAction": {
+                "actionDate": "1985-07-10",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/282?format=json"
+        },
+        {
+            "amendmentNumber": "210",
+            "congress": 99,
+            "introducedDate": "1985-06-27",
+            "latestAction": {
+                "actionDate": "1985-06-27",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 186 - 235 (Record Vote No: 202). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/210?format=json"
+        },
+        {
+            "amendmentNumber": "68",
+            "congress": 99,
+            "introducedDate": "1985-06-04",
+            "latestAction": {
+                "actionDate": "1985-06-04",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 30 - 384 (Record Vote No: 136). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/68?format=json"
+        },
+        {
+            "amendmentNumber": "65",
+            "congress": 99,
+            "introducedDate": "1985-06-04",
+            "latestAction": {
+                "actionDate": "1985-06-04",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 40 - 379 (Record Vote No: 135). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/65?format=json"
+        },
+        {
+            "amendmentNumber": "41",
+            "congress": 99,
+            "introducedDate": "1985-05-09",
+            "latestAction": {
+                "actionDate": "1985-05-09",
+                "text": "Amendment Passed in Committee of the Whole by Recorded Vote: 224 - 189 (Record Vote No: 106). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/41?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-03-13",
+            "latestAction": {
+                "actionDate": "1986-03-24",
+                "text": "Referred to Subcommittee on Human Resources."
+            },
+            "number": "4400",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend section 3109 of title 5, United States Code, to clarify the authority for appointment and compensation of experts and consultants, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/4400?format=json"
+        }
+    ]
+}

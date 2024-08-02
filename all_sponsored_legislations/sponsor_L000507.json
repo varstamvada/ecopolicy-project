@@ -1,0 +1,87 @@
+{
+    "pagination": {
+        "count": 5
+    },
+    "request": {
+        "bioguideId": "l000507",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 102,
+            "introducedDate": "1992-05-07",
+            "latestAction": {
+                "actionDate": "1992-07-08",
+                "text": "Referred to the Subcommittee on Intellectual Property and Judicial Administration."
+            },
+            "number": "5113",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "To abolish the Temporary Emergency Court of Appeals.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5113?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-11-26",
+            "latestAction": {
+                "actionDate": "1991-12-09",
+                "text": "Referred to the Subcommittee on Aviation."
+            },
+            "number": "3994",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To direct the Secretary of Transportation to conduct a rulemaking proceeding to review and modify regulations issued pursuant to the Aviation Safety and Noise Abatement Act of 1979 on measuring noise in areas surrounding airports, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3994?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-11-14",
+            "latestAction": {
+                "actionDate": "1991-11-22",
+                "text": "Referred to the Subcommittee on Intellectual Property and Judicial Administration."
+            },
+            "number": "3780",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To limit the amounts obligated or expended for fiscal year 1992 for travel expenses for officers and employees of the Federal Government.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3780?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-03-06",
+            "latestAction": {
+                "actionDate": "1991-10-03",
+                "text": "For Further Action See S.J.Res.151."
+            },
+            "number": "180",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Designating October 6, 1991, and October 6, 1992, each as \"German-American Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/102/hjres/180?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-10-01",
+            "latestAction": {
+                "actionDate": "1991-10-07",
+                "text": "Referred to the Subcommittee on Procurement and Military Nuclear Systems."
+            },
+            "number": "233",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Expressing the sense of the House of Representatives that the defense budget should be reexamined and reduced based on the changing national security needs of the United States in the post Cold War era, thereby reducing the Federal budget deficit.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/102/hres/233?format=json"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "pagination": {
+        "count": 1
+    },
+    "request": {
+        "bioguideId": "l000411",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 99,
+            "introducedDate": "1986-07-22",
+            "latestAction": {
+                "actionDate": "1986-10-29",
+                "text": "Became Public Law No: 99-586."
+            },
+            "number": "5218",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend title 5, United States Code, to provide that certain individuals be accorded competitive status for purposes of transferring to the competitive service.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5218?format=json"
+        }
+    ]
+}

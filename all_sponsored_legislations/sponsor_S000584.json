@@ -1,0 +1,39 @@
+{
+    "pagination": {
+        "count": 2
+    },
+    "request": {
+        "bioguideId": "s000584",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "229",
+            "congress": 101,
+            "introducedDate": "1989-08-02",
+            "latestAction": {
+                "actionDate": "1989-08-02",
+                "actionTime": "18:26:10",
+                "text": "Mr. Dixon raised a point of order against the Smith (MS) amendment (A003). Mr. Dixon stated that the amendment offered by Mr. Smith of Mississippi changed existing law and as such, constituted legislation on an appropriation bill. The Chair sustained the point of order. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/229?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-06-13",
+            "latestAction": {
+                "actionDate": "1989-06-28",
+                "text": "Referred to the Subcommittee on Fisheries and Wildlife Conservation and the Environment."
+            },
+            "number": "2620",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "Turtle Protection Parity Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2620?format=json"
+        }
+    ]
+}

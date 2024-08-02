@@ -1,0 +1,3178 @@
+{
+    "pagination": {
+        "count": 400,
+        "next": "https://api.congress.gov/v3/member/W000068/sponsored-legislation?offset=250&limit=250&format=json"
+    },
+    "request": {
+        "bioguideId": "w000068",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "560",
+            "congress": 102,
+            "introducedDate": "1992-05-21",
+            "latestAction": {
+                "actionDate": "1992-05-21",
+                "actionTime": "15:17:28",
+                "text": "On agreeing to the Walker amendments (A010) as modified Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/560?format=json"
+        },
+        {
+            "amendmentNumber": "214",
+            "congress": 101,
+            "introducedDate": "1989-07-28",
+            "latestAction": {
+                "actionDate": "1989-07-28",
+                "actionTime": "12:36:26",
+                "text": "On agreeing to the Walker amendment (A002) Failed by recorded vote: 114 - 293 (Roll no. 187). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/214?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-08-25",
+            "latestAction": {
+                "actionDate": "1980-08-25",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "8021",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Food Stamp Reform Act of 1980",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/8021?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-06-12",
+            "latestAction": {
+                "actionDate": "1980-06-12",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "7571",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Home Heating Guarantee Act of 1980",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/7571?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-03-19",
+            "latestAction": {
+                "actionDate": "1980-03-19",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "6884",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend title 39, United States Code, to authorize a lower postal rate for agencies established by school districts to collect taxes for schools.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/6884?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-11-16",
+            "latestAction": {
+                "actionDate": "1979-11-16",
+                "text": "Referred to House Committee on Rules."
+            },
+            "number": "5942",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Congressional Review of Administrative Rules Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/5942?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-11-14",
+            "latestAction": {
+                "actionDate": "1979-11-14",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "5897",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to exclude from gross income gain on the sale or exchange of certain farmland if the owners of the farmland, in a covenant binding themselves and all future owners of their land, restrict the use of such land to use as farmland.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/5897?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-10-19",
+            "latestAction": {
+                "actionDate": "1979-10-19",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "5661",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A bill to limit foreign assistance to programs relating to food production and nutrition and military assistance.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/5661?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-07-25",
+            "latestAction": {
+                "actionDate": "1979-07-25",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "4961",
+            "policyArea": {
+                "name": null
+            },
+            "title": "A bill to amend section 118(a) of title 28, United States Code, to provide for the holding of court for the Eastern District of Pennsylvania at Lancaster, Pennsylvania.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/4961?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-06-28",
+            "latestAction": {
+                "actionDate": "1979-06-28",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "4669",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide to individuals who have attained the age of 62 a refundable credit against income tax for increases in property taxes and utility bills.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/4669?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-06-22",
+            "latestAction": {
+                "actionDate": "1979-06-22",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "4594",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to require oil refineries to sell a minimum percentage of synthetic fuels, to provide certain tax incentives for the production of synthetic fuels, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/4594?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-04-10",
+            "latestAction": {
+                "actionDate": "1979-04-10",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "3593",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to amend the Federal Food, Drug, and Cosmetic Act to require that packaged food bear nutrition labeling.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/3593?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-03-28",
+            "latestAction": {
+                "actionDate": "1979-03-28",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "3322",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Claretha Bessick and Fredericka Athena Clark Engs.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/3322?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-03-28",
+            "latestAction": {
+                "actionDate": "1979-03-28",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "3321",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Arthur J. Grauf.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/3321?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-02-28",
+            "latestAction": {
+                "actionDate": "1979-02-28",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "2525",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 and the Social Security Act to provide an exemption from coverage under the social security program, through a tax refund procedure, for employees who are members of religious faiths which oppose participation in such program, and to provide a similar exemption on a current basis (Pursuant to waiver certificates filed in advance) for employers engaged in farming and their employees in cases where both are members of such faiths; and to make the existing exemption for self-employed members of such faiths available to certain additional individuals.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/2525?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-18",
+            "latestAction": {
+                "actionDate": "1979-01-18",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "1149",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend title 5, United States Code, to deny Federal retirement annuities to individuals convicted of any felony, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/1149?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-15",
+            "latestAction": {
+                "actionDate": "1979-01-15",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "782",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Equal Opportunity Act of 1979",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/782?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-15",
+            "latestAction": {
+                "actionDate": "1979-01-15",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "781",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Food Stamp Nutrition Improvement Act of 1979",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/781?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-09-05",
+            "latestAction": {
+                "actionDate": "1979-09-05",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "400",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution expressing the sense of the House of Representatives that the President, in the interests of national security, should immediately communicate to the government of the Soviet Union our insistence that it remove its military troops from Cuba and, until such time as the Soviet military presence is ended, that all proceedings with regard to the ratification of the proposed Strategic Arms Limitation Treaty be suspended.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/96/hres/400?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-04-10",
+            "latestAction": {
+                "actionDate": "1979-04-10",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "226",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A resolution expressing the sense of the House that Dr. Harold R. Denton, Director of the Office of Nuclear Reactor Regulation at the Nuclear Regulatory Commission, is to be commended highly for his extraordinary leadership, dedication and hard work in the effort to resolve the problems at Three Mile Island.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/96/hres/226?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-12-06",
+            "latestAction": {
+                "actionDate": "1979-12-06",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "220",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A concurrent resolution expressing the sense of the Congress that the President should establish a Federal strike force and a program in each United States judicial district to investigate and prosecute crimes committed by members of outlaw motorcycle gangs.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/96/hconres/220?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-02-28",
+            "latestAction": {
+                "actionDate": "1979-02-28",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "63",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A concurrent resolution expressing the sense of the Congress that it is incumbent upon the Attorney General to initiate an investigation in order to determine whether the officially substantiated allegations involving the Chief Executive and at least one former Cabinet level official warrant further investigation or prosecution by a special prosecutor.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/96/hconres/63?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-09-07",
+            "latestAction": {
+                "actionDate": "1978-09-07",
+                "text": "Referred to House Committee on International Relations."
+            },
+            "number": "14017",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A bill to limit foreign assistance to programs relating to food production and nutrition and military assistance.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/14017?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-08-17",
+            "latestAction": {
+                "actionDate": "1978-08-17",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "13940",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide a credit against income tax to owners of certain farmland who, in a covenant binding themselves and all future owners of their land, restrict the use of such land to use as farmland.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/13940?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-07-18",
+            "latestAction": {
+                "actionDate": "1978-07-18",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "13526",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Agricultural Foreign Investment Recording Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/13526?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-06-19",
+            "latestAction": {
+                "actionDate": "1978-06-19",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "13192",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Agricultural Foreign Investment Recording Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/13192?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-06-19",
+            "latestAction": {
+                "actionDate": "1978-06-19",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "13193",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Agricultural Foreign Investment Recording Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/13193?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-05-25",
+            "latestAction": {
+                "actionDate": "1978-05-25",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "12885",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend title 5, United States Code, to deny Federal retirement annuities to individuals convicted of any felony, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/12885?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-05-10",
+            "latestAction": {
+                "actionDate": "1978-05-10",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "12655",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Agricultural Foreign Investment Recording Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/12655?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-05-10",
+            "latestAction": {
+                "actionDate": "1978-05-10",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "12656",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend title 5, United States Code, to deny Federal retirement annuities to individuals convicted of any felony, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/12656?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-04-20",
+            "latestAction": {
+                "actionDate": "1978-04-20",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "12280",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend title 5, United States Code, to deny Federal retirement annuities to individuals convicted of any felony, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/12280?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-04-03",
+            "latestAction": {
+                "actionDate": "1978-04-03",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "11829",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "A bill to amend section 118(a) of title 28, United States Code, to provide for the holding of court for the Eastern District of Pennsylvania at Lancaster, Pennsylvania.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/11829?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-02-15",
+            "latestAction": {
+                "actionDate": "1978-02-15",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "10973",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide to individuals who have attained the age of 62 a refundable credit against income tax for increases in real property taxes and utility bills.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/10973?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-02-07",
+            "latestAction": {
+                "actionDate": "1978-02-07",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "10827",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Claretha Bessick and Fredericka Athena Clark Engs.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/10827?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-12-06",
+            "latestAction": {
+                "actionDate": "1977-12-06",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "10236",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend title IV of the Social Security Act to improve the administration of the AFDC program by authorizing States to establish community welfare boards for the purpose of eliminating or dealing effectively with welfare fraud, considering and recommending changes in welfare policy, and (in specified cases) reviewing determinations made by the State welfare agency with respect to eligibility for assistance.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/10236?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-10-31",
+            "latestAction": {
+                "actionDate": "1977-10-31",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "9849",
+            "policyArea": {
+                "name": null
+            },
+            "title": "A bill to amend the Federal Food, Drug, and Cosmetic Act to require that packaged food bear nutrition labeling.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/9849?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-10-13",
+            "latestAction": {
+                "actionDate": "1977-10-13",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "9554",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide to individuals who have attained the age of 62 a refundable credit against income tax for increases in real property taxes and utility bills.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/9554?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-09-30",
+            "latestAction": {
+                "actionDate": "1977-09-30",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "9399",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide to individuals who have attained the age of 62 a refundable credit against income tax for increases in real property taxes and utility bills.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/9399?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-09-23",
+            "latestAction": {
+                "actionDate": "1977-09-23",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "9289",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Arthur J. Grauf.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/9289?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-09-23",
+            "latestAction": {
+                "actionDate": "1977-09-23",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "9286",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A bill to prevent Federal enforcement of racial quotas.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/9286?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-09-15",
+            "latestAction": {
+                "actionDate": "1977-09-15",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "9138",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide to individuals who have attained the age of 62 a refundable credit against income tax for increases in real property taxes and utility bills.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/9138?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-09-12",
+            "latestAction": {
+                "actionDate": "1977-09-12",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "9051",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to extend the time, from one to six years, during which a person may bring court action with respect to bonds required, under the act commonly known as the Miller Act, in connection with the construction, alteration, and repair of any public building or public work of the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/9051?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-08-04",
+            "latestAction": {
+                "actionDate": "1977-08-04",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "8801",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide to individuals who have attained the age of 62 a refundable credit against income tax for increases in real property taxes and utility bills.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/8801?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-07-29",
+            "latestAction": {
+                "actionDate": "1977-07-29",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "8652",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 and the Social Security Act to provide an exemption from coverage under the social security program, through a tax refund procedure, for employees who are members of religious faiths which oppose participation in such program, and to provide a similar exemption on a current basis (pursuant to waiver certificates filed in advance) for employers engaged in farming and their employees in cases where both are members of such faiths; and to make the existing exemption for self-employed members of such faiths available to certain additional individuals.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/8652?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-06-03",
+            "latestAction": {
+                "actionDate": "1978-10-27",
+                "text": "Private Law 95-72."
+            },
+            "number": "7604",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Margaret Somerville Jefferis.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/7604?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-17",
+            "latestAction": {
+                "actionDate": "1977-03-17",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "5225",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to permit the marketing of saccharin with labeling warning of evidence of its risk to health.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/5225?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-09",
+            "latestAction": {
+                "actionDate": "1977-03-09",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "4780",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend chapter 44 (relating to firearms) of title 18 of the United States Code to exclude pen guns from the definition of firearms used for the purposes of that chapter.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/4780?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-01-17",
+            "latestAction": {
+                "actionDate": "1977-01-17",
+                "text": "Referred to House Committee on Banking, Finance and Urban Affairs."
+            },
+            "number": "1975",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "A bill to amend section 8 of the U.S. Housing Act of 1937 for the purpose of requiring the Secretary of Housing and Urban Development and public housing agencies to notify certain Members of Congress before entering into annual contributions contracts under such section.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/1975?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-01-04",
+            "latestAction": {
+                "actionDate": "1977-01-04",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "1359",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Food Stamp Nutrition Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/1359?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-08-01",
+            "latestAction": {
+                "actionDate": "1978-08-01",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "1101",
+            "policyArea": {
+                "name": "Constitutional amendments"
+            },
+            "title": "proposing an amendment to the Constitution of the United States to give citizens of the United States the right to enact and repeal laws by voting on legislation in a national election.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/95/hjres/1101?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-01-11",
+            "latestAction": {
+                "actionDate": "1977-01-11",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "133",
+            "policyArea": {
+                "name": "Abortion"
+            },
+            "title": "Joint resolution proposing an amendment to the Constitution of the United States with respect to abortion.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/95/hjres/133?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-05-11",
+            "latestAction": {
+                "actionDate": "1977-05-11",
+                "text": "Referred to House Committee on Rules."
+            },
+            "number": "565",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Resolution to authorize the Committee on Standards of Official Conduct to conduct an investigation to determine whether Members of the House of Representatives, their immediate families or their associates accepted anything of value, directly or indirectly from the Government of the Republic of Korea or representatives thereof.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/95/hres/565?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-09",
+            "latestAction": {
+                "actionDate": "1977-03-09",
+                "text": "Referred to House Committee on Rules."
+            },
+            "number": "392",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Resolution establishing a select committee to investigate all acts of the Government of the Republic of Korea, or of persons representing Korean business interests, to influence Members of the House of Representatives or officers or employees of the Federal Government or State governments.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/95/hres/392?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-01-27",
+            "latestAction": {
+                "actionDate": "1977-01-27",
+                "text": "Referred to House Committee on Rules."
+            },
+            "number": "202",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A resolution establishing a select committee to investigate all acts of the Government of the Republic of Korea, or of persons representing Korean business interests, to influence Members of the House of Representatives.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/95/hres/202?format=json"
+        },
+        {
+            "amendmentNumber": "982",
+            "congress": 97,
+            "introducedDate": "1982-12-09",
+            "latestAction": {
+                "actionDate": "1982-12-09",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/982?format=json"
+        },
+        {
+            "amendmentNumber": "952",
+            "congress": 97,
+            "introducedDate": "1982-12-06",
+            "latestAction": {
+                "actionDate": "1982-12-06",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 149 - 217 (Record Vote No: 419). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/952?format=json"
+        },
+        {
+            "amendmentNumber": "919",
+            "congress": 97,
+            "introducedDate": "1982-12-01",
+            "latestAction": {
+                "actionDate": "1982-12-01",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/919?format=json"
+        },
+        {
+            "amendmentNumber": "858",
+            "congress": 97,
+            "introducedDate": "1982-09-21",
+            "latestAction": {
+                "actionDate": "1982-09-21",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 125 - 246 (Record Vote No: 347). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/858?format=json"
+        },
+        {
+            "amendmentNumber": "822",
+            "congress": 97,
+            "introducedDate": "1982-08-19",
+            "latestAction": {
+                "actionDate": "1982-08-19",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/822?format=json"
+        },
+        {
+            "amendmentNumber": "762",
+            "congress": 97,
+            "introducedDate": "1982-08-10",
+            "latestAction": {
+                "actionDate": "1982-08-10",
+                "text": "Point of Order Sustained Against Amendment in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/762?format=json"
+        },
+        {
+            "amendmentNumber": "739",
+            "congress": 97,
+            "introducedDate": "1982-08-04",
+            "latestAction": {
+                "actionDate": "1982-08-04",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/739?format=json"
+        },
+        {
+            "amendmentNumber": "697",
+            "congress": 97,
+            "introducedDate": "1982-07-29",
+            "latestAction": {
+                "actionDate": "1982-07-29",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/697?format=json"
+        },
+        {
+            "amendmentNumber": "711",
+            "congress": 97,
+            "introducedDate": "1982-07-29",
+            "latestAction": {
+                "actionDate": "1982-07-29",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/711?format=json"
+        },
+        {
+            "amendmentNumber": "695",
+            "congress": 97,
+            "introducedDate": "1982-07-29",
+            "latestAction": {
+                "actionDate": "1982-07-29",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/695?format=json"
+        },
+        {
+            "amendmentNumber": "696",
+            "congress": 97,
+            "introducedDate": "1982-07-29",
+            "latestAction": {
+                "actionDate": "1982-07-29",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/696?format=json"
+        },
+        {
+            "amendmentNumber": "626",
+            "congress": 97,
+            "introducedDate": "1982-07-15",
+            "latestAction": {
+                "actionDate": "1982-07-15",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/626?format=json"
+        },
+        {
+            "amendmentNumber": "618",
+            "congress": 97,
+            "introducedDate": "1982-07-14",
+            "latestAction": {
+                "actionDate": "1982-07-14",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 158 - 247 (Record Vote No: 182). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/618?format=json"
+        },
+        {
+            "amendmentNumber": "533",
+            "congress": 97,
+            "introducedDate": "1982-05-19",
+            "latestAction": {
+                "actionDate": "1982-05-19",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/533?format=json"
+        },
+        {
+            "amendmentNumber": "523",
+            "congress": 97,
+            "introducedDate": "1982-05-13",
+            "latestAction": {
+                "actionDate": "1982-05-13",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 121 - 248 (Record Vote No: 77). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/523?format=json"
+        },
+        {
+            "amendmentNumber": "531",
+            "congress": 97,
+            "introducedDate": "1982-05-19",
+            "latestAction": {
+                "actionDate": "1982-05-19",
+                "text": "Amendment Passed (Amended) in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/531?format=json"
+        },
+        {
+            "amendmentNumber": "528",
+            "congress": 97,
+            "introducedDate": "1982-05-19",
+            "latestAction": {
+                "actionDate": "1982-05-19",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 158 - 227 (Record Vote No: 82). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/528?format=json"
+        },
+        {
+            "amendmentNumber": "516",
+            "congress": 97,
+            "introducedDate": "1982-05-12",
+            "latestAction": {
+                "actionDate": "1982-05-12",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 132 - 276 (Record Vote No: 72). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/516?format=json"
+        },
+        {
+            "amendmentNumber": "488",
+            "congress": 97,
+            "introducedDate": "1982-02-10",
+            "latestAction": {
+                "actionDate": "1982-02-10",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/488?format=json"
+        },
+        {
+            "amendmentNumber": "389",
+            "congress": 97,
+            "introducedDate": "1981-11-05",
+            "latestAction": {
+                "actionDate": "1981-11-05",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/389?format=json"
+        },
+        {
+            "amendmentNumber": "351",
+            "congress": 97,
+            "introducedDate": "1981-10-22",
+            "latestAction": {
+                "actionDate": "1981-10-22",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 147 - 251 (Record Vote No: 274). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/351?format=json"
+        },
+        {
+            "amendmentNumber": "284",
+            "congress": 97,
+            "introducedDate": "1981-10-06",
+            "latestAction": {
+                "actionDate": "1981-10-06",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/284?format=json"
+        },
+        {
+            "amendmentNumber": "219",
+            "congress": 97,
+            "introducedDate": "1981-09-10",
+            "latestAction": {
+                "actionDate": "1981-09-10",
+                "text": "Amendment Withdrawn in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/219?format=json"
+        },
+        {
+            "amendmentNumber": "202",
+            "congress": 97,
+            "introducedDate": "1981-09-09",
+            "latestAction": {
+                "actionDate": "1981-09-09",
+                "text": "Amendment Passed in Committee of the Whole by Recorded Vote: 333 - 54 (Record Vote No: 192). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/202?format=json"
+        },
+        {
+            "amendmentNumber": "159",
+            "congress": 97,
+            "introducedDate": "1981-07-22",
+            "latestAction": {
+                "actionDate": "1981-07-22",
+                "text": "Point of Order Sustained Against Amendment in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/159?format=json"
+        },
+        {
+            "amendmentNumber": "18",
+            "congress": 97,
+            "introducedDate": "1981-05-13",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/18?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-07-23",
+            "latestAction": {
+                "actionDate": "1982-07-23",
+                "text": "Referred to House Committee on Appropriations."
+            },
+            "number": "6855",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A bill to eliminate the permanent appropriation of funds for the compensation of Members of Congress.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6855?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-04-20",
+            "latestAction": {
+                "actionDate": "1982-05-03",
+                "text": "Referred to Subcommittee on Housing and Community Development."
+            },
+            "number": "6126",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Full Employment Act of 1982",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6126?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-03-31",
+            "latestAction": {
+                "actionDate": "1982-04-28",
+                "text": "Referred to Subcommittee on Compensation and Employee Benefits."
+            },
+            "number": "6025",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend title 5, United States Code, to deny Federal retirement annuities to individuals convicted of any felony, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6025?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-03-30",
+            "latestAction": {
+                "actionDate": "1982-03-30",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "5992",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to amend the Agricultural Adjustment Act of 1938 to exempt nonquota tobacco from quota restrictions in effect for any marketing year in any State in which not more than 20 acres of quota tobacco is planted for harvest in such marketing year.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/5992?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-11-17",
+            "latestAction": {
+                "actionDate": "1981-11-17",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "4999",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide that the individual income tax rate reductions enacted by the Economic Recovery Tax Act of 1981 for 1982 and subsequent years shall take effect 6 months sooner than scheduled under such Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4999?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-10-01",
+            "latestAction": {
+                "actionDate": "1981-10-01",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "4659",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to allow an occupational privilege tax to be imposed on certain Federal employees by Caln Township, Chester County, Pennsylvania.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4659?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-07-30",
+            "latestAction": {
+                "actionDate": "1983-01-12",
+                "text": "Became Private Law No: 97-56."
+            },
+            "number": "4350",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Arthur J. Grauf.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4350?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-07-14",
+            "latestAction": {
+                "actionDate": "1982-09-30",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "4141",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "A bill to amend the Omnibus Crime Control and Safe Streets Act of 1968 to provide death benefits with respect to members of rescue squads.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4141?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-05-06",
+            "latestAction": {
+                "actionDate": "1981-05-22",
+                "text": "Referred to Subcommittee on Postsecondary Education."
+            },
+            "number": "3466",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Equal Opportunity Act of 1979",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/3466?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-04-30",
+            "latestAction": {
+                "actionDate": "1981-04-30",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "3351",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A bill to limit foreign assistance to programs relating to food production and nutrition and military assistance.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/3351?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-04-30",
+            "latestAction": {
+                "actionDate": "1981-04-30",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "3353",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide to individuals who have attained the age of 62 a refundable credit against income tax for increases in real property taxes and utility bills.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/3353?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-04-30",
+            "latestAction": {
+                "actionDate": "1981-04-30",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "3352",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to exclude from gross income gain on the sale or exchange of certain farmland if the owners of the farmland, in a covenant binding themselves and all future owners of their land, restrict the use of such land to use as farmland.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/3352?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-03-04",
+            "latestAction": {
+                "actionDate": "1981-03-09",
+                "text": "Referred to Subcommittee on Social Security."
+            },
+            "number": "2332",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 and the Social Security Act to provide an exemption from coverage under the social security program, through a tax refund procedure, for employees who are members of religious faiths which oppose participation in such program, and to provide a similar exemption on a current basis (pursuant to waiver certificates filed in advance) for employers engaged in farming and their employees in cases where both are members of such faiths; and to make the existing exemption for self-employed members of such faiths available to certain additional individuals.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/2332?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-01-05",
+            "latestAction": {
+                "actionDate": "1981-02-18",
+                "text": "Referred to Subcommittee on Domestic Marketing, Consumer Relations, and Nutrition."
+            },
+            "number": "637",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Food Stamp Reform Act of 1981",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/637?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-06-23",
+            "latestAction": {
+                "actionDate": "1982-06-28",
+                "text": "Referred to Subcommittee on Civil and Constitutional Rights."
+            },
+            "number": "527",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "A joint resolution proposing an amendment to the Constitution of the United States guaranteeing individual opportunity to all persons.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/97/hjres/527?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-04-28",
+            "latestAction": {
+                "actionDate": "1982-04-30",
+                "text": "Referred to Subcommittee on Civil and Constitutional Rights."
+            },
+            "number": "466",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "A joint resolution proposing an amendment to the Constitution of the United States guaranteeing individual opportunity to all U.S. citizens.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/97/hjres/466?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-05-26",
+            "latestAction": {
+                "actionDate": "1982-05-26",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "495",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A joint resolution to provide for the designation of the week commencing on June 13, 1982 as \"National Welfare Fraud Prevention Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/97/hjres/495?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-06-25",
+            "latestAction": {
+                "actionDate": "1981-07-01",
+                "text": "Referred to Subcommittee on Census and Population."
+            },
+            "number": "154",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "A concurrent resolution expressing the sense of the Congress that volunteer firefighters, paramedics and rescue team members be commended for their service.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/97/hconres/154?format=json"
+        },
+        {
+            "amendmentNumber": "1104",
+            "congress": 98,
+            "introducedDate": "1984-09-06",
+            "latestAction": {
+                "actionDate": "1984-09-06",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/1104?format=json"
+        },
+        {
+            "amendmentNumber": "1015",
+            "congress": 98,
+            "introducedDate": "1984-07-31",
+            "latestAction": {
+                "actionDate": "1984-07-31",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/1015?format=json"
+        },
+        {
+            "amendmentNumber": "1029",
+            "congress": 98,
+            "introducedDate": "1984-08-01",
+            "latestAction": {
+                "actionDate": "1984-08-01",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 184 - 238 (Record Vote No: 336). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/1029?format=json"
+        },
+        {
+            "amendmentNumber": "1001",
+            "congress": 98,
+            "introducedDate": "1984-07-26",
+            "latestAction": {
+                "actionDate": "1984-07-26",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 194 - 215 (Record Vote No: 319). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/1001?format=json"
+        },
+        {
+            "amendmentNumber": "1036",
+            "congress": 98,
+            "introducedDate": "1984-08-01",
+            "latestAction": {
+                "actionDate": "1984-08-01",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/1036?format=json"
+        },
+        {
+            "amendmentNumber": "941",
+            "congress": 98,
+            "introducedDate": "1984-06-26",
+            "latestAction": {
+                "actionDate": "1984-06-26",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/941?format=json"
+        },
+        {
+            "amendmentNumber": "961",
+            "congress": 98,
+            "introducedDate": "1984-06-28",
+            "latestAction": {
+                "actionDate": "1984-06-28",
+                "text": "Amendment Passed in Committee of the Whole by Recorded Vote: 239 - 186 (Record Vote No: 290). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/961?format=json"
+        },
+        {
+            "amendmentNumber": "822",
+            "congress": 98,
+            "introducedDate": "1984-06-06",
+            "latestAction": {
+                "actionDate": "1984-06-06",
+                "text": "Amendment Passed in Committee of the Whole by Recorded Vote: 232 - 164 (Record Vote No: 208). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/822?format=json"
+        },
+        {
+            "amendmentNumber": "777",
+            "congress": 98,
+            "introducedDate": "1984-05-30",
+            "latestAction": {
+                "actionDate": "1984-05-30",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/777?format=json"
+        },
+        {
+            "amendmentNumber": "821",
+            "congress": 98,
+            "introducedDate": "1984-06-06",
+            "latestAction": {
+                "actionDate": "1984-06-06",
+                "text": "Point of Order Sustained Against Amendment in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/821?format=json"
+        },
+        {
+            "amendmentNumber": "800",
+            "congress": 98,
+            "introducedDate": "1984-05-31",
+            "latestAction": {
+                "actionDate": "1984-05-31",
+                "text": "Point of Order Sustained Against Amendment in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/800?format=json"
+        },
+        {
+            "amendmentNumber": "779",
+            "congress": 98,
+            "introducedDate": "1984-05-30",
+            "latestAction": {
+                "actionDate": "1984-05-30",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 133 - 258 (Record Vote No: 187). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/779?format=json"
+        },
+        {
+            "amendmentNumber": "686",
+            "congress": 98,
+            "introducedDate": "1984-04-26",
+            "latestAction": {
+                "actionDate": "1984-04-26",
+                "text": "Amendment Passed (Amended) in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/686?format=json"
+        },
+        {
+            "amendmentNumber": "685",
+            "congress": 98,
+            "introducedDate": "1984-04-25",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/685?format=json"
+        },
+        {
+            "amendmentNumber": "712",
+            "congress": 98,
+            "introducedDate": "1984-05-09",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/712?format=json"
+        },
+        {
+            "amendmentNumber": "652",
+            "congress": 98,
+            "introducedDate": "1984-03-28",
+            "latestAction": {
+                "actionDate": "1984-03-28",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/652?format=json"
+        },
+        {
+            "amendmentNumber": "609",
+            "congress": 98,
+            "introducedDate": "1984-02-23",
+            "latestAction": {
+                "actionDate": "1984-02-23",
+                "text": "Amendment Failed of Passage in Committee of Whole by Division Vote: 35 - 67. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/609?format=json"
+        },
+        {
+            "amendmentNumber": "633",
+            "congress": 98,
+            "introducedDate": "1984-03-08",
+            "latestAction": {
+                "actionDate": "1984-03-08",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/633?format=json"
+        },
+        {
+            "amendmentNumber": "581",
+            "congress": 98,
+            "introducedDate": "1984-02-02",
+            "latestAction": {
+                "actionDate": "1984-02-02",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/581?format=json"
+        },
+        {
+            "amendmentNumber": "603",
+            "congress": 98,
+            "introducedDate": "1984-02-09",
+            "latestAction": {
+                "actionDate": "1984-02-09",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/603?format=json"
+        },
+        {
+            "amendmentNumber": "498",
+            "congress": 98,
+            "introducedDate": "1983-11-03",
+            "latestAction": {
+                "actionDate": "1983-11-03",
+                "text": "Point of Order Sustained Against Amendment in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/498?format=json"
+        },
+        {
+            "amendmentNumber": "599",
+            "congress": 98,
+            "introducedDate": "1984-02-09",
+            "latestAction": {
+                "actionDate": "1984-02-09",
+                "text": "Point of Order Sustained Against Amendment in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/599?format=json"
+        },
+        {
+            "amendmentNumber": "569",
+            "congress": 98,
+            "introducedDate": "1984-01-31",
+            "latestAction": {
+                "actionDate": "1984-01-31",
+                "text": "Amendment Failed of Passage in Committee of Whole by Division Vote: 8 - 60. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/569?format=json"
+        },
+        {
+            "amendmentNumber": "577",
+            "congress": 98,
+            "introducedDate": "1984-02-01",
+            "latestAction": {
+                "actionDate": "1984-02-01",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/577?format=json"
+        },
+        {
+            "amendmentNumber": "386",
+            "congress": 98,
+            "introducedDate": "1983-09-21",
+            "latestAction": {
+                "actionDate": "1983-09-21",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 92 - 327 (Record Vote No: 350). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/386?format=json"
+        },
+        {
+            "amendmentNumber": "346",
+            "congress": 98,
+            "introducedDate": "1983-08-04",
+            "latestAction": {
+                "actionDate": "1983-08-04",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/346?format=json"
+        },
+        {
+            "amendmentNumber": "383",
+            "congress": 98,
+            "introducedDate": "1983-09-21",
+            "latestAction": {
+                "actionDate": "1983-09-21",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 142 - 279 (Record Vote No: 349). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/383?format=json"
+        },
+        {
+            "amendmentNumber": "388",
+            "congress": 98,
+            "introducedDate": "1983-09-21",
+            "latestAction": {
+                "actionDate": "1983-09-21",
+                "text": "Amendment Failed of Passage in Committee of Whole by Division Vote: 23 - 73. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/388?format=json"
+        },
+        {
+            "amendmentNumber": "385",
+            "congress": 98,
+            "introducedDate": "1983-09-21",
+            "latestAction": {
+                "actionDate": "1983-09-21",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/385?format=json"
+        },
+        {
+            "amendmentNumber": "344",
+            "congress": 98,
+            "introducedDate": "1983-08-03",
+            "latestAction": {
+                "actionDate": "1983-08-03",
+                "text": "Point of Order Sustained Against Amendment in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/344?format=json"
+        },
+        {
+            "amendmentNumber": "343",
+            "congress": 98,
+            "introducedDate": "1983-08-03",
+            "latestAction": {
+                "actionDate": "1983-08-03",
+                "text": "Point of Order Sustained Against Amendment in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/343?format=json"
+        },
+        {
+            "amendmentNumber": "316",
+            "congress": 98,
+            "introducedDate": "1983-08-02",
+            "latestAction": {
+                "actionDate": "1983-08-02",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/316?format=json"
+        },
+        {
+            "amendmentNumber": "206",
+            "congress": 98,
+            "introducedDate": "1983-07-12",
+            "latestAction": {
+                "actionDate": "1983-07-12",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 148 - 270 (Record Vote No: 239). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/206?format=json"
+        },
+        {
+            "amendmentNumber": "205",
+            "congress": 98,
+            "introducedDate": "1983-07-12",
+            "latestAction": {
+                "actionDate": "1983-07-12",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 170 - 245 (Record Vote No: 238). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/205?format=json"
+        },
+        {
+            "amendmentNumber": "204",
+            "congress": 98,
+            "introducedDate": "1983-07-12",
+            "latestAction": {
+                "actionDate": "1983-07-12",
+                "text": "Point of Order Sustained Against Amendment in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/204?format=json"
+        },
+        {
+            "amendmentNumber": "137",
+            "congress": 98,
+            "introducedDate": "1983-06-02",
+            "latestAction": {
+                "actionDate": "1983-06-02",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 142 - 213 (Record Vote No: 152). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/137?format=json"
+        },
+        {
+            "amendmentNumber": "106",
+            "congress": 98,
+            "introducedDate": "1983-05-10",
+            "latestAction": {
+                "actionDate": "1983-05-10",
+                "text": "Amendment Passed in Committee of the Whole by Recorded Vote: 401 - 5 (Record Vote No: 97). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/106?format=json"
+        },
+        {
+            "amendmentNumber": "42",
+            "congress": 98,
+            "introducedDate": "1983-04-12",
+            "latestAction": {
+                "actionDate": "1983-04-12",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 121 - 272 (Record Vote No: 49). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/42?format=json"
+        },
+        {
+            "amendmentNumber": "111",
+            "congress": 98,
+            "introducedDate": "1983-05-11",
+            "latestAction": {
+                "actionDate": "1983-05-11",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 157 - 254 (Record Vote No: 103). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/111?format=json"
+        },
+        {
+            "amendmentNumber": "6",
+            "congress": 98,
+            "introducedDate": "1983-03-02",
+            "latestAction": {
+                "actionDate": "1983-03-02",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/6?format=json"
+        },
+        {
+            "amendmentNumber": "64",
+            "congress": 98,
+            "introducedDate": "1983-04-20",
+            "latestAction": {
+                "actionDate": "1983-04-20",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/64?format=json"
+        },
+        {
+            "amendmentNumber": "36",
+            "congress": 98,
+            "introducedDate": "1983-03-21",
+            "latestAction": {
+                "actionDate": "1983-03-21",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 96 - 240 (Record Vote No: 37). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/36?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-11-08",
+            "latestAction": {
+                "actionDate": "1983-11-14",
+                "text": "Referred to Subcommittee on Government Information, Justice and Agriculture."
+            },
+            "number": "4331",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Sunshine in Government Funding Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4331?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-07-13",
+            "latestAction": {
+                "actionDate": "1983-07-13",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "3563",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow an individual a deduction for educational expenses for his own education and the education of his spouse and children.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/3563?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-06-21",
+            "latestAction": {
+                "actionDate": "1983-10-14",
+                "text": "Became Public Law No: 98-128."
+            },
+            "number": "3379",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to name a United States Post Office in the vicinity of Lancaster, Pennsylvania, the \"Edwin D. Eshleman Post Office\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/3379?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-06-14",
+            "latestAction": {
+                "actionDate": "1983-06-23",
+                "text": "Referred to Subcommittee on Intergovernmental Relations and Human Resources."
+            },
+            "number": "3316",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Jobs for Distressed Communities Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/3316?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-03-14",
+            "latestAction": {
+                "actionDate": "1983-03-25",
+                "text": "Referred to Subcommittee on Intergovernmental Relations and Human Resources."
+            },
+            "number": "2096",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to extend general revenue sharing for five years and to increase employment opportunities.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/2096?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-01-03",
+            "latestAction": {
+                "actionDate": "1983-01-03",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "453",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide to individuals who have attained the age of sixty-two a refundable credit against income tax for increases in real property taxes and utility bills.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/453?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-01-03",
+            "latestAction": {
+                "actionDate": "1983-01-10",
+                "text": "Referred to Subcommittee on Social Security."
+            },
+            "number": "411",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 and the Social Security Act to provide an exemption from coverage under the social security program, through a tax refund procedure, for employees who are members of religious faiths which oppose participation in such program, and to provide a similar exemption on a current basis (pursuant to waiver certificates filed in advance) for employers engaged in farming and their employees in cases where both are members of such faiths; and to make the existing exemption for self-employed members of such faiths available to certain additional individuals.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/411?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-01-03",
+            "latestAction": {
+                "actionDate": "1983-01-03",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "412",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to exclude from gross income gain on the sale or exchange of certain farmland if the owners of the farmland, in a covenant binding themselves and all future owners of their land, restrict the use of such land to use as farmland.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/412?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-07-21",
+            "latestAction": {
+                "actionDate": "1983-07-26",
+                "text": "Referred to Subcommittee on Census and Population."
+            },
+            "number": "328",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A joint resolution to provide for the designation of the month of October as \"National Pretzel Month\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/98/hjres/328?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-01-30",
+            "latestAction": {
+                "actionDate": "1984-01-30",
+                "text": "Referred to House Committee on Rules."
+            },
+            "number": "409",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A resolution providing for the consideration of the joint resolution (H. J. Res. 243) proposing an amendment to the Constitution altering Federal budget procedures.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/98/hres/409?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-01-30",
+            "latestAction": {
+                "actionDate": "1984-01-30",
+                "text": "Referred to House Committee on Rules."
+            },
+            "number": "408",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A resolution providing for the consideration of the joint resolution (H. J. Res. 100) proposing an amendment to the Constitution permitting prayer in public schools.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/98/hres/408?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-01-24",
+            "latestAction": {
+                "actionDate": "1984-01-24",
+                "text": "Motion to Table Agreed to in House by Yea-Nay Vote: 213 - 144 (Record Vote No: 3)."
+            },
+            "number": "393",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A resolution directing the House Committee on Rules to undertake an investigation concerning the accuracy and protection of the Congressional Record.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/98/hres/393?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-01-30",
+            "latestAction": {
+                "actionDate": "1984-01-30",
+                "text": "Referred to House Committee on Rules."
+            },
+            "number": "410",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A resolution providing for the consideration of the joint resolution (H. J. Res. 404) proposing an amendment to the Constitution allowing item veto in appropriation bills.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/98/hres/410?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-01-30",
+            "latestAction": {
+                "actionDate": "1984-01-30",
+                "text": "Referred to House Committee on Rules."
+            },
+            "number": "407",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A resolution providing for the consideration of the joint resolution (H. J. Res. 84) proposing an amendment to the Constitution guaranteeing the right of life to the unborn.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/98/hres/407?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-07-29",
+            "latestAction": {
+                "actionDate": "1983-07-29",
+                "text": "Resolution Agreed to in House by Voice Vote."
+            },
+            "number": "289",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A resolution to correct the Record of July 28, 1983.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/98/hres/289?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-04-11",
+            "latestAction": {
+                "actionDate": "1983-04-11",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "106",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A concurrent resolution expressing the sense of the Congress that nothing in House Concurrent Resolution 91 shall be interpreted as providing a pay increase for Members of Congress.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/98/hconres/106?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-03-08",
+            "latestAction": {
+                "actionDate": "1983-03-10",
+                "text": "Referred to Subcommittee on Crime."
+            },
+            "number": "82",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A concurrent resolution expressing the sense of the Congress that the President should establish a Federal strike force and a program in each United States judicial district to investigate and prosecute crimes committed by members of outlaw motorcycle gangs.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/98/hconres/82?format=json"
+        },
+        {
+            "amendmentNumber": "1008",
+            "congress": 99,
+            "introducedDate": "1986-07-30",
+            "latestAction": {
+                "actionDate": "1986-07-30",
+                "text": "Point of Order Sustained Against Amendment in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/1008?format=json"
+        },
+        {
+            "amendmentNumber": "1032",
+            "congress": 99,
+            "introducedDate": "1986-08-01",
+            "latestAction": {
+                "actionDate": "1986-08-01",
+                "text": "Amendment Passed in Committee of the Whole by Recorded Vote: 254 - 109 (Record Vote No: 280). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/1032?format=json"
+        },
+        {
+            "amendmentNumber": "1020",
+            "congress": 99,
+            "introducedDate": "1986-07-30",
+            "latestAction": {
+                "actionDate": "1986-07-30",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/1020?format=json"
+        },
+        {
+            "amendmentNumber": "997",
+            "congress": 99,
+            "introducedDate": "1986-07-24",
+            "latestAction": {
+                "actionDate": "1986-07-24",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 183 - 229 (Record Vote No: 249). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/997?format=json"
+        },
+        {
+            "amendmentNumber": "985",
+            "congress": 99,
+            "introducedDate": "1986-07-23",
+            "latestAction": {
+                "actionDate": "1986-07-23",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 106 - 315 (Record Vote No: 239). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/985?format=json"
+        },
+        {
+            "amendmentNumber": "988",
+            "congress": 99,
+            "introducedDate": "1986-07-23",
+            "latestAction": {
+                "actionDate": "1986-07-23",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/988?format=json"
+        },
+        {
+            "amendmentNumber": "1012",
+            "congress": 99,
+            "introducedDate": "1986-07-30",
+            "latestAction": {
+                "actionDate": "1986-07-30",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 118 - 303 (Record Vote No: 264). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/1012?format=json"
+        },
+        {
+            "amendmentNumber": "1009",
+            "congress": 99,
+            "introducedDate": "1986-07-30",
+            "latestAction": {
+                "actionDate": "1986-07-30",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 115 - 299 (Record Vote No: 262). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/1009?format=json"
+        },
+        {
+            "amendmentNumber": "1002",
+            "congress": 99,
+            "introducedDate": "1986-07-24",
+            "latestAction": {
+                "actionDate": "1986-07-24",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/1002?format=json"
+        },
+        {
+            "amendmentNumber": "947",
+            "congress": 99,
+            "introducedDate": "1986-06-26",
+            "latestAction": {
+                "actionDate": "1986-06-26",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/947?format=json"
+        },
+        {
+            "amendmentNumber": "962",
+            "congress": 99,
+            "introducedDate": "1986-07-17",
+            "latestAction": {
+                "actionDate": "1986-07-17",
+                "text": "Amendment Passed in Committee of the Whole by Recorded Vote: 150 - 256 (Record Vote No: 226). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/962?format=json"
+        },
+        {
+            "amendmentNumber": "946",
+            "congress": 99,
+            "introducedDate": "1986-06-26",
+            "latestAction": {
+                "actionDate": "1986-06-26",
+                "text": "Amendment Withdrawn in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/946?format=json"
+        },
+        {
+            "amendmentNumber": "787",
+            "congress": 99,
+            "introducedDate": "1986-04-17",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/787?format=json"
+        },
+        {
+            "amendmentNumber": "823",
+            "congress": 99,
+            "introducedDate": "1986-05-08",
+            "latestAction": {
+                "actionDate": "1986-05-08",
+                "text": "Amendment Offered by Representative Walker. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/823?format=json"
+        },
+        {
+            "amendmentNumber": "769",
+            "congress": 99,
+            "introducedDate": "1986-03-18",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/769?format=json"
+        },
+        {
+            "amendmentNumber": "733",
+            "congress": 99,
+            "introducedDate": "1986-01-30",
+            "latestAction": {
+                "actionDate": "1986-01-30",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/733?format=json"
+        },
+        {
+            "amendmentNumber": "802",
+            "congress": 99,
+            "introducedDate": "1986-04-29",
+            "latestAction": {
+                "actionDate": "1986-04-29",
+                "text": "Amendment Offered by Representative Walker. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/802?format=json"
+        },
+        {
+            "amendmentNumber": "736",
+            "congress": 99,
+            "introducedDate": "1986-02-04",
+            "latestAction": {
+                "actionDate": "1986-02-04",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/736?format=json"
+        },
+        {
+            "amendmentNumber": "589",
+            "congress": 99,
+            "introducedDate": "1985-10-30",
+            "latestAction": {
+                "actionDate": "1985-10-30",
+                "text": "Amendment Withdrawn in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/589?format=json"
+        },
+        {
+            "amendmentNumber": "528",
+            "congress": 99,
+            "introducedDate": "1985-10-09",
+            "latestAction": {
+                "actionDate": "1985-10-09",
+                "text": "Point of Order Sustained Against Amendment in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/528?format=json"
+        },
+        {
+            "amendmentNumber": "530",
+            "congress": 99,
+            "introducedDate": "1985-10-09",
+            "latestAction": {
+                "actionDate": "1985-10-09",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/530?format=json"
+        },
+        {
+            "amendmentNumber": "380",
+            "congress": 99,
+            "introducedDate": "1985-07-25",
+            "latestAction": {
+                "actionDate": "1985-07-25",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/380?format=json"
+        },
+        {
+            "amendmentNumber": "410",
+            "congress": 99,
+            "introducedDate": "1985-09-05",
+            "latestAction": {
+                "actionDate": "1985-09-05",
+                "text": "Amendment Offered by Representative Walker. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/410?format=json"
+        },
+        {
+            "amendmentNumber": "333",
+            "congress": 99,
+            "introducedDate": "1985-07-17",
+            "latestAction": {
+                "actionDate": "1985-07-17",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 98 - 315 (Record Vote No: 231). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/333?format=json"
+        },
+        {
+            "amendmentNumber": "269",
+            "congress": 99,
+            "introducedDate": "1985-07-10",
+            "latestAction": {
+                "actionDate": "1985-07-10",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/269?format=json"
+        },
+        {
+            "amendmentNumber": "152",
+            "congress": 99,
+            "introducedDate": "1985-06-21",
+            "latestAction": {
+                "actionDate": "1985-06-21",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/152?format=json"
+        },
+        {
+            "amendmentNumber": "85",
+            "congress": 99,
+            "introducedDate": "1985-06-11",
+            "latestAction": {
+                "actionDate": "1985-06-11",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/85?format=json"
+        },
+        {
+            "amendmentNumber": "97",
+            "congress": 99,
+            "introducedDate": "1985-06-13",
+            "latestAction": {
+                "actionDate": "1985-06-13",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/97?format=json"
+        },
+        {
+            "amendmentNumber": "84",
+            "congress": 99,
+            "introducedDate": "1985-06-11",
+            "latestAction": {
+                "actionDate": "1985-06-11",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 202 - 217 (Record Vote No: 150). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/84?format=json"
+        },
+        {
+            "amendmentNumber": "88",
+            "congress": 99,
+            "introducedDate": "1985-06-11",
+            "latestAction": {
+                "actionDate": "1985-06-11",
+                "text": "Amendment Withdrawn in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/88?format=json"
+        },
+        {
+            "amendmentNumber": "13",
+            "congress": 99,
+            "introducedDate": "1985-04-17",
+            "latestAction": {
+                "actionDate": "1985-04-17",
+                "text": "Amendment Passed (Amended) in Committee of the Whole by Recorded Vote: 407 - 4 (Record Vote No: 54). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/13?format=json"
+        },
+        {
+            "amendmentNumber": "54",
+            "congress": 99,
+            "introducedDate": "1985-05-14",
+            "latestAction": {
+                "actionDate": "1985-05-14",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 100 - 318 (Record Vote No: 111). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/54?format=json"
+        },
+        {
+            "amendmentNumber": "28",
+            "congress": 99,
+            "introducedDate": "1985-05-08",
+            "latestAction": {
+                "actionDate": "1985-05-08",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/28?format=json"
+        },
+        {
+            "amendmentNumber": "52",
+            "congress": 99,
+            "introducedDate": "1985-05-14",
+            "latestAction": {
+                "actionDate": "1985-05-14",
+                "text": "Amendment Passed (Amended) in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/52?format=json"
+        },
+        {
+            "amendmentNumber": "9",
+            "congress": 99,
+            "introducedDate": "1985-04-03",
+            "latestAction": {
+                "actionDate": "1985-04-03",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/9?format=json"
+        },
+        {
+            "amendmentNumber": "16",
+            "congress": 99,
+            "introducedDate": "1985-04-18",
+            "latestAction": {
+                "actionDate": "1985-04-18",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 196 - 201 (Record Vote No: 56). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/16?format=json"
+        },
+        {
+            "amendmentNumber": "7",
+            "congress": 99,
+            "introducedDate": "1985-04-03",
+            "latestAction": {
+                "actionDate": "1985-04-03",
+                "text": "Amendment Passed in Committee of the Whole by Recorded Vote: 288 - 127 (Record Vote No: 48). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/7?format=json"
+        },
+        {
+            "amendmentNumber": "11",
+            "congress": 99,
+            "introducedDate": "1985-04-03",
+            "latestAction": {
+                "actionDate": "1985-04-03",
+                "text": "Amendment Passed in Committee of the Whole by Recorded Vote: 206 - 201 (Record Vote No: 49). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/11?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-05-07",
+            "latestAction": {
+                "actionDate": "1986-05-07",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "4778",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow taxpayers to direct the Internal Revenue Service to transfer any portion of their income tax refunds to a fund established to further the development of manned space flight, and to allow taxpayers to make contributions to such a fund when paying their income tax.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/4778?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-03-05",
+            "latestAction": {
+                "actionDate": "1986-08-26",
+                "text": "Unfavorable Executive Comment Received From U.S. Trade Representative."
+            },
+            "number": "4322",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Trade Reform and Job Creation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/4322?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-09-19",
+            "latestAction": {
+                "actionDate": "1985-09-19",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "3389",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to deny tax exemptions to, and income tax, estate tax, and gift tax deductions for contributions to, religious organizations having a substantial interest in the promotion of witchcraft.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/3389?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-03-19",
+            "latestAction": {
+                "actionDate": "1985-03-28",
+                "text": "Referred to Subcommittee on Trade."
+            },
+            "number": "1595",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "International Human Dignity and Opportunity Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/1595?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-02-07",
+            "latestAction": {
+                "actionDate": "1985-02-14",
+                "text": "Referred to Subcommittee on Domestic Marketing, Consumer Relations, and Nutrition."
+            },
+            "number": "1087",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Food Stamp Optional Block Grant Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/1087?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-01-03",
+            "latestAction": {
+                "actionDate": "1985-01-03",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "476",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide to individuals who have attained the age of 62 a refundable credit against income tax for increases in real property taxes and utility bills.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/476?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-01-03",
+            "latestAction": {
+                "actionDate": "1985-01-03",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "475",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to exclude from gross income gain on the sale or exchange of certain farmland if the owners of the farmland, in a convenant binding themselves and all future owners of their land, restrict the use of such land to use as farmland.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/475?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-01-03",
+            "latestAction": {
+                "actionDate": "1985-01-16",
+                "text": "Referred to Subcommittee on Intergovernmental Relations and Human Resources."
+            },
+            "number": "474",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Jobs for Distressed Communities Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/474?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-08-14",
+            "latestAction": {
+                "actionDate": "1986-08-15",
+                "text": "Referred to Subcommittee on Health and the Environment."
+            },
+            "number": "712",
+            "policyArea": {
+                "name": "Arts, Culture, Religion"
+            },
+            "title": "A joint resolution to request that the entertainment industry take certain steps to assist in the national war against illegal drugs.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/99/hjres/712?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-09-17",
+            "latestAction": {
+                "actionDate": "1986-09-17",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "731",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A joint resolution affirming the legislative intent under the Social Security Act to provide for increases in old-age insurance benefits with due regard to increases in the cost of living.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/99/hjres/731?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-06-05",
+            "latestAction": {
+                "actionDate": "1985-06-14",
+                "text": "Referred to Subcommittee on Human Rights and International Organizations."
+            },
+            "number": "306",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A joint resolution to request that the Secretary of State raise the case of the imprisonment of Aleksandr Shatravka with the Soviet Union.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/99/hjres/306?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-10-02",
+            "latestAction": {
+                "actionDate": "1986-10-02",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "573",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A resolution affirming the intent of the 99th Congress to oppose any increase in individual or corporate tax rates, or the reduction or elimination of deductions and credits without corresponding tax rate reductions, and calling on the 100th Congress to adopt such policy.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/99/hres/573?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-04-29",
+            "latestAction": {
+                "actionDate": "1986-05-09",
+                "text": "Referred to Subcommittee on International Economic Policy and Trade."
+            },
+            "number": "439",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution to express the sense of the House of Representatives concerning the Soviet nuclear accident at Chernobyl.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/99/hres/439?format=json"
+        },
+        {
+            "amendmentNumber": "860",
+            "congress": 100,
+            "introducedDate": "1988-08-10",
+            "latestAction": {
+                "actionDate": "1988-08-10",
+                "text": "Point of Order Sustained Against Amendment in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/860?format=json"
+        },
+        {
+            "amendmentNumber": "785",
+            "congress": 100,
+            "introducedDate": "1988-06-28",
+            "latestAction": {
+                "actionDate": "1988-06-28",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/785?format=json"
+        },
+        {
+            "amendmentNumber": "753",
+            "congress": 100,
+            "introducedDate": "1988-06-15",
+            "latestAction": {
+                "actionDate": "1988-06-15",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/753?format=json"
+        },
+        {
+            "amendmentNumber": "755",
+            "congress": 100,
+            "introducedDate": "1988-06-16",
+            "latestAction": {
+                "actionDate": "1988-06-16",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/755?format=json"
+        },
+        {
+            "amendmentNumber": "759",
+            "congress": 100,
+            "introducedDate": "1988-06-21",
+            "latestAction": {
+                "actionDate": "1988-06-21",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/759?format=json"
+        },
+        {
+            "amendmentNumber": "767",
+            "congress": 100,
+            "introducedDate": "1988-06-23",
+            "latestAction": {
+                "actionDate": "1988-06-23",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/767?format=json"
+        },
+        {
+            "amendmentNumber": "791",
+            "congress": 100,
+            "introducedDate": "1988-06-29",
+            "latestAction": {
+                "actionDate": "1988-06-29",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/791?format=json"
+        },
+        {
+            "amendmentNumber": "772",
+            "congress": 100,
+            "introducedDate": "1988-06-28",
+            "latestAction": {
+                "actionDate": "1988-06-28",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/772?format=json"
+        },
+        {
+            "amendmentNumber": "750",
+            "congress": 100,
+            "introducedDate": "1988-06-15",
+            "latestAction": {
+                "actionDate": "1988-06-15",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/750?format=json"
+        },
+        {
+            "amendmentNumber": "746",
+            "congress": 100,
+            "introducedDate": "1988-06-14",
+            "latestAction": {
+                "actionDate": "1988-06-14",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/746?format=json"
+        },
+        {
+            "amendmentNumber": "726",
+            "congress": 100,
+            "introducedDate": "1988-06-01",
+            "latestAction": {
+                "actionDate": "1988-06-01",
+                "text": "Amendment Passed in Committee of the Whole by Recorded Vote: 382 - 0 (Record Vote No: 160). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/726?format=json"
+        },
+        {
+            "amendmentNumber": "765",
+            "congress": 100,
+            "introducedDate": "1988-06-22",
+            "latestAction": {
+                "actionDate": "1988-06-22",
+                "text": "Amendment Passed House by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/765?format=json"
+        },
+        {
+            "amendmentNumber": "705",
+            "congress": 100,
+            "introducedDate": "1988-05-19",
+            "latestAction": {
+                "actionDate": "1988-05-19",
+                "text": "Amendment Passed in Committee of the Whole by Recorded Vote: 286 - 98 (Record Vote No: 147). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/705?format=json"
+        },
+        {
+            "amendmentNumber": "690",
+            "congress": 100,
+            "introducedDate": "1988-05-18",
+            "latestAction": {
+                "actionDate": "1988-05-18",
+                "text": "Point of Order Sustained Against Amendment in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/690?format=json"
+        },
+        {
+            "amendmentNumber": "689",
+            "congress": 100,
+            "introducedDate": "1988-05-17",
+            "latestAction": {
+                "actionDate": "1988-05-17",
+                "text": "Amendment Passed in Committee of the Whole by Recorded Vote: 273 - 127 (Record Vote No: 132). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/689?format=json"
+        },
+        {
+            "amendmentNumber": "711",
+            "congress": 100,
+            "introducedDate": "1988-05-25",
+            "latestAction": {
+                "actionDate": "1988-05-25",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/711?format=json"
+        },
+        {
+            "amendmentNumber": "691",
+            "congress": 100,
+            "introducedDate": "1988-05-18",
+            "latestAction": {
+                "actionDate": "1988-05-18",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/691?format=json"
+        },
+        {
+            "amendmentNumber": "597",
+            "congress": 100,
+            "introducedDate": "1988-03-17",
+            "latestAction": {
+                "actionDate": "1988-03-17",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 41 - 340 (Record Vote No: 35). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/597?format=json"
+        },
+        {
+            "amendmentNumber": "604",
+            "congress": 100,
+            "introducedDate": "1988-03-31",
+            "latestAction": {
+                "actionDate": "1988-03-31",
+                "text": "Amendment Passed in Committee of the Whole by Recorded Vote: 203 - 187 (Record Vote No: 50). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/604?format=json"
+        },
+        {
+            "amendmentNumber": "606",
+            "congress": 100,
+            "introducedDate": "1988-04-13",
+            "latestAction": {
+                "actionDate": "1988-04-13",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 183 - 221 (Record Vote No: 53). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/606?format=json"
+        },
+        {
+            "amendmentNumber": "472",
+            "congress": 100,
+            "introducedDate": "1987-10-27",
+            "latestAction": {
+                "actionDate": "1987-10-27",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/472?format=json"
+        },
+        {
+            "amendmentNumber": "385",
+            "congress": 100,
+            "introducedDate": "1987-08-06",
+            "latestAction": {
+                "actionDate": "1987-08-06",
+                "text": "Amendment Withdrawn in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/385?format=json"
+        },
+        {
+            "amendmentNumber": "376",
+            "congress": 100,
+            "introducedDate": "1987-08-05",
+            "latestAction": {
+                "actionDate": "1987-08-05",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/376?format=json"
+        },
+        {
+            "amendmentNumber": "290",
+            "congress": 100,
+            "introducedDate": "1987-06-29",
+            "latestAction": {
+                "actionDate": "1987-06-29",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 77 - 297 (Record Vote No: 226). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/290?format=json"
+        },
+        {
+            "amendmentNumber": "276",
+            "congress": 100,
+            "introducedDate": "1987-06-25",
+            "latestAction": {
+                "actionDate": "1987-06-25",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 115 - 298 (Record Vote No: 215). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/276?format=json"
+        },
+        {
+            "amendmentNumber": "272",
+            "congress": 100,
+            "introducedDate": "1987-06-25",
+            "latestAction": {
+                "actionDate": "1987-06-25",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 130 - 281 (Record Vote No: 214). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/272?format=json"
+        },
+        {
+            "amendmentNumber": "265",
+            "congress": 100,
+            "introducedDate": "1987-06-18",
+            "latestAction": {
+                "actionDate": "1987-06-23",
+                "text": "Amendment Passed House by Yea-Nay Vote: 213 - 201 (Record Vote No: 205). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/265?format=json"
+        },
+        {
+            "amendmentNumber": "283",
+            "congress": 100,
+            "introducedDate": "1987-06-26",
+            "latestAction": {
+                "actionDate": "1987-06-26",
+                "text": "Amendment Passed House by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/283?format=json"
+        },
+        {
+            "amendmentNumber": "278",
+            "congress": 100,
+            "introducedDate": "1987-06-25",
+            "latestAction": {
+                "actionDate": "1987-06-25",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/278?format=json"
+        },
+        {
+            "amendmentNumber": "264",
+            "congress": 100,
+            "introducedDate": "1987-06-18",
+            "latestAction": {
+                "actionDate": "1987-06-18",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 144 - 224 (Record Vote No: 199). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/264?format=json"
+        },
+        {
+            "amendmentNumber": "185",
+            "congress": 100,
+            "introducedDate": "1987-06-04",
+            "latestAction": {
+                "actionDate": "1987-06-04",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/185?format=json"
+        },
+        {
+            "amendmentNumber": "247",
+            "congress": 100,
+            "introducedDate": "1987-06-17",
+            "latestAction": {
+                "actionDate": "1987-06-17",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/247?format=json"
+        },
+        {
+            "amendmentNumber": "39",
+            "congress": 100,
+            "introducedDate": "1987-04-23",
+            "latestAction": {
+                "actionDate": "1987-04-23",
+                "text": "Amendment Passed House by Yea-Nay Vote: 204 - 184 (Record Vote No: 65). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/39?format=json"
+        },
+        {
+            "amendmentNumber": "14",
+            "congress": 100,
+            "introducedDate": "1987-03-05",
+            "latestAction": {
+                "actionDate": "1987-03-05",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 154 - 230 (Record Vote No: 21). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/14?format=json"
+        },
+        {
+            "amendmentNumber": "36",
+            "congress": 100,
+            "introducedDate": "1987-04-23",
+            "latestAction": {
+                "actionDate": "1987-04-23",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 75 - 332 (Record Vote No: 58). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/36?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-04-26",
+            "latestAction": {
+                "actionDate": "1988-06-15",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "4467",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Drug-Free Workplace Act of 1988",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4467?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-04-13",
+            "latestAction": {
+                "actionDate": "1988-04-13",
+                "text": "Referred to House Committee on Appropriations."
+            },
+            "number": "4383",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A bill to rescind certain amounts of budget authority and to repeal certain provisions of law contained in an Act making further continuing appropriations for the fiscal year 1988, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4383?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-01-06",
+            "latestAction": {
+                "actionDate": "1987-07-21",
+                "text": "See H.R.3."
+            },
+            "number": "270",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Trade Reform, and Job Creation, and Economic Competitiveness Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/270?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-01-06",
+            "latestAction": {
+                "actionDate": "1987-01-06",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "269",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to exclude from gross income gain on the sale or exchange of certain farmland if the owners of the farmland, in a covenant binding themselves and all future owners of their land, restrict the use of such land to use as farmland.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/269?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-01-06",
+            "latestAction": {
+                "actionDate": "1987-01-13",
+                "text": "Referred to Subcommittee on Social Security."
+            },
+            "number": "41",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A joint resolution affirming the legislative intent under the Social Security Act to provide for increases in old-age insurance benefits with due regard to increases in the cost of living.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/41?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-03-30",
+            "latestAction": {
+                "actionDate": "1988-10-13",
+                "text": "Unfavorable Executive Comment Received From DOD."
+            },
+            "number": "423",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution expressing the concern of the House of Representatives regarding the future security of the Panama Canal.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/100/hres/423?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-08-06",
+            "latestAction": {
+                "actionDate": "1987-08-07",
+                "text": "Referred to Subcommittee on Accounts."
+            },
+            "number": "252",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A resolution to establish the Commission on Review of House Ethics.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/100/hres/252?format=json"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "pagination": {
+        "count": 3
+    },
+    "request": {
+        "bioguideId": "r000489",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 96,
+            "introducedDate": "1980-09-05",
+            "latestAction": {
+                "actionDate": "1980-09-05",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "8086",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Charles Evans and Associates of San Mateo, California.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/8086?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-03-06",
+            "latestAction": {
+                "actionDate": "1980-12-22",
+                "text": "Private Law 96-101."
+            },
+            "number": "6739",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill to confer United States citizenship posthumously upon Leopoldine Marie Schmid.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/6739?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-12-12",
+            "latestAction": {
+                "actionDate": "1979-12-12",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "6114",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to authorize pursuit by an eligible veteran of flight training outside of a state under limited circumstances, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/6114?format=json"
+        }
+    ]
+}

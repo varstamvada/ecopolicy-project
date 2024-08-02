@@ -1,0 +1,2231 @@
+{
+    "pagination": {
+        "count": 151
+    },
+    "request": {
+        "bioguideId": "h000067",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "555",
+            "congress": 102,
+            "introducedDate": "1992-05-20",
+            "latestAction": {
+                "actionDate": "1992-05-20",
+                "actionTime": "19:40:00",
+                "text": "By unanimous consent, the Hall (TX) amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/555?format=json"
+        },
+        {
+            "amendmentNumber": "647",
+            "congress": 113,
+            "introducedDate": "2014-05-01",
+            "latestAction": {
+                "actionDate": "2014-05-01",
+                "actionTime": "10:39:40",
+                "text": "On agreeing to the Hall amendment (A006) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/647?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-09-18",
+            "latestAction": {
+                "actionDate": "2014-09-19",
+                "text": "Referred to the Subcommittee on Water Resources and Environment."
+            },
+            "number": "5604",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "To direct the Secretary of the Army to revise the management plan for the conservation pool in Lake Texoma, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5604?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-09-18",
+            "latestAction": {
+                "actionDate": "2014-10-23",
+                "text": "Referred to the Subcommittee on Conservation, Energy, and Forestry."
+            },
+            "number": "5603",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To provide for the conveyance of the Lake Fannin Tract of the Caddo National Grasslands in Fannin County, Texas, to the County, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5603?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-05-09",
+            "latestAction": {
+                "actionDate": "2014-05-16",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4625",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare Home Health Rebasing Relief and Reassessment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4625?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-02-11",
+            "latestAction": {
+                "actionDate": "2014-06-09",
+                "text": "Became Public Law No: 113-117."
+            },
+            "number": "4032",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "North Texas Invasive Species Barrier Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4032?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-10-02",
+            "latestAction": {
+                "actionDate": "2013-10-02",
+                "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "3234",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Pay Accountability Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3234?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-06-19",
+            "latestAction": {
+                "actionDate": "2014-03-06",
+                "text": "Became Public Law No: 113-86."
+            },
+            "number": "2431",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "National Integrated Drought Information System Reauthorization Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2431?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-03-12",
+            "latestAction": {
+                "actionDate": "2013-04-10",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "1076",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend the Patient Protection and Affordable Care Act to provide for savings to the Federal Government by permitting pass-through funding for State authorized public entity health benefits pools.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/1076?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-03-06",
+            "latestAction": {
+                "actionDate": "2013-03-12",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "991",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "CT Colonography Screening for Colorectal Cancer Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/991?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-02-27",
+            "latestAction": {
+                "actionDate": "2013-03-01",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "855",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Optometric Equity in Medicaid Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/855?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-01-18",
+            "latestAction": {
+                "actionDate": "2014-06-10",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "318",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To authorize a Wall of Remembrance as part of the Korean War Veterans Memorial and to allow certain private contributions to fund that Wall of Remembrance.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/318?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-01-04",
+            "latestAction": {
+                "actionDate": "2013-12-20",
+                "text": "Became Public Law No: 113-58."
+            },
+            "number": "185",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To designate the United States courthouse located at 101 East Pecan Street in Sherman, Texas, as the \"Paul Brown United States Courthouse\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/185?format=json"
+        },
+        {
+            "amendmentNumber": "148",
+            "congress": 112,
+            "introducedDate": "2011-02-18",
+            "latestAction": {
+                "actionDate": "2011-02-19",
+                "actionTime": "01:34:37",
+                "text": "On agreeing to the Hall amendment (A138) Agreed to by recorded vote: 233 - 187 (Roll no. 127). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/148?format=json"
+        },
+        {
+            "amendmentNumber": "46",
+            "congress": 112,
+            "introducedDate": "2011-02-16",
+            "latestAction": {
+                "actionDate": "2011-02-16",
+                "actionTime": "17:44:25",
+                "text": "Mr. Simpson raised a point of order against the Hall amendment (A036). Mr. Simpson stated that the amendment seeks to change existing law and constitutes legislation in an appropriation bill. The Chair sustained the point of order. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/46?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-12-05",
+            "latestAction": {
+                "actionDate": "2012-12-20",
+                "text": "Received in the Senate."
+            },
+            "number": "6633",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To designate the United States courthouse located at 101 East Pecan Street in Sherman, Texas, as the \"Paul Brown United States Courthouse\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6633?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-11-27",
+            "latestAction": {
+                "actionDate": "2012-11-27",
+                "text": "Referred to the House Committee on Science, Space, and Technology."
+            },
+            "number": "6603",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Tapping America's Energy Potential through Research and Development Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6603?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-09-28",
+            "latestAction": {
+                "actionDate": "2012-10-10",
+                "text": "Referred to the Subcommittee on Energy and Environment."
+            },
+            "number": "6564",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "EPA Science Advisory Board Reform Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6564?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-09-21",
+            "latestAction": {
+                "actionDate": "2012-09-21",
+                "text": "Referred to the House Committee on Science, Space, and Technology."
+            },
+            "number": "6489",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "National Integrated Drought Information System Reauthorization Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6489?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-07-31",
+            "latestAction": {
+                "actionDate": "2012-08-03",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "6234",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend the Patient Protection and Affordable Care Act to provide for savings to the Federal Government by permitting pass-through funding for State authorized public entity health benefits pools.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6234?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-06-21",
+            "latestAction": {
+                "actionDate": "2012-09-11",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+            },
+            "number": "6007",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "North Texas Zebra Mussel Barrier Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6007?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-03-08",
+            "latestAction": {
+                "actionDate": "2012-03-13",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4165",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "CT Colonography Screening for Colorectal Cancer Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/4165?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-03-07",
+            "latestAction": {
+                "actionDate": "2012-10-05",
+                "text": "Became Public Law No: 112-185."
+            },
+            "number": "4158",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "To confirm full ownership rights for certain United States astronauts to artifacts from the astronauts' space missions.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/4158?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-01-27",
+            "latestAction": {
+                "actionDate": "2012-05-07",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+            },
+            "number": "3834",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Advancing America's Networking and Information Technology Research and Development Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3834?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-01-27",
+            "latestAction": {
+                "actionDate": "2012-01-30",
+                "text": "Referred to the Subcommittee on Highways and Transit."
+            },
+            "number": "3833",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "DRIVES Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3833?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-09-29",
+            "latestAction": {
+                "actionDate": "2011-10-05",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3072",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "State Authorized Alternative Health Arrangement Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3072?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-07-15",
+            "latestAction": {
+                "actionDate": "2011-10-04",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "2563",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To authorize a Wall of Remembrance as part of the Korean War Veterans Memorial and to allow certain private contributions to fund that Wall of Remembrance.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2563?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-07-08",
+            "latestAction": {
+                "actionDate": "2011-07-13",
+                "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote ."
+            },
+            "number": "2463",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Border Security Technology Innovation Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2463?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-03-29",
+            "latestAction": {
+                "actionDate": "2011-03-29",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "1219",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Optometric Equity in Medicaid Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1219?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-03-09",
+            "latestAction": {
+                "actionDate": "2011-04-04",
+                "text": "Placed on the Union Calendar, Calendar No. 26."
+            },
+            "number": "970",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Federal Aviation Research and Development Reauthorization Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/970?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-02-28",
+            "latestAction": {
+                "actionDate": "2011-02-28",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "109",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing amounts for the expenses of the Committee on Science, Space, and Technology in the One Hundred Twelfth Congress.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/109?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-02-17",
+            "latestAction": {
+                "actionDate": "2011-02-17",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "97",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing amounts for the expenses of the Committee on Science, Space, and Technology in the One Hundred Twelfth Congress.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/97?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-11-18",
+            "latestAction": {
+                "actionDate": "2012-02-07",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "89",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of the Congress regarding National Pearl Harbor Remembrance Day.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/112/hconres/89?format=json"
+        },
+        {
+            "amendmentNumber": "731",
+            "congress": 109,
+            "introducedDate": "2006-03-16",
+            "latestAction": {
+                "actionDate": "2006-03-16",
+                "actionTime": "12:14:35",
+                "text": "Mr. Lewis (CA) raised a point of order against the Hall amendment (A031). Mr. Lewis (CA) raised a point of order against the amendment stating that it proposed to change existing law and constituted legislation in an appropriations bill. The Chair sustained the point of order. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/731?format=json"
+        },
+        {
+            "amendmentNumber": "70",
+            "congress": 109,
+            "introducedDate": "2005-04-20",
+            "latestAction": {
+                "actionDate": "2005-04-20",
+                "actionTime": "17:10:42",
+                "text": "On agreeing to the Hall amendment (A001) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/70?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-09-28",
+            "latestAction": {
+                "actionDate": "2006-10-04",
+                "text": "Executive Comment Requested from DOE."
+            },
+            "number": "6230",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Desalination Energy Consumption Reduction Act of 2006",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/6230?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-06-14",
+            "latestAction": {
+                "actionDate": "2006-06-23",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "5608",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Keeping Seniors Safe From Falls Act of 2006",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/5608?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-06-14",
+            "latestAction": {
+                "actionDate": "2006-10-12",
+                "text": "Became Public Law No: 109-332."
+            },
+            "number": "5606",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To designate the Federal building and United States courthouse located at 221 and 211 West Ferguson Street in Tyler, Texas, as the \"William M. Steger Federal Building and United States Courthouse\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/5606?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-25",
+            "latestAction": {
+                "actionDate": "2006-06-05",
+                "text": "Referred to the Subcommittee on Energy and Air Quality."
+            },
+            "number": "5478",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "To clarify the Congressional intent on Federal preemption under the Energy Policy and Conservation Act with respect to energy conservation for consumer products.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/5478?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-25",
+            "latestAction": {
+                "actionDate": "2006-05-15",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "5179",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XVIII of the Social Security Act to ensure adequate payment amounts for drugs and biologicals under part B of the Medicare Program.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/5179?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-06",
+            "latestAction": {
+                "actionDate": "2006-12-20",
+                "text": "Became Public Law No: 109-430."
+            },
+            "number": "5136",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "National Integrated Drought Information System Act of 2006",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/5136?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-12-18",
+            "latestAction": {
+                "actionDate": "2006-01-09",
+                "text": "Referred to the Subcommittee on Energy and Mineral Resources."
+            },
+            "number": "4638",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Domestic Natural Gas Supply Act of 2006",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4638?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-11-16",
+            "latestAction": {
+                "actionDate": "2005-12-08",
+                "text": "Sponsor introductory remarks on measure. (CR E2211)"
+            },
+            "number": "4341",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To amend the Comprehensive Environmental Response Compensation and Liability Act of 1980 (\"Superfund\") to provide that manure is not considered a hazardous substance or pollutant or contaminant under that Act, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4341?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-02-08",
+            "latestAction": {
+                "actionDate": "2005-02-25",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "615",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Notch Fairness Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/615?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-09-15",
+            "latestAction": {
+                "actionDate": "2005-11-07",
+                "actionTime": "19:24:09",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "444",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Gynecological Resolution for Advancement of Ovarian Cancer Education",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/444?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-05-04",
+            "latestAction": {
+                "actionDate": "2005-10-06",
+                "actionTime": "17:40:17",
+                "text": "The title of the measure was amended. Agreed to without objection."
+            },
+            "number": "261",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Resolution expressing the sense of the House of Representatives that the Centers for Medicare & Medicaid Services should be commended for implementing the Medicare demonstration project to assess the quality of care of cancer patients undergoing chemotherapy, and should extend the project through 2006, subject to any appropriate modifications.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/261?format=json"
+        },
+        {
+            "amendmentNumber": "638",
+            "congress": 111,
+            "introducedDate": "2010-05-12",
+            "latestAction": {
+                "actionDate": "2010-05-12",
+                "actionTime": "18:04:07",
+                "text": "On agreeing to the Hall (TX) amendment (A003) Failed by recorded vote: 163 - 258 (Roll no. 263). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/hamdt/638?format=json"
+        },
+        {
+            "amendmentNumber": "413",
+            "congress": 111,
+            "introducedDate": "2009-09-16",
+            "latestAction": {
+                "actionDate": "2009-09-16",
+                "actionTime": "15:08:08",
+                "text": "On agreeing to the Hall (TX) amendment (A002) Failed by recorded vote: 179 - 253 (Roll no. 705). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/hamdt/413?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-01-21",
+            "latestAction": {
+                "actionDate": "2010-01-25",
+                "text": "Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife."
+            },
+            "number": "4485",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "New Resources for Domestic Consumption Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4485?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-02-13",
+            "latestAction": {
+                "actionDate": "2009-02-13",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1067",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Notch Fairness Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1067?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-01-13",
+            "latestAction": {
+                "actionDate": "2009-02-12",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "469",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Produced Water Utilization Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/469?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-01-21",
+            "latestAction": {
+                "actionDate": "2010-03-01",
+                "text": "Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties."
+            },
+            "number": "67",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Proposing an amendment to the Constitution of the United States to limit the number of consecutive terms that a Member of Congress may serve.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/111/hjres/67?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-07-28",
+            "latestAction": {
+                "actionDate": "2010-10-13",
+                "text": "Referred to the Subcommittee on Healthy Families and Communities."
+            },
+            "number": "1565",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Expressing support for the designation of the third Thursday of April as \"Rachel's Challenge: A Day of Kindness and Compassion\" in honor of the triumph and hope stemming from the life of Rachel Scott and in memoriam of the Columbine High School tragedy.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/1565?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-12-08",
+            "latestAction": {
+                "actionDate": "2009-12-08",
+                "text": "Referred to the House Committee on Science and Technology."
+            },
+            "number": "954",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Expressing the sense of the House of Representatives regarding the scientific protocols, data collection methods, and peer review standards for climate change research which are necessary to preclude future infringements of the public trust.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/954?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-07-07",
+            "latestAction": {
+                "actionDate": "2009-07-20",
+                "actionTime": "19:08:13",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "607",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Celebrating the Fortieth Anniversary of the Apollo 11 Moon Landing.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/607?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-23",
+            "latestAction": {
+                "actionDate": "2009-06-08",
+                "actionTime": "14:57:40",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "356",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Expressing support for the designation of February 8, 2010, as \"Boy Scouts of America Day\", in celebration of the Nation's largest youth scouting organization's 100th anniversary.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/356?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-02-04",
+            "latestAction": {
+                "actionDate": "2009-02-04",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "116",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Expressing support for the designation of February 8, 2010, as \"Boy Scouts of America Day\", in celebration of the Nation's largest youth scouting organization's 100th anniversary.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/116?format=json"
+        },
+        {
+            "amendmentNumber": "107",
+            "congress": 110,
+            "introducedDate": "2007-04-24",
+            "latestAction": {
+                "actionDate": "2007-04-24",
+                "actionTime": "17:47:22",
+                "text": "On agreeing to the Hall (TX) amendment (A001) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/hamdt/107?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-07-31",
+            "latestAction": {
+                "actionDate": "2008-09-17",
+                "text": "Referred to the Subcommittee on Space and Aeronautics."
+            },
+            "number": "6700",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "To recognize those astronauts who participated in missions to the moon in the Apollo program of the National Aeronautics and Space Administration by authorizing their appointment to the grade of major general or rear admiral on the retired list, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6700?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-07-23",
+            "latestAction": {
+                "actionDate": "2008-07-28",
+                "text": "Referred to the Subcommittee on Energy and Mineral Resources."
+            },
+            "number": "6579",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "New Resources for Domestic Consumption Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6579?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-10-22",
+            "latestAction": {
+                "actionDate": "2008-06-04",
+                "text": "Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-684, Part I."
+            },
+            "number": "3916",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Border Security Technology Innovation Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3916?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-05-24",
+            "latestAction": {
+                "actionDate": "2007-05-31",
+                "text": "Referred to the Subcommittee on Energy and Environment."
+            },
+            "number": "2483",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Energy for America Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/2483?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-05-21",
+            "latestAction": {
+                "actionDate": "2007-05-21",
+                "text": "Referred to the Subcommittee on Energy and Air Quality."
+            },
+            "number": "2396",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "To increase the capacity of the Strategic Petroleum Reserve, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/2396?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-05-16",
+            "latestAction": {
+                "actionDate": "2008-07-31",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "2339",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Produced Water Utilization Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/2339?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-04-20",
+            "latestAction": {
+                "actionDate": "2007-04-23",
+                "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management."
+            },
+            "number": "1978",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To designate the United States courthouse located at 101 East Pecan Street in Sherman, Texas, as the \"Paul Brown United States Courthouse\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/1978?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-01-10",
+            "latestAction": {
+                "actionDate": "2007-01-18",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "368",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Notch Fairness Act of 2007",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/368?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-09-27",
+            "latestAction": {
+                "actionDate": "2008-09-27",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "1512",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Expressing support for designation of February 8, 2010, as \"Boy Scouts of America Day\" in celebration of the 100th anniversary.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/1512?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-09-22",
+            "latestAction": {
+                "actionDate": "2008-09-22",
+                "actionTime": "16:31:35",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "1471",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Honoring the 50th anniversary of the successful demonstration of the first integrated circuit and its impact on the electronics industry.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/1471?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-10-03",
+            "latestAction": {
+                "actionDate": "2007-11-13",
+                "actionTime": "18:46:12",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "709",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Recognizing and honoring the 50th anniversary of the dedication of the Sam Rayburn Library and Museum on October 9, 2007, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/709?format=json"
+        },
+        {
+            "amendmentNumber": "333",
+            "congress": 108,
+            "introducedDate": "2003-07-25",
+            "latestAction": {
+                "actionDate": "2003-07-25",
+                "actionTime": "15:05:42",
+                "text": "On agreeing to the Hall amendment (A008) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/hamdt/333?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-10-01",
+            "latestAction": {
+                "actionDate": "2003-10-03",
+                "text": "Referred to the Subcommittee on Space and Aeronautics."
+            },
+            "number": "3219",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Space Shuttle Independent Oversight Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3219?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-01-07",
+            "latestAction": {
+                "actionDate": "2003-01-16",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "97",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Notch Fairness Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/97?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-01-07",
+            "latestAction": {
+                "actionDate": "2003-01-21",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "96",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Preservation Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/96?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-09-23",
+            "latestAction": {
+                "actionDate": "2004-10-07",
+                "actionTime": "00:47:41",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "796",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Recognizing and supporting all efforts to promote greater civic awareness among the people of the United States.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/796?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-07-19",
+            "latestAction": {
+                "actionDate": "2004-07-21",
+                "actionTime": "12:39:19",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "723",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Recognizing the 35th anniversary of the Apollo 11 lunar landing, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/723?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-05-20",
+            "latestAction": {
+                "actionDate": "2004-06-14",
+                "actionTime": "19:30:07",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "653",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Honoring former President George Herbert Walker Bush on the occasion of his 80th birthday.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/653?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-05-07",
+            "latestAction": {
+                "actionDate": "2003-05-13",
+                "actionTime": "19:19:59",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "222",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Commending those individuals who contributed to the debris collection effort following the Space Shuttle Columbia accident.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/222?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-03-12",
+            "latestAction": {
+                "actionDate": "2002-10-18",
+                "text": "House Committee on Energy and Commerce Granted an extension for further consideration ending not later than Nov. 22, 2002."
+            },
+            "number": "3929",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Energy Pipeline Research, Development, and Demonstration Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3929?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-08-02",
+            "latestAction": {
+                "actionDate": "2001-08-20",
+                "text": "Executive Comment Requested from Interior."
+            },
+            "number": "2756",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Natural Gas and Other Petroleum Research, Development, and Demonstration Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2756?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-05-03",
+            "latestAction": {
+                "actionDate": "2001-07-20",
+                "text": "Referred to the Subcommittee on 21st Century Competitiveness."
+            },
+            "number": "1693",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Science Education for the 21st Century Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1693?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-01-03",
+            "latestAction": {
+                "actionDate": "2001-02-09",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "96",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Preservation Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/96?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-01-03",
+            "latestAction": {
+                "actionDate": "2001-02-09",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "97",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Notch Fairness Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/97?format=json"
+        },
+        {
+            "amendmentNumber": "573",
+            "congress": 106,
+            "introducedDate": "2000-02-15",
+            "latestAction": {
+                "actionDate": "2000-02-15",
+                "actionTime": "14:14:31",
+                "text": "On agreeing to the Hall (TX) amendment (A001) Agreed to by voice vote. (text: CR H400)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/573?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-07-27",
+            "latestAction": {
+                "actionDate": "2000-09-20",
+                "text": "Referred to the Subcommittee on Workforce Protections."
+            },
+            "number": "5038",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Workplace Safety Improvement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/5038?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-07-27",
+            "latestAction": {
+                "actionDate": "2000-09-20",
+                "text": "Referred to the Subcommittee on Workforce Protections."
+            },
+            "number": "5037",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Workplace Safety and Accountability Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/5037?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-08-05",
+            "latestAction": {
+                "actionDate": "1999-09-15",
+                "text": "Sponsor introductory remarks on measure. (CR E1888-1889)"
+            },
+            "number": "2756",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Fair Competition in Tax-Exempt Financing Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2756?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-01-06",
+            "latestAction": {
+                "actionDate": "1999-01-19",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "147",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Preservation Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/147?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-01-06",
+            "latestAction": {
+                "actionDate": "1999-01-22",
+                "text": "Referred to the Subcommittee on Military Procurement."
+            },
+            "number": "146",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To authorize the President to consent to third party transfer of the ex-USS Bowman County to the USS LST Ship Memorial, Inc.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/146?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-01-06",
+            "latestAction": {
+                "actionDate": "1999-01-19",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "148",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Notch Fairness Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/148?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-03-25",
+            "latestAction": {
+                "actionDate": "1981-04-06",
+                "text": "Referred to Subcommittee on Surface Transportation."
+            },
+            "number": "2836",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to repeal the provisions of title 23, United States Code, relating to a national maximum speed limit of 55 miles per hour.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/2836?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-03-10",
+            "latestAction": {
+                "actionDate": "1982-03-15",
+                "text": "Referred to Subcommittee on Consumer Affairs and Coinage."
+            },
+            "number": "432",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A joint resolution to authorize the President of the United States to present on behalf of the Congress a specially struck gold medal to the family of Sam Rayburn.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/97/hjres/432?format=json"
+        },
+        {
+            "amendmentNumber": "1062",
+            "congress": 98,
+            "introducedDate": "1984-08-09",
+            "latestAction": {
+                "actionDate": "1984-08-09",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/1062?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-08-09",
+            "latestAction": {
+                "actionDate": "1984-08-09",
+                "text": "Referred to House Committee on The Judiciary."
+            },
+            "number": "6142",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Samuel O. Johnson.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/6142?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-06-27",
+            "latestAction": {
+                "actionDate": "1984-10-05",
+                "text": "Senate concurred in the House amendment to the Senate amendment with an amendment (SP7078) by Voice Vote."
+            },
+            "number": "5946",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Conservation Service Reform Act of 1984",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5946?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-11-18",
+            "latestAction": {
+                "actionDate": "1983-12-01",
+                "text": "Referred to Subcommittee on Military Personnel and Compensation."
+            },
+            "number": "4478",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill to waive the statute of limitations to award the Congressional Medal of Honor to Ensign George Gay.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4478?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-09-22",
+            "latestAction": {
+                "actionDate": "1984-06-28",
+                "text": "For Further Action See H.R.5946."
+            },
+            "number": "3966",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to amend the Energy Security Act and the National Energy Conservation Policy Act to repeal the statutory authorities administered by the Residential Energy Conservation Service and the Commercial and Apartment Conservation Service.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/3966?format=json"
+        },
+        {
+            "amendmentNumber": "1310",
+            "congress": 99,
+            "introducedDate": "1986-10-16",
+            "latestAction": {
+                "actionDate": "1986-10-16",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/1310?format=json"
+        },
+        {
+            "amendmentNumber": "604",
+            "congress": 99,
+            "introducedDate": "1985-11-06",
+            "latestAction": {
+                "actionDate": "1985-11-06",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/604?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-10-15",
+            "latestAction": {
+                "actionDate": "1986-10-15",
+                "text": "Referred to House Committee on The Judiciary."
+            },
+            "number": "5716",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Henry Cousins.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5716?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-04-29",
+            "latestAction": {
+                "actionDate": "1986-04-29",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "4699",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to repeal the Windfall Profits Tax.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/4699?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-07-10",
+            "latestAction": {
+                "actionDate": "1985-07-10",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "2948",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Superfund Excise Tax Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2948?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-04-24",
+            "latestAction": {
+                "actionDate": "1985-05-09",
+                "text": "Committee Hearings Held."
+            },
+            "number": "2208",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Hazardous Substance Response Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2208?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-04-24",
+            "latestAction": {
+                "actionDate": "1985-05-03",
+                "text": "Referred to Subcommittee on Military Personnel and Compensation."
+            },
+            "number": "2218",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to waive certain time limitations with respect to awarding a distinguished flying cross to Clayton P. Hall, Jr.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2218?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-04-23",
+            "latestAction": {
+                "actionDate": "1985-07-29",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "2187",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "A bill to amend section 456 of title 28, United States Code, to provide for payment of commuting expenses for justices and judges who reside within 300 miles of their official duty stations.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2187?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-02-06",
+            "latestAction": {
+                "actionDate": "1986-03-11",
+                "text": "House Incorporated this Measure (Amended) in S.410 as an Amendment."
+            },
+            "number": "969",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Conservation Service Reform Act of 1986",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/969?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-01-03",
+            "latestAction": {
+                "actionDate": "1985-01-03",
+                "text": "Referred to House Committee on The Judiciary."
+            },
+            "number": "498",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Samuel O. Johnson.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/498?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-08-11",
+            "latestAction": {
+                "actionDate": "1988-08-11",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "5237",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to provide that no amount shall be includible in gross income under section 83 of the Internal Revenue Code of 1986 by reason of the receipt of certain stock.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/5237?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-04-19",
+            "latestAction": {
+                "actionDate": "1988-04-20",
+                "text": "Indefinitely postponed by Senate by Unanimous Consent."
+            },
+            "number": "4401",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Prevention of Telephone Pornography Act of 1988",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4401?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-10-09",
+            "latestAction": {
+                "actionDate": "1987-10-19",
+                "text": "Referred to Subcommittee on Energy Research and Development."
+            },
+            "number": "3463",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "A bill to require the Secretary of Energy to make certain assessments with respect to the research and development of the Superconducting Super Collider program.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3463?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-10-15",
+            "latestAction": {
+                "actionDate": "1987-10-27",
+                "text": "Referred to Subcommittee on Human Rights and International Organizations."
+            },
+            "number": "3497",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "A bill to require the President to take appropriate actions domestically and internationally to establish a Global Change Research Program aimed at understanding the cumulative impacts of man on his environment.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3497?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-09-17",
+            "latestAction": {
+                "actionDate": "1987-09-29",
+                "text": "Referred to Subcommittee on Energy and Power."
+            },
+            "number": "3302",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to clarify the exemptive authority of the Securities and Exchange Commission.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3302?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-06-29",
+            "latestAction": {
+                "actionDate": "1987-07-06",
+                "text": "Referred to Subcommittee on Military Personnel and Compensation."
+            },
+            "number": "2840",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill to waive the statute of limitations to award the Congressional Medal of Honor to Ensign George Gay.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2840?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-05-12",
+            "latestAction": {
+                "actionDate": "1987-05-18",
+                "text": "Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment."
+            },
+            "number": "2382",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill relating to the rights and interest of the United States of America under a conservation easement affecting certain land in Wood County, Texas.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2382?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-05-08",
+            "latestAction": {
+                "actionDate": "1988-05-03",
+                "text": "Recommitted by House to House Committee on The Judiciary by Virtue of Objection Made on Call of Private Calendar."
+            },
+            "number": "2358",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Samuel O. Johnson.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2358?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-05-12",
+            "latestAction": {
+                "actionDate": "1987-05-18",
+                "text": "Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment."
+            },
+            "number": "2381",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill relating to conveyance of certain interests in land for use by the United States Fish & Wildlife Service.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2381?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-03-05",
+            "latestAction": {
+                "actionDate": "1987-04-30",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "1445",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend title XI of the Social Security Act to ensure physicians hearing and judicial review rights before exclusion from the medicare program.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/1445?format=json"
+        },
+        {
+            "amendmentNumber": "775",
+            "congress": 101,
+            "introducedDate": "1990-09-26",
+            "latestAction": {
+                "actionDate": "1990-09-26",
+                "actionTime": "18:16:45",
+                "text": "On agreeing to the Hall (TX) amendments (A020) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/775?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-05-23",
+            "latestAction": {
+                "actionDate": "1990-05-25",
+                "text": "Referred to the Subcommittee on Forests, Family Farms, and Energy."
+            },
+            "number": "4890",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "To provide disaster assistance for agricultural producers, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4890?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-07-13",
+            "latestAction": {
+                "actionDate": "1989-07-27",
+                "text": "Executive Comment Requested from Army and OMB."
+            },
+            "number": "2895",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "To continue the authorization for the flood protection project for the East Fork of the Trinity River, Texas.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2895?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-07-13",
+            "latestAction": {
+                "actionDate": "1990-09-26",
+                "text": "See H.R.5314."
+            },
+            "number": "2894",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "To remove a limitation on the amount of acre-feet of water annually supplied to the city of Denison, Texas, from the Lake Texoma.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2894?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-05-24",
+            "latestAction": {
+                "actionDate": "1989-06-12",
+                "text": "Referred to the Subcommittee on Telecommunications and Finance."
+            },
+            "number": "2473",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "To clarify the exemptive authority of the Securities and Exchange Commission.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2473?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-03-01",
+            "latestAction": {
+                "actionDate": "1989-03-13",
+                "text": "Referred to the Subcommittee on Energy Research and Development."
+            },
+            "number": "1195",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Superconducting Super Collider Non-Federal Contribution Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/1195?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-09",
+            "latestAction": {
+                "actionDate": "1989-02-09",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "945",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To provide that no amount shall be includible in gross income under section 83 of the Internal Revenue Code of 1986 by reason of the receipt of certain stock.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/945?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-01-03",
+            "latestAction": {
+                "actionDate": "1990-09-14",
+                "text": "Placed on the Union Calendar, Calendar No. 438."
+            },
+            "number": "188",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Relating to the rights and interest of the United States of America under a conservation easement affecting certain land in Wood County, Texas.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/188?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-01-03",
+            "latestAction": {
+                "actionDate": "1989-07-11",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "187",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Relating to conveyance of certain interests in lands for use by the United States Fish and Wildlife Service.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/187?format=json"
+        },
+        {
+            "amendmentNumber": "798",
+            "congress": 102,
+            "introducedDate": "1992-08-06",
+            "latestAction": {
+                "actionDate": "1992-08-06",
+                "actionTime": "21:19:23",
+                "text": "On agreeing to the Hall (TX) amendment (A001) Agreed to without objection. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/798?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-08-12",
+            "latestAction": {
+                "actionDate": "1992-10-09",
+                "text": "Referred to the Subcommittee on Labor Standards."
+            },
+            "number": "5850",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "To amend the Fair Labor Standards Act of 1938 to ensure that inmates are not treated as employees for purposes of such Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5850?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-06-22",
+            "latestAction": {
+                "actionDate": "1992-07-14",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "5451",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Nursing Facility Assistance Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5451?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-02-27",
+            "latestAction": {
+                "actionDate": "1992-03-03",
+                "text": "Referred to the Subcommittee on Energy."
+            },
+            "number": "4330",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Superconducting Super Collider Buy American Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4330?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-03-05",
+            "latestAction": {
+                "actionDate": "1992-04-03",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "4393",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare Geographic Data Accuracy Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4393?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-11-25",
+            "latestAction": {
+                "actionDate": "1992-06-10",
+                "text": "Committee Consideration and Mark-up Session Held."
+            },
+            "number": "3922",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Biomedical Research in Space Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3922?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-11-21",
+            "latestAction": {
+                "actionDate": "1992-08-11",
+                "text": "Received in the Senate and read twice and referred to the Committee on Commerce."
+            },
+            "number": "3848",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Commercial Space Competitiveness Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3848?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-05-29",
+            "latestAction": {
+                "actionDate": "1991-05-29",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2480",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Relating to the valuation of stock received by certain employees in connection with the performance of services as employees.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2480?format=json"
+        },
+        {
+            "amendmentNumber": "133",
+            "congress": 103,
+            "introducedDate": "1993-06-23",
+            "latestAction": {
+                "actionDate": "1993-07-29",
+                "actionTime": "13:06:02",
+                "text": "On agreeing to the Hall (TX) amendment (A001) Agreed to by the Yeas and Nays: 416 - 6 (Roll no. 381). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/133?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-03-24",
+            "latestAction": {
+                "actionDate": "1994-04-07",
+                "text": "Referred to the Subcommittee on Consumer Credit and Insurance."
+            },
+            "number": "4135",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "United States Botanic Garden Commemorative Coin Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4135?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-09-08",
+            "latestAction": {
+                "actionDate": "1993-09-13",
+                "text": "Executive Comment Requested from DOD."
+            },
+            "number": "3022",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 10, United States Code, to restore the eligibility of former members of the uniformed services who are entitled to retired or retainer pay or equivalent pay, or a dependent of such members, and who are eligible for hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) for prescription pharmaceuticals through the military medical system.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3022?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-09-09",
+            "latestAction": {
+                "actionDate": "1993-09-09",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3033",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Relating to the valuation of stock received by certain employees in connection with the performance of services as employees.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3033?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-08-05",
+            "latestAction": {
+                "actionDate": "1993-09-03",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "2889",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XVIII of the Social Security Act to provide for coverage of certain chiropractic services under part B of the medicare program.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2889?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-07-30",
+            "latestAction": {
+                "actionDate": "1993-11-23",
+                "text": "Read twice and referred to the Committee on Commerce."
+            },
+            "number": "2811",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "National Oceanic and Atmospheric Administration Atmospheric and Satellite Program Authorization Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2811?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-07-29",
+            "latestAction": {
+                "actionDate": "1993-08-02",
+                "text": "Executive Comment Requested from DOD."
+            },
+            "number": "2795",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To expand the mail-order pharmaceutical program of the Department of Defense to cover all members and former members of the uniformed services, and their dependents, who are eligible for health care in medical facilities of the uniformed services.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2795?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-06-24",
+            "latestAction": {
+                "actionDate": "1994-07-21",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "261",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "To honor the United States astronauts who flew in space as part of the program of the National Aeronautics and Space Administration to reach and explore the Moon.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/103/hconres/261?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-10-06",
+            "latestAction": {
+                "actionDate": "1994-10-17",
+                "text": "Executive Comment Requested from DOD."
+            },
+            "number": "312",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To honor the United States military astronauts who flew to the Moon while on duty with the National Aeronautics and Space Administration.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/103/hconres/312?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-24",
+            "latestAction": {
+                "actionDate": "1996-10-22",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "4149",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Assisted Suicide Funding Restriction Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/4149?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-11-16",
+            "latestAction": {
+                "actionDate": "1995-11-20",
+                "text": "Referred to the Subcommittee on Immigration and Claims."
+            },
+            "number": "2656",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Norman M. Werner.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2656?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-26",
+            "latestAction": {
+                "actionDate": "1995-01-26",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "693",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Relating to the valuation of stock received by certain employees in connection with the performance of services as employees.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/693?format=json"
+        },
+        {
+            "amendmentNumber": "611",
+            "congress": 105,
+            "introducedDate": "1998-05-06",
+            "latestAction": {
+                "actionDate": "1998-05-06",
+                "actionTime": "18:19:33",
+                "text": "By unanimous consent, the Hall (TX) amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/611?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-08-06",
+            "latestAction": {
+                "actionDate": "1998-10-15",
+                "text": "Received in the Senate."
+            },
+            "number": "4519",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To authorize the President to consent to third party transfer of the ex-USS Bowman County to the USS LST Ship Memorial, Inc.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/4519?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-03-11",
+            "latestAction": {
+                "actionDate": "1997-04-30",
+                "text": "Became Public Law No: 105-12."
+            },
+            "number": "1003",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Assisted Suicide Funding Restriction Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1003?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-08-06",
+            "latestAction": {
+                "actionDate": "1998-08-26",
+                "text": "Referred to the Subcommittee on the Constitution."
+            },
+            "number": "127",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Proposing an amendment to the Constitution of the United States to establish an elected Officer of the United States with the responsibilities of the Attorney General.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/105/hjres/127?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-06-11",
+            "latestAction": {
+                "actionDate": "1998-08-03",
+                "actionTime": "14:02:53",
+                "text": "The title of the measure was amended. Agreed to without objection."
+            },
+            "number": "469",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of the House of Representatives regarding assistance to Mexico to combat wildfires, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/105/hres/469?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-08-06",
+            "latestAction": {
+                "actionDate": "1998-08-26",
+                "text": "Referred to the Subcommittee on the Constitution."
+            },
+            "number": "323",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Expressing the sense of the Congress that the Attorney General should be an elected officer of the Federal Government.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/105/hconres/323?format=json"
+        }
+    ]
+}

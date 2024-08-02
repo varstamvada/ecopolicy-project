@@ -1,0 +1,57 @@
+{
+    "pagination": {
+        "count": 3
+    },
+    "request": {
+        "bioguideId": "r000545",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 93,
+            "introducedDate": "1974-06-12",
+            "latestAction": {
+                "actionDate": "1974-06-12",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "15352",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "A bill to amend the Fair Labor Standards Act of 1938 to provide an exemption from the minimum wage and overtime requirements of that act for full-time babysitters.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/15352?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-02-01",
+            "latestAction": {
+                "actionDate": "1973-02-01",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "3572",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend the Communications Act of 1934 to establish orderly procedures for the consideration of applications for renewal of broadcast licenses.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/3572?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-10-23",
+            "latestAction": {
+                "actionDate": "1973-10-23",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "790",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Joint resolution designating the week commencing February 3, 1974, as \"International Clergy Week in the United States\" and for other purposes.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/93/hjres/790?format=json"
+        }
+    ]
+}

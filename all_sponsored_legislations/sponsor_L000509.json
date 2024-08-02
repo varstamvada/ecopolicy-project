@@ -1,0 +1,64 @@
+{
+    "pagination": {
+        "count": 5
+    },
+    "request": {
+        "bioguideId": "l000509",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "554",
+            "congress": 100,
+            "introducedDate": "1987-12-10",
+            "latestAction": {
+                "actionDate": "1987-12-10",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 125 - 259 (Record Vote No: 471). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/554?format=json"
+        },
+        {
+            "amendmentNumber": "555",
+            "congress": 100,
+            "introducedDate": "1987-12-10",
+            "latestAction": {
+                "actionDate": "1987-12-10",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/555?format=json"
+        },
+        {
+            "amendmentNumber": "556",
+            "congress": 100,
+            "introducedDate": "1987-12-10",
+            "latestAction": {
+                "actionDate": "1987-12-10",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 190 - 199 (Record Vote No: 472). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/556?format=json"
+        },
+        {
+            "amendmentNumber": "307",
+            "congress": 100,
+            "introducedDate": "1987-07-01",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/307?format=json"
+        },
+        {
+            "amendmentNumber": "62",
+            "congress": 100,
+            "introducedDate": "1987-04-30",
+            "latestAction": {
+                "actionDate": "1987-04-30",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/62?format=json"
+        }
+    ]
+}

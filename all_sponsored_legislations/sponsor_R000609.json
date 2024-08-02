@@ -1,0 +1,609 @@
+{
+    "pagination": {
+        "count": 40
+    },
+    "request": {
+        "bioguideId": "r000609",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 118,
+            "introducedDate": "2024-01-11",
+            "latestAction": {
+                "actionDate": "2024-01-11",
+                "text": "Referred to the House Committee on Oversight and Accountability."
+            },
+            "number": "6955",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Investing in Uniformed Division Leadership Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/6955?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-12-06",
+            "latestAction": {
+                "actionDate": "2023-12-06",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "6613",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Preparing Leaders to Assess Needs for School Safety Act of 2023",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/6613?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-11-03",
+            "latestAction": {
+                "actionDate": "2023-11-03",
+                "text": "Referred to the House Committee on Natural Resources."
+            },
+            "number": "6212",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "PROTECT Florida Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/6212?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-07-12",
+            "latestAction": {
+                "actionDate": "2023-10-26",
+                "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 21 - 18."
+            },
+            "number": "4587",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Red Snapper Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/4587?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-05-18",
+            "latestAction": {
+                "actionDate": "2023-05-18",
+                "text": "Referred to the House Committee on Armed Services."
+            },
+            "number": "3458",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Reinstate Our Troops Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/3458?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-05-10",
+            "latestAction": {
+                "actionDate": "2023-05-10",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "3170",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Homes for Every Local Protector, Educator, and Responder Act of 2023",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/3170?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-04-13",
+            "latestAction": {
+                "actionDate": "2023-04-13",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "2620",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Federal Firearms Licensee Protection Act of 2023",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/2620?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-03-03",
+            "latestAction": {
+                "actionDate": "2023-03-03",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "1366",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "Keep Children and Families Safe from Lead Hazards Act of 2023",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/1366?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-02-14",
+            "latestAction": {
+                "actionDate": "2023-02-14",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1044",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Maritime Fuel Tax Parity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/1044?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-02-02",
+            "latestAction": {
+                "actionDate": "2023-02-02",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "743",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Protect and Serve Act of 2023",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/743?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-12-01",
+            "latestAction": {
+                "actionDate": "2022-12-01",
+                "text": "Referred to the House Committee on Natural Resources."
+            },
+            "number": "9373",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To provide that the Administrator of the National Oceanic and Atmospheric Administration shall not issue an interim or final rule that includes an area closure in the South Atlantic for species managed under the Snapper-Grouper Fishery Management Plan until the South Atlantic Great Red Snapper Count study is complete and the data related to that study is integrated into the stock assessment.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/9373?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-05-18",
+            "latestAction": {
+                "actionDate": "2022-11-01",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "7809",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Communities Deserve Cops Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/7809?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-10-25",
+            "latestAction": {
+                "actionDate": "2021-10-29",
+                "text": "Referred to the Subcommittee on Energy and Mineral Resources."
+            },
+            "number": "5707",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "PROTECT Florida Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/5707?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-07-01",
+            "latestAction": {
+                "actionDate": "2021-07-02",
+                "text": "Referred to the Subcommittee on Transportation and Maritime Security."
+            },
+            "number": "4296",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Freedom to Fly Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/4296?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-07-16",
+            "latestAction": {
+                "actionDate": "2021-08-19",
+                "text": "Referred to the Subcommittee on Water, Oceans, and Wildlife."
+            },
+            "number": "4487",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "SAVE North Atlantic Right Whales Act of 2021",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/4487?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-06-04",
+            "latestAction": {
+                "actionDate": "2021-06-04",
+                "text": "Referred to the House Committee on Education and Labor."
+            },
+            "number": "463",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Expressing support for the designation of the week of June 6 through June 12, 2021, as \"National Child Abuse Prevention Week\" and support for children facing psychological or physical abuse.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/117/hres/463?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-05-13",
+            "latestAction": {
+                "actionDate": "2021-05-13",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "3172",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "HELPER Act of 2021",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/3172?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-05-11",
+            "latestAction": {
+                "actionDate": "2021-11-09",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "3079",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Protect and Serve Act of 2021",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/3079?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-03-19",
+            "latestAction": {
+                "actionDate": "2022-07-14",
+                "text": "Placed on the Union Calendar, Calendar No. 317."
+            },
+            "number": "2107",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Nation\u2019s Oldest Port National Heritage Area Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/2107?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-02-11",
+            "latestAction": {
+                "actionDate": "2021-03-22",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "1022",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "PAWS Act of 2021",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/1022?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-09-27",
+            "latestAction": {
+                "actionDate": "2019-10-07",
+                "text": "Referred to the Subcommittee on National Parks, Forests, and Public Lands."
+            },
+            "number": "4542",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Nation\u2019s Oldest Port National Heritage Area Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/4542?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-06-27",
+            "latestAction": {
+                "actionDate": "2019-07-16",
+                "text": "Referred to the Subcommittee on Energy and Mineral Resources."
+            },
+            "number": "3585",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "BEACHES in Florida Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/3585?format=json"
+        },
+        {
+            "amendmentNumber": "389",
+            "congress": 116,
+            "introducedDate": "2019-06-19",
+            "latestAction": {
+                "actionDate": "2019-06-20",
+                "actionTime": "17:27:49",
+                "text": "On agreeing to the Rutherford amendment (A003) Failed by recorded vote: 186 - 245, 1 Present (Roll no. 368). (consideration: CR H4978-4979)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/116/hamdt/389?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-06-05",
+            "latestAction": {
+                "actionDate": "2019-06-17",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3103",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "PAWS Act of 2019",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/3103?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-05-23",
+            "latestAction": {
+                "actionDate": "2019-05-23",
+                "text": "Referred to the House Committee on Veterans' Affairs."
+            },
+            "number": "2948",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To designate the Department of Veterans Affairs community-based outpatient clinic in St. Augustine, Florida, as the \"Leo C. Chase Jr. Department of Veterans Affairs Clinic\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/2948?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-04-08",
+            "latestAction": {
+                "actionDate": "2019-05-15",
+                "text": "Referred to the Subcommittee on Immigration and Citizenship."
+            },
+            "number": "2124",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "E\u20132 Visa Improvement Act of 2019",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/2124?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-03-07",
+            "latestAction": {
+                "actionDate": "2019-03-29",
+                "text": "Referred to the Subcommittee on Economic Opportunity."
+            },
+            "number": "1599",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veterans Armed for Success Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/1599?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-02-22",
+            "latestAction": {
+                "actionDate": "2019-02-22",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "1325",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Protect and Serve Act of 2019",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/1325?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-05-08",
+            "latestAction": {
+                "actionDate": "2018-05-17",
+                "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "5698",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Protect and Serve Act of 2018",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/5698?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-02-14",
+            "latestAction": {
+                "actionDate": "2018-02-22",
+                "text": "Referred to the Subcommittee on Energy and Mineral Resources."
+            },
+            "number": "5014",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "PROTECT Florida Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/5014?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-01-30",
+            "latestAction": {
+                "actionDate": "2018-03-15",
+                "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "4909",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "STOP School Violence Act of 2018",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4909?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-12-05",
+            "latestAction": {
+                "actionDate": "2018-01-10",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "4555",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "DHS Interagency Counterterrorism Task Force Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4555?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-10-25",
+            "latestAction": {
+                "actionDate": "2017-10-25",
+                "text": "Referred to the House Committee on Veterans' Affairs."
+            },
+            "number": "4132",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veterans Affairs Physician Recruitment Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4132?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-10-05",
+            "latestAction": {
+                "actionDate": "2017-10-25",
+                "text": "Forwarded by Subcommittee to Full Committee by Voice Vote ."
+            },
+            "number": "3965",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veterans Armed for Success Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/3965?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-07-17",
+            "latestAction": {
+                "actionDate": "2017-08-17",
+                "text": "Referred to the Subcommittee on Immigration and Border Security."
+            },
+            "number": "3265",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "E-2 Visa Improvement Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/3265?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-06-08",
+            "latestAction": {
+                "actionDate": "2017-06-20",
+                "text": "Referred to the Subcommittee on Border and Maritime Security."
+            },
+            "number": "2831",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Maritime Security Coordination Improvement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/2831?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-05-16",
+            "latestAction": {
+                "actionDate": "2017-09-13",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "2471",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Terrorist Release Announcements to Counter Extremist Recidivism Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/2471?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-04-27",
+            "latestAction": {
+                "actionDate": "2017-06-21",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "2190",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Streamlining DHS Overhead Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/2190?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-04-17",
+            "latestAction": {
+                "actionDate": "2017-04-17",
+                "text": "Referred to the Subcommittee on Economic Opportunity."
+            },
+            "number": "2103",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Julian Woods Yellow Ribbon Program Expansion Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/2103?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-03-01",
+            "latestAction": {
+                "actionDate": "2017-03-21",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "1294",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Reducing DHS Acquisition Cost Growth Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/1294?format=json"
+        }
+    ]
+}

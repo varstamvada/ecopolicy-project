@@ -1,0 +1,660 @@
+{
+    "pagination": {
+        "count": 44
+    },
+    "request": {
+        "bioguideId": "b001036",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "731",
+            "congress": 100,
+            "introducedDate": "1988-06-03",
+            "latestAction": {
+                "actionDate": "1988-06-03",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/731?format=json"
+        },
+        {
+            "amendmentNumber": "655",
+            "congress": 100,
+            "introducedDate": "1988-05-03",
+            "latestAction": {
+                "actionDate": "1988-05-03",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/655?format=json"
+        },
+        {
+            "amendmentNumber": "125",
+            "congress": 100,
+            "introducedDate": "1987-05-12",
+            "latestAction": {
+                "actionDate": "1987-05-12",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/125?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-07-13",
+            "latestAction": {
+                "actionDate": "1988-09-16",
+                "text": "See H.R.5329."
+            },
+            "number": "5034",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Nursing Emergency Relief Act of 1988",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/5034?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-06-14",
+            "latestAction": {
+                "actionDate": "1988-06-27",
+                "text": "Referred to Subcommittee on Surface Transportation."
+            },
+            "number": "4802",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to deny discretionary project funds to States that voluntarily reduced the period of availability of interstate highway construction funds for any fiscal year.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4802?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-06-15",
+            "latestAction": {
+                "actionDate": "1988-06-21",
+                "text": "Referred to Subcommittee on Trade."
+            },
+            "number": "4822",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Drug Free America Act of 1988",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4822?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-03-30",
+            "latestAction": {
+                "actionDate": "1988-06-24",
+                "text": "Executive Comment Received From ITC."
+            },
+            "number": "4294",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend until January 1, 1991, the duty on N-(2-hydroxyethyl) -2,4,6-triiodo-5-(2(2,4,6-triiodo-3- (N-methylacetamido)-5-(methylcarbomoyl).",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4294?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-03-01",
+            "latestAction": {
+                "actionDate": "1988-05-12",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "4041",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to require the Secretary of Energy, when transporting certain radioactive materials, to use packages that the Nuclear Regulatory Commission has certified for that purpose.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4041?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-12-17",
+            "latestAction": {
+                "actionDate": "1988-09-22",
+                "text": "Received in the Senate and read twice and referred to the Committee on Commerce."
+            },
+            "number": "3779",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Controller Performance Research Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3779?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-10-09",
+            "latestAction": {
+                "actionDate": "1987-10-19",
+                "text": "Referred to Subcommittee on Criminal Justice."
+            },
+            "number": "3462",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "A bill to amend Rule 47(a) of the Federal Rules of Civil Procedure to require the court to permit each side to examine prospective jurors.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3462?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-10-09",
+            "latestAction": {
+                "actionDate": "1987-10-19",
+                "text": "Referred to Subcommittee on Criminal Justice."
+            },
+            "number": "3461",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend Rule 24(a) of the Federal Rules of Criminal Procedure to require the court to permit the defendant, and the attorney representing the defendant, and the attorney for the Government to examine prospective jurors.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3461?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-10-06",
+            "latestAction": {
+                "actionDate": "1987-12-18",
+                "text": "See H.R.2310."
+            },
+            "number": "3425",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Air Traffic Controller Act of 1987",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3425?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-09-22",
+            "latestAction": {
+                "actionDate": "1988-08-11",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3322",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to provide for a study to identify areas to be included in a Mississippi River National Park.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3322?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-04-22",
+            "latestAction": {
+                "actionDate": "1987-04-27",
+                "text": "Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials."
+            },
+            "number": "2118",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Railroad Safety Act of 1987",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2118?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-03-03",
+            "latestAction": {
+                "actionDate": "1987-03-03",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "1347",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to permit expenses incurred in filing withholding certificates to be deductible whether or not the individual itemizes his deductions, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/1347?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-07-14",
+            "latestAction": {
+                "actionDate": "1988-07-21",
+                "text": "Referred to Subcommittee on Census and Population."
+            },
+            "number": "611",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution designating the week beginning on January 8, 1989, as \"National Journalism Education Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/611?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-08-11",
+            "latestAction": {
+                "actionDate": "1988-08-11",
+                "text": "Referred to House Committee on The Judiciary."
+            },
+            "number": "642",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A joint resolution proposing an amendment to the Constitution of the United States, to be known as the \"Fair Committee Representation Amendment\", to require that the voting strength of political parties on committees of Congress be reflective of the relative voting strength of the political parties represented in each House of Congress.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/642?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-08-02",
+            "latestAction": {
+                "actionDate": "1988-08-02",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "627",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution designating July 27, 1989, as \"National Korean War Veterans Recognition Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/627?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-03-23",
+            "latestAction": {
+                "actionDate": "1988-04-04",
+                "text": "Referred to Subcommittee on Western Hemisphere Affairs."
+            },
+            "number": "412",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution reaffirming United States support for the Nicaraguan democratic resistance, and condemning the recent invasion of Honduras by Nicaragua.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/100/hres/412?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-03-14",
+            "latestAction": {
+                "actionDate": "1988-03-28",
+                "text": "Referred to Subcommittee on Europe and the Middle East."
+            },
+            "number": "401",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution expressing the sense of the House of Representatives with respect to implications of the Intermediate-Range Nuclear Forces (INF) Treaty for the military security of the North Atlantic Treaty Organization and with respect to other arms control issues.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/100/hres/401?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-08-10",
+            "latestAction": {
+                "actionDate": "1988-08-26",
+                "text": "Referred to Subcommittee on Space Science and Applications."
+            },
+            "number": "353",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "A concurrent resolution expressing the sense of the Congress that the United States should make the space program a national priority.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/100/hconres/353?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-04-20",
+            "latestAction": {
+                "actionDate": "1988-04-26",
+                "text": "Referred to Subcommittee on Legislation and National Security."
+            },
+            "number": "284",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A concurrent resolution expressing the sense of Congress with respect to balancing the Federal budget.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/100/hconres/284?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-09-09",
+            "latestAction": {
+                "actionDate": "1987-09-21",
+                "text": "Referred to Subcommittee on Asian and Pacific Affairs."
+            },
+            "number": "184",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution commending the Philippine Government, under President Corazon Aquino, for its adherence to democratic principles and for its courageous acts in the face of unlawful violence against the government.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/100/hconres/184?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-08-03",
+            "latestAction": {
+                "actionDate": "1990-09-04",
+                "text": "Referred to the Subcommittee on Select Education."
+            },
+            "number": "5472",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Family Violence Adult Protection Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5472?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-07-20",
+            "latestAction": {
+                "actionDate": "1990-08-01",
+                "text": "Executive Comment Requested from Interior, NSF, Smithsonian, EPA."
+            },
+            "number": "5328",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "Bird Conservation Research Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5328?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-04-18",
+            "latestAction": {
+                "actionDate": "1990-04-27",
+                "text": "Referred to the Subcommittee on Transportation and Hazardous Materials."
+            },
+            "number": "4533",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "To require that remediation of certain defense-related radioactive wastes currently located in the city and county of St. Louis, Missouri, be conducted in a nonurban area.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4533?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-03-21",
+            "latestAction": {
+                "actionDate": "1990-03-27",
+                "text": "Referred to the Subcommittee on Science, Research and Technology."
+            },
+            "number": "4331",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "National Learning Technology Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4331?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-01-31",
+            "latestAction": {
+                "actionDate": "1990-01-31",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3924",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "American Family Reinvestment Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3924?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-09-19",
+            "latestAction": {
+                "actionDate": "1989-09-25",
+                "text": "Referred to the Subcommittee on Legislation and National Security."
+            },
+            "number": "3289",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "To amend the Balanced Budget and Emergency Deficit Control Act of 1985 to provide for a second Presidential order in April of each fiscal year based upon a March report by the Director of the Office of Management and Budget, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3289?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-06-21",
+            "latestAction": {
+                "actionDate": "1990-08-20",
+                "text": "See H.R.1594."
+            },
+            "number": "2701",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the existing suspension of duty on triphenyl phosphate.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2701?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-06-06",
+            "latestAction": {
+                "actionDate": "1990-08-02",
+                "text": "See H.R.3520."
+            },
+            "number": "2549",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Comprehensive Hazardous Materials Transportation Safety Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2549?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-05-16",
+            "latestAction": {
+                "actionDate": "1989-05-22",
+                "text": "Referred to the Subcommittee on Human Resources."
+            },
+            "number": "2350",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Family Choices in Child Care Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2350?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-05-02",
+            "latestAction": {
+                "actionDate": "1989-08-10",
+                "text": "Referred to the Subcommittee on the Legislative Process."
+            },
+            "number": "2170",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To amend the Congressional Budget Act of 1974 and the Rules of the House of Representatives to extend cost estimates contained in committee reports accompanying legislation from 5 years to 10 years.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2170?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-04-13",
+            "latestAction": {
+                "actionDate": "1990-04-25",
+                "text": "Executive Comment Received from ITC."
+            },
+            "number": "1881",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To increase temporarily the duty on mattress springs that are the product of Mexico.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/1881?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-04-11",
+            "latestAction": {
+                "actionDate": "1989-04-24",
+                "text": "Referred to the Subcommittee on Surface Transportation."
+            },
+            "number": "1771",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To deny discretionary project funds to States that voluntarily reduce the period of availability of interstate highway construction funds for any fiscal year.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/1771?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-03-22",
+            "latestAction": {
+                "actionDate": "1989-10-25",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "1559",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "To require the Secretary of Energy to conduct certain projects relating to the Department of Energy civilian energy research and development waste currently located at sites in Missouri.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/1559?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-03-02",
+            "latestAction": {
+                "actionDate": "1989-03-15",
+                "text": "Referred to the Subcommittee on Housing and Community Development."
+            },
+            "number": "1237",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "Lower Income Housing Fair Rent Act of 1988",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/1237?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-01-04",
+            "latestAction": {
+                "actionDate": "1989-02-15",
+                "text": "Referred to the Subcommittee on Legislation and National Security."
+            },
+            "number": "449",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "To amend the Congressional Budget and Impoundment Control Act of 1974 to provide that for each dollar increase in revenues enacted with respect to a fiscal year the permissible maximum deficit amount for such fiscal year under the Balanced Budget and Emergency Deficit Control Act of 1985 shall be reduced by the same amount.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/449?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-03-16",
+            "latestAction": {
+                "actionDate": "1989-03-21",
+                "text": "Referred to the Subcommittee on Census and Population."
+            },
+            "number": "206",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Designating the week beginning on January 7, 1990 as \"National Journalism Education Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/206?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-03-15",
+            "latestAction": {
+                "actionDate": "1989-03-21",
+                "text": "Referred to the Subcommittee on Census and Population."
+            },
+            "number": "205",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Congratulating the St. Charles Chamber of Commerce in St. Charles, Missouri, on the 50th anniversary of its activation.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/205?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-03-09",
+            "latestAction": {
+                "actionDate": "1989-04-02",
+                "text": "See S.J.Res.50."
+            },
+            "number": "182",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "To designate the week beginning April 2, 1989, as \"National Child Care Awareness Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/182?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-07",
+            "latestAction": {
+                "actionDate": "1989-02-15",
+                "text": "Referred to the Subcommittee on Census and Population."
+            },
+            "number": "130",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Designating July 27, 1989, as \"National Korean War Veterans Recognition Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/130?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-03-15",
+            "latestAction": {
+                "actionDate": "1989-04-04",
+                "text": "Referred to the Subcommittee on Space Science and Applications."
+            },
+            "number": "74",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Expressing the sense of the Congress that the United States should make the space program a national priority.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/101/hconres/74?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-07",
+            "latestAction": {
+                "actionDate": "1989-02-21",
+                "text": "Referred to the Subcommittee on Europe and the Middle East."
+            },
+            "number": "46",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of the Congress regarding the removal of mines in Afghanistan by the Soviet Union.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/101/hconres/46?format=json"
+        }
+    ]
+}

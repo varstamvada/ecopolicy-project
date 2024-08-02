@@ -1,0 +1,3232 @@
+{
+    "pagination": {
+        "count": 434,
+        "next": "https://api.congress.gov/v3/member/K000019/sponsored-legislation?offset=250&limit=250&format=json"
+    },
+    "request": {
+        "bioguideId": "k000019",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "1300",
+            "congress": 102,
+            "introducedDate": "1991-10-31",
+            "latestAction": {
+                "actionDate": "1991-10-31",
+                "text": "Amendment SP 1300 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/samdt/1300?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-06-28",
+            "latestAction": {
+                "actionDate": "1991-06-28",
+                "text": "Read twice and referred to the Committee on Commerce."
+            },
+            "number": "1429",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Pipeline Safety Reauthorization Act of 1991",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/102/s/1429?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-08-05",
+            "latestAction": {
+                "actionDate": "1976-08-05",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "15086",
+            "policyArea": {
+                "name": "Narcotics"
+            },
+            "title": "Drug Pushers Punishment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/15086?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-07-27",
+            "latestAction": {
+                "actionDate": "1976-07-27",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "14873",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to grant a Federal charter to the World War I Overseas Flyers, Inc.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/14873?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-06-24",
+            "latestAction": {
+                "actionDate": "1976-06-24",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "14548",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A bill to repeal the recently enacted provisions authorizing increases in the salaries of Senators and Representatives.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/14548?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-06-30",
+            "latestAction": {
+                "actionDate": "1976-06-30",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "14618",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to extend to all unmarried individuals the full tax benefits of income splitting now enjoyed by married individuals filing joint returns; and to remove rate inequities for married persons where both are employed.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/14618?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-06-25",
+            "latestAction": {
+                "actionDate": "1976-06-25",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "14558",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow a deduction for amounts paid by a taxpayer for tuition to provide an education for himself or for another individual.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/14558?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-06-30",
+            "latestAction": {
+                "actionDate": "1976-06-30",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "14617",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "National Diabetes Advisory Board Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/14617?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-06-24",
+            "latestAction": {
+                "actionDate": "1976-06-24",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "14549",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend title II of the Social Security Act so as to remove the limitation upon the amount of outside income which an individual may earn while receiving benefits thereunder.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/14549?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-02-18",
+            "latestAction": {
+                "actionDate": "1976-02-18",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "11947",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A bill to provide that pay adjustments for Members of Congress may take effect no earlier than the beginning of the Congress next following the Congress in which they are approved.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/11947?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-02-18",
+            "latestAction": {
+                "actionDate": "1976-02-18",
+                "text": "Referred to House Committee on Government Operations."
+            },
+            "number": "11946",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Government in the Sunshine Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/11946?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-11-06",
+            "latestAction": {
+                "actionDate": "1975-11-06",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "10615",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Dairy Import Sanitation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/10615?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-11-03",
+            "latestAction": {
+                "actionDate": "1975-11-03",
+                "text": "Referred to House Committee on Banking, Currency and Housing."
+            },
+            "number": "10518",
+            "policyArea": {
+                "name": "Real estate business"
+            },
+            "title": "A bill to repeal the Real Estate Settlement Procedures Act of 1974.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/10518?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-07-31",
+            "latestAction": {
+                "actionDate": "1975-07-31",
+                "text": "Referred to House Committee on Public Works and Transportation."
+            },
+            "number": "9120",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "A bill to amend the Federal Water Pollution Control Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/9120?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-08-01",
+            "latestAction": {
+                "actionDate": "1975-08-01",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "9229",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend title II of the Social Security Act to assure the continuation of the present practice under which payments by States, with respect to coverage of State and local employees under section 218 of that act, are made on a quarterly basis.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/9229?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-08-01",
+            "latestAction": {
+                "actionDate": "1975-08-01",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "9230",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend title II of the Social Security Act to provide that when an adverse decision is made on a claim for benefits thereunder, the claimant shall have the right to reconsideration, including an informal conference and a statement of the case, prior to hearing; to impose time limits and make other improvements in the procedures for determining such claims; and to regularize the appointment of administrative law judges hearing such claims.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/9230?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-07-24",
+            "latestAction": {
+                "actionDate": "1975-07-24",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "8876",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to treat expenses incurred for the adoption of a child as amounts paid for medical care.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/8876?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-06-26",
+            "latestAction": {
+                "actionDate": "1975-06-26",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "8295",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to increase from $1 million to $10 million the exemption from industrial development bond treatment for certain small issues.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/8295?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-06-26",
+            "latestAction": {
+                "actionDate": "1975-06-26",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "8294",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend title 18 of the United States Code to increase certain penalties for gun control offenses and to allow the United States to obtain appellate review of certain sentences relating to gun control offenses.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/8294?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-06-19",
+            "latestAction": {
+                "actionDate": "1975-06-19",
+                "text": "Referred to House Committee on Government Operations."
+            },
+            "number": "8036",
+            "policyArea": {
+                "name": "Intergovernmental relations"
+            },
+            "title": "A bill to expand the membership of the advisory Commission on Intergovernmental Relations to include elected school board officials.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/8036?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-03-18",
+            "latestAction": {
+                "actionDate": "1975-03-18",
+                "text": "Referred to House Committee on Government Operations."
+            },
+            "number": "5087",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Federal Revenue Sharing Extension Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/5087?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-02-25",
+            "latestAction": {
+                "actionDate": "1975-02-25",
+                "text": "Referred to House Committee on Government Operations."
+            },
+            "number": "3652",
+            "policyArea": {
+                "name": "Revenue sharing"
+            },
+            "title": "Federal Revenue Sharing Extension Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/3652?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-02-19",
+            "latestAction": {
+                "actionDate": "1975-02-19",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "3317",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to provide price support for milk at not less than 90 per centum of the parity price, and to provide that such price support shall be adjusted quarterly.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/3317?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-06-10",
+            "latestAction": {
+                "actionDate": "1976-06-10",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "981",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Joint resolution designating the week beginning October 3, 1976, as World War I Overseas Flyers Week.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/94/hjres/981?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-05-18",
+            "latestAction": {
+                "actionDate": "1976-05-18",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "1200",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Resolution to insure that the quality and quantity of free broadcasting service not be impaired.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/94/hres/1200?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-06-30",
+            "latestAction": {
+                "actionDate": "1976-06-30",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "670",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Concurrent resolution setting forth the standards and rights of foster children.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/94/hconres/670?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-08-15",
+            "latestAction": {
+                "actionDate": "1978-08-15",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "13873",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend part A of title IV of the Social Security Act to require each State, under the AFDC program, to establish a maximum income level beyond which an individual or family may not be eligible for aid to families with dependent children.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/13873?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-04-27",
+            "latestAction": {
+                "actionDate": "1978-10-14",
+                "text": "Measure laid on table in House, S. 3066 passed in lieu."
+            },
+            "number": "12431",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Yom, Chong Ok.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/12431?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-01-23",
+            "latestAction": {
+                "actionDate": "1978-01-23",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "10493",
+            "policyArea": {
+                "name": null
+            },
+            "title": "A bill to amend title 18, United States Code, and to exercise the power of the Congress under Article IV of the Constitution.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/10493?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-11-04",
+            "latestAction": {
+                "actionDate": "1977-11-04",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "10048",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend title 18 of the United States Code relating to domestic crime control and prevention.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/10048?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-11-04",
+            "latestAction": {
+                "actionDate": "1977-11-04",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "10049",
+            "policyArea": {
+                "name": "Income tax"
+            },
+            "title": "Young Families Housing Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/10049?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-10-14",
+            "latestAction": {
+                "actionDate": "1977-10-14",
+                "text": "Referred to House Committee on Banking, Finance and Urban Affairs."
+            },
+            "number": "9572",
+            "policyArea": {
+                "name": "Income tax"
+            },
+            "title": "Young Families Housing Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/9572?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-08-05",
+            "latestAction": {
+                "actionDate": "1977-08-05",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "8859",
+            "policyArea": {
+                "name": "Income tax"
+            },
+            "title": "Graduated Payment Mortgage Insurance Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/8859?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-08-05",
+            "latestAction": {
+                "actionDate": "1977-08-05",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "8858",
+            "policyArea": {
+                "name": null
+            },
+            "title": "A bill to amend the Federal Crop Insurance Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/8858?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-08-03",
+            "latestAction": {
+                "actionDate": "1977-08-03",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "8750",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Lt. Col. Kenneth J. Sawyer.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/8750?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-07-15",
+            "latestAction": {
+                "actionDate": "1977-07-15",
+                "text": "Referred to House Committee on Banking, Finance and Urban Affairs."
+            },
+            "number": "8352",
+            "policyArea": {
+                "name": "Income tax"
+            },
+            "title": "A bill to amend the National Housing Act to provide for the insurance of graduated payment mortgages.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/8352?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-07-13",
+            "latestAction": {
+                "actionDate": "1977-07-13",
+                "text": "Referred to House Committee on Banking, Finance and Urban Affairs."
+            },
+            "number": "8301",
+            "policyArea": {
+                "name": "Income tax"
+            },
+            "title": "Young Families Housing Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/8301?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-06-30",
+            "latestAction": {
+                "actionDate": "1977-06-30",
+                "text": "Referred to House Committee on House Administration."
+            },
+            "number": "8151",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to provide that polling and registration places for elections for Federal office be accessible to physically handicapped and elderly individuals.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/8151?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-06-20",
+            "latestAction": {
+                "actionDate": "1977-06-20",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "7887",
+            "policyArea": {
+                "name": null
+            },
+            "title": "Pension Simplification Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/7887?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-05-26",
+            "latestAction": {
+                "actionDate": "1977-05-26",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "7465",
+            "policyArea": {
+                "name": "Income tax"
+            },
+            "title": "Young Families Housing Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/7465?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-05-13",
+            "latestAction": {
+                "actionDate": "1977-05-13",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "7183",
+            "policyArea": {
+                "name": "Broadcasting"
+            },
+            "title": "Broadcast License Renewal Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/7183?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-31",
+            "latestAction": {
+                "actionDate": "1977-03-31",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "5886",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A bill to eliminate cost-of-living pay adjustments for Members of Congress, to provide that recommendations of the President with respect to salaries of Members of Congress shall take effect only after approval by the Congress.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/5886?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-21",
+            "latestAction": {
+                "actionDate": "1977-03-21",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "5252",
+            "policyArea": {
+                "name": null
+            },
+            "title": "A bill to amend title 13, United States Code, to require the Secretary of Commerce to use sampling methods in taking agricultural censuses.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/5252?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-21",
+            "latestAction": {
+                "actionDate": "1977-03-21",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "5251",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Dairy Import Sanitation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/5251?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-21",
+            "latestAction": {
+                "actionDate": "1977-03-21",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "5253",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to increase the maximum Federal contribution to the cost of any State meat or poultry inspection system from 50 to 80 percent.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/5253?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-21",
+            "latestAction": {
+                "actionDate": "1977-03-21",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "5255",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code relating to the estate tax treatment of property held subject to joint tenancies.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/5255?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-21",
+            "latestAction": {
+                "actionDate": "1977-03-21",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "5254",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to repeal the carryover basis provisions added by the Tax Reform Act of 1976.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/5254?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-21",
+            "latestAction": {
+                "actionDate": "1977-03-21",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "5250",
+            "policyArea": {
+                "name": null
+            },
+            "title": "A bill to provide that the price support of milk be adjusted quarterly.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/5250?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-14",
+            "latestAction": {
+                "actionDate": "1977-03-14",
+                "text": "Referred to House Committee on Rules."
+            },
+            "number": "4948",
+            "policyArea": {
+                "name": "Congressional oversight"
+            },
+            "title": "A bill to amend the Congressional Budget Act of 1974 to establish in the Congress a zero-base budgeting process, with congressional review of each Federal program at least once every 6 years.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/4948?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-14",
+            "latestAction": {
+                "actionDate": "1977-03-14",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "4947",
+            "policyArea": {
+                "name": "Administrative procedure"
+            },
+            "title": "Regulatory Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/4947?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-14",
+            "latestAction": {
+                "actionDate": "1977-03-14",
+                "text": "Referred to House Committee on Rules."
+            },
+            "number": "4946",
+            "policyArea": {
+                "name": "Congressional oversight"
+            },
+            "title": "Administrative Rule Making Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/4946?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-14",
+            "latestAction": {
+                "actionDate": "1977-03-14",
+                "text": "Referred to House Committee on Rules."
+            },
+            "number": "4945",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Regulatory Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/4945?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-07",
+            "latestAction": {
+                "actionDate": "1977-03-07",
+                "text": "Referred to House Committee on Public Works and Transportation."
+            },
+            "number": "4570",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Comprehensive Oil Pollution Liability and Compensation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/4570?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-01-31",
+            "latestAction": {
+                "actionDate": "1977-01-31",
+                "text": "Referred to House Committee on Government Operations."
+            },
+            "number": "2715",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Truth in Government Accounting Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/2715?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-29",
+            "latestAction": {
+                "actionDate": "1977-03-29",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "360",
+            "policyArea": {
+                "name": "Constitutional amendments"
+            },
+            "title": "Joint resolution proposing an amendment to the Constitution of the United States with respect to the number of consecutive terms of office of Members of the Senate and of the House of Representatives.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/95/hjres/360?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-05-17",
+            "latestAction": {
+                "actionDate": "1977-05-17",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "578",
+            "policyArea": {
+                "name": "Broadcasting"
+            },
+            "title": "Resolution to insure that the quality and quantity of free broadcasting service not be impaired.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/95/hres/578?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-05-11",
+            "latestAction": {
+                "actionDate": "1977-05-11",
+                "text": "Referred to House Committee on Rules."
+            },
+            "number": "562",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Resolution to establish an ad hoc Committee on Welfare Reform for the purpose of studying the problems which arise in the interaction of programs dealing with welfare benefits and of formulating new legislation to restructure the present welfare system in light of such problems.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/95/hres/562?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-31",
+            "latestAction": {
+                "actionDate": "1977-03-31",
+                "text": "Referred to House Committee on Rules."
+            },
+            "number": "460",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Resolution to create a select committee to audit accounts of committees, Members, and officers of the House of Representatives.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/95/hres/460?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-02-07",
+            "latestAction": {
+                "actionDate": "1977-02-07",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "255",
+            "policyArea": {
+                "name": "Salaries"
+            },
+            "title": "Resolution disapproving the recommendations of the President with respect to the rates of pay of Federal officials transmitted to the Congress for the fiscal year ending September 30, 1978.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/95/hres/255?format=json"
+        },
+        {
+            "amendmentNumber": "1529",
+            "congress": 97,
+            "introducedDate": "1982-12-17",
+            "latestAction": {
+                "actionDate": "1982-12-17",
+                "text": "Amendment SU 1529 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/suamdt/1529?format=json"
+        },
+        {
+            "amendmentNumber": "1505",
+            "congress": 97,
+            "introducedDate": "1982-12-17",
+            "latestAction": {
+                "actionDate": "1982-12-17",
+                "text": "Amendment SU 1505 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/suamdt/1505?format=json"
+        },
+        {
+            "amendmentNumber": "1502",
+            "congress": 97,
+            "introducedDate": "1982-12-17",
+            "latestAction": {
+                "actionDate": "1982-12-17",
+                "text": "Amendment SU 1502 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/suamdt/1502?format=json"
+        },
+        {
+            "amendmentNumber": "1202",
+            "congress": 97,
+            "introducedDate": "1982-08-10",
+            "latestAction": {
+                "actionDate": "1982-08-10",
+                "text": "Amendment agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/suamdt/1202?format=json"
+        },
+        {
+            "amendmentNumber": "1126",
+            "congress": 97,
+            "introducedDate": "1982-07-22",
+            "latestAction": {
+                "actionDate": "1982-07-22",
+                "text": "Amendment not agreed to in Senate by Yea-Nay Vote. 48-49. Record Vote No: 247. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/suamdt/1126?format=json"
+        },
+        {
+            "amendmentNumber": "641",
+            "congress": 97,
+            "introducedDate": "1981-11-17",
+            "latestAction": {
+                "actionDate": "1981-11-17",
+                "text": "Amendment agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/suamdt/641?format=json"
+        },
+        {
+            "amendmentNumber": "639",
+            "congress": 97,
+            "introducedDate": "1981-11-17",
+            "latestAction": {
+                "actionDate": "1981-11-17",
+                "text": "Amendment agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/suamdt/639?format=json"
+        },
+        {
+            "amendmentNumber": "634",
+            "congress": 97,
+            "introducedDate": "1981-11-17",
+            "latestAction": {
+                "actionDate": "1981-11-17",
+                "text": "Proposed amendment withdrawn in Senate. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/suamdt/634?format=json"
+        },
+        {
+            "amendmentNumber": "642",
+            "congress": 97,
+            "introducedDate": "1981-11-17",
+            "latestAction": {
+                "actionDate": "1981-11-17",
+                "text": "Amendment agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/suamdt/642?format=json"
+        },
+        {
+            "amendmentNumber": "654",
+            "congress": 97,
+            "introducedDate": "1981-11-18",
+            "latestAction": {
+                "actionDate": "1981-11-18",
+                "text": "Amendment agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/suamdt/654?format=json"
+        },
+        {
+            "amendmentNumber": "640",
+            "congress": 97,
+            "introducedDate": "1981-11-17",
+            "latestAction": {
+                "actionDate": "1981-11-17",
+                "text": "Amendment agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/suamdt/640?format=json"
+        },
+        {
+            "amendmentNumber": "517",
+            "congress": 97,
+            "introducedDate": "1981-10-22",
+            "latestAction": {
+                "actionDate": "1981-10-22",
+                "text": "Amendment agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/suamdt/517?format=json"
+        },
+        {
+            "amendmentNumber": "608",
+            "congress": 97,
+            "introducedDate": "1981-11-12",
+            "latestAction": {
+                "actionDate": "1981-11-12",
+                "text": "Amendment agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/suamdt/608?format=json"
+        },
+        {
+            "amendmentNumber": "499",
+            "congress": 97,
+            "introducedDate": "1981-10-22",
+            "latestAction": {
+                "actionDate": "1981-10-22",
+                "text": "Amendment agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/suamdt/499?format=json"
+        },
+        {
+            "amendmentNumber": "423",
+            "congress": 97,
+            "introducedDate": "1981-09-24",
+            "latestAction": {
+                "actionDate": "1981-09-24",
+                "text": "Amendment agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/suamdt/423?format=json"
+        },
+        {
+            "amendmentNumber": "451",
+            "congress": 97,
+            "introducedDate": "1981-09-30",
+            "latestAction": {
+                "actionDate": "1981-09-30",
+                "text": "Amendment agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/suamdt/451?format=json"
+        },
+        {
+            "amendmentNumber": "452",
+            "congress": 97,
+            "introducedDate": "1981-09-30",
+            "latestAction": {
+                "actionDate": "1981-09-30",
+                "text": "Amendment agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/suamdt/452?format=json"
+        },
+        {
+            "amendmentNumber": "219",
+            "congress": 97,
+            "introducedDate": "1981-07-10",
+            "latestAction": {
+                "actionDate": "1981-07-10",
+                "text": "Ordered to be printed.  SP 483 "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/suamdt/219?format=json"
+        },
+        {
+            "amendmentNumber": "4947",
+            "congress": 97,
+            "introducedDate": "1982-12-03",
+            "latestAction": {
+                "actionDate": "1982-12-03",
+                "text": "Referred to the Committee on Finance. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/samdt/4947?format=json"
+        },
+        {
+            "amendmentNumber": "1959",
+            "congress": 97,
+            "introducedDate": "1982-07-20",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/samdt/1959?format=json"
+        },
+        {
+            "amendmentNumber": "1960",
+            "congress": 97,
+            "introducedDate": "1982-07-20",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/samdt/1960?format=json"
+        },
+        {
+            "amendmentNumber": "1903",
+            "congress": 97,
+            "introducedDate": "1982-06-23",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/samdt/1903?format=json"
+        },
+        {
+            "amendmentNumber": "1902",
+            "congress": 97,
+            "introducedDate": "1982-06-23",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/samdt/1902?format=json"
+        },
+        {
+            "amendmentNumber": "1718",
+            "congress": 97,
+            "introducedDate": "1982-05-27",
+            "latestAction": {
+                "actionDate": "1982-05-27",
+                "text": "Amendment agreed to in Senate by Yea-Nay Vote. 83-10. Record Vote No: 162. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/samdt/1718?format=json"
+        },
+        {
+            "amendmentNumber": "1505",
+            "congress": 97,
+            "introducedDate": "1982-05-26",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/samdt/1505?format=json"
+        },
+        {
+            "amendmentNumber": "1506",
+            "congress": 97,
+            "introducedDate": "1982-05-26",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/samdt/1506?format=json"
+        },
+        {
+            "amendmentNumber": "573",
+            "congress": 97,
+            "introducedDate": "1981-10-01",
+            "latestAction": {
+                "actionDate": "1981-10-23",
+                "text": "Amendment agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/samdt/573?format=json"
+        },
+        {
+            "amendmentNumber": "525",
+            "congress": 97,
+            "introducedDate": "1981-07-30",
+            "latestAction": {
+                "actionDate": "1981-09-23",
+                "text": "Amendment agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/samdt/525?format=json"
+        },
+        {
+            "amendmentNumber": "517",
+            "congress": 97,
+            "introducedDate": "1981-07-23",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/samdt/517?format=json"
+        },
+        {
+            "amendmentNumber": "518",
+            "congress": 97,
+            "introducedDate": "1981-07-23",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/samdt/518?format=json"
+        },
+        {
+            "amendmentNumber": "534",
+            "congress": 97,
+            "introducedDate": "1981-09-14",
+            "latestAction": {
+                "actionDate": "1981-09-17",
+                "text": "Amendment agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/samdt/534?format=json"
+        },
+        {
+            "amendmentNumber": "515",
+            "congress": 97,
+            "introducedDate": "1981-07-23",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/samdt/515?format=json"
+        },
+        {
+            "amendmentNumber": "516",
+            "congress": 97,
+            "introducedDate": "1981-07-23",
+            "latestAction": {
+                "actionDate": "1981-09-30",
+                "text": "Amendment agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/samdt/516?format=json"
+        },
+        {
+            "amendmentNumber": "483",
+            "congress": 97,
+            "introducedDate": "1981-07-10",
+            "latestAction": {
+                "actionDate": "1981-07-14",
+                "text": "Amendment not agreed to in Senate by Yea-Nay Vote. 40-55. Record Vote No: 186. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/samdt/483?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-12-03",
+            "latestAction": {
+                "actionDate": "1982-12-03",
+                "text": "Placed on Senate Legislative Calendar under Regular Orders. Calendar No. 966."
+            },
+            "number": "3075",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Foreign Assistance and Related Programs Appropriations Act, 1983",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/97/s/3075?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-11-30",
+            "latestAction": {
+                "actionDate": "1982-12-07",
+                "text": "Committee on Finance requested executive comment from OMB; Treasury Department."
+            },
+            "number": "3047",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to repeal the withholding of tax from interest and dividends and to require statements to be filed by the taxpayer with respect to interest, dividends, and patronage dividends.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/97/s/3047?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-09-23",
+            "latestAction": {
+                "actionDate": "1982-09-24",
+                "text": "Referred to Subcommittee on Immigration and Refugee Policy."
+            },
+            "number": "2949",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Tsun-lit Poon.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/97/s/2949?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-06-16",
+            "latestAction": {
+                "actionDate": "1982-12-01",
+                "text": "Placed on Senate Legislative Calendar under Regular Orders. Calendar No. 963."
+            },
+            "number": "2631",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Product Liability Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/97/s/2631?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-05-06",
+            "latestAction": {
+                "actionDate": "1982-05-28",
+                "text": "Placed on Senate Legislative Calendar under Regular Orders. Calendar No. 639."
+            },
+            "number": "2499",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal Trade Commission Amendments Act of 1982",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/97/s/2499?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-03-02",
+            "latestAction": {
+                "actionDate": "1982-03-09",
+                "text": "Committee on Banking requested executive comment from Treasury Department."
+            },
+            "number": "2155",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to require a foreign country be declared to be in default before payments are made by the United States Government for loans owed by such country or credits which have been extended to such country which have been guaranteed or assured by agencies of the United States Government.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/97/s/2155?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-02-03",
+            "latestAction": {
+                "actionDate": "1982-02-03",
+                "text": "Read twice and referred to the Committee on Commerce."
+            },
+            "number": "2057",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to amend title 49, United States Code.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/97/s/2057?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-01-25",
+            "latestAction": {
+                "actionDate": "1982-01-28",
+                "text": "Committee on Finance requested executive comment from OMB; Treasury Department."
+            },
+            "number": "2009",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code to eliminate special rules for leases.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/97/s/2009?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-02-09",
+            "latestAction": {
+                "actionDate": "1982-02-09",
+                "text": "Read twice and referred to the Committee on Rules."
+            },
+            "number": "2080",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal Election Campaign Equal and Total Disclosure Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/97/s/2080?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-02-02",
+            "latestAction": {
+                "actionDate": "1982-11-29",
+                "text": "Referred to House Committee on The Judiciary."
+            },
+            "number": "2039",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Margit Liberda and her daughter, Veronika Koszegi.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/97/s/2039?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-01-28",
+            "latestAction": {
+                "actionDate": "1982-02-02",
+                "text": "Committee on Finance requested executive comment from OMB; Treasury Department."
+            },
+            "number": "2020",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide that the individual income tax rate reductions enacted by the Economic Recovery Tax Act of 1981 for 1982 and subsequent years shall take effect 6 months sooner than scheduled under the Act.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/97/s/2020?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-10-01",
+            "latestAction": {
+                "actionDate": "1982-01-28",
+                "text": "Committee on Governmental Affairs received executive comment from U.S. Postal Service."
+            },
+            "number": "1693",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to provide for the issuance of a special stamp to commemorate the 200th anniversary of the presence of the bald eagle on the official seal of the United States of America.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/97/s/1693?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-05-11",
+            "latestAction": {
+                "actionDate": "1981-11-04",
+                "text": "Indefinitely postponed by Senate by Voice Vote."
+            },
+            "number": "1155",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Consumer Product Safety Act Amendments of 1981",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/97/s/1155?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-05-12",
+            "latestAction": {
+                "actionDate": "1981-06-01",
+                "text": "Committee on Veterans requested executive comment from VA; OMB."
+            },
+            "number": "1164",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Omnibus Prisoner of War Act of 1981",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/97/s/1164?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-05-06",
+            "latestAction": {
+                "actionDate": "1981-08-03",
+                "text": "Committee on Governmental Affairs received executive comment from GAO."
+            },
+            "number": "1120",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Waste, Fraud, and Abuse Reduction Act of 1981",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/97/s/1120?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-05-04",
+            "latestAction": {
+                "actionDate": "1981-09-11",
+                "text": "Indefinitely postponed by Senate by Voice Vote."
+            },
+            "number": "1096",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Product Liability Risk Retention Act of 1981",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/97/s/1096?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-02-26",
+            "latestAction": {
+                "actionDate": "1981-02-26",
+                "text": "Read second time and referred to Senate Committee on Judiciary."
+            },
+            "number": "589",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Martin John Lavery.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/97/s/589?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-02-20",
+            "latestAction": {
+                "actionDate": "1981-02-20",
+                "text": "Read second time and referred to Senate Committee on Judiciary."
+            },
+            "number": "516",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Chuen-Yung Yu and Chuen-Yuh Yu.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/97/s/516?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-03-25",
+            "latestAction": {
+                "actionDate": "1982-05-24",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "175",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "A joint resolution authorizing and requesting the President to proclaim \"National Junior Bowling Championship Week\".",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/97/sjres/175?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-11-12",
+            "latestAction": {
+                "actionDate": "1981-11-12",
+                "text": "Read second time and referred to Senate Committee on Judiciary."
+            },
+            "number": "125",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "A joint resolution authorizing and requesting the President to proclaim \"National Junior Bowling Week\".",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/97/sjres/125?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-03-04",
+            "latestAction": {
+                "actionDate": "1982-03-04",
+                "text": "Read twice and referred to the Committee on Judiciary."
+            },
+            "number": "156",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A joint resolution to designate April 9, 1982, as \"POW-MIA Commemoration Day\".",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/97/sjres/156?format=json"
+        },
+        {
+            "amendmentNumber": "142",
+            "congress": 98,
+            "introducedDate": "1983-04-18",
+            "latestAction": {
+                "actionDate": "1983-04-18",
+                "text": "Ordered to be printed.  SP 1069 "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/suamdt/142?format=json"
+        },
+        {
+            "amendmentNumber": "79",
+            "congress": 98,
+            "introducedDate": "1983-03-17",
+            "latestAction": {
+                "actionDate": "1983-03-17",
+                "text": "Ordered to be printed.  SP 522 "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/suamdt/79?format=json"
+        },
+        {
+            "amendmentNumber": "25",
+            "congress": 98,
+            "introducedDate": "1983-03-08",
+            "latestAction": {
+                "actionDate": "1983-03-08",
+                "text": "Proposed amendment SU 25 withdrawn in Senate. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/suamdt/25?format=json"
+        },
+        {
+            "amendmentNumber": "39",
+            "congress": 98,
+            "introducedDate": "1983-03-14",
+            "latestAction": {
+                "actionDate": "1983-03-14",
+                "text": "Ordered to be printed.  SP 504 "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/suamdt/39?format=json"
+        },
+        {
+            "amendmentNumber": "35",
+            "congress": 98,
+            "introducedDate": "1983-03-10",
+            "latestAction": {
+                "actionDate": "1983-03-10",
+                "text": "Ordered to be printed.  SP 497 "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/suamdt/35?format=json"
+        },
+        {
+            "amendmentNumber": "7045",
+            "congress": 98,
+            "introducedDate": "1984-10-04",
+            "latestAction": {
+                "actionDate": "1984-10-04",
+                "text": "Amendment SP 7045 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/7045?format=json"
+        },
+        {
+            "amendmentNumber": "6976",
+            "congress": 98,
+            "introducedDate": "1984-10-03",
+            "latestAction": {
+                "actionDate": "1984-10-03",
+                "text": "Amendment SP 6976 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/6976?format=json"
+        },
+        {
+            "amendmentNumber": "6978",
+            "congress": 98,
+            "introducedDate": "1984-10-03",
+            "latestAction": {
+                "actionDate": "1984-10-03",
+                "text": "Amendment SP 6978 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/6978?format=json"
+        },
+        {
+            "amendmentNumber": "7015",
+            "congress": 98,
+            "introducedDate": "1984-10-04",
+            "latestAction": {
+                "actionDate": "1984-10-04",
+                "text": "Amendment SP 7015 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/7015?format=json"
+        },
+        {
+            "amendmentNumber": "3613",
+            "congress": 98,
+            "introducedDate": "1984-08-07",
+            "latestAction": {
+                "actionDate": "1984-08-07",
+                "text": "Amendment SP 3613 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/3613?format=json"
+        },
+        {
+            "amendmentNumber": "3412",
+            "congress": 98,
+            "introducedDate": "1984-07-25",
+            "latestAction": {
+                "actionDate": "1984-07-25",
+                "text": "Amendment SP 3412 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/3412?format=json"
+        },
+        {
+            "amendmentNumber": "3352",
+            "congress": 98,
+            "introducedDate": "1984-06-28",
+            "latestAction": {
+                "actionDate": "1984-06-28",
+                "text": "Amendment SP 3352 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/3352?format=json"
+        },
+        {
+            "amendmentNumber": "3060",
+            "congress": 98,
+            "introducedDate": "1984-05-15",
+            "latestAction": {
+                "actionDate": "1984-05-15",
+                "text": "Amendment agreed to in Senate by Yea-Nay Vote. 93-1. Record Vote No: 94. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/3060?format=json"
+        },
+        {
+            "amendmentNumber": "2809",
+            "congress": 98,
+            "introducedDate": "1984-03-21",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/2809?format=json"
+        },
+        {
+            "amendmentNumber": "2707",
+            "congress": 98,
+            "introducedDate": "1984-02-09",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/2707?format=json"
+        },
+        {
+            "amendmentNumber": "2550",
+            "congress": 98,
+            "introducedDate": "1983-11-10",
+            "latestAction": {
+                "actionDate": "1983-11-10",
+                "text": "Amendment SP 2550 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/2550?format=json"
+        },
+        {
+            "amendmentNumber": "2475",
+            "congress": 98,
+            "introducedDate": "1983-10-31",
+            "latestAction": {
+                "actionDate": "1983-10-31",
+                "text": "Amendment SP 2475 not agreed to in Senate by Yea-Nay Vote. 42-55. Record Vote No: 326. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/2475?format=json"
+        },
+        {
+            "amendmentNumber": "2422",
+            "congress": 98,
+            "introducedDate": "1983-10-21",
+            "latestAction": {
+                "actionDate": "1983-10-21",
+                "text": "Amendment SP 2422 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/2422?format=json"
+        },
+        {
+            "amendmentNumber": "2393",
+            "congress": 98,
+            "introducedDate": "1983-10-21",
+            "latestAction": {
+                "actionDate": "1983-10-21",
+                "text": "Amendment SP 2393 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/2393?format=json"
+        },
+        {
+            "amendmentNumber": "2312",
+            "congress": 98,
+            "introducedDate": "1983-10-07",
+            "latestAction": {
+                "actionDate": "1983-10-07",
+                "text": "Amendment SP 2312 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/2312?format=json"
+        },
+        {
+            "amendmentNumber": "2234",
+            "congress": 98,
+            "introducedDate": "1983-09-28",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/2234?format=json"
+        },
+        {
+            "amendmentNumber": "2235",
+            "congress": 98,
+            "introducedDate": "1983-09-28",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/2235?format=json"
+        },
+        {
+            "amendmentNumber": "2212",
+            "congress": 98,
+            "introducedDate": "1983-09-23",
+            "latestAction": {
+                "actionDate": "1983-09-23",
+                "text": "Amendment SP 2212 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/2212?format=json"
+        },
+        {
+            "amendmentNumber": "2138",
+            "congress": 98,
+            "introducedDate": "1983-09-15",
+            "latestAction": {
+                "actionDate": "1983-09-15",
+                "text": "Proposed amendment SP 2138 withdrawn in Senate. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/2138?format=json"
+        },
+        {
+            "amendmentNumber": "1421",
+            "congress": 98,
+            "introducedDate": "1983-06-16",
+            "latestAction": {
+                "actionDate": "1983-06-16",
+                "text": "Amendment SP 1421 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/1421?format=json"
+        },
+        {
+            "amendmentNumber": "1179",
+            "congress": 98,
+            "introducedDate": "1983-04-20",
+            "latestAction": {
+                "actionDate": "1983-04-21",
+                "text": "Amendment SP 1179 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/1179?format=json"
+        },
+        {
+            "amendmentNumber": "1077",
+            "congress": 98,
+            "introducedDate": "1983-04-19",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/1077?format=json"
+        },
+        {
+            "amendmentNumber": "1081",
+            "congress": 98,
+            "introducedDate": "1983-04-19",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/1081?format=json"
+        },
+        {
+            "amendmentNumber": "1069",
+            "congress": 98,
+            "introducedDate": "1983-04-18",
+            "latestAction": {
+                "actionDate": "1983-04-18",
+                "text": "Proposed by Senator Kasten to Amendment SP 522. To change the effective date to May 1, 1983, on which withholding of tax from interest and dividends will be repealed."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/1069?format=json"
+        },
+        {
+            "amendmentNumber": "1075",
+            "congress": 98,
+            "introducedDate": "1983-04-19",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/1075?format=json"
+        },
+        {
+            "amendmentNumber": "1076",
+            "congress": 98,
+            "introducedDate": "1983-04-19",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/1076?format=json"
+        },
+        {
+            "amendmentNumber": "1079",
+            "congress": 98,
+            "introducedDate": "1983-04-19",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/1079?format=json"
+        },
+        {
+            "amendmentNumber": "1082",
+            "congress": 98,
+            "introducedDate": "1983-04-19",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/1082?format=json"
+        },
+        {
+            "amendmentNumber": "1078",
+            "congress": 98,
+            "introducedDate": "1983-04-19",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/1078?format=json"
+        },
+        {
+            "amendmentNumber": "1080",
+            "congress": 98,
+            "introducedDate": "1983-04-19",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/1080?format=json"
+        },
+        {
+            "amendmentNumber": "522",
+            "congress": 98,
+            "introducedDate": "1983-03-17",
+            "latestAction": {
+                "actionDate": "1983-04-20",
+                "text": "Second cloture motion on Kasten amendment (SP522) not invoked in Senate by Yea-Nay Vote. 39-59. Record Vote No: 58. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/522?format=json"
+        },
+        {
+            "amendmentNumber": "504",
+            "congress": 98,
+            "introducedDate": "1983-03-14",
+            "latestAction": {
+                "actionDate": "1983-03-17",
+                "text": "Proposed amendment SP 504 withdrawn in Senate. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/504?format=json"
+        },
+        {
+            "amendmentNumber": "497",
+            "congress": 98,
+            "introducedDate": "1983-03-10",
+            "latestAction": {
+                "actionDate": "1983-03-17",
+                "text": "Proposed amendment SP 497 withdrawn in Senate. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/497?format=json"
+        },
+        {
+            "amendmentNumber": "511",
+            "congress": 98,
+            "introducedDate": "1983-03-15",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/511?format=json"
+        },
+        {
+            "amendmentNumber": "510",
+            "congress": 98,
+            "introducedDate": "1983-03-15",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/samdt/510?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-09-18",
+            "latestAction": {
+                "actionDate": "1984-09-24",
+                "text": "Referred to Subcommittee on Immigration and Refugee Policy."
+            },
+            "number": "3004",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Tirouhi Marcarian.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/98/s/3004?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-08-10",
+            "latestAction": {
+                "actionDate": "1984-08-20",
+                "text": "Committee on Finance requested executive comment from OMB, Treasury Department."
+            },
+            "number": "2948",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Fair and Simple Tax Act of 1984",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/98/s/2948?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-06-26",
+            "latestAction": {
+                "actionDate": "1984-06-26",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 1015."
+            },
+            "number": "2793",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "An original bill making appropriations for foreign assistance and related programs for the fiscal year ending September 30, 1985, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/98/s/2793?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-06-13",
+            "latestAction": {
+                "actionDate": "1984-06-13",
+                "text": "Read twice and referred to the Committee on Governmental Affairs."
+            },
+            "number": "2751",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Save the Lakes Act of 1984",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/98/s/2751?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-05-09",
+            "latestAction": {
+                "actionDate": "1984-09-12",
+                "text": "Passed Senate with an amendment and an amendment to the Title by Voice Vote."
+            },
+            "number": "2650",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Toy Safety Act of 1984",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/98/s/2650?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-04-26",
+            "latestAction": {
+                "actionDate": "1984-04-26",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2600",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Fair and Simple Tax Act of 1984",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/98/s/2600?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-03-30",
+            "latestAction": {
+                "actionDate": "1984-03-30",
+                "text": "Read twice and referred to the Committee on Rules."
+            },
+            "number": "2508",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Federal Cost Control Act of 1984",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/98/s/2508?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-03-28",
+            "latestAction": {
+                "actionDate": "1984-03-29",
+                "text": "Referred to Subcommittee on Immigration and Refugee Policy."
+            },
+            "number": "2486",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Rolando Mendiola and Thelma Mendiola.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/98/s/2486?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-02-02",
+            "latestAction": {
+                "actionDate": "1984-04-12",
+                "text": "Committee on Veterans received executive comment from VA."
+            },
+            "number": "2253",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to name the Veterans' Administration Medical Center in Milwaukee, Wisconsin, the \"Clement J. Zablocki Veterans' Administration Medical Center\".",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/98/s/2253?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-01-24",
+            "latestAction": {
+                "actionDate": "1984-01-31",
+                "text": "Referred to Subcommittee on Civil Service and General Services."
+            },
+            "number": "2206",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Members of Congress Pay Reform Act of 1984",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/98/s/2206?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-09-27",
+            "latestAction": {
+                "actionDate": "1984-02-02",
+                "text": "Indefinitely postponed by Senate by Unanimous Consent."
+            },
+            "number": "1892",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Foreign Assistance and Related Programs Appropriation Act, 1984",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/98/s/1892?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-08-04",
+            "latestAction": {
+                "actionDate": "1983-08-15",
+                "text": "Referred to Subcommittee on Civil Service and General Services."
+            },
+            "number": "1782",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to designate the United States Post Office Building in Oshkosh, Wisconsin, as the \"William A. Steiger Post Office Building\".",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/98/s/1782?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-07-13",
+            "latestAction": {
+                "actionDate": "1984-03-28",
+                "text": "Committee on Agriculture. Ordered favorably reported H.R.3578 in lieu of this measure."
+            },
+            "number": "1610",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to establish the wilderness areas in Wisconsin.  ",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/98/s/1610?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-06-16",
+            "latestAction": {
+                "actionDate": "1983-06-20",
+                "text": "Referred to Subcommittee on Immigration and Refugee Policy."
+            },
+            "number": "1491",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Tsun-lit Poon.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/98/s/1491?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-04-13",
+            "latestAction": {
+                "actionDate": "1983-12-01",
+                "text": "Became Public Law No: 98-193."
+            },
+            "number": "1046",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "A bill to clarify the applicability of a provision of law regarding risk retention.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/98/s/1046?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-03-18",
+            "latestAction": {
+                "actionDate": "1983-06-29",
+                "text": "Passed House (Amended) by Voice Vote."
+            },
+            "number": "861",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Consumer Product Safety Amendments of 1983",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/98/s/861?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-01-27",
+            "latestAction": {
+                "actionDate": "1983-01-28",
+                "text": "Committee on Finance requested executive comment from OMB; Treasury Department."
+            },
+            "number": "222",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to repeal the withholding of tax from interest and dividends and to require statements to be filed by the taxpayer with respect to interest, dividends, and patronage dividends.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/98/s/222?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-01-26",
+            "latestAction": {
+                "actionDate": "1984-09-12",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 1168."
+            },
+            "number": "44",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Product Liability Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/98/s/44?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-06-28",
+            "latestAction": {
+                "actionDate": "1984-08-21",
+                "text": "See H.J.Res.597."
+            },
+            "number": "327",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A joint resolution to designate the week beginning September 2, 1984 as \"Youth of America Week\".",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/98/sjres/327?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-02-02",
+            "latestAction": {
+                "actionDate": "1984-02-02",
+                "text": "Read twice and referred to the Committee on Foreign Relations."
+            },
+            "number": "226",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A joint resolution to renounce the 1945 Yalta Agreement.",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/98/sjres/226?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-04-25",
+            "latestAction": {
+                "actionDate": "1984-09-21",
+                "text": "For Further Action See H.J.Res.554."
+            },
+            "number": "279",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A joint resolution to designate the week of November 11, 1984, through November 17, 1984, as \"Women in Agriculture Week\".",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/98/sjres/279?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-06-14",
+            "latestAction": {
+                "actionDate": "1983-08-23",
+                "text": "Became Public Law No: 98-84."
+            },
+            "number": "116",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "A joint resolution to designate the week of September 4, 1983, through September 10, 1983, as \"Youth of America Week.\"",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/98/sjres/116?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-06-14",
+            "latestAction": {
+                "actionDate": "1983-06-17",
+                "text": "Referred to Subcommittee on Constitution."
+            },
+            "number": "115",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A joint resolution proposing an amendment to the Constitution of the United States with respect to the length of the terms of Office of the President, Vice President, and Members of the Senate and of the House of Representatives and the number of terms a President, Senator, or Representative may serve.",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/98/sjres/115?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-06-27",
+            "latestAction": {
+                "actionDate": "1984-06-27",
+                "text": "Referred to the Committee on Labor and Human Resources."
+            },
+            "number": "416",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "A resolution to express the sense of the Senate that educators should develop recommendations to increase student motivation as a means of improving excellence in education.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/98/sres/416?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-05-10",
+            "latestAction": {
+                "actionDate": "1983-05-10",
+                "text": "Referred to the Committee on Foreign Relations."
+            },
+            "number": "137",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A resolution expressing the sense of the Senate that Taiwan should retain full membership in the Asian Development Bank, and that it should not be expelled as a precondition for membership in that body by the People's Republic of China.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/98/sres/137?format=json"
+        },
+        {
+            "amendmentNumber": "3424",
+            "congress": 99,
+            "introducedDate": "1986-10-15",
+            "latestAction": {
+                "actionDate": "1986-10-15",
+                "text": "Amendment SP 3424 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/samdt/3424?format=json"
+        },
+        {
+            "amendmentNumber": "3251",
+            "congress": 99,
+            "introducedDate": "1986-10-06",
+            "latestAction": {
+                "actionDate": "1986-10-06",
+                "text": "Amendment SP 3251 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/samdt/3251?format=json"
+        },
+        {
+            "amendmentNumber": "3153",
+            "congress": 99,
+            "introducedDate": "1986-10-03",
+            "latestAction": {
+                "actionDate": "1986-10-03",
+                "text": "Amendment SP 3153 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/samdt/3153?format=json"
+        },
+        {
+            "amendmentNumber": "3162",
+            "congress": 99,
+            "introducedDate": "1986-10-03",
+            "latestAction": {
+                "actionDate": "1986-10-03",
+                "text": "SP 3162 determined non-germane by Yea-Nay Vote. 32-60. Record Vote No: 322. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/samdt/3162?format=json"
+        },
+        {
+            "amendmentNumber": "2868",
+            "congress": 99,
+            "introducedDate": "1986-09-22",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/samdt/2868?format=json"
+        },
+        {
+            "amendmentNumber": "2681",
+            "congress": 99,
+            "introducedDate": "1986-08-09",
+            "latestAction": {
+                "actionDate": "1986-08-09",
+                "text": "Amendment SP 2681 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/samdt/2681?format=json"
+        },
+        {
+            "amendmentNumber": "2077",
+            "congress": 99,
+            "introducedDate": "1986-06-12",
+            "latestAction": {
+                "actionDate": "1986-06-13",
+                "text": "Motion to table SP 2077 agreed to in Senate by Yea-Nay Vote. 51-44. Record Vote No: 130. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/samdt/2077?format=json"
+        },
+        {
+            "amendmentNumber": "1814",
+            "congress": 99,
+            "introducedDate": "1986-04-30",
+            "latestAction": {
+                "actionDate": "1986-04-30",
+                "text": "Referred to the Committee on Commerce. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/samdt/1814?format=json"
+        },
+        {
+            "amendmentNumber": "1689",
+            "congress": 99,
+            "introducedDate": "1986-03-14",
+            "latestAction": {
+                "actionDate": "1986-03-14",
+                "text": "Proposed amendment SP 1689 withdrawn in Senate. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/samdt/1689?format=json"
+        },
+        {
+            "amendmentNumber": "1690",
+            "congress": 99,
+            "introducedDate": "1986-03-14",
+            "latestAction": {
+                "actionDate": "1986-03-14",
+                "text": "Amendment SP 1690 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/samdt/1690?format=json"
+        },
+        {
+            "amendmentNumber": "1157",
+            "congress": 99,
+            "introducedDate": "1985-11-22",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/samdt/1157?format=json"
+        },
+        {
+            "amendmentNumber": "1072",
+            "congress": 99,
+            "introducedDate": "1985-11-20",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/samdt/1072?format=json"
+        },
+        {
+            "amendmentNumber": "1131",
+            "congress": 99,
+            "introducedDate": "1985-11-22",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/samdt/1131?format=json"
+        },
+        {
+            "amendmentNumber": "1073",
+            "congress": 99,
+            "introducedDate": "1985-11-20",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/samdt/1073?format=json"
+        },
+        {
+            "amendmentNumber": "1070",
+            "congress": 99,
+            "introducedDate": "1985-11-20",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/samdt/1070?format=json"
+        },
+        {
+            "amendmentNumber": "1071",
+            "congress": 99,
+            "introducedDate": "1985-11-20",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/samdt/1071?format=json"
+        },
+        {
+            "amendmentNumber": "635",
+            "congress": 99,
+            "introducedDate": "1985-09-18",
+            "latestAction": {
+                "actionDate": "1985-09-18",
+                "text": "Amendment SP 635 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/samdt/635?format=json"
+        },
+        {
+            "amendmentNumber": "631",
+            "congress": 99,
+            "introducedDate": "1985-09-17",
+            "latestAction": {
+                "actionDate": "1985-09-17",
+                "text": "Amendment SP 631 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/samdt/631?format=json"
+        },
+        {
+            "amendmentNumber": "542",
+            "congress": 99,
+            "introducedDate": "1985-07-25",
+            "latestAction": {
+                "actionDate": "1985-07-26",
+                "text": "Amendment SP 542 agreed to in Senate by Yea-Nay Vote. 67-22. Record Vote No: 163. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/samdt/542?format=json"
+        },
+        {
+            "amendmentNumber": "412",
+            "congress": 99,
+            "introducedDate": "1985-06-20",
+            "latestAction": {
+                "actionDate": "1985-06-20",
+                "text": "Amendment SP 412 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/samdt/412?format=json"
+        },
+        {
+            "amendmentNumber": "312",
+            "congress": 99,
+            "introducedDate": "1985-06-10",
+            "latestAction": {
+                "actionDate": "1985-06-10",
+                "text": "Amendment SP 312 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/samdt/312?format=json"
+        },
+        {
+            "amendmentNumber": "313",
+            "congress": 99,
+            "introducedDate": "1985-06-10",
+            "latestAction": {
+                "actionDate": "1985-06-10",
+                "text": "Amendment SP 313 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/samdt/313?format=json"
+        },
+        {
+            "amendmentNumber": "335",
+            "congress": 99,
+            "introducedDate": "1985-06-13",
+            "latestAction": {
+                "actionDate": "1985-06-13",
+                "text": "Amendment SP 335 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/samdt/335?format=json"
+        },
+        {
+            "amendmentNumber": "318",
+            "congress": 99,
+            "introducedDate": "1985-06-10",
+            "latestAction": {
+                "actionDate": "1985-06-10",
+                "text": "Amendment SP 318 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/samdt/318?format=json"
+        },
+        {
+            "amendmentNumber": "137",
+            "congress": 99,
+            "introducedDate": "1985-05-15",
+            "latestAction": {
+                "actionDate": "1985-05-15",
+                "text": "Amendment SP 137 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/samdt/137?format=json"
+        },
+        {
+            "amendmentNumber": "138",
+            "congress": 99,
+            "introducedDate": "1985-05-15",
+            "latestAction": {
+                "actionDate": "1985-05-15",
+                "text": "Amendment SP 138 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/samdt/138?format=json"
+        },
+        {
+            "amendmentNumber": "85",
+            "congress": 99,
+            "introducedDate": "1985-05-09",
+            "latestAction": {
+                "actionDate": "1985-05-09",
+                "text": "Amendment SP 85 not agreed to in Senate by Yea-Nay Vote. 43-54. Record Vote No: 63. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/samdt/85?format=json"
+        },
+        {
+            "amendmentNumber": "135",
+            "congress": 99,
+            "introducedDate": "1985-05-15",
+            "latestAction": {
+                "actionDate": "1985-05-15",
+                "text": "Amendment SP 135 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/samdt/135?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-09-16",
+            "latestAction": {
+                "actionDate": "1986-09-16",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 914."
+            },
+            "number": "2824",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Foreign Assistance and Related Programs Appropriations Act, 1987",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/2824?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-09-10",
+            "latestAction": {
+                "actionDate": "1986-09-10",
+                "text": "Read twice and referred to the Committee on Commerce."
+            },
+            "number": "2804",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Household Goods Transport Competition Improvements Act of 1986",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/2804?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-06-18",
+            "latestAction": {
+                "actionDate": "1986-06-18",
+                "text": "Read twice and referred to the Committee on Commerce."
+            },
+            "number": "2566",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "All-terrain Vehicle User Safety Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/2566?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-04-09",
+            "latestAction": {
+                "actionDate": "1986-04-14",
+                "text": "Committee on Finance requested executive comment from OMB, Departments of the Treasury, State, Agriculture."
+            },
+            "number": "2273",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to deny the tax exemption for interest on industrial development bonds used to finance acquisition of farm property by foreign persons.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/2273?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-04-21",
+            "latestAction": {
+                "actionDate": "1986-09-11",
+                "text": "Committee on Agriculture received executive comment from Agriculture Department."
+            },
+            "number": "2342",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to authorize the Secretary of Agriculture to issue a nationwide marketing order applicable to milk and milk products, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/2342?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-04-09",
+            "latestAction": {
+                "actionDate": "1986-04-21",
+                "text": "Committee on Agriculture requested executive comment from Agriculture Department."
+            },
+            "number": "2274",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to provide that certain individuals who are not citizens of the United States and certain persons who are not individuals shall be ineligible to receive financial assistance under the price support and related programs administered by the Secretary of Agriculture.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/2274?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-03-04",
+            "latestAction": {
+                "actionDate": "1986-03-07",
+                "text": "Committee on Finance requested executive comment from OMB, Departments of the Treasury and Health and Human Services."
+            },
+            "number": "2133",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Trust Funds Safeguard Act of 1986",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/2133?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-02-28",
+            "latestAction": {
+                "actionDate": "1986-10-27",
+                "text": "Became Public Law No: 99-563."
+            },
+            "number": "2129",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Risk Retention Amendments of 1986",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/2129?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-02-20",
+            "latestAction": {
+                "actionDate": "1986-03-20",
+                "text": "Referred to Subcommittee on Agricultural Production."
+            },
+            "number": "2085",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to amend the Agricultural Act of 1949 to require that milk assessments be increased during fiscal year 1986 to meet any deficit reduction requirements for milk price support levels.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/2085?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-02-26",
+            "latestAction": {
+                "actionDate": "1986-03-03",
+                "text": "Committee on Finance requested executive comment from OMB, Department of the Treasury."
+            },
+            "number": "2108",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to provide that Federal tax reform legislation shall not take effect before January 1, 1987.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/2108?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-02-05",
+            "latestAction": {
+                "actionDate": "1986-02-07",
+                "text": "Committee on Agriculture requested executive comment from Agriculture Department."
+            },
+            "number": "2047",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to amend the Agricultural Adjustment Act to modify the minimum adjustments to prices for fluid milk under marketing orders.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/2047?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-10-31",
+            "latestAction": {
+                "actionDate": "1986-03-25",
+                "text": "Indefinitely postponed by Senate by Unanimous Consent."
+            },
+            "number": "1816",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Foreign Assistance and Related Programs Appropriations Act, 1986",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/1816?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-09-25",
+            "latestAction": {
+                "actionDate": "1985-09-26",
+                "text": "Referred to Subcommittee on Immigration and Refugee Policy."
+            },
+            "number": "1703",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Martha Chavarria de Pineda, her husband, Noel Jesus Pineda-Escobar, and two of her children, Noel Antonio and Cesar Steven.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/1703?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-06-27",
+            "latestAction": {
+                "actionDate": "1985-06-27",
+                "text": "Read twice and referred to the Committee on Governmental Affairs."
+            },
+            "number": "1377",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Agency Accountability Act of 1985",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/1377?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-06-11",
+            "latestAction": {
+                "actionDate": "1985-06-13",
+                "text": "Referred to Subcommittee on Immigration and Refugee Policy."
+            },
+            "number": "1272",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Tsun-lit Poon.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/1272?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-06-05",
+            "latestAction": {
+                "actionDate": "1985-07-25",
+                "text": "Committee on Veterans received executive comment from VA."
+            },
+            "number": "1247",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to authorize certain uses to be made with respect to certain lands conveyed to Milwaukee County, Wisconsin, by the Administrator of Veterans' Affairs.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/1247?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-05-06",
+            "latestAction": {
+                "actionDate": "1986-02-06",
+                "text": "Message on House action received in Senate and held at desk: House amendments to Senate bill."
+            },
+            "number": "1077",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Consumer Product Safety Amendments of 1985",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/1077?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-05-07",
+            "latestAction": {
+                "actionDate": "1985-05-13",
+                "text": "Committee on Finance requested executive comment from Treasury Department."
+            },
+            "number": "1085",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Small Business Incentives Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/1085?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-05-01",
+            "latestAction": {
+                "actionDate": "1985-05-21",
+                "text": "Committee on Agriculture requested executive comment from Agriculture Department."
+            },
+            "number": "1035",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Fragile Lands Conservation and Wetlands Protection Act of 1985",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/1035?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-05-06",
+            "latestAction": {
+                "actionDate": "1986-07-21",
+                "text": "Speaker Appointed Additional Conferee: Tauke in Lieu of Broyhill."
+            },
+            "number": "1078",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal Trade Commission Authorization Act of 1985",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/1078?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-04-25",
+            "latestAction": {
+                "actionDate": "1985-05-09",
+                "text": "Committee on Finance. Hearings held. Hearings printed:  S.Hrg. 99-183."
+            },
+            "number": "1006",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Fair and Simple Tax Act of 1985",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/1006?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-03-28",
+            "latestAction": {
+                "actionDate": "1985-05-22",
+                "text": "Subcommittee on Intergovernmental Relations. Hearings held. Hearings printed:  S.Hrg. 99-446."
+            },
+            "number": "765",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Great Lakes Management Act of 1985",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/765?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-03-06",
+            "latestAction": {
+                "actionDate": "1985-04-22",
+                "text": "Committee on Agriculture requested executive comment from Agriculture Department."
+            },
+            "number": "598",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Fragile Lands Conservation Act of 1985",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/598?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-02-07",
+            "latestAction": {
+                "actionDate": "1985-02-07",
+                "text": "Read twice and referred to the Committee on Appropriations."
+            },
+            "number": "423",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Emergency African Famine Relief Act of 1985",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/423?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-02-07",
+            "latestAction": {
+                "actionDate": "1985-03-27",
+                "text": "Referred to Subcommittee on Immigration and Refugee Policy."
+            },
+            "number": "427",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Tirouhi Marcarian.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/427?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-02-06",
+            "latestAction": {
+                "actionDate": "1985-03-27",
+                "text": "Referred to Subcommittee on Immigration and Refugee Policy."
+            },
+            "number": "398",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Rolando Mendiola and Thelma Mendiola.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/398?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-01-31",
+            "latestAction": {
+                "actionDate": "1985-02-11",
+                "text": "Committee on Finance requested executive comment from OMB, Treasury Department."
+            },
+            "number": "325",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Fair and Simple Tax Act of 1985",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/325?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-01-29",
+            "latestAction": {
+                "actionDate": "1985-01-31",
+                "text": "Committee on Finance requested executive comment from OMB, International Trade Commission, Office of the U.S. Trade Representative, Treasury Department, State Department, Commerce Department, Agriculture Department."
+            },
+            "number": "310",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Milk Protein Fair Trade Act of 1985",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/310?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-01-31",
+            "latestAction": {
+                "actionDate": "1985-02-11",
+                "text": "Committee on Finance requested executive comment from OMB, Treasury Department, Health and Human Services Department."
+            },
+            "number": "322",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend title XVIII of the Social Security Act to revise the requirements relating to nursing care provided by certain hospice programs through arrangements with other medicare certified providers.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/322?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-01-24",
+            "latestAction": {
+                "actionDate": "1985-01-24",
+                "text": "Read twice and referred to the Committee on Agriculture."
+            },
+            "number": "278",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Milk Diversion Program Extension Act of 1985",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/278?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-01-03",
+            "latestAction": {
+                "actionDate": "1985-05-16",
+                "text": "Committee on Commerce. Failed to approve for reporting."
+            },
+            "number": "100",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Product Liability Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/99/s/100?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-09-19",
+            "latestAction": {
+                "actionDate": "1986-09-19",
+                "text": "Read twice and referred to the Committee on Judiciary."
+            },
+            "number": "416",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A joint resolution to give special recognition to the birth and achievements of Aldo Leopold.",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/99/sjres/416?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-09-11",
+            "latestAction": {
+                "actionDate": "1985-12-03",
+                "text": "Became Public Law No: 99-168."
+            },
+            "number": "195",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution to designate the week of October 20, 1985, through October 26, 1985, as \"National Temporary Services Week\".",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/99/sjres/195?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-02-05",
+            "latestAction": {
+                "actionDate": "1985-02-05",
+                "text": "Read twice and referred to the Committee on Foreign Relations."
+            },
+            "number": "37",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A joint resolution to reaffirm U.S. solidarity with the aspirations of captive nations in Central and Eastern Europe by repudiating the negative consequences of the 1945 Yalta Executive Agreements.",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/99/sjres/37?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-05-22",
+            "latestAction": {
+                "actionDate": "1985-05-22",
+                "text": "Referred to the Committee on Finance."
+            },
+            "number": "173",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A resolution expressing  the sense of the Senate that any tax reform measure enacted by Congress should restore the value of the personal exemption by increasing it to a minimum of $2,000 and indexing it to prevent further erosion of its value.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/99/sres/173?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-04-26",
+            "latestAction": {
+                "actionDate": "1985-05-17",
+                "text": "Resolution agreed to in Senate without amendment and with a preamble by Voice Vote."
+            },
+            "number": "144",
+            "policyArea": {
+                "name": "Arts, Culture, Religion"
+            },
+            "title": "A resolution to give special recognition to the achievements of John James Audubon.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/99/sres/144?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-03-06",
+            "latestAction": {
+                "actionDate": "1985-03-11",
+                "text": "Committee on Finance requested executive comment from OMB, International Trade Commission, Office of the U.S. Trade Representative, Treasury Department, State Department, Commerce Department, Agriculture Department."
+            },
+            "number": "92",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A resolution calling for imposition of countervailing duties on pork.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/99/sres/92?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-03-12",
+            "latestAction": {
+                "actionDate": "1986-03-12",
+                "text": "Referred to the Committee on Foreign Relations."
+            },
+            "number": "116",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution concerning the ongoing famine in Ethiopia and the Ethiopian Government's resettlement policy.",
+            "type": "SCONRES",
+            "url": "https://api.congress.gov/v3/bill/99/sconres/116?format=json"
+        },
+        {
+            "amendmentNumber": "3729",
+            "congress": 100,
+            "introducedDate": "1988-10-18",
+            "latestAction": {
+                "actionDate": "1988-10-18",
+                "text": "Amendment SP 3729 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/samdt/3729?format=json"
+        },
+        {
+            "amendmentNumber": "3284",
+            "congress": 100,
+            "introducedDate": "1988-09-23",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/samdt/3284?format=json"
+        },
+        {
+            "amendmentNumber": "3285",
+            "congress": 100,
+            "introducedDate": "1988-09-23",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/samdt/3285?format=json"
+        },
+        {
+            "amendmentNumber": "3362",
+            "congress": 100,
+            "introducedDate": "1988-10-01",
+            "latestAction": {
+                "actionDate": "1988-10-01",
+                "text": "Amendment SP 3362 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/samdt/3362?format=json"
+        },
+        {
+            "amendmentNumber": "3367",
+            "congress": 100,
+            "introducedDate": "1988-10-03",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/samdt/3367?format=json"
+        }
+    ]
+}

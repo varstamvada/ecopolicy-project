@@ -1,0 +1,161 @@
+{
+    "pagination": {
+        "count": 10
+    },
+    "request": {
+        "bioguideId": "p000049",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "772",
+            "congress": 105,
+            "introducedDate": "1998-07-22",
+            "latestAction": {
+                "actionDate": "1998-07-23",
+                "actionTime": "15:18:36",
+                "text": "On agreeing to the Pappas amendment (A020) Failed by recorded vote: 139 - 285 (Roll No. 330). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/772?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-26",
+            "latestAction": {
+                "actionDate": "1998-04-02",
+                "text": "Executive Comment Requested from Interior."
+            },
+            "number": "3566",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Mid-Atlantic Open Space and Farmland Preservation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3566?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-26",
+            "latestAction": {
+                "actionDate": "1998-06-10",
+                "text": "Sponsor introductory remarks on measure. (CR E1096)"
+            },
+            "number": "3567",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare Home Health Equity Act of 1998",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3567?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-02-12",
+            "latestAction": {
+                "actionDate": "1998-03-13",
+                "text": "Referred to the Subcommittee on Military Procurement."
+            },
+            "number": "3233",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Historic Battleship Preservation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3233?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-03-05",
+            "latestAction": {
+                "actionDate": "1997-03-06",
+                "text": "Sponsor introductory remarks on measure. (CR H781-782)"
+            },
+            "number": "955",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Family Freedom Home Office Deduction Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/955?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-01-07",
+            "latestAction": {
+                "actionDate": "1997-03-06",
+                "text": "Sponsor introductory remarks on measure. (CR H781-782)"
+            },
+            "number": "245",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Small Business-Family Farm and Investment Fairness Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/245?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-08-06",
+            "latestAction": {
+                "actionDate": "1998-08-06",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "519",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Concerning Iraqi development of weapons of mass destruction.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/105/hres/519?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-10-09",
+            "latestAction": {
+                "actionDate": "1998-05-05",
+                "actionTime": "18:13:56",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "267",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Expressing the sense of the House of Representatives that the citizens of the United States must remain committed to combat the distribution, sale, and use of illegal drugs by the Nation's youth.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/105/hres/267?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-02-26",
+            "latestAction": {
+                "actionDate": "1997-02-26",
+                "actionTime": "12:55:42",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "78",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Designating majority membership on certain standing committees of the House.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/105/hres/78?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-11-07",
+            "latestAction": {
+                "actionDate": "1997-11-07",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "188",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of the Congress regarding Turkey's claim of sovereignty to the islets in the Aegean Sea called Imia by Greece and Kardak by Turkey.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/105/hconres/188?format=json"
+        }
+    ]
+}

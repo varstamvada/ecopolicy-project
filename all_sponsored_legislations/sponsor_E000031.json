@@ -1,0 +1,920 @@
+{
+    "pagination": {
+        "count": 64
+    },
+    "request": {
+        "bioguideId": "e000031",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "958",
+            "congress": 97,
+            "introducedDate": "1982-12-06",
+            "latestAction": {
+                "actionDate": "1982-12-06",
+                "text": "Amendment Failed of Passage in Committee of Whole by Division Vote: 12 - 41. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/958?format=json"
+        },
+        {
+            "amendmentNumber": "799",
+            "congress": 97,
+            "introducedDate": "1982-08-11",
+            "latestAction": {
+                "actionDate": "1982-08-11",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 151 - 245 (Record Vote No: 266). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/799?format=json"
+        },
+        {
+            "amendmentNumber": "688",
+            "congress": 97,
+            "introducedDate": "1982-07-29",
+            "latestAction": {
+                "actionDate": "1982-07-29",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/688?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-06-22",
+            "latestAction": {
+                "actionDate": "1982-06-22",
+                "text": "Referred to House Committee on The Judiciary."
+            },
+            "number": "6658",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Martin J. McKenna, Mary L. McKenna, and Steven M. McKenna.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6658?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-05-06",
+            "latestAction": {
+                "actionDate": "1982-05-06",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "6305",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Unemployed Workers Job Opportunity Tax Credit Act of 1982",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6305?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-05-06",
+            "latestAction": {
+                "actionDate": "1982-08-19",
+                "text": "Unfavorable Executive Comment Received From DOT."
+            },
+            "number": "6304",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to prohibit the repeal or modification for a period of 3 years of certain regulations of the Federal Highway Administration relating to the maintenance of logs by drivers employed by motor carriers.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6304?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-03-17",
+            "latestAction": {
+                "actionDate": "1982-03-17",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "5863",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Auto Workers Job Opportunity Tax Credit Act of 1982",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/5863?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-12-16",
+            "latestAction": {
+                "actionDate": "1982-04-22",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "5284",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "A bill to repeal the changes made by the Omnibus Budget Reconciliation Act of 1981 in the trigger provisions contained in the extended unemployment compensation program.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/5284?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-06-25",
+            "latestAction": {
+                "actionDate": "1981-06-25",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "4015",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide long-term capital gain treatment for distribution of earnings with respect to certain small business participating debentures.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4015?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-09-30",
+            "latestAction": {
+                "actionDate": "1982-10-06",
+                "text": "Referred to Subcommittee on Monopolies and Commercial Law."
+            },
+            "number": "617",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A joint resolution proposing an amendment to the Constitution altering Federal Budget procedures.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/97/hjres/617?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-07-13",
+            "latestAction": {
+                "actionDate": "1981-07-13",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "177",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution calling for the development and implementation of a United States nuclear nonproliferation policy which strengthens the barriers to the further spread of nuclear weapons.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/97/hres/177?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-07-13",
+            "latestAction": {
+                "actionDate": "1982-07-21",
+                "text": "Referred to Subcommittee on Human Rights and International Organizations."
+            },
+            "number": "375",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A concurrent resolution expressing the sense of the Congress with respect to the imprisonment and treatment of Alfreds Zarins by the Government of the Soviet Union.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/97/hconres/375?format=json"
+        },
+        {
+            "amendmentNumber": "642",
+            "congress": 98,
+            "introducedDate": "1984-03-14",
+            "latestAction": {
+                "actionDate": "1984-03-14",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/642?format=json"
+        },
+        {
+            "amendmentNumber": "513",
+            "congress": 98,
+            "introducedDate": "1983-11-03",
+            "latestAction": {
+                "actionDate": "1983-11-03",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/513?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-08-08",
+            "latestAction": {
+                "actionDate": "1984-08-22",
+                "text": "Referred to Subcommittee on Postsecondary Education."
+            },
+            "number": "6096",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Dislocated Workers Act of 1984",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/6096?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-06-06",
+            "latestAction": {
+                "actionDate": "1984-06-11",
+                "text": "Referred to Subcommittee on Health and the Environment."
+            },
+            "number": "5794",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "National Acid Deposition Control and Cost Sharing Act of 1984",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5794?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-06-02",
+            "latestAction": {
+                "actionDate": "1984-09-13",
+                "text": "For Further Action See H.R.5959."
+            },
+            "number": "3200",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Safe Drinking Water Act Amendments of 1983",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/3200?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-02-01",
+            "latestAction": {
+                "actionDate": "1983-02-01",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "1136",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide long-term capital gain treatment for distribution of earnings with respect to certain small business participating debentures.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/1136?format=json"
+        },
+        {
+            "amendmentNumber": "679",
+            "congress": 99,
+            "introducedDate": "1985-12-06",
+            "latestAction": {
+                "actionDate": "1985-12-06",
+                "text": "Amendment Withdrawn in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/679?format=json"
+        },
+        {
+            "amendmentNumber": "682",
+            "congress": 99,
+            "introducedDate": "1985-12-06",
+            "latestAction": {
+                "actionDate": "1985-12-06",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/682?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-08-15",
+            "latestAction": {
+                "actionDate": "1986-09-04",
+                "text": "Executive Comment Requested from Army, Treasury, OMB."
+            },
+            "number": "5453",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Great Lakes Emergency Shoreline Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5453?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-04-15",
+            "latestAction": {
+                "actionDate": "1986-04-22",
+                "text": "Referred to Subcommittee on Commerce, Transportation and Tourism."
+            },
+            "number": "4580",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Trade Law Improvement Act of 1986",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/4580?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-06-26",
+            "latestAction": {
+                "actionDate": "1985-07-08",
+                "text": "Referred to Subcommittee on Commerce, Transportation and Tourism."
+            },
+            "number": "2873",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Conrail Public Sale Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2873?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-06-20",
+            "latestAction": {
+                "actionDate": "1985-12-11",
+                "text": "Laid on Table in House by Voice Vote."
+            },
+            "number": "2817",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Superfund Amendments of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2817?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-06-12",
+            "latestAction": {
+                "actionDate": "1985-09-30",
+                "text": "Unfavorable Executive Comment Received From DOT."
+            },
+            "number": "2744",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Great Lakes Management and Research Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2744?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-06-12",
+            "latestAction": {
+                "actionDate": "1985-09-05",
+                "text": "Referred to Subcommittee on Energy and the Environment."
+            },
+            "number": "2743",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Atomic Energy Accountability Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2743?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-03-28",
+            "latestAction": {
+                "actionDate": "1985-04-04",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "1796",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "Professional Sports Community Protection Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/1796?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-03-20",
+            "latestAction": {
+                "actionDate": "1985-04-08",
+                "text": "Referred to Subcommittee on Postsecondary Education."
+            },
+            "number": "1611",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Dislocated Workers Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/1611?format=json"
+        },
+        {
+            "amendmentNumber": "404",
+            "congress": 100,
+            "introducedDate": "1987-09-22",
+            "latestAction": {
+                "actionDate": "1987-09-22",
+                "text": "Amendment Withdrawn in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/404?format=json"
+        },
+        {
+            "amendmentNumber": "365",
+            "congress": 100,
+            "introducedDate": "1987-07-29",
+            "latestAction": {
+                "actionDate": "1987-07-29",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 119 - 300 (Record Vote No: 289). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/365?format=json"
+        },
+        {
+            "amendmentNumber": "378",
+            "congress": 100,
+            "introducedDate": "1987-08-05",
+            "latestAction": {
+                "actionDate": "1987-08-05",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/378?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-08-08",
+            "latestAction": {
+                "actionDate": "1988-08-23",
+                "text": "Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials."
+            },
+            "number": "5180",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to amend the National Traffic and Motor Vehicle Safety Act of 1966 to direct the Secretary of Transportation to establish Federal motor vehicle safety standards to require that each schoolbus be equipped so as to provide the driver with an unobstructed view of the area under the front of the schoolbus, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/5180?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-08-08",
+            "latestAction": {
+                "actionDate": "1988-08-23",
+                "text": "Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials."
+            },
+            "number": "5179",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Toxic Substances Neutralization Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/5179?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-08-08",
+            "latestAction": {
+                "actionDate": "1988-11-03",
+                "text": "Referred to Subcommittee on Energy and the Environment."
+            },
+            "number": "5181",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Uranium Enrichment Reorganization and Taxpayer Protection Act of 1988",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/5181?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-12-17",
+            "latestAction": {
+                "actionDate": "1988-10-06",
+                "text": "Placed on Union Calendar No: 625."
+            },
+            "number": "3785",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "A bill to amend the Solid Waste Disposal Act to clarify provisions concerning the application of certain requirements and sanctions to Federal facilities.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3785?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-10-05",
+            "latestAction": {
+                "actionDate": "1987-10-20",
+                "text": "Referred to Subcommittee on Health and the Environment."
+            },
+            "number": "3418",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A bill to establish certain grant programs, requirements, and prohibitions for the purpose of protecting emergency response employees from infectious diseases, including acquired immune deficiency syndrome.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3418?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-08-05",
+            "latestAction": {
+                "actionDate": "1987-11-19",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3123",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Nuclear Protections and Safety Act of 1987",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3123?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-04-23",
+            "latestAction": {
+                "actionDate": "1987-05-21",
+                "text": "See H.R.1414."
+            },
+            "number": "2141",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Price-Anderson Amendments Act of 1987",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2141?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-03-18",
+            "latestAction": {
+                "actionDate": "1987-03-24",
+                "text": "Referred to Subcommittee on Trade."
+            },
+            "number": "1687",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to amend the Tariff Act of 1930 to ensure that the countervailing duty laws apply to State-controlled-economy countries.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/1687?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-02-10",
+            "latestAction": {
+                "actionDate": "1988-03-17",
+                "text": "See H.R.2707."
+            },
+            "number": "1068",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "Great Lakes Emergency Shoreline Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/1068?format=json"
+        },
+        {
+            "amendmentNumber": "437",
+            "congress": 101,
+            "introducedDate": "1990-05-02",
+            "latestAction": {
+                "actionDate": "1990-05-02",
+                "actionTime": "17:23:11",
+                "text": "On agreeing to the Eckart amendment (A009) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/437?format=json"
+        },
+        {
+            "amendmentNumber": "394",
+            "congress": 101,
+            "introducedDate": "1990-03-28",
+            "latestAction": {
+                "actionDate": "1990-03-28",
+                "actionTime": "15:18:52",
+                "text": "On agreeing to the Eckart amendment (A009) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/394?format=json"
+        },
+        {
+            "amendmentNumber": "91",
+            "congress": 101,
+            "introducedDate": "1989-06-28",
+            "latestAction": {
+                "actionDate": "1989-06-28",
+                "actionTime": "16:17:44",
+                "text": "On agreeing to the Eckart amendment (A006) Failed by recorded vote: 93 - 330 (Roll no. 118). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/91?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-06-28",
+            "latestAction": {
+                "actionDate": "1990-07-16",
+                "text": "Referred to the Subcommittee on Transportation and Hazardous Materials."
+            },
+            "number": "5197",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Recycling Promotion Tax Incentive Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5197?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-06-20",
+            "latestAction": {
+                "actionDate": "1990-07-11",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "5098",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Savings and Loan Accountability and Management Reform Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5098?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-05-10",
+            "latestAction": {
+                "actionDate": "1990-05-25",
+                "text": "Referred to the Subcommittee on Crime."
+            },
+            "number": "4789",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Railroad Police Certification Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4789?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-11-15",
+            "latestAction": {
+                "actionDate": "1989-12-05",
+                "text": "Referred to the Subcommittee on Telecommunications and Finance."
+            },
+            "number": "3662",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Orderly Markets Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3662?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-08-03",
+            "latestAction": {
+                "actionDate": "1989-10-06",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "3108",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Toxics Release Prevention Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3108?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-08-03",
+            "latestAction": {
+                "actionDate": "1989-11-02",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3107",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Schoolbus Loading Zone Safety Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3107?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-08-03",
+            "latestAction": {
+                "actionDate": "1989-08-17",
+                "text": "Referred to the Subcommittee on Surface Transportation."
+            },
+            "number": "3109",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Schoolbus Safety Measures Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3109?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-05-09",
+            "latestAction": {
+                "actionDate": "1989-06-02",
+                "text": "Referred to the Subcommittee on Energy and the Environment."
+            },
+            "number": "2278",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Uranium Enrichment Reorganization and Taxpayer Protection Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2278?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-22",
+            "latestAction": {
+                "actionDate": "1989-07-20",
+                "text": "Received in the Senate and read twice and referred to the Committee on Environment and Public Works."
+            },
+            "number": "1056",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Federal Facilities Compliance Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/1056?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-07",
+            "latestAction": {
+                "actionDate": "1989-02-27",
+                "text": "Referred to the Subcommittee on Transportation and Hazardous Materials."
+            },
+            "number": "883",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To amend the National Traffic and Motor Vehicle Safety Act of 1966 to direct the Secretary of Transportation to establish Federal motor vehicle safety standards to require that a schoolbus is equipped with a system of mirrors that provide the driver when seated with an unobstructed view of certain areas under and alongside of the schoolbus, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/883?format=json"
+        },
+        {
+            "amendmentNumber": "616",
+            "congress": 102,
+            "introducedDate": "1992-06-17",
+            "latestAction": {
+                "actionDate": "1992-06-17",
+                "actionTime": "21:47:34",
+                "text": "On agreeing to the Eckart amendment (A010) Agreed to by recorded vote: 232 - 181 (Roll no. 201). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/616?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-04-09",
+            "latestAction": {
+                "actionDate": "1992-05-01",
+                "text": "Referred to the Subcommittee on Transportation and Hazardous Materials."
+            },
+            "number": "4905",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Oil and Natural Gas Exploration and Production Waste Management Improvement Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4905?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-10-15",
+            "latestAction": {
+                "actionDate": "1992-07-23",
+                "text": "For Further Action See H.R.4850."
+            },
+            "number": "3560",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Cable Consumer Protection Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3560?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-09-24",
+            "latestAction": {
+                "actionDate": "1992-07-23",
+                "text": "For Further Action See H.R.4850."
+            },
+            "number": "3380",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Fair Competition in Broadcasting Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3380?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-07-16",
+            "latestAction": {
+                "actionDate": "1991-08-13",
+                "text": "Referred to the Subcommittee on Energy and Power."
+            },
+            "number": "2916",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "To provide for a governmentwide comprehensive energy management plan for Federal agencies.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2916?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-05-02",
+            "latestAction": {
+                "actionDate": "1992-10-06",
+                "text": "Became Public Law No: 102-386."
+            },
+            "number": "2194",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Federal Facilities Compliance Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2194?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-04-24",
+            "latestAction": {
+                "actionDate": "1991-05-10",
+                "text": "Referred to the Subcommittee on Transportation and Hazardous Materials."
+            },
+            "number": "2051",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Antarctica Tourism Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2051?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-04-23",
+            "latestAction": {
+                "actionDate": "1992-04-28",
+                "text": "Executive Comment Received from ITC."
+            },
+            "number": "1995",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Regarding the payment of interest with respect to certain reliquidated entries.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1995?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-06-25",
+            "latestAction": {
+                "actionDate": "1992-06-26",
+                "text": "Became Public Law No: 102-306."
+            },
+            "number": "517",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "To provide for a settlement of the railroad labor-management disputes between certain railroads and certain of their employees.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/102/hjres/517?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-06-25",
+            "latestAction": {
+                "actionDate": "1992-06-25",
+                "text": "Committee Consideration and Mark-up Session Held."
+            },
+            "number": "515",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "To provide for a settlement of the railroad labor-management disputes between certain railroads and certain of their employees.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/102/hjres/515?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-03-07",
+            "latestAction": {
+                "actionDate": "1991-03-19",
+                "text": "Referred to the Subcommittee on Investigations."
+            },
+            "number": "95",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Expressing the sense of Congress that the Federal Government should assist United States small businesses seeking to become involved in the rebuilding of Kuwait, and for other purposes.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/102/hconres/95?format=json"
+        }
+    ]
+}

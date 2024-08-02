@@ -1,0 +1,87 @@
+{
+    "pagination": {
+        "count": 5
+    },
+    "request": {
+        "bioguideId": "f000187",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 104,
+            "introducedDate": "1996-07-17",
+            "latestAction": {
+                "actionDate": "1996-08-20",
+                "text": "Became Public Law No: 104-189."
+            },
+            "number": "3834",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To redesignate the Dunning Post Office in Chicago, Illinois, as the \"Roger P. McAuliffe Post Office\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3834?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-03-20",
+            "latestAction": {
+                "actionDate": "1996-03-28",
+                "text": "Referred to the Subcommittee on the Constitution."
+            },
+            "number": "3128",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To make it unlawful to send lobbying communications to Congress which are fraudulent.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3128?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-04-06",
+            "latestAction": {
+                "actionDate": "1995-04-07",
+                "text": "Sponsor introductory remarks on measure. (CR E821)"
+            },
+            "number": "1431",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to repeal the 30-percent of gross income limitation applicable to regulated investment companies.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1431?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-10",
+            "latestAction": {
+                "actionDate": "1996-10-01",
+                "text": "Became Public Law No: 104-218."
+            },
+            "number": "191",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "To confer honorary citizenship of the United States on Agnes Gonxha Bojahiu, also known as Mother Teresa.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/104/hjres/191?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-23",
+            "latestAction": {
+                "actionDate": "1995-02-01",
+                "text": "Referred jointly to the Committees on Budget; Governmental Affairs pursuant to the order of August 4, 1977, with instructions, that if one committee reports, the other committee have 30 days to report of be discharged."
+            },
+            "number": "17",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Relating to the treatment of Social Security under any constitutional amendment requiring a balanced budget.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/104/hconres/17?format=json"
+        }
+    ]
+}

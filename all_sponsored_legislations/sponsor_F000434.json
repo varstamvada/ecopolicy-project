@@ -1,0 +1,808 @@
+{
+    "pagination": {
+        "count": 55
+    },
+    "request": {
+        "bioguideId": "f000434",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "720",
+            "congress": 103,
+            "introducedDate": "1994-06-29",
+            "latestAction": {
+                "actionDate": "1994-06-29",
+                "actionTime": "22:48:40",
+                "text": "On agreeing to the Furse amendment (A002) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/720?format=json"
+        },
+        {
+            "amendmentNumber": "325",
+            "congress": 103,
+            "introducedDate": "1993-09-30",
+            "latestAction": {
+                "actionDate": "1993-09-30",
+                "actionTime": "10:28:29",
+                "text": "On agreeing to the Furse amendment (A002) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/325?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-06-27",
+            "latestAction": {
+                "actionDate": "1994-07-19",
+                "text": "Referred to the Subcommittee on Human Resources."
+            },
+            "number": "4652",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Science Start Grant Program Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4652?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-04-21",
+            "latestAction": {
+                "actionDate": "1994-09-27",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "4289",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Waterways Restoration Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4289?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-05-03",
+            "latestAction": {
+                "actionDate": "1994-05-06",
+                "text": "Executive Comment Requested from DOD."
+            },
+            "number": "4331",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To terminate the C-17 aircraft program after fiscal year 1995 and provide for a program to meet the remaining strategic airlift requirements of the Department of Defense with nondevelopmental aircraft.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4331?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-10-21",
+            "latestAction": {
+                "actionDate": "1993-11-03",
+                "text": "Referred to the Subcommittee on Select Education and Civil Rights."
+            },
+            "number": "3335",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Domestic Violence Community Initiative Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3335?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-09-21",
+            "latestAction": {
+                "actionDate": "1993-10-21",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "3097",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Women's Health Environmental Factors Research Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3097?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-05-11",
+            "latestAction": {
+                "actionDate": "1994-03-23",
+                "text": "Received in the Senate and read twice and referred to the Committee on Commerce."
+            },
+            "number": "2063",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "National Coastal Resources Development Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2063?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-02",
+            "latestAction": {
+                "actionDate": "1993-04-06",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "1674",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to eliminate the reductions in social security benefits which are presently required in the case of spouses and surviving spouses who are also receiving certain Government pensions.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1674?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-11-22",
+            "latestAction": {
+                "actionDate": "1994-05-12",
+                "text": "Received in the Senate and read twice and referred to the Committee on Judiciary."
+            },
+            "number": "302",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Designating 1994 through 1999 as the \"Years of the Girl Child\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/302?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-10-04",
+            "latestAction": {
+                "actionDate": "1994-10-17",
+                "text": "Referred to the Subcommittee on Europe and the Middle East."
+            },
+            "number": "306",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of the Congress that the President should pursue negotiations with Russia as quickly as possible to achieve a START III agreement that reduces the number of deployed strategic nuclear warheads to the lowest possible level, and no more than 2,000 each for the United States and Russia.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/103/hconres/306?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-10-03",
+            "latestAction": {
+                "actionDate": "1994-10-06",
+                "text": "Executive Comment Requested from DOD."
+            },
+            "number": "305",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Expressing the sense of Congress that the total amount appropriated for fiscal year 1996 for defense programs should not exceed the amount appropriated for those programs for fiscal year 1995 reduced by 10 percent.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/103/hconres/305?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-03-16",
+            "latestAction": {
+                "actionDate": "1994-08-02",
+                "text": "Sponsor introductory remarks on measure. (CR H6555)"
+            },
+            "number": "223",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Expressing the sense of the Congress that any legislation that is enacted to provide for comprehensive national health care reform should provide for coverage of syringes for individuals who have been diagnosed with diabetes and who require the administration of insulin by syringe.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/103/hconres/223?format=json"
+        },
+        {
+            "amendmentNumber": "1189",
+            "congress": 104,
+            "introducedDate": "1996-06-20",
+            "latestAction": {
+                "actionDate": "1996-06-20",
+                "actionTime": "16:29:06",
+                "text": "On agreeing to the Furse amendment (A018) Failed by recorded vote: 209 - 211 (Roll no. 262). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/1189?format=json"
+        },
+        {
+            "amendmentNumber": "1157",
+            "congress": 104,
+            "introducedDate": "1996-06-13",
+            "latestAction": {
+                "actionDate": "1996-06-13",
+                "actionTime": "14:39:37",
+                "text": "On agreeing to the Furse amendment (A002) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/1157?format=json"
+        },
+        {
+            "amendmentNumber": "1096",
+            "congress": 104,
+            "introducedDate": "1996-05-30",
+            "latestAction": {
+                "actionDate": "1996-05-30",
+                "actionTime": "13:01:24",
+                "text": "On agreeing to the Furse amendment (A001) Failed by recorded vote: 121 - 289 (Roll no. 200). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/1096?format=json"
+        },
+        {
+            "amendmentNumber": "845",
+            "congress": 104,
+            "introducedDate": "1995-10-11",
+            "latestAction": {
+                "actionDate": "1995-10-11",
+                "actionTime": "18:31:55",
+                "text": "On agreeing to the Furse amendment (A015) Failed by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/845?format=json"
+        },
+        {
+            "amendmentNumber": "815",
+            "congress": 104,
+            "introducedDate": "1995-09-20",
+            "latestAction": {
+                "actionDate": "1995-09-20",
+                "actionTime": "17:05:54",
+                "text": "On agreeing to the Furse amendment (A009) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/815?format=json"
+        },
+        {
+            "amendmentNumber": "708",
+            "congress": 104,
+            "introducedDate": "1995-07-31",
+            "latestAction": {
+                "actionDate": "1995-07-31",
+                "actionTime": "21:55:42",
+                "text": "On agreeing to the Furse amendment (A004) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/708?format=json"
+        },
+        {
+            "amendmentNumber": "283",
+            "congress": 104,
+            "introducedDate": "1995-03-09",
+            "latestAction": {
+                "actionDate": "1995-03-09",
+                "actionTime": "16:47:03",
+                "text": "On agreeing to the Furse amendment (A007) Failed by recorded vote: 155 - 272 (Roll no. 223). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/283?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-28",
+            "latestAction": {
+                "actionDate": "1996-10-11",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "4300",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Children Health Insurance Access Amendments of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/4300?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-05-22",
+            "latestAction": {
+                "actionDate": "1996-06-14",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "3509",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Women's Health Environmental Factors Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3509?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-05-22",
+            "latestAction": {
+                "actionDate": "1996-06-17",
+                "text": "Referred to the Subcommittee on Employer-Employee Relations."
+            },
+            "number": "3510",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Women's Pension Equity Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3510?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-12-07",
+            "latestAction": {
+                "actionDate": "1995-12-11",
+                "text": "Executive Comment Requested from USDA, Interior."
+            },
+            "number": "2745",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Restoration of Natural Resources Laws on the Public Lands Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2745?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-07-21",
+            "latestAction": {
+                "actionDate": "1995-07-21",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2095",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code to provide that capital gains not be recognized if invested in certain small businesses.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2095?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-06-30",
+            "latestAction": {
+                "actionDate": "1995-07-28",
+                "text": "Referred to the Subcommittee on Crime."
+            },
+            "number": "1982",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Carol Bonnono Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1982?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-05-18",
+            "latestAction": {
+                "actionDate": "1995-06-12",
+                "text": "Referred to the Subcommittee on Military Procurement."
+            },
+            "number": "1673",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To achieve budgetary savings by terminating certain Department of Defense programs.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1673?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-05-18",
+            "latestAction": {
+                "actionDate": "1995-06-02",
+                "text": "Referred to the Subcommittee on Early Childhood, Youth and Families."
+            },
+            "number": "1669",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Science and Mathematics Early Start Grant Program Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1669?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-05-18",
+            "latestAction": {
+                "actionDate": "1995-06-06",
+                "text": "Referred to the Subcommittee on Military Procurement."
+            },
+            "number": "1674",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "To achieve budgetary savings by reducing the amount which may be appropriated for the nuclear energy research and development activities of the Department of Energy.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1674?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-05-18",
+            "latestAction": {
+                "actionDate": "1995-05-24",
+                "text": "Referred to the Subcommittee on Civil Service."
+            },
+            "number": "1671",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Political Appointees Budgetary Savings Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1671?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-05-17",
+            "latestAction": {
+                "actionDate": "1995-05-26",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "1656",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Diabetes Research Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1656?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-05-18",
+            "latestAction": {
+                "actionDate": "1995-06-12",
+                "text": "Referred to the Subcommittee on Military Procurement."
+            },
+            "number": "1672",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To achieve budgetary savings by reducing the funding and scope of the stockpile stewardship program of the Department of Energy.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1672?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-03-28",
+            "latestAction": {
+                "actionDate": "1995-04-11",
+                "text": "Executive Comment Requested from USDA."
+            },
+            "number": "1331",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Waterways Restoration Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1331?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-02-28",
+            "latestAction": {
+                "actionDate": "1996-07-30",
+                "text": "Sponsor introductory remarks on measure. (CR H8670)"
+            },
+            "number": "1073",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XVIII of the Social Security Act to provide for coverage of diabetes outpatient self-management training services under part B of the medicare program.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1073?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-02-28",
+            "latestAction": {
+                "actionDate": "1996-07-30",
+                "text": "Sponsor introductory remarks on measure. (CR H8670)"
+            },
+            "number": "1074",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XVIII of the Social Security Act to provide for uniform coverage under part B of the medicare program of blood-testing strips for individuals with diabetes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1074?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-26",
+            "latestAction": {
+                "actionDate": "1995-02-06",
+                "text": "Referred to the Subcommittee on Military Procurement."
+            },
+            "number": "703",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Airlift Enhancement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/703?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-04",
+            "latestAction": {
+                "actionDate": "1995-03-15",
+                "text": "For Further Action See H.J.Res.2."
+            },
+            "number": "29",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Proposing an amendment to the Constitution of the United States to limit terms of Representatives and Senators.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/104/hjres/29?format=json"
+        },
+        {
+            "amendmentNumber": "760",
+            "congress": 105,
+            "introducedDate": "1998-07-21",
+            "latestAction": {
+                "actionDate": "1998-07-21",
+                "actionTime": "19:53:55",
+                "text": "By unanimous consent, the Furse amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/760?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-10-14",
+            "latestAction": {
+                "actionDate": "1998-10-20",
+                "text": "Referred to the Subcommittee on Energy and Power, for a period to be subsequently determined by the Chairman."
+            },
+            "number": "4834",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Northwest Salmon Recovery Act of 1998",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/4834?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-05",
+            "latestAction": {
+                "actionDate": "1998-03-10",
+                "text": "Executive Comment Requested from Interior."
+            },
+            "number": "3378",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Fort Clatsop National Memorial Expansion Act of 1998",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3378?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-10-01",
+            "latestAction": {
+                "actionDate": "1997-10-06",
+                "text": "Referred to the Subcommittee on Human Resources."
+            },
+            "number": "2597",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Equity for Immigrants Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2597?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-07-24",
+            "latestAction": {
+                "actionDate": "1997-07-24",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2252",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code to provide that capital gains not be recognized if invested in certain small businesses.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2252?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-06-06",
+            "latestAction": {
+                "actionDate": "1997-06-16",
+                "text": "Executive Comment Requested from Interior."
+            },
+            "number": "1830",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To provide for claim maintenance fees and royalties on hardrock mining claims, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1830?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-06-06",
+            "latestAction": {
+                "actionDate": "1997-06-16",
+                "text": "Executive Comment Requested from USDA, Interior."
+            },
+            "number": "1829",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To establish a formula for the calculation of livestock grazing fees for the use of National Forest System lands in the 16 contiguous Western States and public domain lands administered by the Bureau of Land Management.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1829?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-06-06",
+            "latestAction": {
+                "actionDate": "1997-06-10",
+                "text": "Referred to the Subcommittee on Risk Management and Specialty Crops."
+            },
+            "number": "1826",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "To increase deficit-reduction assessments for participants in the Federal price support program for tobacco and to extend the period during which such assessments will be collected.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1826?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-06-06",
+            "latestAction": {
+                "actionDate": "1997-06-11",
+                "text": "Referred to the Subcommittee on Civil Service."
+            },
+            "number": "1828",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To limit the total number of political appointees allowable.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1828?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-06-06",
+            "latestAction": {
+                "actionDate": "1997-07-03",
+                "text": "Referred to the Subcommittee on Military Procurement."
+            },
+            "number": "1832",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To achieve budgetary savings by terminating or limiting certain Department of Defense programs, by reducing the scope of the Stockpile Stewardship Program of the Department of Energy, and by reducing arms transfer subsidies.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1832?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-06-06",
+            "latestAction": {
+                "actionDate": "1997-06-12",
+                "text": "Referred to the Subcommittee on Space and Aeronautics."
+            },
+            "number": "1831",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "To terminate the United States participation in the International Space Station program.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1831?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-06-06",
+            "latestAction": {
+                "actionDate": "1997-06-11",
+                "text": "Referred to the Subcommittee on Forestry, Resource Conservation and Research."
+            },
+            "number": "1827",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To eliminate below-cost sales of timber from National Forest System lands.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1827?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-05-22",
+            "latestAction": {
+                "actionDate": "1997-08-05",
+                "text": "See H.R.2014."
+            },
+            "number": "1726",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Children's National Security Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1726?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-03-20",
+            "latestAction": {
+                "actionDate": "1997-03-28",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "1159",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Children Health Insurance Access Amendments of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1159?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-01-07",
+            "latestAction": {
+                "actionDate": "1997-01-23",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "58",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare Diabetes Education and Supplies Amendments of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/58?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-01-21",
+            "latestAction": {
+                "actionDate": "1997-03-05",
+                "text": "Referred to the Subcommittee on the Constitution."
+            },
+            "number": "34",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Proposing an amendment to the Constitution of the United States to limit terms of Representatives and Senators.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/105/hjres/34?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-11-05",
+            "latestAction": {
+                "actionDate": "1997-11-05",
+                "actionTime": "23:05:47",
+                "text": "On motion to table the measure Agreed to by recorded vote: 217 - 194, 1 Present (Roll no. 583). (consideration: CR  H10102)"
+            },
+            "number": "307",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Relating to a question of the privileges of the House.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/105/hres/307?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-05-22",
+            "latestAction": {
+                "actionDate": "1997-06-09",
+                "text": "Referred to the Subcommittee on Africa."
+            },
+            "number": "89",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of Congress that the 2004 Summer Olympic Games be held in Cape Town, South Africa.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/105/hconres/89?format=json"
+        }
+    ]
+}

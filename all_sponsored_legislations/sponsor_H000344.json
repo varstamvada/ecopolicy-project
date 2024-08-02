@@ -1,0 +1,87 @@
+{
+    "pagination": {
+        "count": 5
+    },
+    "request": {
+        "bioguideId": "h000344",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 95,
+            "introducedDate": "1978-07-24",
+            "latestAction": {
+                "actionDate": "1978-10-27",
+                "text": "Public Law 95-537."
+            },
+            "number": "3336",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Contract Services for Drug Dependent Federal Offenders Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/95/s/3336?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-03-10",
+            "latestAction": {
+                "actionDate": "1978-03-10",
+                "text": "Referred to Senate Committee on Agriculture, Nutrition and Forestry."
+            },
+            "number": "2714",
+            "policyArea": {
+                "name": null
+            },
+            "title": "Emergency Wheat Farmers' Income Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/95/s/2714?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-03-15",
+            "latestAction": {
+                "actionDate": "1978-03-15",
+                "text": "Referred to Senate Committee on Finance."
+            },
+            "number": "2746",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to maintain in effect for 1978 and succeeding years the social security tax rate which was in effect for 1977, and to provide that there shall be paid into the social security trust funds from general revenues an amount equal to the difference in social security taxes actually received by them and the amount which would have been received by them if the social security tax rates prescribed by existing law for such years had continued in effect.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/95/s/2746?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-06-15",
+            "latestAction": {
+                "actionDate": "1978-06-15",
+                "text": "Referred to Senate Committee on Rules and Administration."
+            },
+            "number": "142",
+            "policyArea": {
+                "name": "Monuments and memorials"
+            },
+            "title": "A joint resolution to authorize and direct the Franklin Delano Roosevelt Memorial Commission to proceed with the construction of the Franklin Delano Roosevelt Memorial, and for other purposes.",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/95/sjres/142?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-05-24",
+            "latestAction": {
+                "actionDate": "1978-05-24",
+                "text": "Referred to Senate Committee on Foreign Relations."
+            },
+            "number": "465",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "A resolution expressing the sense of the Senate with respect to mutual action by the United States and Canada to protect and enhance the quality of air resources along their mutual border so as to promote the public health and welfare.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/95/sres/465?format=json"
+        }
+    ]
+}

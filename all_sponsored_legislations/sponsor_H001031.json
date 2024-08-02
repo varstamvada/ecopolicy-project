@@ -1,0 +1,438 @@
+{
+    "pagination": {
+        "count": 30
+    },
+    "request": {
+        "bioguideId": "h001031",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "429",
+            "congress": 108,
+            "introducedDate": "2003-10-17",
+            "latestAction": {
+                "actionDate": "2003-10-17",
+                "actionTime": "10:22:57",
+                "text": "On agreeing to the Hoeffel amendment (A025) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/hamdt/429?format=json"
+        },
+        {
+            "amendmentNumber": "143",
+            "congress": 108,
+            "introducedDate": "2003-05-21",
+            "latestAction": {
+                "actionDate": "2003-05-21",
+                "actionTime": "18:37:40",
+                "text": "On agreeing to the Hoeffel amendment (A005) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/hamdt/143?format=json"
+        },
+        {
+            "amendmentNumber": "33",
+            "congress": 108,
+            "introducedDate": "2003-04-03",
+            "latestAction": {
+                "actionDate": "2003-04-03",
+                "actionTime": "16:51:46",
+                "text": "By unanimous consent, the Hoeffel amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/hamdt/33?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-02-25",
+            "latestAction": {
+                "actionDate": "2004-03-11",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3836",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend part C of title XVIII of the Social Security Act to prohibit the operation of the medicare comparative cost adjustment (CCA) program in Pennsylvania.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3836?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-02-03",
+            "latestAction": {
+                "actionDate": "2004-02-05",
+                "text": "Executive Comment Requested from Interior."
+            },
+            "number": "3753",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To provide for the restoration of the Benjamin Franklin National Memorial, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3753?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-09-11",
+            "latestAction": {
+                "actionDate": "2003-10-09",
+                "text": "Referred to the Subcommittee on Government Efficiency and Financial Management."
+            },
+            "number": "3082",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Corporate Welfare Reform Commission Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3082?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-07-24",
+            "latestAction": {
+                "actionDate": "2003-09-04",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "2872",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Antique Firearm Safety Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2872?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-07-22",
+            "latestAction": {
+                "actionDate": "2003-07-22",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "2819",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Modern-Day Marshall Plan for Eurasia and the Middle East Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2819?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-06-11",
+            "latestAction": {
+                "actionDate": "2003-06-25",
+                "text": "Referred to the Subcommittee on Commercial and Administrative Law."
+            },
+            "number": "2429",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Surveillance Oversight and Disclosure Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2429?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-06-11",
+            "latestAction": {
+                "actionDate": "2003-09-09",
+                "text": "Referred to the Subcommittee on Technology and the House."
+            },
+            "number": "2428",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Military Tribunal Regulations Review Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2428?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-06-04",
+            "latestAction": {
+                "actionDate": "2003-11-11",
+                "text": "Became Public Law No: 108-115."
+            },
+            "number": "2328",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To designate the facility of the United States Postal Service located at 2001 East Willard Street in Philadelphia, Pennsylvania, as the \"Robert A. Borski Post Office Building\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2328?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-10-30",
+            "latestAction": {
+                "actionDate": "2003-11-12",
+                "text": "Referred to the Subcommittee on Civil Service and Agency Organization."
+            },
+            "number": "317",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Expressing the sense of the Congress with respect to the form of cancer known as mesothelioma.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/108/hconres/317?format=json"
+        },
+        {
+            "amendmentNumber": "537",
+            "congress": 107,
+            "introducedDate": "2002-07-17",
+            "latestAction": {
+                "actionDate": "2002-07-17",
+                "actionTime": "15:26:41",
+                "text": "On agreeing to the Hoeffel amendment (A007) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/hamdt/537?format=json"
+        },
+        {
+            "amendmentNumber": "486",
+            "congress": 107,
+            "introducedDate": "2002-05-21",
+            "latestAction": {
+                "actionDate": "2002-05-21",
+                "actionTime": "16:49:52",
+                "text": "By unanimous consent, the Hoeffel amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/hamdt/486?format=json"
+        },
+        {
+            "amendmentNumber": "68",
+            "congress": 107,
+            "introducedDate": "2001-05-23",
+            "latestAction": {
+                "actionDate": "2001-05-23",
+                "actionTime": "16:56:05",
+                "text": "On agreeing to the Hoeffel amendment (A026) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/hamdt/68?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-03-20",
+            "latestAction": {
+                "actionDate": "2002-04-05",
+                "text": "Executive Comment Requested from DOD."
+            },
+            "number": "4046",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Military Tribunal Regulations Review Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4046?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-09-21",
+            "latestAction": {
+                "actionDate": "2001-09-21",
+                "text": "Referred to the Committee on Government Reform, and in addition to the Committees on Ways and Means, Rules, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "2939",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Corporate Welfare Reform Commission Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2939?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-04-26",
+            "latestAction": {
+                "actionDate": "2001-06-27",
+                "text": "Referred to the Subcommittee on Education Reform."
+            },
+            "number": "1614",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Education Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1614?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-27",
+            "latestAction": {
+                "actionDate": "2001-04-10",
+                "text": "Referred to the Subcommittee on Benefits."
+            },
+            "number": "1237",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To designate certain lands in the Valley Forge National Historical Park as the Valley Forge National Cemetery.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1237?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-20",
+            "latestAction": {
+                "actionDate": "2001-04-19",
+                "text": "Referred to the Subcommittee on Crime."
+            },
+            "number": "1112",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Antique Firearm Safety Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1112?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-05-01",
+            "latestAction": {
+                "actionDate": "2001-05-21",
+                "text": "Referred to the Subcommittee on East Asia and the Pacific."
+            },
+            "number": "121",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of Congress that the United States Government should conduct a policy review of its relations with the People's Republic of China.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/hconres/121?format=json"
+        },
+        {
+            "amendmentNumber": "577",
+            "congress": 106,
+            "introducedDate": "2000-02-15",
+            "latestAction": {
+                "actionDate": "2000-02-15",
+                "actionTime": "14:35:28",
+                "text": "On agreeing to the Hoeffel amendment (A005) Agreed to by voice vote. (text: CR H404)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/577?format=json"
+        },
+        {
+            "amendmentNumber": "346",
+            "congress": 106,
+            "introducedDate": "1999-07-26",
+            "latestAction": {
+                "actionDate": "1999-07-26",
+                "actionTime": "18:26:04",
+                "text": "On agreeing to the Hoeffel amendment (A003) Failed by recorded vote: 192 - 217 (Roll no. 335). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/346?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-05-25",
+            "latestAction": {
+                "actionDate": "2000-05-25",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "4564",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Education Reinvestment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4564?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-03-30",
+            "latestAction": {
+                "actionDate": "2000-04-07",
+                "text": "Referred to the Subcommittee on Crime."
+            },
+            "number": "4137",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Antique Firearm Safety Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4137?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-11-04",
+            "latestAction": {
+                "actionDate": "2000-06-13",
+                "text": "Sponsor introductory remarks on measure. (CR E986)"
+            },
+            "number": "3221",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Corporate Welfare Reform Commission Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3221?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-10-27",
+            "latestAction": {
+                "actionDate": "1999-10-29",
+                "text": "Sponsor introductory remarks on measure. (CR E2223)"
+            },
+            "number": "3156",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Tech Flex Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3156?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-29",
+            "latestAction": {
+                "actionDate": "1999-07-13",
+                "text": "Referred to the Subcommittee on Crime."
+            },
+            "number": "2377",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Study of Antique Firearms (SAF) Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2377?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-05-26",
+            "latestAction": {
+                "actionDate": "1999-06-15",
+                "text": "Referred to the Subcommittee on Benefits."
+            },
+            "number": "1961",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To designate certain lands in the Valley Forge National Historical Park as the Valley Forge National Cemetery.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1961?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-05-11",
+            "latestAction": {
+                "actionDate": "2000-05-11",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "324",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing support for United States participation in the Sixth Nonproliferation Treaty Review Conference.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/106/hconres/324?format=json"
+        }
+    ]
+}

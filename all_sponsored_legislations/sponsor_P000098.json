@@ -1,0 +1,102 @@
+{
+    "pagination": {
+        "count": 6
+    },
+    "request": {
+        "bioguideId": "p000098",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 93,
+            "introducedDate": "1973-12-04",
+            "latestAction": {
+                "actionDate": "1974-01-02",
+                "text": "Public law 93-240."
+            },
+            "number": "11771",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Foreign Assistance and Related Programs Appropriation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/11771?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-02-07",
+            "latestAction": {
+                "actionDate": "1973-02-07",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "4046",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Fair International Trade Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/4046?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-06-08",
+            "latestAction": {
+                "actionDate": "1976-10-01",
+                "text": "Public law 94-441."
+            },
+            "number": "14260",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "An Act making appropriations for Foreign Assistance and related programs for the fiscal year ending September 30, 1977, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/14260?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-03-01",
+            "latestAction": {
+                "actionDate": "1976-06-30",
+                "text": "Public law 94-330."
+            },
+            "number": "12203",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "An Act making appropriations for Foreign Assistance and related programs for the fiscal year ending June 30, 1976, and the period ending September 30, 1976, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/12203?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-06-17",
+            "latestAction": {
+                "actionDate": "1975-06-17",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "7957",
+            "policyArea": {
+                "name": "Licenses"
+            },
+            "title": "Broadcast License Renewal Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/7957?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-03-10",
+            "latestAction": {
+                "actionDate": "1975-03-26",
+                "text": "Public law 94-11."
+            },
+            "number": "4592",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "An Act making appropriations for Foreign Assistance and related programs for the fiscal year ending June 30, 1975, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/4592?format=json"
+        }
+    ]
+}

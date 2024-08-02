@@ -1,0 +1,42 @@
+{
+    "pagination": {
+        "count": 2
+    },
+    "request": {
+        "bioguideId": "c000646",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 102,
+            "introducedDate": "1992-06-18",
+            "latestAction": {
+                "actionDate": "1992-07-14",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "5435",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Puerto Rico Medicaid Improvement Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5435?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-04-29",
+            "latestAction": {
+                "actionDate": "1992-05-20",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "5030",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To establish an alternative penalty for operation of certain vessels in the coastwise trade between the United States and Puerto Rico.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5030?format=json"
+        }
+    ]
+}

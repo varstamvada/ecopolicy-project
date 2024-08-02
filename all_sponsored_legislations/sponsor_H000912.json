@@ -1,0 +1,72 @@
+{
+    "pagination": {
+        "count": 4
+    },
+    "request": {
+        "bioguideId": "h000912",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 103,
+            "introducedDate": "1994-05-05",
+            "latestAction": {
+                "actionDate": "1994-05-05",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4356",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Charitable Contributions Encouragement Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4356?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-06-28",
+            "latestAction": {
+                "actionDate": "1993-06-28",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2534",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Tobacco Advertising Subsidies and Health Enhancement Strategies Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2534?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-02-04",
+            "latestAction": {
+                "actionDate": "1993-02-19",
+                "text": "Referred to the Subcommittee on Water Resources and Environment."
+            },
+            "number": "835",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To amend the Federal Water Pollution Control Act to add Morro Bay, California, to the priority list of the national estuary program.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/835?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-07-21",
+            "latestAction": {
+                "actionDate": "1994-08-18",
+                "text": "Referred to the Subcommittee on Civil and Constitutional Rights."
+            },
+            "number": "270",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Expressing the sense of Congress with respect to the use of racially based quotas designed to thwart the implementation of the death penalty.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/103/hconres/270?format=json"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "pagination": {
+        "count": 3
+    },
+    "request": {
+        "bioguideId": "b000756",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "1447",
+            "congress": 97,
+            "introducedDate": "1982-12-15",
+            "latestAction": {
+                "actionDate": "1982-12-15",
+                "text": "Amendment SU 1447 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/suamdt/1447?format=json"
+        },
+        {
+            "amendmentNumber": "1294",
+            "congress": 97,
+            "introducedDate": "1982-09-24",
+            "latestAction": {
+                "actionDate": "1982-09-24",
+                "text": "Amendment agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/suamdt/1294?format=json"
+        },
+        {
+            "amendmentNumber": "3617",
+            "congress": 97,
+            "introducedDate": "1982-09-23",
+            "latestAction": {
+                "actionDate": "1982-09-24",
+                "text": "Proposed amendment withdrawn in Senate. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/samdt/3617?format=json"
+        }
+    ]
+}

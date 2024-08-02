@@ -1,0 +1,82 @@
+{
+    "pagination": {
+        "count": 7
+    },
+    "request": {
+        "bioguideId": "c001099",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "1148",
+            "congress": 113,
+            "introducedDate": "2013-06-03",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/1148?format=json"
+        },
+        {
+            "amendmentNumber": "1116",
+            "congress": 113,
+            "introducedDate": "2013-05-23",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/1116?format=json"
+        },
+        {
+            "amendmentNumber": "1023",
+            "congress": 113,
+            "introducedDate": "2013-05-21",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/1023?format=json"
+        },
+        {
+            "amendmentNumber": "980",
+            "congress": 113,
+            "introducedDate": "2013-05-21",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/980?format=json"
+        },
+        {
+            "amendmentNumber": "977",
+            "congress": 113,
+            "introducedDate": "2013-05-21",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/samdt/977?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-04-17",
+            "latestAction": {
+                "actionDate": "2013-04-17",
+                "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+            },
+            "number": "746",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to amend the Food, Conservation, and Energy Act of 2008 to establish a market-driven inventory system.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/113/s/746?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-05-22",
+            "latestAction": {
+                "actionDate": "2013-05-22",
+                "text": "Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S3767)"
+            },
+            "number": "152",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A resolution designating November 28, 2013, as \"National Holoprosencephaly Awareness Day\" to increase awareness and education of the disorder.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/113/sres/152?format=json"
+        }
+    ]
+}

@@ -1,0 +1,869 @@
+{
+    "pagination": {
+        "count": 57
+    },
+    "request": {
+        "bioguideId": "w000210",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "421",
+            "congress": 107,
+            "introducedDate": "2002-02-13",
+            "latestAction": {
+                "actionDate": "2002-02-13",
+                "actionTime": "19:36:35",
+                "text": "On agreeing to the Watts (OK) amendment (A007) Failed by recorded vote: 185 - 237 (Roll no. 25). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/hamdt/421?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-10-07",
+            "latestAction": {
+                "actionDate": "2002-10-08",
+                "text": "Sponsor introductory remarks on measure. (CR E1777)"
+            },
+            "number": "5566",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "American Community Renewal Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5566?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-10-07",
+            "latestAction": {
+                "actionDate": "2002-10-07",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5567",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code to modify eligibility criteria for certain empowerment zone designations.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5567?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-06-06",
+            "latestAction": {
+                "actionDate": "2002-06-06",
+                "text": "Referred to the House Committee on Science."
+            },
+            "number": "4900",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Weather Safety Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4900?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-02-07",
+            "latestAction": {
+                "actionDate": "2002-02-07",
+                "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "3709",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Election Fund Free Choice and Savings Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3709?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-12-20",
+            "latestAction": {
+                "actionDate": "2002-01-10",
+                "text": "Referred to the Subcommittee on Immigration and Claims."
+            },
+            "number": "3610",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Lindita Idrizi Heath.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3610?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-06-26",
+            "latestAction": {
+                "actionDate": "2001-06-26",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2322",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Home and Farm Wind Energy Systems Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2322?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-05-15",
+            "latestAction": {
+                "actionDate": "2001-05-15",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1856",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Black Farmer Fairness Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1856?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-05-09",
+            "latestAction": {
+                "actionDate": "2001-05-10",
+                "text": "Referred to the Subcommittee on Aviation."
+            },
+            "number": "1792",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Airline Customer Service Improvement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1792?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-28",
+            "latestAction": {
+                "actionDate": "2001-03-28",
+                "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "1284",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Community Solutions Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1284?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-20",
+            "latestAction": {
+                "actionDate": "2001-06-20",
+                "text": "Referred to the Subcommittee on Education Reform."
+            },
+            "number": "1133",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "To amend the impact aid program under the Elementary and Secondary Education Act of 1965 relating to the calculation of payments for small local educational agencies.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1133?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-29",
+            "latestAction": {
+                "actionDate": "2002-07-16",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 496."
+            },
+            "number": "7",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "CARE Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/7?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-10-03",
+            "latestAction": {
+                "actionDate": "2002-10-03",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "573",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Providing that development assistance by the United States to foreign countries should be provided only to countries that work toward economic and political freedom to improve the living standards of all of its citizens.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/107/hres/573?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-09-11",
+            "latestAction": {
+                "actionDate": "2002-09-19",
+                "actionTime": "12:08:45",
+                "text": "On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 399). (text: CR 9/18/2002 H6307)"
+            },
+            "number": "523",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Recognizing the contributions of historically Black colleges and universities.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/107/hres/523?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-07-16",
+            "latestAction": {
+                "actionDate": "2002-08-01",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "487",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Expressing the sense of the House of Representatives that General Benjamin O. Davis, Jr., should be recognized as a courageous warrior, an extraordinary officer, and a great American hero.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/107/hres/487?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-06-17",
+            "latestAction": {
+                "actionDate": "2002-06-26",
+                "actionTime": "17:43:08",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "445",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Expressing the sense of the House of Representatives with regard to the United States National Soccer Team and its historic performance in the 2002 FIFA World Cup tournament.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/107/hres/445?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-02-14",
+            "latestAction": {
+                "actionDate": "2001-02-21",
+                "text": "Referred to the Subcommittee on National Security, Veterans Affairs and International Relations."
+            },
+            "number": "52",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Expressing the sense of the House of Representatives regarding the grave danger of domestic terrorism and the need for improved organization in the executive branch and Congress to deter, prevent, prepare for, and respond to the impending threat of domestic terrorism.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/107/hres/52?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-01-03",
+            "latestAction": {
+                "actionDate": "2001-01-03",
+                "actionTime": "14:27:43",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "1",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Electing officers of the House of Representatives.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/107/hres/1?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-10-10",
+            "latestAction": {
+                "actionDate": "2002-10-21",
+                "text": "Referred to the Subcommittee on Domestic Monetary Policy, Technology and Economic Growth."
+            },
+            "number": "510",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Commending the Minority Business Development Agency for its history of achievement in helping to create minority businesses enterprises and in helping those enterprises effectively compete in the national and global marketplace.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/hconres/510?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-02-27",
+            "latestAction": {
+                "actionDate": "2002-02-28",
+                "text": "Received in the Senate and referred to the Committee on the Judiciary."
+            },
+            "number": "335",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Recognizing the significance of Black History Month and the contributions of Black Americans as a significant part of the history, progress, and heritage of the United States.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/hconres/335?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-02-27",
+            "latestAction": {
+                "actionDate": "2002-09-20",
+                "text": "Received in the Senate and referred to the Committee on the Judiciary."
+            },
+            "number": "337",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Recognizing the teams and players of the Negro Baseball Leagues for their achievements, dedication, sacrifices, and contributions to baseball and the Nation.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/hconres/337?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-01-23",
+            "latestAction": {
+                "actionDate": "2002-09-25",
+                "text": "Received in the Senate and referred to the Committee on Armed Services."
+            },
+            "number": "301",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Expressing the sense of Congress regarding American Gold Star Mothers, Incorporated, Blue Star Mothers of America, Incorporated, the service flag, and the service lapel button.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/hconres/301?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-09-20",
+            "latestAction": {
+                "actionDate": "2001-10-31",
+                "text": "Received in the Senate and referred to the Committee on the Judiciary."
+            },
+            "number": "233",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Expressing the profound sorrow of the Congress for the death and injuries suffered by first responders as they endeavored to save innocent people in the aftermath of the terrorist attacks on the World Trade Center and the Pentagon on September 11, 2001.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/hconres/233?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-06-14",
+            "latestAction": {
+                "actionDate": "2001-06-20",
+                "text": "Received in the Senate and referred to the Committee on the Judiciary."
+            },
+            "number": "163",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Recognizing the historical significance of Juneteenth Independence Day and expressing the sense of Congress that history be regarded as a means of understanding the past and solving the challenges of the future.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/hconres/163?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-07-24",
+            "latestAction": {
+                "actionDate": "2000-09-05",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 780."
+            },
+            "number": "4923",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Community Renewal and New Markets Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4923?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-07-18",
+            "latestAction": {
+                "actionDate": "2000-07-18",
+                "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "4882",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Election Fund Free Choice and Savings Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4882?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-09-21",
+            "latestAction": {
+                "actionDate": "2000-07-27",
+                "text": "For Further Action See S.1453."
+            },
+            "number": "2906",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Sudan Peace Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2906?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-09-13",
+            "latestAction": {
+                "actionDate": "2000-07-28",
+                "text": "Placed on the Union Calendar, Calendar No. 464."
+            },
+            "number": "2848",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "New Markets Initiative Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2848?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-27",
+            "latestAction": {
+                "actionDate": "1999-08-27",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "2628",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare Home Health Services Equity Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2628?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-15",
+            "latestAction": {
+                "actionDate": "1999-06-15",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2233",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To provide relief from Federal tax liability arising from the settlement of claims brought by African American farmers against the Department of Agriculture for discrimination in farm credit and benefit programs and to exclude amounts received under such settlement from means-based determinations under programs funding in whole or in part with Federal funds.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2233?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-04-13",
+            "latestAction": {
+                "actionDate": "1999-04-20",
+                "text": "Referred to the Subcommittee on Civil Service."
+            },
+            "number": "1393",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To provide wage parity for certain Department of Defense employees in Texas and Oklahoma.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1393?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-24",
+            "latestAction": {
+                "actionDate": "1999-03-18",
+                "text": "Referred to the Subcommittee on Financial Institutions and Consumer Credit."
+            },
+            "number": "815",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "American Community Renewal Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/815?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-02-01",
+            "latestAction": {
+                "actionDate": "2000-02-01",
+                "actionTime": "15:18:40",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "410",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Designating majority membership on certain standing committees of the House.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/106/hres/410?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-03-17",
+            "latestAction": {
+                "actionDate": "1999-03-23",
+                "actionTime": "16:32:24",
+                "text": "On motion to suspend the rules and agree to the resolution Failed by the Yeas and Nays: 254 - 152, 24 Present (Roll no. 60)."
+            },
+            "number": "121",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Affirming the Congress' opposition to all forms of racism and bigotry.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/106/hres/121?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-02",
+            "latestAction": {
+                "actionDate": "1999-02-02",
+                "actionTime": "15:53:54",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "30",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Designating majority membership on certain standing committees of the House.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/106/hres/30?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-01-06",
+            "latestAction": {
+                "actionDate": "1999-01-06",
+                "actionTime": "16:26:00",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "6",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Electing Members to serve on standing committees.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/106/hres/6?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-01-06",
+            "latestAction": {
+                "actionDate": "1999-01-06",
+                "actionTime": "14:18:49",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "1",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Electing officers of the House of Representatives.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/106/hres/1?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-06-29",
+            "latestAction": {
+                "actionDate": "2000-09-13",
+                "text": "Received in the Senate and referred to the Committee on Rules and Administration."
+            },
+            "number": "368",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Establishing a special task force to recommend an appropriate recognition for the slave laborers who worked on the construction of the United States Capitol.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/106/hconres/368?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-08",
+            "latestAction": {
+                "actionDate": "1999-06-11",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "127",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Permitting the use of the rotunda of the Capitol for a ceremony to present a gold medal on behalf of Congress to Rosa Parks.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/106/hconres/127?format=json"
+        },
+        {
+            "amendmentNumber": "1032",
+            "congress": 104,
+            "introducedDate": "1996-05-09",
+            "latestAction": {
+                "actionDate": "1996-05-09",
+                "actionTime": "12:13:38",
+                "text": "By unanimous consent, the Watts (OK) amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/1032?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-05-16",
+            "latestAction": {
+                "actionDate": "1996-07-30",
+                "text": "Joint Hearings Held by the Subcommittee on Human Resources and by the Subcommittee on Early Childhood, Youth and Families."
+            },
+            "number": "3467",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Saving Our Children:  The American Community Renewal Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3467?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-03-21",
+            "latestAction": {
+                "actionDate": "1996-04-08",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "3151",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Medicare Subvention Fairness Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3151?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-12-18",
+            "latestAction": {
+                "actionDate": "1996-02-09",
+                "text": "Referred to the Subcommittee on Crime."
+            },
+            "number": "2807",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Youth Development Community Block Grant Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2807?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-12-20",
+            "latestAction": {
+                "actionDate": "1996-01-19",
+                "text": "Referred to the Subcommittee on Financial Institutions and Consumer Credit."
+            },
+            "number": "2820",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Consumer Disclosure and Rental Purchase Agreement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2820?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-06-13",
+            "latestAction": {
+                "actionDate": "1996-06-20",
+                "text": "Referred to the Committee on Judiciary."
+            },
+            "number": "187",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Expressing the sense of Congress with respect to recent church burnings.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/104/hconres/187?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-06-13",
+            "latestAction": {
+                "actionDate": "1996-06-13",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "186",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Expressing the sense of Congress with respect to recent church burnings.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/104/hconres/186?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-06-25",
+            "latestAction": {
+                "actionDate": "1998-07-06",
+                "text": "Referred to the Subcommittee on Civil Service."
+            },
+            "number": "4142",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To provide that the wage of certain Department of Defense employees is determined by a recent wage survey.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/4142?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-05-14",
+            "latestAction": {
+                "actionDate": "1998-08-06",
+                "text": "Forwarded by Subcommittee to Full Committee (Amended) by the Yeas and Nays: 11 - 8."
+            },
+            "number": "3865",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "American Community Renewal Act of 1998",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3865?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-05-13",
+            "latestAction": {
+                "actionDate": "1998-05-26",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "3863",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To provide for a special Medicare part B enrollment period, a reduction or elimination in the part B late enrollment penalty, and a special medigap open enrollment period for certain military retirees and dependents.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3863?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-31",
+            "latestAction": {
+                "actionDate": "1998-04-17",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "3613",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Military Health Care Fairness Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3613?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-04-16",
+            "latestAction": {
+                "actionDate": "1997-04-29",
+                "text": "Referred to the Subcommittee on Health and Environment, for a period to be subsequently determined by the Chairman."
+            },
+            "number": "1357",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Medicare Subvention Fairness Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1357?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-04-16",
+            "latestAction": {
+                "actionDate": "1997-11-10",
+                "text": "Unfavorable Executive Comment Received from DOD."
+            },
+            "number": "1356",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 10, United States Code, to permit beneficiaries of the military health care system to enroll in Federal employees health benefits plans; to improve health care benefits under the CHAMPUS and TRICARE Standard, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1356?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-03-12",
+            "latestAction": {
+                "actionDate": "1997-03-28",
+                "text": "Referred to the Subcommittee on Housing and Community Opportunity."
+            },
+            "number": "1031",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "American Community Renewal Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1031?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-02-26",
+            "latestAction": {
+                "actionDate": "1997-06-18",
+                "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 86."
+            },
+            "number": "56",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Celebrating the end of slavery in the United States.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/105/hjres/56?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-06-19",
+            "latestAction": {
+                "actionDate": "1998-06-30",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "481",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Drug-Free Professional and Olympic Athlete Responsibility Resolution",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/105/hres/481?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-19",
+            "latestAction": {
+                "actionDate": "1998-04-02",
+                "text": "Received in the Senate and referred to the Committee on Judiciary."
+            },
+            "number": "247",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Recognizing the contributions of the Reverend Dr. Martin Luther King, Jr. to the civil society of the United States and the world and to the cause of nonviolent social and political change to advance social justice and equality for all races and calling on the people of the United States to study, reflect on, and celebrate the life of Dr. Martin Luther King, Jr., on the thirtieth anniversary of his death.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/105/hconres/247?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-04-15",
+            "latestAction": {
+                "actionDate": "1997-05-02",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "61",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Honoring the lifetime achievements of Jackie Robinson.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/105/hconres/61?format=json"
+        }
+    ]
+}

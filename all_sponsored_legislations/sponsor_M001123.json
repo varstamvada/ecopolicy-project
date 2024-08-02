@@ -1,0 +1,27 @@
+{
+    "pagination": {
+        "count": 1
+    },
+    "request": {
+        "bioguideId": "m001123",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 96,
+            "introducedDate": "1980-06-04",
+            "latestAction": {
+                "actionDate": "1980-06-04",
+                "text": "Referred to House Committee on Public Works and Transportation."
+            },
+            "number": "7489",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Anthracite Coal Revitalization Act of 1980",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/7489?format=json"
+        }
+    ]
+}

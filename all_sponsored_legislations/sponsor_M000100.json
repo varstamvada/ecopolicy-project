@@ -1,0 +1,87 @@
+{
+    "pagination": {
+        "count": 5
+    },
+    "request": {
+        "bioguideId": "m000100",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 103,
+            "introducedDate": "1994-09-28",
+            "latestAction": {
+                "actionDate": "1994-10-04",
+                "text": "Referred to the Subcommittee on Legislation and National Security."
+            },
+            "number": "5122",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To require Federal agencies that own or lease motor vehicles to keep accurate records of the use of those vehicles by Federal employees, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/5122?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-05-25",
+            "latestAction": {
+                "actionDate": "1994-05-31",
+                "text": "Referred to the Subcommittee on Economic and Commercial Law."
+            },
+            "number": "4493",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Abolition of Bankruptcy Havens Amendments of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4493?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-07-28",
+            "latestAction": {
+                "actionDate": "1993-08-11",
+                "text": "Referred to the Subcommittee on Select Education and Civil Rights."
+            },
+            "number": "2787",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Employment Discrimination Evidentiary Amendment of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2787?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-06-08",
+            "latestAction": {
+                "actionDate": "1993-06-21",
+                "text": "Referred to the Subcommittee on Aviation."
+            },
+            "number": "2337",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Airport Board Community Representation Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2337?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-30",
+            "latestAction": {
+                "actionDate": "1993-03-30",
+                "text": "Referred to the House Committee on Post Office and Civil Service."
+            },
+            "number": "168",
+            "policyArea": {
+                "name": "Arts, Culture, Religion"
+            },
+            "title": "Designating October 6, 1993, and October 6, 1994, as \"German-American Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/168?format=json"
+        }
+    ]
+}

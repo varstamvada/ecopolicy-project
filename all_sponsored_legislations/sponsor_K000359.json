@@ -1,0 +1,72 @@
+{
+    "pagination": {
+        "count": 4
+    },
+    "request": {
+        "bioguideId": "k000359",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 107,
+            "introducedDate": "2002-05-02",
+            "latestAction": {
+                "actionDate": "2002-05-02",
+                "text": "Referred to the House Committee on Government Reform."
+            },
+            "number": "4642",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "To repeal the law banning firearms in the District of Columbia.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4642?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-28",
+            "latestAction": {
+                "actionDate": "2001-08-03",
+                "text": "For Further Action See H.R. 1644 and H.R. 2505."
+            },
+            "number": "1260",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Ban on Human Cloning Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1260?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-03-14",
+            "latestAction": {
+                "actionDate": "2002-03-22",
+                "text": "Referred to the Subcommittee on Immigration and Claims."
+            },
+            "number": "350",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Expressing the sense of Congress that amnesty should not be granted to individuals who are in the United States, or its territories, illegally.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/hconres/350?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-02-06",
+            "latestAction": {
+                "actionDate": "2002-09-30",
+                "text": "Sponsor introductory remarks on measure. (CR E1693)"
+            },
+            "number": "315",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Ten Commandments Public Display Resolution of 2002",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/hconres/315?format=json"
+        }
+    ]
+}

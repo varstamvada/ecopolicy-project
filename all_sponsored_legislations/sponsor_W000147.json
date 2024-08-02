@@ -1,0 +1,42 @@
+{
+    "pagination": {
+        "count": 2
+    },
+    "request": {
+        "bioguideId": "w000147",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 93,
+            "introducedDate": "1973-02-07",
+            "latestAction": {
+                "actionDate": "1973-02-07",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "4134",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to provide for annual authorization of appropriations to the U.S.  Postal Service.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/4134?format=json"
+        },
+        {
+            "congress": 93,
+            "introducedDate": "1973-02-05",
+            "latestAction": {
+                "actionDate": "1973-02-05",
+                "text": "Referred to House Committee on Banking and Currency."
+            },
+            "number": "3742",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "National Flood Insurance Act Amendments",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/3742?format=json"
+        }
+    ]
+}

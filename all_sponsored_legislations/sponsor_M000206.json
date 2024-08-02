@@ -1,0 +1,1557 @@
+{
+    "pagination": {
+        "count": 105
+    },
+    "request": {
+        "bioguideId": "m000206",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "321",
+            "congress": 106,
+            "introducedDate": "1999-07-20",
+            "latestAction": {
+                "actionDate": "1999-07-20",
+                "actionTime": "18:39:34",
+                "text": "On agreeing to the Martinez amendment (A012) Failed by recorded vote: 207 - 217 (Roll no. 319). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/321?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-07-13",
+            "latestAction": {
+                "actionDate": "2000-09-14",
+                "text": "Referred to the Subcommittee on Employer-Employee Relations."
+            },
+            "number": "4854",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "EMS Employee Equality Act of 2000 ",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4854?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-01-27",
+            "latestAction": {
+                "actionDate": "2000-02-07",
+                "text": "Referred to the Subcommittee on Immigration and Claims."
+            },
+            "number": "3551",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Gui Di Chen.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3551?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-01-27",
+            "latestAction": {
+                "actionDate": "2000-02-14",
+                "text": "Referred to the Subcommittee on Early Childhood, Youth and Families."
+            },
+            "number": "3545",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "IDEA Full Funding Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3545?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-30",
+            "latestAction": {
+                "actionDate": "1999-07-28",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "2390",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Smart Classrooms Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2390?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-04-29",
+            "latestAction": {
+                "actionDate": "1999-05-21",
+                "text": "Referred to the Subcommittee on Early Childhood, Youth and Families."
+            },
+            "number": "1637",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Older Americans Act Amendments of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1637?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-03-25",
+            "latestAction": {
+                "actionDate": "1999-04-16",
+                "text": "Referred to the Subcommittee on Early Childhood, Youth and Families."
+            },
+            "number": "1341",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend the Older Americans Act of 1965 to establish a national family caregiver support program, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1341?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-10-02",
+            "latestAction": {
+                "actionDate": "1986-10-10",
+                "text": "Referred to Subcommittee on National Parks and Recreation."
+            },
+            "number": "5643",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to establish a five-year pilot program to collect recreational use fees for facilities and services provided by the Angeles National Forest, California, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5643?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-07-24",
+            "latestAction": {
+                "actionDate": "1986-07-31",
+                "text": "Referred to Subcommittee on Telecommunications, Consumer Protection and Finance."
+            },
+            "number": "5253",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Minority Ownership Improvements Act of 1986",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5253?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-07-15",
+            "latestAction": {
+                "actionDate": "1986-08-13",
+                "text": "Referred to Subcommittee on Civil Service."
+            },
+            "number": "5165",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal Equal Employment Opportunity Reporting Act of 1986",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5165?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-07-16",
+            "latestAction": {
+                "actionDate": "1986-07-21",
+                "text": "Referred to Subcommittee on Civil and Constitutional Rights."
+            },
+            "number": "5179",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Office of Civil Rights Assessment Act of 1986",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5179?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-06-17",
+            "latestAction": {
+                "actionDate": "1986-06-30",
+                "text": "Referred to Subcommittee on Elementary, Secondary and Vocational Education."
+            },
+            "number": "5042",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "English Proficiency Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/5042?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-04-15",
+            "latestAction": {
+                "actionDate": "1985-04-22",
+                "text": "Referred to Subcommittee on Commerce, Transportation and Tourism."
+            },
+            "number": "2033",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Landfill Gas Collection and Reclamation Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2033?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-04-15",
+            "latestAction": {
+                "actionDate": "1985-04-22",
+                "text": "Referred to Subcommittee on Commerce, Transportation and Tourism."
+            },
+            "number": "2034",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Landfill Gas Collection and Reclamation Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2034?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-09-11",
+            "latestAction": {
+                "actionDate": "1986-10-08",
+                "text": "Became Public Law No: 99-455."
+            },
+            "number": "721",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution to designate the week of October 12, 1986, through October 18, 1986, as \"National Job Skills Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/99/hjres/721?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-08-01",
+            "latestAction": {
+                "actionDate": "1985-08-08",
+                "text": "Referred to Subcommittee on Census and Population."
+            },
+            "number": "368",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution to designate the week of March 2, 1986, through March 8, 1986, as \"National Young Writers' Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/99/hjres/368?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-02-21",
+            "latestAction": {
+                "actionDate": "1985-04-04",
+                "text": "Placed on House Calendar No: 12."
+            },
+            "number": "72",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "A resolution to reaffirm the House's commitment to the Jobs Corps Program.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/99/hres/72?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-03-29",
+            "latestAction": {
+                "actionDate": "1988-04-08",
+                "text": "Referred to Subcommittee on Military Personnel and Compensation."
+            },
+            "number": "4279",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to provide adequate, uniform regulations regarding certain transportation on military installations outside the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4279?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-09-22",
+            "latestAction": {
+                "actionDate": "1988-04-19",
+                "text": "Executive Comment Received From US Postal Service."
+            },
+            "number": "3330",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal Equal Employment Opportunity Reporting Act of 1987",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3330?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-07-14",
+            "latestAction": {
+                "actionDate": "1987-07-16",
+                "text": "Referred to Subcommittee on Military Personnel and Compensation."
+            },
+            "number": "2934",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to amend title 10, United States Code, to provide for payment under the CHAMPUS program of certain health care expenses incurred by certain members and former members of the uniformed services and their dependents to the extent that such expenses are not payable under medicare, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2934?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-04-30",
+            "latestAction": {
+                "actionDate": "1988-05-25",
+                "text": "Committee Hearings Held."
+            },
+            "number": "2246",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Jobs for Employable Dependent Individuals Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2246?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-04-30",
+            "latestAction": {
+                "actionDate": "1988-10-13",
+                "text": "Provisions of Measure Incorporated Into H.R.1720."
+            },
+            "number": "2245",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Economic Self-Sufficiency Act of 1987",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2245?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-01-08",
+            "latestAction": {
+                "actionDate": "1987-02-23",
+                "text": "Referred to Subcommittee on Elementary, Secondary and Vocational Education."
+            },
+            "number": "579",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "English Proficiency Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/579?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-01-08",
+            "latestAction": {
+                "actionDate": "1987-03-12",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "563",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to establish a five-year pilot program to collect recreational use fees for facilities and services provided by the Angeles National Forest, California, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/563?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-06-03",
+            "latestAction": {
+                "actionDate": "1988-06-16",
+                "text": "Referred to Subcommittee on Census and Population."
+            },
+            "number": "585",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution designating the week of October 9, 1988, through October 15, 1988, as \"National Job Skills Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/585?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-05-20",
+            "latestAction": {
+                "actionDate": "1987-09-30",
+                "text": "See S.J.Res.72."
+            },
+            "number": "288",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A joint resolution designating the week of October 11, 1987, through October 17, 1987, as \"National Job Skills Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/288?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-09-14",
+            "latestAction": {
+                "actionDate": "1988-06-13",
+                "text": "Resolution Agreed to in House by Voice Vote."
+            },
+            "number": "261",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A resolution expressing the sense of the House of Representatives regarding Hispanics in the labor market.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/100/hres/261?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-07-14",
+            "latestAction": {
+                "actionDate": "1988-06-13",
+                "text": "Resolution Agreed to in House by Voice Vote."
+            },
+            "number": "224",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A resolution expressing the sense of the House of Representatives regarding the importance of working women to our economy and our Nation as a whole.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/100/hres/224?format=json"
+        },
+        {
+            "amendmentNumber": "852",
+            "congress": 101,
+            "introducedDate": "1990-10-11",
+            "latestAction": {
+                "actionDate": "1990-10-11",
+                "actionTime": "21:40:57",
+                "text": "On agreeing to the Martinez amendment (A001) Agreed to without objection. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/852?format=json"
+        },
+        {
+            "amendmentNumber": "815",
+            "congress": 101,
+            "introducedDate": "1990-10-03",
+            "latestAction": {
+                "actionDate": "1990-10-03",
+                "actionTime": "16:17:40",
+                "text": "On agreeing to the Martinez amendment (A005) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/815?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-10-18",
+            "latestAction": {
+                "actionDate": "1990-10-26",
+                "text": "Referred to the Subcommittee on Employment Opportunities."
+            },
+            "number": "5864",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Federal Employee Discrimination and Equal Employment Opportunity Amendments of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5864?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-09-19",
+            "latestAction": {
+                "actionDate": "1990-09-19",
+                "text": "Referred to the House Committee on Interior and Insular Affairs."
+            },
+            "number": "5680",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "To settle the Black Hills claim with the Sioux Nation of Indians.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5680?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-07-20",
+            "latestAction": {
+                "actionDate": "1990-08-17",
+                "text": "Referred to the Subcommittee on Postsecondary Education."
+            },
+            "number": "5338",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "To amend the Higher Education Act of 1965 to permit the cancellation of Perkins loans for service in law enforcement or corrections.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5338?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-06-21",
+            "latestAction": {
+                "actionDate": "1990-06-28",
+                "text": "Referred to the Subcommittee on Immigration, Refugees, and International Law."
+            },
+            "number": "5147",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Abby Cooke.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5147?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-09-13",
+            "latestAction": {
+                "actionDate": "1989-09-19",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3266",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Workforce 2000 Job Training Partnership Act Amendments of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3266?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-08-01",
+            "latestAction": {
+                "actionDate": "1990-11-15",
+                "text": "Became Public Law No: 101-554."
+            },
+            "number": "3069",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Displaced Homemakers Self-Sufficiency Assistance Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3069?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-06-27",
+            "latestAction": {
+                "actionDate": "1989-07-12",
+                "text": "Referred to the Subcommittee on Employment Opportunities."
+            },
+            "number": "2760",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Labor Shortage Reduction Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2760?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-03-16",
+            "latestAction": {
+                "actionDate": "1990-11-16",
+                "text": "See S.1430."
+            },
+            "number": "1474",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Community Service Corps Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/1474?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-07",
+            "latestAction": {
+                "actionDate": "1989-04-05",
+                "text": "Referred to the Subcommittee on Employment Opportunities."
+            },
+            "number": "900",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Job Training Partnership Accountability Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/900?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-02",
+            "latestAction": {
+                "actionDate": "1989-02-21",
+                "text": "Referred to the Subcommittee on Employment Opportunities."
+            },
+            "number": "803",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Martinez Job Training Partnership Accountability Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/803?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-06-20",
+            "latestAction": {
+                "actionDate": "1990-06-26",
+                "text": "Referred to the Subcommittee on Census and Population."
+            },
+            "number": "608",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "To designate the week of September 31, 1990 through October 6, 1990, as \"National Job Skills Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/608?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-07-19",
+            "latestAction": {
+                "actionDate": "1990-07-24",
+                "text": "Referred to the Subcommittee on Census and Population."
+            },
+            "number": "626",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Designating June 3, 1991, as \"Democracy Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/626?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-03-14",
+            "latestAction": {
+                "actionDate": "1989-06-09",
+                "text": "See S.J.Res.148."
+            },
+            "number": "195",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Designating the week of October 8, 1989, through October 14, 1989, as \"National Job Skills Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/195?format=json"
+        },
+        {
+            "amendmentNumber": "293",
+            "congress": 102,
+            "introducedDate": "1991-09-12",
+            "latestAction": {
+                "actionDate": "1991-09-12",
+                "actionTime": "14:38:31",
+                "text": "On agreeing to the Martinez amendments (A001) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/293?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-09-10",
+            "latestAction": {
+                "actionDate": "1992-10-09",
+                "text": "Referred to the Subcommittee on Crime and Criminal Justice."
+            },
+            "number": "5931",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Security Officers Quality Assurance Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5931?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-07-21",
+            "latestAction": {
+                "actionDate": "1992-10-07",
+                "text": "Became Public Law No: 102-401."
+            },
+            "number": "5630",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Head Start Improvement Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5630?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-06-11",
+            "latestAction": {
+                "actionDate": "1992-06-11",
+                "text": "Referred to the House Committee on Interior and Insular Affairs."
+            },
+            "number": "5382",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "Native American Languages Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5382?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-05-28",
+            "latestAction": {
+                "actionDate": "1992-10-23",
+                "text": "Became Public Law No: 102-443."
+            },
+            "number": "5291",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To provide for the temporary use of certain lands in the city of South Gate, California, for elementary school purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5291?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-05-18",
+            "latestAction": {
+                "actionDate": "1992-11-04",
+                "text": "Became Public Law No: 102-586."
+            },
+            "number": "5194",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Incentive Grants for Local Delinquency Prevention Programs Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5194?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-05-06",
+            "latestAction": {
+                "actionDate": "1992-07-20",
+                "text": "Referred to the Subcommittee on Employment Opportunities."
+            },
+            "number": "5075",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veterans In Transition Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5075?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-03-19",
+            "latestAction": {
+                "actionDate": "1992-04-16",
+                "text": "Referred to the Subcommittee on Human Resources."
+            },
+            "number": "4516",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Community Services Empowerment Amendments of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4516?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-03-19",
+            "latestAction": {
+                "actionDate": "1992-04-16",
+                "text": "Referred to the Subcommittee on Human Resources."
+            },
+            "number": "4515",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "To amend title II of the Juvenile Justice and Delinquency and Prevention Act of 1974 to require the Administrator of the Office of Juvenile Justice and Delinquency Prevention to conduct a study of violence committed by or against juveniles in urban areas.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4515?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-03-19",
+            "latestAction": {
+                "actionDate": "1992-10-05",
+                "text": "See S.2044."
+            },
+            "number": "4517",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "Native American Languages Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4517?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-03-17",
+            "latestAction": {
+                "actionDate": "1992-03-20",
+                "text": "Referred to the Subcommittee on International Law, Immigration, and Refugees."
+            },
+            "number": "4478",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Immigration Anti-Discrimination Improvement Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4478?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-03-11",
+            "latestAction": {
+                "actionDate": "1992-03-18",
+                "text": "Referred to the Subcommittee on International Law, Immigration, and Refugees."
+            },
+            "number": "4448",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Gui Di Chen and Zhe Wu.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4448?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-11-18",
+            "latestAction": {
+                "actionDate": "1991-12-30",
+                "text": "Referred to the Subcommittee on Elementary, Secondary and Vocational Education."
+            },
+            "number": "3800",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Technology for the Classroom Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3800?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-10-22",
+            "latestAction": {
+                "actionDate": "1992-07-01",
+                "text": "Ordered to be Reported (Amended)."
+            },
+            "number": "3613",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal Employee Fairness Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3613?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-08-02",
+            "latestAction": {
+                "actionDate": "1991-10-18",
+                "text": "Became Public Law No: 102-132."
+            },
+            "number": "3259",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To authorize appropriations for drug abuse education and prevention programs relating to youth gangs and to runaway and homeless youth; and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3259?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-07-23",
+            "latestAction": {
+                "actionDate": "1992-09-30",
+                "text": "Became Public Law No: 102-375."
+            },
+            "number": "2967",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Older Americans Act Amendments of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2967?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-06-26",
+            "latestAction": {
+                "actionDate": "1991-12-18",
+                "text": "See H.R.2950."
+            },
+            "number": "2804",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Elderly and Handicapped Transportation Improvement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2804?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-06-26",
+            "latestAction": {
+                "actionDate": "1991-07-15",
+                "text": "Referred to the Subcommittee on Economic Stabilization."
+            },
+            "number": "2793",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "To amend Part 4 of subchapter A of the Community Economic Development Act of 1981 (42 U.S.C. 9814 et. seq.) and to provide assistance to community development corporations and to increase their community development activities, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2793?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-02-28",
+            "latestAction": {
+                "actionDate": "1991-03-08",
+                "text": "Referred to the Subcommittee on Human Resources."
+            },
+            "number": "1195",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "To remove certain limitations on the payment of unemployment benefits to members of the Reserves who performed services in connection with the Persian Gulf crisis.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1195?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-01-30",
+            "latestAction": {
+                "actionDate": "1991-02-22",
+                "text": "Referred to the Subcommittee on Employment Opportunities."
+            },
+            "number": "740",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Job Training Partnership Act Amendments of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/740?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-01-23",
+            "latestAction": {
+                "actionDate": "1991-12-12",
+                "text": "Became Private Law No: 102-2."
+            },
+            "number": "635",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Abby Cooke.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/635?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-10-02",
+            "latestAction": {
+                "actionDate": "1992-10-02",
+                "actionTime": "22:01:09",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "594",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Relating to the consideration of the Senate amendment to H.R. 5194.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/102/hres/594?format=json"
+        },
+        {
+            "amendmentNumber": "524",
+            "congress": 103,
+            "introducedDate": "1994-04-20",
+            "latestAction": {
+                "actionDate": "1994-04-20",
+                "actionTime": "17:39:16",
+                "text": "On agreeing to the Martinez amendment (A026) Failed by recorded vote: 80 - 340 (Roll no. 139). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/524?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-09-22",
+            "latestAction": {
+                "actionDate": "1994-09-22",
+                "text": "Referred to the House Committee on Education and Labor."
+            },
+            "number": "5079",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "To amend the Anti-Drug Abuse Act of 1988 to authorize appropriations for fiscal years 1995, 1996, and 1997 for drug abuse education and prevention for the benefit of youth.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/5079?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-06-30",
+            "latestAction": {
+                "actionDate": "1994-07-19",
+                "text": "Referred to the Subcommittee on Select Education and Civil Rights."
+            },
+            "number": "4708",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Job Creation and Infrastructure Restoration Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4708?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-07-19",
+            "latestAction": {
+                "actionDate": "1994-10-04",
+                "text": "Subcommittee Consideration and Mark-up Session Held and Forwarded to Full Committee by the Subcommittee on Native American Affairs Prior to Referral (Amended) by Voice Vote."
+            },
+            "number": "4783",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "National Indian Research Institute Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4783?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-04-13",
+            "latestAction": {
+                "actionDate": "1994-04-13",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4201",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Job Creation and Business Equity Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4201?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-04-19",
+            "latestAction": {
+                "actionDate": "1994-04-28",
+                "actionTime": "17:33:39",
+                "text": "Laid on the table. See S. 2000 for further action."
+            },
+            "number": "4250",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Human Services Amendments of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4250?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-03-17",
+            "latestAction": {
+                "actionDate": "1994-04-28",
+                "text": "See H.R.4250."
+            },
+            "number": "4084",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Community Services Block Grant Amendments of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4084?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-03-17",
+            "latestAction": {
+                "actionDate": "1994-04-28",
+                "text": "See H.R.4250."
+            },
+            "number": "4085",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Low-Income Home Energy Assistance Amendments of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4085?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-02-10",
+            "latestAction": {
+                "actionDate": "1994-04-28",
+                "text": "See H.R.4250."
+            },
+            "number": "3842",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Head Start Act Amendments of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3842?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-11-09",
+            "latestAction": {
+                "actionDate": "1993-11-15",
+                "text": "Referred to the Subcommittee on Housing and Community Development."
+            },
+            "number": "3479",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Stewart B. McKinney Homeless Assistance Reauthorization Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3479?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-09-28",
+            "latestAction": {
+                "actionDate": "1993-12-02",
+                "text": "Became Public Law No: 103-171."
+            },
+            "number": "3161",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Older Americans Act Technical Amendments of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3161?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-09-28",
+            "latestAction": {
+                "actionDate": "1994-10-07",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "3160",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Juvenile Justice and Delinquency Prevention Act Technical Amendments of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3160?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-08-05",
+            "latestAction": {
+                "actionDate": "1993-09-14",
+                "text": "Referred to the Subcommittee on Labor-Management Relations."
+            },
+            "number": "2891",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "To amend the Job Training Partnership Act to establish a demonstration grant program for the purpose of establishing an employment information network to provide job search services to unemployed individuals, underemployed individuals, and economically disadvantaged individuals.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2891?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-07-23",
+            "latestAction": {
+                "actionDate": "1994-08-19",
+                "text": "Placed on the Union Calendar, Calendar No. 389."
+            },
+            "number": "2721",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal Employee Fairness Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2721?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-07-26",
+            "latestAction": {
+                "actionDate": "1993-07-28",
+                "text": "Referred to the Subcommittee on International Law, Immigration, and Refugees."
+            },
+            "number": "2738",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "To amend the Immigration Reform and Control Act of 1986 to extend alien eligibility for educational assistance under the SLIAG program.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2738?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-05-06",
+            "latestAction": {
+                "actionDate": "1993-09-21",
+                "text": "Became Public Law No: 103-82."
+            },
+            "number": "2010",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "National and Community Service Trust Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2010?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-30",
+            "latestAction": {
+                "actionDate": "1994-05-12",
+                "text": "Sponsor introductory remarks on measure. (CR H3283)"
+            },
+            "number": "1534",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Private Security Officers Quality Assurance Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1534?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-29",
+            "latestAction": {
+                "actionDate": "1993-04-16",
+                "text": "Referred to the Subcommittee on Human Resources."
+            },
+            "number": "1510",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "To amend the Family Support Act of 1988 to ensure that priority is given to certain community development corporations in approving applications to conduct demonstration projects to expand the number of job opportunities available to certain low-income individuals, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1510?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-10",
+            "latestAction": {
+                "actionDate": "1993-03-15",
+                "text": "Referred to the Subcommittee on International Law, Immigration, and Refugees."
+            },
+            "number": "1292",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Immigration Anti-Discrimination Improvement Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1292?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-02-24",
+            "latestAction": {
+                "actionDate": "1993-03-16",
+                "text": "Referred to the Subcommittee on Select Education and Civil Rights."
+            },
+            "number": "1111",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal Employee Fairness Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1111?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-02-04",
+            "latestAction": {
+                "actionDate": "1993-11-16",
+                "text": "Forwarded by Subcommittee to Full Committee (Amended)."
+            },
+            "number": "818",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Community Services Empowerment Amendments of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/818?format=json"
+        },
+        {
+            "amendmentNumber": "777",
+            "congress": 104,
+            "introducedDate": "1995-09-12",
+            "latestAction": {
+                "actionDate": "1995-09-12",
+                "actionTime": "18:13:37",
+                "text": "On agreeing to the Martinez amendment (A007) Failed by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/777?format=json"
+        },
+        {
+            "amendmentNumber": "35",
+            "congress": 104,
+            "introducedDate": "1995-01-30",
+            "latestAction": {
+                "actionDate": "1995-01-30",
+                "actionTime": "22:49:46",
+                "text": "On agreeing to the Martinez amendments (A026) Failed by recorded vote: 126 - 296 (Roll no. 69). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/35?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-07-12",
+            "latestAction": {
+                "actionDate": "1996-08-02",
+                "text": "Referred to the Subcommittee on Early Childhood, Youth and Families."
+            },
+            "number": "3806",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Runaway and Homeless Youth Amendments of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3806?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-11-02",
+            "latestAction": {
+                "actionDate": "1995-11-08",
+                "text": "Sponsor introductory remarks on measure. (CR E2134-2135)"
+            },
+            "number": "2583",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To amend the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 to prevent the construction of a thermal destruction facility at the OII site east of downtown Los Angeles unless the local community agrees to the location.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2583?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-09-06",
+            "latestAction": {
+                "actionDate": "1995-09-18",
+                "text": "Referred to the Subcommittee on Commerce, Trade, and Hazardous Materials."
+            },
+            "number": "2267",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To amend the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 to prevent the construction of a gas recovery treatment facility at the OII site east of downtown Los Angeles.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2267?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-07-27",
+            "latestAction": {
+                "actionDate": "1995-08-11",
+                "text": "Referred to the Subcommittee on Employer-Employee Relations."
+            },
+            "number": "2133",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal Employee Fairness Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2133?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-07-18",
+            "latestAction": {
+                "actionDate": "1995-08-04",
+                "text": "Referred to the Subcommittee on Early Childhood, Youth and Families."
+            },
+            "number": "2056",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Older Americans Act Amendments of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2056?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-05-09",
+            "latestAction": {
+                "actionDate": "1995-05-26",
+                "text": "Referred to the Subcommittee on Postsecondary Education, Training and Life-Long Learning."
+            },
+            "number": "1591",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Job Creation and Infrastructure Restoration Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1591?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-04-05",
+            "latestAction": {
+                "actionDate": "1995-04-28",
+                "text": "Referred to the Subcommittee on Postsecondary Education, Training and Life-Long Learning."
+            },
+            "number": "1405",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Job Creation and Infrastructure Restoration Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1405?format=json"
+        },
+        {
+            "amendmentNumber": "880",
+            "congress": 105,
+            "introducedDate": "1998-09-10",
+            "latestAction": {
+                "actionDate": "1998-09-10",
+                "actionTime": "17:05:19",
+                "text": "On agreeing to the Martinez amendment (A002) Failed by recorded vote: 205 - 208 (Roll No. 422). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/880?format=json"
+        },
+        {
+            "amendmentNumber": "909",
+            "congress": 105,
+            "introducedDate": "1998-09-18",
+            "latestAction": {
+                "actionDate": "1998-09-18",
+                "actionTime": "12:13:55",
+                "text": "On agreeing to the Martinez amendment (A002) Failed by recorded vote: 190 - 215 (Roll No. 451). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/909?format=json"
+        },
+        {
+            "amendmentNumber": "476",
+            "congress": 105,
+            "introducedDate": "1997-11-07",
+            "latestAction": {
+                "actionDate": "1997-11-07",
+                "actionTime": "13:34:49",
+                "text": "On agreeing to the Martinez amendment (A007) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/476?format=json"
+        },
+        {
+            "amendmentNumber": "471",
+            "congress": 105,
+            "introducedDate": "1997-11-07",
+            "latestAction": {
+                "actionDate": "1997-11-07",
+                "actionTime": "11:22:41",
+                "text": "On agreeing to the Martinez amendment (A002) as modified Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/471?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-05-14",
+            "latestAction": {
+                "actionDate": "1998-05-29",
+                "text": "Referred to the Subcommittee on Early Childhood, Youth and Families."
+            },
+            "number": "3880",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Human Services Amendments of 1998",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3880?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-04-01",
+            "latestAction": {
+                "actionDate": "1998-05-05",
+                "text": "Referred to the Subcommittee on Early Childhood, Youth and Families."
+            },
+            "number": "3666",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Child Nutrition and WIC Reauthorization Amendments of 1998",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3666?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-09-09",
+            "latestAction": {
+                "actionDate": "1997-09-26",
+                "text": "Referred to the Subcommittee on Employer-Employee Relations."
+            },
+            "number": "2441",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal Employee Fairness Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2441?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-05-20",
+            "latestAction": {
+                "actionDate": "1997-06-17",
+                "text": "Referred to the Subcommittee on Early Childhood, Youth and Families."
+            },
+            "number": "1671",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Older Americans Act Amendments of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1671?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-03-05",
+            "latestAction": {
+                "actionDate": "1997-04-21",
+                "text": "Referred to the Subcommittee on Early Childhood, Youth and Families."
+            },
+            "number": "950",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Job Creation and Infrastructure Restoration Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/950?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-30",
+            "latestAction": {
+                "actionDate": "1998-06-16",
+                "actionTime": "17:43:00",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "401",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Expressing the sense of the House of Representatives that social promotion in America's schools should be ended and can be ended through the use of high-quality, proven programs and practices.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/105/hres/401?format=json"
+        }
+    ]
+}

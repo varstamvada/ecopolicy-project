@@ -1,0 +1,83 @@
+{
+    "pagination": {
+        "count": 5
+    },
+    "request": {
+        "bioguideId": "h000269",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "9",
+            "congress": 98,
+            "introducedDate": "1983-03-02",
+            "latestAction": {
+                "actionDate": "1983-03-02",
+                "text": "Amendment Withdrawn in Committee of the Whole. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/9?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-03-01",
+            "latestAction": {
+                "actionDate": "1984-03-05",
+                "text": "Referred to Subcommittee on Social Security."
+            },
+            "number": "5005",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend title II of the Social Security Act to eliminate the disparity between the benefits payable to individuals who retired in or after 1979 (when the decoupling changes in the benefit formula became effective) and the benefits payable to individuals similarly situated who retired before that year, by providing that the benefits payable to the former individuals may never be less than those payable to the latter.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5005?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-09-21",
+            "latestAction": {
+                "actionDate": "1984-03-21",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3949",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to recognize the organization known as \"Veterans of the Vietnam War, Inc.\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/3949?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-02-28",
+            "latestAction": {
+                "actionDate": "1984-03-05",
+                "text": "Referred to Subcommittee on Census and Population."
+            },
+            "number": "495",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "A joint resolution designating the year 1984 as the \"Year of the Secretary\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/98/hjres/495?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-06-29",
+            "latestAction": {
+                "actionDate": "1984-06-29",
+                "text": "Referred to House Committee on House Administration."
+            },
+            "number": "338",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A concurrent resolution to express the sense of the Congress concerning recent statements made by Minister Louis Farrakhan.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/98/hconres/338?format=json"
+        }
+    ]
+}

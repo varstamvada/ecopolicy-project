@@ -1,0 +1,27 @@
+{
+    "pagination": {
+        "count": 1
+    },
+    "request": {
+        "bioguideId": "a000073",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 93,
+            "introducedDate": "1973-03-06",
+            "latestAction": {
+                "actionDate": "1973-03-06",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "5265",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Leda Morassutti.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/93/hr/5265?format=json"
+        }
+    ]
+}

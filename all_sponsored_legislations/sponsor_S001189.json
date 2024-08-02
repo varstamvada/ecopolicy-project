@@ -1,0 +1,954 @@
+{
+    "pagination": {
+        "count": 64
+    },
+    "request": {
+        "bioguideId": "s001189",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "997",
+            "congress": 118,
+            "introducedDate": "2024-06-26",
+            "latestAction": {
+                "actionDate": "2024-06-26",
+                "actionTime": "09:29:52",
+                "text": "On agreeing to the Scott, Austin amendment (A001) Agreed to without objection."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/hamdt/997?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-06-25",
+            "latestAction": {
+                "actionDate": "2024-06-26",
+                "actionTime": "11:09:08",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "1316",
+            "policyArea": {
+                "name": null
+            },
+            "title": "Providing for consideration of the bill (H.R. 8774) making appropriations for the Department of Defense for the fiscal year ending September 30, 2025, and for other purposes; providing for consideration of the bill (H.R. 8771) making appropriations for the Department of State, foreign operations, and related programs for the fiscal year ending September 30, 2025, and for other purposes; and providing for consideration of the bill (H.R. 8752) making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2025, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/118/hres/1316?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-06-11",
+            "latestAction": {
+                "actionDate": "2024-06-12",
+                "actionTime": "11:17:44",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "1287",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Providing for consideration of the bill (H.R. 8070) to authorize appropriations for fiscal year 2025 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year; relating to the consideration of House Report 118-527 and an accompanying resolution; and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/118/hres/1287?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-04-30",
+            "latestAction": {
+                "actionDate": "2024-04-30",
+                "text": "Referred to the House Committee on Natural Resources."
+            },
+            "number": "8182",
+            "policyArea": {
+                "name": null
+            },
+            "title": "Ocmulgee Mounds National Park and Preserve Establishment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/8182?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-04-17",
+            "latestAction": {
+                "actionDate": "2024-04-17",
+                "text": "Referred to the House Committee on Agriculture."
+            },
+            "number": "8055",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Ensuring Access to Risk Management Act of 2024",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/8055?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-01-11",
+            "latestAction": {
+                "actionDate": "2024-06-04",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "6983",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To designate the facility of the United States Postal Service located at 15 South Valdosta Road in Lakeland, Georgia, as the \"Nell Patten Roquemore Post Office\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/6983?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-05-02",
+            "latestAction": {
+                "actionDate": "2023-05-02",
+                "text": "Referred to the House Committee on Natural Resources."
+            },
+            "number": "358",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "Commemorating the 50th anniversary of the establishment of the National Wild Turkey Federation and recognizing its significant contributions to scientific wildlife management, research, and habitat conservation, as well as promoting and protecting the long-honored outdoor traditions of the United States.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/118/hres/358?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-03-28",
+            "latestAction": {
+                "actionDate": "2023-03-28",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1841",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Purple Heart Freedom to Work Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/1841?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-05-11",
+            "latestAction": {
+                "actionDate": "2022-05-11",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "7731",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Consumer Protection and Fuel Transparency Act of 2022",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/7731?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-07-01",
+            "latestAction": {
+                "actionDate": "2021-08-11",
+                "text": "Referred to the Subcommittee on Commodity Exchanges, Energy, and Credit."
+            },
+            "number": "4337",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Commodity Futures Trading Commission Research and Development Modernization Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/4337?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-05-20",
+            "latestAction": {
+                "actionDate": "2021-05-20",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3444",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "ABLE Accounts for Veterans Act of 2021",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/3444?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-05-20",
+            "latestAction": {
+                "actionDate": "2021-05-20",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3443",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Purple Heart Freedom to Work Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/3443?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-03-18",
+            "latestAction": {
+                "actionDate": "2021-03-18",
+                "text": "Referred to the House Committee on Education and Labor."
+            },
+            "number": "2063",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Protecting American Jobs Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/2063?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-02-04",
+            "latestAction": {
+                "actionDate": "2021-03-03",
+                "text": "Referred to the Subcommittee on General Farm Commodities and Risk Management."
+            },
+            "number": "843",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "To amend the Commodity Credit Corporation Charter Act to raise the borrowing limit of the Commodity Credit Corporation.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/843?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2020-07-23",
+            "latestAction": {
+                "actionDate": "2020-09-03",
+                "text": "Referred to the Subcommittee on Commodity Exchanges, Energy, and Credit."
+            },
+            "number": "7758",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Assistance for Rural Health, Safety and Educational Facilities Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/7758?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2020-05-05",
+            "latestAction": {
+                "actionDate": "2020-05-05",
+                "text": "Referred to the House Committee on Agriculture."
+            },
+            "number": "6728",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "To amend the Commodity Credit Corporation Charter Act to raise the borrowing limit of the Commodity Credit Corporation.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/6728?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2020-04-23",
+            "latestAction": {
+                "actionDate": "2020-04-23",
+                "text": "Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "6611",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Making supplemental appropriations for fiscal year 2020 for the Department of Agriculture to respond to the COVID-19 pandemic, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/6611?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-09-26",
+            "latestAction": {
+                "actionDate": "2019-10-11",
+                "text": "Referred to the Subcommittee on Commodity Exchanges, Energy, and Credit."
+            },
+            "number": "4535",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Commodity Futures Trading Commission Research and Development Modernization Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/4535?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-09-25",
+            "latestAction": {
+                "actionDate": "2019-10-11",
+                "text": "Referred to the Subcommittee on General Farm Commodities and Risk Management."
+            },
+            "number": "4496",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Wildfires and Hurricanes Indemnity Program Extension Act of 2019",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/4496?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-06-03",
+            "latestAction": {
+                "actionDate": "2019-06-17",
+                "text": "Referred to the Subcommittee on Economic Opportunity."
+            },
+            "number": "3072",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend the Servicemembers Civil Relief Act to provide a guarantee of residency for registration of businesses of spouses of members of the uniformed services, to improve occupational license portability for military spouses through interstate compacts, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/3072?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-05-09",
+            "latestAction": {
+                "actionDate": "2019-05-09",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2655",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Purple Heart Freedom to Work Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/2655?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-05-09",
+            "latestAction": {
+                "actionDate": "2019-05-09",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2656",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "ABLE Accounts for Veterans Act of 2019",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/2656?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-03-11",
+            "latestAction": {
+                "actionDate": "2019-03-12",
+                "text": "Referred to the Subcommittee on Highways and Transit."
+            },
+            "number": "1673",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Agricultural Trucking Relief Act of 2019",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/1673?format=json"
+        },
+        {
+            "amendmentNumber": "736",
+            "congress": 113,
+            "introducedDate": "2014-05-29",
+            "latestAction": {
+                "actionDate": "2014-05-29",
+                "actionTime": "18:42:15",
+                "text": "On agreeing to the Scott, Austin amendment (A047) Failed by recorded vote: 116 - 290 (Roll no. 253). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/736?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-09-10",
+            "latestAction": {
+                "actionDate": "2014-09-22",
+                "text": "Referred to the Subcommittee on Horticulture, Research, Biotechnology, and Foreign Agriculture."
+            },
+            "number": "5447",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "To amend the Federal Insecticide, Fungicide, and Rodenticide Act to increase the availability of pesticides for the management of parasitic pests that adversely impact the health of managed pollinator bees, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5447?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-07-31",
+            "latestAction": {
+                "actionDate": "2014-08-01",
+                "text": "Referred to the Subcommittee on Communications and Technology."
+            },
+            "number": "5376",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Stop Taxpayer Funded Cell Phones Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5376?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-10-03",
+            "latestAction": {
+                "actionDate": "2013-10-04",
+                "text": "Sponsor introductory remarks on measure. (CR H6242)"
+            },
+            "number": "3241",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Pay our Guardsmen and Civilian Defense Personnel Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3241?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-04-09",
+            "latestAction": {
+                "actionDate": "2013-04-09",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1448",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "FARMER Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/1448?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-03-20",
+            "latestAction": {
+                "actionDate": "2013-03-20",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "1302",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To prohibit foreign military financing to Egypt.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/1302?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-03-14",
+            "latestAction": {
+                "actionDate": "2013-03-14",
+                "text": "Referred to the Committee on the Budget, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "1202",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "One Percent Spending Reduction Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/1202?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-03-05",
+            "latestAction": {
+                "actionDate": "2013-04-08",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations."
+            },
+            "number": "972",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Preserving Freedom from Unwarranted Surveillance Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/972?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-02-15",
+            "latestAction": {
+                "actionDate": "2013-04-23",
+                "text": "Referred to the Subcommittee on Health, Employment, Labor, and Pensions."
+            },
+            "number": "795",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Protecting American Jobs Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/795?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-01-22",
+            "latestAction": {
+                "actionDate": "2013-02-28",
+                "text": "Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law."
+            },
+            "number": "350",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "To repeal the Legal Services Corporation Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/350?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-02-25",
+            "latestAction": {
+                "actionDate": "2014-03-13",
+                "text": "Ordered to be Reported by Voice Vote."
+            },
+            "number": "86",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Celebrating the 100th anniversary of the enactment of the Smith-Lever Act, which established the nationwide Cooperative Extension System.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/113/hconres/86?format=json"
+        },
+        {
+            "amendmentNumber": "1060",
+            "congress": 112,
+            "introducedDate": "2012-05-08",
+            "latestAction": {
+                "actionDate": "2012-05-09",
+                "actionTime": "00:12:02",
+                "text": "On agreeing to the Scott, Austin amendment (A027) Failed by recorded vote: 122 - 289 (Roll no. 219). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/1060?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-07-26",
+            "latestAction": {
+                "actionDate": "2012-07-26",
+                "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "6224",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Providing Assistance with the Paperwork from Excessive Regulations Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6224?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-06-07",
+            "latestAction": {
+                "actionDate": "2012-06-18",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "5925",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Preserving Freedom from Unwarranted Surveillance Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5925?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-09-20",
+            "latestAction": {
+                "actionDate": "2011-09-20",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "2978",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Protecting American Jobs Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2978?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-08-05",
+            "latestAction": {
+                "actionDate": "2011-08-05",
+                "text": "Referred to the House Committee on Appropriations."
+            },
+            "number": "2811",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To rescind all unobligated funds made available for capital assistance for high-speed rail corridors under the American Recovery and Reinvestment Act of 2009.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2811?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-08-01",
+            "latestAction": {
+                "actionDate": "2011-08-01",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "2774",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "To repeal the Legal Services Corporation Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2774?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-02-06",
+            "latestAction": {
+                "actionDate": "2019-02-06",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "1024",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Consumer Protection and Fuel Transparency Act of 2019",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/1024?format=json"
+        },
+        {
+            "congress": 116,
+            "introducedDate": "2019-01-30",
+            "latestAction": {
+                "actionDate": "2020-12-08",
+                "text": "Placed on the Union Calendar, Calendar No. 513."
+            },
+            "number": "877",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Modernizing the Pittman-Robertson Fund for Tomorrow\u2019s Needs Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/116/hr/877?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-11-29",
+            "latestAction": {
+                "actionDate": "2018-11-29",
+                "text": "Referred to the House Committee on Agriculture."
+            },
+            "number": "7200",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Wildfires and Hurricanes Indemnity Program Extension Act of 2018",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/7200?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-09-28",
+            "latestAction": {
+                "actionDate": "2018-09-28",
+                "text": "Referred to the House Committee on Transportation and Infrastructure."
+            },
+            "number": "7004",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Agricultural Trucking Relief Act of 2018",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/7004?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-06-14",
+            "latestAction": {
+                "actionDate": "2018-07-19",
+                "text": "Referred to the Subcommittee on Commodity Exchanges, Energy, and Credit."
+            },
+            "number": "6121",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Commodity Futures Trading Commission Research and Development Modernization Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/6121?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-05-16",
+            "latestAction": {
+                "actionDate": "2018-05-16",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "5855",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Consumer Protection and Fuel Transparency Act of 2018",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/5855?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-01-30",
+            "latestAction": {
+                "actionDate": "2018-06-15",
+                "text": "Became Public Law No: 115-184."
+            },
+            "number": "4910",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "An act to amend title 38, United States Code, to provide outer burial receptacles for remains buried in National Parks, and for other purposes",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4910?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-09-28",
+            "latestAction": {
+                "actionDate": "2017-09-28",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3886",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to increase the unified credit against the estate and gift tax and to simplify the estate and gift tax rates.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/3886?format=json"
+        },
+        {
+            "amendmentNumber": "322",
+            "congress": 115,
+            "introducedDate": "2017-09-07",
+            "latestAction": {
+                "actionDate": "2017-09-07",
+                "actionTime": "21:10:48",
+                "text": "On agreeing to the Scott, Austin amendment (A050) Agreed to by recorded vote: 217 - 193 (Roll no. 468). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/115/hamdt/322?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-07-28",
+            "latestAction": {
+                "actionDate": "2017-08-04",
+                "text": "Referred to the Subcommittee on Communications and Technology."
+            },
+            "number": "3546",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "End Taxpayer Funded Cell Phones Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/3546?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-05-22",
+            "latestAction": {
+                "actionDate": "2018-09-17",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+            },
+            "number": "2591",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Modernizing the Pittman-Robertson Fund for Tomorrow's Needs Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/2591?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-03-24",
+            "latestAction": {
+                "actionDate": "2017-03-24",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "1722",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Protecting American Jobs Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/1722?format=json"
+        },
+        {
+            "amendmentNumber": "32",
+            "congress": 115,
+            "introducedDate": "2017-01-12",
+            "latestAction": {
+                "actionDate": "2017-01-12",
+                "actionTime": "13:36:56",
+                "text": "On agreeing to the Scott, Austin amendment (A002) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/115/hamdt/32?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-07-06",
+            "latestAction": {
+                "actionDate": "2016-08-11",
+                "text": "Referred to the Subcommittee on Seapower and Projection Forces."
+            },
+            "number": "5649",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Stop Abusing the Presidential Plane Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5649?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-06-16",
+            "latestAction": {
+                "actionDate": "2016-06-21",
+                "actionTime": "18:52:11",
+                "text": "On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 207 - 143 (Roll no. 334)."
+            },
+            "number": "5525",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "End Taxpayer Funded Cell Phones Act of 2016",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5525?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-03-23",
+            "latestAction": {
+                "actionDate": "2016-04-19",
+                "text": "Forwarded by Subcommittee to Full Committee (Amended) by the Yeas and Nays: 17 - 11 ."
+            },
+            "number": "4884",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "CURB Lifeline Act of 2016",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/4884?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-01-11",
+            "latestAction": {
+                "actionDate": "2016-01-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4363",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Student Tax Affordability and Relief Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/4363?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-11-18",
+            "latestAction": {
+                "actionDate": "2015-12-04",
+                "text": "Referred to the Subcommittee on Immigration and Border Security."
+            },
+            "number": "4074",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "To require the Secretary of Homeland Security to collect data regarding foreign travel, or repatriation, to the country of nationality or last habitual residence by an alien admitted to the United States as a refugee, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/4074?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-10-09",
+            "latestAction": {
+                "actionDate": "2015-11-04",
+                "text": "Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law."
+            },
+            "number": "3754",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Halting Government Overreach Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3754?format=json"
+        },
+        {
+            "amendmentNumber": "339",
+            "congress": 114,
+            "introducedDate": "2015-06-03",
+            "latestAction": {
+                "actionDate": "2015-06-03",
+                "actionTime": "02:03:53",
+                "text": "On agreeing to the Scott, Austin amendment (A071) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/114/hamdt/339?format=json"
+        },
+        {
+            "amendmentNumber": "278",
+            "congress": 114,
+            "introducedDate": "2015-06-02",
+            "latestAction": {
+                "actionDate": "2015-06-02",
+                "actionTime": "16:33:58",
+                "text": "By unanimous consent, the Scott, Austin amendment was withdrawn. (consideration: CR H3684)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/114/hamdt/278?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-04-17",
+            "latestAction": {
+                "actionDate": "2015-11-16",
+                "text": "Referred to the Subcommittee on Health, Employment, Labor, and Pensions."
+            },
+            "number": "1893",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Protecting American Jobs Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/1893?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-02-27",
+            "latestAction": {
+                "actionDate": "2015-03-23",
+                "text": "Referred to the Subcommittee on Federal Lands."
+            },
+            "number": "1183",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veterans Cemetery Benefit Correction Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/1183?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-01-09",
+            "latestAction": {
+                "actionDate": "2015-01-16",
+                "text": "Referred to the Subcommittee on Communications and Technology."
+            },
+            "number": "266",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "End Taxpayer Funded Cell Phones Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/266?format=json"
+        }
+    ]
+}

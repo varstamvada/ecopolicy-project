@@ -1,0 +1,951 @@
+{
+    "pagination": {
+        "count": 65
+    },
+    "request": {
+        "bioguideId": "c000293",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "579",
+            "congress": 98,
+            "introducedDate": "1984-02-02",
+            "latestAction": {
+                "actionDate": "1984-02-02",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 182 - 231 (Record Vote No: 17). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/579?format=json"
+        },
+        {
+            "amendmentNumber": "552",
+            "congress": 98,
+            "introducedDate": "1983-11-17",
+            "latestAction": {
+                "actionDate": "1983-11-17",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/552?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1984-04-12",
+            "latestAction": {
+                "actionDate": "1984-04-12",
+                "text": "Referred to House Committee on The Judiciary."
+            },
+            "number": "5499",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of John R. Schmitz and Winifred D. Schmitz.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/5499?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-11-17",
+            "latestAction": {
+                "actionDate": "1983-11-29",
+                "text": "Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment."
+            },
+            "number": "4457",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "A bill to prohibit the taking and importation of killer whales for public display purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4457?format=json"
+        },
+        {
+            "amendmentNumber": "1208",
+            "congress": 99,
+            "introducedDate": "1986-09-11",
+            "latestAction": {
+                "actionDate": "1986-09-11",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 170 - 231 (Record Vote No: 376). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/1208?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-04-29",
+            "latestAction": {
+                "actionDate": "1986-05-19",
+                "text": "Referred to Subcommittee on Labor-Management Relations."
+            },
+            "number": "4694",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to grant certain employee benefit plans additional time to comply with the requirements of recent legislation affecting such plans.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/4694?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-02-05",
+            "latestAction": {
+                "actionDate": "1986-02-05",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "4123",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Minimum Tax Act of 1986",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/4123?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-06-26",
+            "latestAction": {
+                "actionDate": "1985-07-22",
+                "text": "Referred to Subcommittee on Labor-Management Relations."
+            },
+            "number": "2869",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal Annuity and Investment Reform Act of 1985",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2869?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-06-19",
+            "latestAction": {
+                "actionDate": "1985-07-01",
+                "text": "Referred to Subcommittee on Postsecondary Education."
+            },
+            "number": "2805",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Mid-Career Math and Science Teacher Training Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2805?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-06-13",
+            "latestAction": {
+                "actionDate": "1985-06-24",
+                "text": "Referred to Subcommittee on Postsecondary Education."
+            },
+            "number": "2758",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "A bill to amend the Higher Education Act of 1965 to create a program supporting midcareer teacher training programs for individuals with expertise in mathematics and science, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2758?format=json"
+        },
+        {
+            "amendmentNumber": "543",
+            "congress": 100,
+            "introducedDate": "1987-12-08",
+            "latestAction": {
+                "actionDate": "1987-12-08",
+                "text": "Amendment Passed in Committee of the Whole by Recorded Vote: 346 - 58 (Record Vote No: 461). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/543?format=json"
+        },
+        {
+            "amendmentNumber": "347",
+            "congress": 100,
+            "introducedDate": "1987-07-13",
+            "latestAction": {
+                "actionDate": "1987-07-13",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/347?format=json"
+        },
+        {
+            "amendmentNumber": "344",
+            "congress": 100,
+            "introducedDate": "1987-07-13",
+            "latestAction": {
+                "actionDate": "1987-07-13",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/344?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-09-15",
+            "latestAction": {
+                "actionDate": "1988-09-15",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "5309",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Retiree Health Benefits and Pension Preservation Act of 1988",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/5309?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-06-14",
+            "latestAction": {
+                "actionDate": "1988-06-17",
+                "text": "Referred to Subcommittee on Trade."
+            },
+            "number": "4803",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Price Competitive Products Act of 1988",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4803?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-03-15",
+            "latestAction": {
+                "actionDate": "1988-10-19",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "4146",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Washington Park Wilderness Bill of 1988",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/4146?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-12-02",
+            "latestAction": {
+                "actionDate": "1987-12-02",
+                "text": "Referred to House Committee on Rules."
+            },
+            "number": "3683",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Individual Appropriations Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3683?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-09-21",
+            "latestAction": {
+                "actionDate": "1987-09-23",
+                "text": "Referred to Subcommittee on Public Assistance and Unemployment Compensation."
+            },
+            "number": "3309",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986, to clarify the treatment of certain fishermen.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3309?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-07-01",
+            "latestAction": {
+                "actionDate": "1987-07-01",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "2860",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to provide a uniform Federal tax treatment for employer-provided health care benefits for retired employees.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2860?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-06-10",
+            "latestAction": {
+                "actionDate": "1987-06-10",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "2643",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to improve the portability of pension benefits, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2643?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-05-11",
+            "latestAction": {
+                "actionDate": "1987-05-11",
+                "text": "Referred to House Committee on Rules."
+            },
+            "number": "2363",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A bill to provide that during a two-year period each item of any joint resolution making continuing appropriations that is agreed to by both Houses of the Congress in the same form shall be enrolled as a separate joint resolution for presentation to the President.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2363?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-05-11",
+            "latestAction": {
+                "actionDate": "1988-05-11",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "566",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A joint resolution expressing United States policy regarding reforms which should be taken by the Government of Nicaragua in order to bring about lasting peace, pluralism, and democracy in Nicaragua.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/100/hjres/566?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-11-19",
+            "latestAction": {
+                "actionDate": "1987-11-23",
+                "text": "Referred to Subcommittee on Trade."
+            },
+            "number": "317",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A resolution expressing the sense of the House of Representatives with respect to Brazil's informatics policies and supporting the President's action to impose import sanctions against certain products of Brazil in response to such policies.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/100/hres/317?format=json"
+        },
+        {
+            "amendmentNumber": "678",
+            "congress": 101,
+            "introducedDate": "1990-08-01",
+            "latestAction": {
+                "actionDate": "1990-08-01",
+                "actionTime": "17:56:32",
+                "text": "On agreeing to the Chandler amendment (A037) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/678?format=json"
+        },
+        {
+            "amendmentNumber": "324",
+            "congress": 101,
+            "introducedDate": "1989-11-09",
+            "latestAction": {
+                "actionDate": "1989-11-09",
+                "actionTime": "14:22:58",
+                "text": "On agreeing to the Chandler amendment (A013) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/324?format=json"
+        },
+        {
+            "amendmentNumber": "326",
+            "congress": 101,
+            "introducedDate": "1989-11-09",
+            "latestAction": {
+                "actionDate": "1989-11-09",
+                "actionTime": "14:30:44",
+                "text": "On agreeing to the Chandler amendment (A015) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/326?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-07-26",
+            "latestAction": {
+                "actionDate": "1990-08-17",
+                "text": "Referred to the Subcommittee on Labor-Management Relations."
+            },
+            "number": "5379",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To provide that taxpayers may rely on Internal Revenue Service guidelines in determining the funding limits for pension plans.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5379?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-07-24",
+            "latestAction": {
+                "actionDate": "1990-07-24",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5352",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Employee Investment Opportunity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5352?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-07-25",
+            "latestAction": {
+                "actionDate": "1990-07-25",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5362",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Employee Benefits Simplification Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5362?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-03-29",
+            "latestAction": {
+                "actionDate": "1990-11-05",
+                "text": "See H.R.5835."
+            },
+            "number": "4422",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend title II of the Social Security Act to provide for an exemption from the two-year waiting period for divorced spouse's benefits following the divorce in cases of prior receipt of spouse's benefits.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4422?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-03-15",
+            "latestAction": {
+                "actionDate": "1990-03-15",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4278",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to increase the excise tax on cigarettes, to allow a credit against such increase for 1/2 the State and local sales taxes on cigarettes, and to allow a deduction for health insurance costs to employees whose employer does not offer subsidized health insurance.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4278?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-03-12",
+            "latestAction": {
+                "actionDate": "1990-03-14",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "4240",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To require the Commissioner of Customs to provide annual national trade and customs law violation estimates and enforcement strategies.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4240?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-03-13",
+            "latestAction": {
+                "actionDate": "1990-04-18",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "4247",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Home Dialysis Equity Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4247?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-02-28",
+            "latestAction": {
+                "actionDate": "1990-02-28",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4134",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Health and Long-Term Care Security Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4134?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-02-27",
+            "latestAction": {
+                "actionDate": "1990-11-05",
+                "text": "See H.R.5835."
+            },
+            "number": "4109",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare Screening Benefit Improvement Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4109?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-02-07",
+            "latestAction": {
+                "actionDate": "1990-08-20",
+                "text": "See H.R.1594."
+            },
+            "number": "3975",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To provide duty-free entry for the personal effects and equipment of participants and officials involved in the 1990 Goodwill Games to be held in the State of Washington.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3975?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-11-07",
+            "latestAction": {
+                "actionDate": "1989-11-07",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3592",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to impose an excise tax on optional extended warranty and service contracts having an expected cost to the issuer of less than 50 percent of the cost to the consumer.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3592?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-10-17",
+            "latestAction": {
+                "actionDate": "1989-10-17",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3478",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to clarify the treatment of individual retirement accounts when the balance in such an account is taken into account for purposes of determining eligibility for reduced cost or no cost services.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3478?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-04-13",
+            "latestAction": {
+                "actionDate": "1989-04-26",
+                "text": "Referred to the Subcommittee on Labor-Management Relations."
+            },
+            "number": "1865",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Retiree Health Benefits Preservation Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/1865?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-04-13",
+            "latestAction": {
+                "actionDate": "1989-05-03",
+                "text": "Referred to the Subcommittee on Labor-Management Relations."
+            },
+            "number": "1866",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Retiree Health Benefits and Pension Preservation Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/1866?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-03-08",
+            "latestAction": {
+                "actionDate": "1989-03-29",
+                "text": "Referred to the Subcommittee on Compensation and Employee Benefits."
+            },
+            "number": "1297",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To provide that sick leave may be granted to a Federal employee for the purpose of allowing that employee to assist an immediate relative having a physical or mental disability to seek medical attention.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/1297?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-28",
+            "latestAction": {
+                "actionDate": "1989-02-28",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1142",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 with respect to the treatment of certain deductions allowed to members of reserve units ofthe Armed Forces or the National Guard.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/1142?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-02",
+            "latestAction": {
+                "actionDate": "1989-02-06",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "771",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Price Competitive Products Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/771?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-02",
+            "latestAction": {
+                "actionDate": "1989-02-02",
+                "text": "Referred to the House Committee on Veterans' Affairs."
+            },
+            "number": "769",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To designate the alcoholism and chemical dependency wing of the Seattle Veterans Administration Medical Center located in Seattle, Washington, as the \"Joe Hooper Alcoholism and Substance Abuse Center\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/769?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-09-24",
+            "latestAction": {
+                "actionDate": "1990-11-15",
+                "text": "Became Public Law No: 101-564."
+            },
+            "number": "652",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To designate March 25, 1991, as \"National Medal of Honor Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/652?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-04-25",
+            "latestAction": {
+                "actionDate": "1989-05-05",
+                "text": "Referred to the Subcommittee on Human Rights and International Organizations."
+            },
+            "number": "246",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing United States policy regarding reforms which should be taken by the Government of Nicaragua in order to bring about lasting peace, pluralism, and democracy in Nicaragua.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/246?format=json"
+        },
+        {
+            "amendmentNumber": "718",
+            "congress": 102,
+            "introducedDate": "1992-07-22",
+            "latestAction": {
+                "actionDate": "1992-07-22",
+                "actionTime": "17:29:43",
+                "text": "By unanimous consent, the Chandler amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/718?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-09-23",
+            "latestAction": {
+                "actionDate": "1992-09-28",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "6002",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To treat health professionals who are faculty members at a dental school and who operate an intramural dental faculty practice plan at such school as paid by a common paymaster for purposes of social security taxes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/6002?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-08-06",
+            "latestAction": {
+                "actionDate": "1992-08-25",
+                "text": "Referred to the Subcommittee on Labor-Management Relations."
+            },
+            "number": "5786",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Commission on Retirement Income Policy Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5786?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-07-09",
+            "latestAction": {
+                "actionDate": "1992-08-25",
+                "text": "Referred to the Subcommittee on Postsecondary Education."
+            },
+            "number": "5581",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Education Savings Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5581?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-06-03",
+            "latestAction": {
+                "actionDate": "1992-06-03",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5308",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to impose a moratorium on the inclusion of certain sponsorship payments in the unrelated business income of tax-exempt organizations.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5308?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-05-07",
+            "latestAction": {
+                "actionDate": "1992-05-25",
+                "text": "Referred to the Subcommittee on Fisheries and Wildlife Conservation and the Environment."
+            },
+            "number": "5105",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Environment and Economic Stability Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5105?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-04-09",
+            "latestAction": {
+                "actionDate": "1992-05-12",
+                "text": "Referred to the Subcommittee on Employment Opportunities."
+            },
+            "number": "4894",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Congressional Accountability Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4894?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-04-09",
+            "latestAction": {
+                "actionDate": "1992-04-29",
+                "text": "Referred to the Subcommittee on SBA, the General Economy, and Minority Enterprise Development."
+            },
+            "number": "4895",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "To amend the Small Business Investment Act of 1958 to permit prepayment of debentures issued by State and local development companies.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4895?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-04-09",
+            "latestAction": {
+                "actionDate": "1992-04-21",
+                "text": "Referred to the Subcommittee on Legislation and National Security."
+            },
+            "number": "4893",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Sunset Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4893?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-02-27",
+            "latestAction": {
+                "actionDate": "1992-03-11",
+                "text": "Referred to the Subcommittee on International Economic Policy and Trade."
+            },
+            "number": "4331",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Forest Resources Amendments Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4331?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-11-26",
+            "latestAction": {
+                "actionDate": "1991-11-26",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3955",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Energy Efficiency and Conservation Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3955?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-11-21",
+            "latestAction": {
+                "actionDate": "1991-12-30",
+                "text": "Referred to the Subcommittee on Labor-Management Relations."
+            },
+            "number": "3843",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Pension Protection in Bankruptcy Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3843?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-11-19",
+            "latestAction": {
+                "actionDate": "1992-01-14",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "3806",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare Outpatient Diabetes Education Coverage Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3806?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-09-19",
+            "latestAction": {
+                "actionDate": "1991-09-24",
+                "text": "Referred to the Subcommittee on Economic and Commercial Law."
+            },
+            "number": "3368",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "Major League Baseball Equity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3368?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-06-11",
+            "latestAction": {
+                "actionDate": "1991-07-11",
+                "text": "Referred to the Subcommittee on Employment Opportunities."
+            },
+            "number": "2613",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Targeted Dislocated Worker Assistance Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2613?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-06-13",
+            "latestAction": {
+                "actionDate": "1992-10-05",
+                "text": "See H.R.11."
+            },
+            "number": "2641",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Employee Benefits Simplification Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2641?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-05-23",
+            "latestAction": {
+                "actionDate": "1991-06-10",
+                "text": "Referred to the Subcommittee on Commerce, Consumer Protection and Competitiveness."
+            },
+            "number": "2453",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Small Employer Health Insurance Incentive Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2453?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-11-07",
+            "latestAction": {
+                "actionDate": "1991-11-12",
+                "text": "Referred to the Subcommittee on Census and Population."
+            },
+            "number": "370",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Designating March 25th of each year as \"National Medal of Honor Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/102/hjres/370?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-03-05",
+            "latestAction": {
+                "actionDate": "1991-03-12",
+                "text": "Executive Comment Requested from DOD."
+            },
+            "number": "99",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Supporting Operation Homefront.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/102/hres/99?format=json"
+        }
+    ]
+}

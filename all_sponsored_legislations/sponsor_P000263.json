@@ -1,0 +1,904 @@
+{
+    "pagination": {
+        "count": 62
+    },
+    "request": {
+        "bioguideId": "p000263",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "345",
+            "congress": 109,
+            "introducedDate": "2005-06-23",
+            "latestAction": {
+                "actionDate": "2005-06-23",
+                "actionTime": "14:56:04",
+                "text": "By unanimous consent, the Peterson (PA) amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/345?format=json"
+        },
+        {
+            "amendmentNumber": "172",
+            "congress": 109,
+            "introducedDate": "2005-05-19",
+            "latestAction": {
+                "actionDate": "2005-05-19",
+                "actionTime": "17:07:38",
+                "text": "On agreeing to the Peterson (PA) amendments (A004) Failed by recorded vote: 157 - 262 (Roll no. 192). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/172?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-07-25",
+            "latestAction": {
+                "actionDate": "2006-07-25",
+                "text": "Referred to the House Committee on Government Reform."
+            },
+            "number": "5883",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Drake Well Sesquicentennial Commemoration Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/5883?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-03-14",
+            "latestAction": {
+                "actionDate": "2006-10-17",
+                "text": "Became Public Law No: 109-363."
+            },
+            "number": "4957",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Tylersville Fish Hatchery Conveyance Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4957?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-11-15",
+            "latestAction": {
+                "actionDate": "2006-03-24",
+                "text": "Referred to the Subcommittee on Education Reform."
+            },
+            "number": "4318",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Outer Continental Shelf Natural Gas Relief Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4318?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-09-27",
+            "latestAction": {
+                "actionDate": "2005-11-08",
+                "text": "Sponsor introductory remarks on measure. (CR H10017-10022)"
+            },
+            "number": "3918",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Outer Continental Shelf Energy Relief Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3918?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-05-26",
+            "latestAction": {
+                "actionDate": "2005-05-31",
+                "text": "Referred to the Subcommittee on Energy and Mineral Resources."
+            },
+            "number": "2721",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Abandoned Mine Reclamation Program Extension and Reform Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/2721?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-04-21",
+            "latestAction": {
+                "actionDate": "2005-04-27",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "1799",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the duty suspension on ORGASOL polyamide powders.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1799?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-03-03",
+            "latestAction": {
+                "actionDate": "2005-03-04",
+                "text": "Referred to the Subcommittee on Aviation."
+            },
+            "number": "1119",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Essential Air Service Preservation Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1119?format=json"
+        },
+        {
+            "amendmentNumber": "629",
+            "congress": 110,
+            "introducedDate": "2007-07-24",
+            "latestAction": {
+                "actionDate": "2007-07-24",
+                "actionTime": "18:23:09",
+                "text": "On agreeing to the Peterson (PA) amendment (A033) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/hamdt/629?format=json"
+        },
+        {
+            "amendmentNumber": "445",
+            "congress": 110,
+            "introducedDate": "2007-06-27",
+            "latestAction": {
+                "actionDate": "2007-06-27",
+                "actionTime": "14:12:07",
+                "text": "Mr. Dicks raised a point of order against the Peterson (PA) amendment (A051). Mr. Dicks stated that the provisions of the Doolittle amendment seek to appropriate funds for a program not authorized. The Chair sustained the point of order. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/hamdt/445?format=json"
+        },
+        {
+            "amendmentNumber": "406",
+            "congress": 110,
+            "introducedDate": "2007-06-26",
+            "latestAction": {
+                "actionDate": "2007-06-26",
+                "actionTime": "15:27:30",
+                "text": "On agreeing to the Peterson (PA) amendment (A012) Failed by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/hamdt/406?format=json"
+        },
+        {
+            "amendmentNumber": "405",
+            "congress": 110,
+            "introducedDate": "2007-06-26",
+            "latestAction": {
+                "actionDate": "2007-06-26",
+                "actionTime": "21:51:57",
+                "text": "On agreeing to the Peterson (PA) amendment (A011) Failed by recorded vote: 196 - 233 (Roll no. 552). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/hamdt/405?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-07-31",
+            "latestAction": {
+                "actionDate": "2008-09-17",
+                "text": "Referred to the Subcommittee on Energy and Environment."
+            },
+            "number": "6709",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "National Conservation, Environment, and Energy Independence Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6709?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-01-28",
+            "latestAction": {
+                "actionDate": "2008-02-06",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "5149",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on dry adhesive copolyamide pellets.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/5149?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-01-16",
+            "latestAction": {
+                "actionDate": "2008-01-17",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "4989",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on stainless steel single piece exhaust gas manifolds.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4989?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-01-16",
+            "latestAction": {
+                "actionDate": "2008-01-17",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "4988",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the temporary suspension of duty on Orgasol.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4988?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-09-10",
+            "latestAction": {
+                "actionDate": "2007-09-11",
+                "text": "Referred to the Subcommittee on Highways and Transit."
+            },
+            "number": "3510",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To prohibit the imposition and collection of tolls on certain highways constructed using Federal funds.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3510?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-06-20",
+            "latestAction": {
+                "actionDate": "2007-11-13",
+                "text": "Sponsor introductory remarks on measure. (CR H13841-13846)"
+            },
+            "number": "2784",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "National Environment and Energy Development Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/2784?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-07-31",
+            "latestAction": {
+                "actionDate": "2008-09-10",
+                "text": "Referred to the Subcommittee on Energy and Mineral Resources."
+            },
+            "number": "402",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Recognizing the historical significance of the discovery of oil and the birth of the petroleum and natural gas industries on the banks of Oil Creek, Venango County, near Titusville, Pennsylvania on August 27, 1859, and designating the year 2009 as the \"Sesquicentennial of Oil\".",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/402?format=json"
+        },
+        {
+            "amendmentNumber": "665",
+            "congress": 108,
+            "introducedDate": "2004-07-09",
+            "latestAction": {
+                "actionDate": "2004-07-09",
+                "actionTime": "14:45:40",
+                "text": "On agreeing to the Peterson (PA) amendment (A003) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/hamdt/665?format=json"
+        },
+        {
+            "amendmentNumber": "380",
+            "congress": 108,
+            "introducedDate": "2003-09-09",
+            "latestAction": {
+                "actionDate": "2003-09-09",
+                "actionTime": "17:27:36",
+                "text": "On agreeing to the Peterson (PA) amendment (A027) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/hamdt/380?format=json"
+        },
+        {
+            "amendmentNumber": "164",
+            "congress": 108,
+            "introducedDate": "2003-06-11",
+            "latestAction": {
+                "actionDate": "2003-06-11",
+                "actionTime": "15:39:56",
+                "text": "On agreeing to the Peterson (PA) amendment (A005) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/hamdt/164?format=json"
+        },
+        {
+            "amendmentNumber": "68",
+            "congress": 108,
+            "introducedDate": "2003-04-10",
+            "latestAction": {
+                "actionDate": "2003-04-10",
+                "actionTime": "18:24:20",
+                "text": "On agreeing to the Peterson (PA) amendment (A004) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/hamdt/68?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-02-26",
+            "latestAction": {
+                "actionDate": "2004-03-02",
+                "text": "Referred to the Subcommittee on National Parks, Recreation and Public Lands."
+            },
+            "number": "3860",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "National Trails System Willing Seller Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3860?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-02-04",
+            "latestAction": {
+                "actionDate": "2004-03-30",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3778",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Abandoned Mine Reclamation Program Extension and Reform Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3778?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-01-21",
+            "latestAction": {
+                "actionDate": "2004-01-21",
+                "text": "Referred to the Subcommittee on Aviation."
+            },
+            "number": "3721",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Essential Air Service Preservation Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3721?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-01-21",
+            "latestAction": {
+                "actionDate": "2004-03-11",
+                "text": "Referred to the Subcommittee on Education Reform."
+            },
+            "number": "3720",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Empowering Parents and Teachers for a Drug-Free Education Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3720?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-11-18",
+            "latestAction": {
+                "actionDate": "2004-10-06",
+                "text": "Received in the Senate."
+            },
+            "number": "3514",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Pennsylvania National Forest Improvement Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3514?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-04-29",
+            "latestAction": {
+                "actionDate": "2003-11-17",
+                "text": "Placed on the Union Calendar, Calendar No. 216."
+            },
+            "number": "1862",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Oil Region National Heritage Area Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/1862?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-03-20",
+            "latestAction": {
+                "actionDate": "2003-04-10",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "1406",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XIX of the Social Security Act to permit additional States to enter into long-term care partnerships under the Medicaid Program in order to promote the use of long-term care insurance.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/1406?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-07-06",
+            "latestAction": {
+                "actionDate": "2004-08-25",
+                "text": "Referred to the Subcommittee on 21st Century Competitiveness."
+            },
+            "number": "703",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Congratulating The Pennsylvania State University on 150 years of service and commending Pennsylvania's designation of the University as Pennsylvania's land-grant institution.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/703?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-06-17",
+            "latestAction": {
+                "actionDate": "2002-06-20",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "4952",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Mount Wilson Observatory Preservation and Enhancement Act ",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4952?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-06-06",
+            "latestAction": {
+                "actionDate": "2002-06-11",
+                "text": "Referred to the Subcommittee on Department Operations, Oversight, Nutrition and Forestry."
+            },
+            "number": "4893",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Pennsylvania National Forest Improvement Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4893?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-16",
+            "latestAction": {
+                "actionDate": "2002-04-16",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4439",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on certain polyamides.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4439?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-03-13",
+            "latestAction": {
+                "actionDate": "2002-05-17",
+                "text": "Executive Comment Received from Interior."
+            },
+            "number": "3962",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Good Neighbor Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3962?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-15",
+            "latestAction": {
+                "actionDate": "2001-03-22",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "1041",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XIX of the Social Security Act to permit additional States to enter into long-term care partnerships under the Medicaid Program in order to promote the use of long-term care insurance.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1041?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-02-14",
+            "latestAction": {
+                "actionDate": "2002-11-22",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "695",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Omnibus National Heritage Area Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/695?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-10-31",
+            "latestAction": {
+                "actionDate": "2001-11-13",
+                "actionTime": "20:55:42",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "276",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Praising Joseph Vincent Paterno for his steadfast commitment to academics, service, and citizenship, and congratulating Joseph Vincent Paterno for his many coaching accomplishments, including his 324th career coaching victory.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/107/hres/276?format=json"
+        },
+        {
+            "amendmentNumber": "690",
+            "congress": 106,
+            "introducedDate": "2000-05-10",
+            "latestAction": {
+                "actionDate": "2000-05-11",
+                "actionTime": "10:30:46",
+                "text": "On agreeing to the Peterson (PA) amendment (A009) Failed by recorded vote: 108 - 310 (Roll no. 166). (consideration: CR H2908; text: CR H2908)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/690?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-09-21",
+            "latestAction": {
+                "actionDate": "2000-09-21",
+                "text": "Referred to the House Committee on Resources."
+            },
+            "number": "5244",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "Tribal-State Tax Fairness Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/5244?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-07-27",
+            "latestAction": {
+                "actionDate": "2000-08-31",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "5002",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XIX of the Social Security Act to permit additional States to enter into long-term care partnerships under the Medicaid Program in order to promote the use of long-term care insurance.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/5002?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-07-27",
+            "latestAction": {
+                "actionDate": "2000-08-31",
+                "text": "Referred to the Subcommittee on Health and Environment, for a period to be subsequently determined by the Chairman."
+            },
+            "number": "4996",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XVIII of the Social Security Act to eliminate the reduction in the market basket percentage increase under the prospective payment system under the Medicare Program for payments to small rural hospitals.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4996?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-07-27",
+            "latestAction": {
+                "actionDate": "2000-08-31",
+                "text": "Referred to the Subcommittee on Health and Environment, for a period to be subsequently determined by the Chairman."
+            },
+            "number": "4995",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XVIII of the Social Security Act to provide for equity in the amount of disproportionate share payment adjustments under the Medicare Program between urban and rural hospitals.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4995?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-07-27",
+            "latestAction": {
+                "actionDate": "2000-08-31",
+                "text": "Referred to the Subcommittee on Health and Environment, for a period to be subsequently determined by the Chairman."
+            },
+            "number": "4998",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XVIII of the Social Security Act to provide for a minimum adjustment to payments to hospitals under the Medicare Program for costs attributable to wages.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4998?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-07-27",
+            "latestAction": {
+                "actionDate": "2000-08-31",
+                "text": "Referred to the Subcommittee on Health and Environment, for a period to be subsequently determined by the Chairman."
+            },
+            "number": "4997",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare-Dependent, Small Rural Hospital Equity Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4997?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-06-13",
+            "latestAction": {
+                "actionDate": "2000-06-13",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "4650",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend the Federal Election Campaign Act of 1971 to require candidates for election for Federal office to report information to the Federal Election Commission on the use of aircraft of the Federal government in the course of campaigns.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4650?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-03-06",
+            "latestAction": {
+                "actionDate": "2000-03-08",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3838",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on certain polyamides.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3838?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-11-01",
+            "latestAction": {
+                "actionDate": "2000-06-27",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3190",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Oil Region National Heritage Area Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3190?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-05-06",
+            "latestAction": {
+                "actionDate": "1999-05-21",
+                "text": "Referred to the Subcommittee on Early Childhood, Youth and Families."
+            },
+            "number": "1735",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Empowering Parents to Fight Drugs Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1735?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-11",
+            "latestAction": {
+                "actionDate": "1999-09-21",
+                "text": "Unfavorable Executive Comment Received from DOD."
+            },
+            "number": "738",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Taxpayer Oversight of Surplus Property Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/738?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-09-19",
+            "latestAction": {
+                "actionDate": "2000-10-19",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "404",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Calling for the immediate release of Mr. Edmond Pope from prison in the Russian Federation for Humanitarian reasons, and for other purposes.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/106/hconres/404?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-06-23",
+            "latestAction": {
+                "actionDate": "2000-07-20",
+                "text": "Referred to the Subcommittee on Domestic and International Monetary Policy."
+            },
+            "number": "364",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Calling for the immediate release of Mr. Edmond Pope from prison in Russia for humanitarian reasons, and for other purposes.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/106/hconres/364?format=json"
+        },
+        {
+            "amendmentNumber": "808",
+            "congress": 105,
+            "introducedDate": "1998-07-30",
+            "latestAction": {
+                "actionDate": "1998-07-30",
+                "actionTime": "21:33:52",
+                "text": "On agreeing to the Peterson (PA) amendment (A028) Failed by recorded vote: 165 - 260 (Roll No. 366). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/808?format=json"
+        },
+        {
+            "amendmentNumber": "337",
+            "congress": 105,
+            "introducedDate": "1997-09-10",
+            "latestAction": {
+                "actionDate": "1997-09-10",
+                "actionTime": "12:00:05",
+                "text": "On agreeing to the Peterson (PA) amendment (A018) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/337?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-08-06",
+            "latestAction": {
+                "actionDate": "1998-08-28",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "4495",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare Beneficiary Access to Home Care Act of 1998",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/4495?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-07-31",
+            "latestAction": {
+                "actionDate": "1998-07-31",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "4378",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Empowering Parents to Fight Drugs Act of 1998",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/4378?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-06-17",
+            "latestAction": {
+                "actionDate": "1998-06-23",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4075",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Skilled Nursing Facility Flexibility Act of 1998",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/4075?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-02-26",
+            "latestAction": {
+                "actionDate": "1998-10-12",
+                "text": "Reported (Amended) by the Committee on Resources. H. Rept. 105-816, Part I."
+            },
+            "number": "3297",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To suspend the continued development of a roadless area policy on public domain units and other units of the National Forest System pending adequate public participation and determinations that a roadless area policy will not adversely affect forest health.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3297?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-02-05",
+            "latestAction": {
+                "actionDate": "1998-02-09",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3172",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare Investment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3172?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-03-06",
+            "latestAction": {
+                "actionDate": "1997-03-06",
+                "text": "Referred to the House Committee on Appropriations."
+            },
+            "number": "987",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Government Shutdown Prevention Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/987?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-07-28",
+            "latestAction": {
+                "actionDate": "1997-08-28",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "128",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Recognizing and honoring the crew members of the U.S.S. Pittsburgh for their heroism in March 1945 rendering aid and assistance to the U.S.S. Franklin and its crew.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/105/hconres/128?format=json"
+        }
+    ]
+}

@@ -1,0 +1,653 @@
+{
+    "pagination": {
+        "count": 44
+    },
+    "request": {
+        "bioguideId": "f000102",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "20",
+            "congress": 97,
+            "introducedDate": "1981-05-13",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/97/hamdt/20?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-08-18",
+            "latestAction": {
+                "actionDate": "1982-08-18",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "7007",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to extend the credit for the employment of certain new employees, to include as a targeted group for purposes of such credit certain individuals who have exhausted their rights to unemployment benefits, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/7007?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-08-13",
+            "latestAction": {
+                "actionDate": "1982-08-13",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "6989",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide a refundable tax credit for taxpayers who maintain households which include elderly persons who are determined by a physician to be disabled.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6989?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-08-18",
+            "latestAction": {
+                "actionDate": "1982-08-31",
+                "text": "Referred to Subcommittee on Trade."
+            },
+            "number": "7006",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to amend the Trade Act of 1974 to provide for congressional initiation of actions to respond to unfair foreign trade practices, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/7006?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-06-24",
+            "latestAction": {
+                "actionDate": "1982-06-24",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "6698",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Small Business Investment Incentive Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/6698?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-01-27",
+            "latestAction": {
+                "actionDate": "1982-01-27",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "5367",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to rename the Sepulveda Veterans Administration Medical Center located in Sepulveda, California, as the \"Bob Hope Veterans' Administration Medical Center\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/5367?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-09-09",
+            "latestAction": {
+                "actionDate": "1981-09-11",
+                "text": "Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice."
+            },
+            "number": "4424",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "A bill to amend section 2254 of title 28 of the United States Code to limit release of State prisoners by Federal courts pending Federal habeas corpus consideration.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4424?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-09-09",
+            "latestAction": {
+                "actionDate": "1981-09-11",
+                "text": "Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice."
+            },
+            "number": "4425",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend section 2254 of title 28 of the United States Code to provide for conclusive rebuttal of certain allegations made by applicants for Federal habeas corpus if the record of State proceedings contradicts such allegations.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4425?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-09-09",
+            "latestAction": {
+                "actionDate": "1981-09-16",
+                "text": "Referred to Subcommittee on Criminal Justice."
+            },
+            "number": "4422",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to enforce the fourteenth article of amendment to the Constitution with respect to certain law enforcement misconduct by providing a substitute remedy for the existing remedy of exclusion of evidence, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4422?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-09-09",
+            "latestAction": {
+                "actionDate": "1981-09-14",
+                "text": "Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice."
+            },
+            "number": "4427",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "A bill to amend section 1979 of the Revised Statutes of the United States to limit the use of civil actions under that section to review the conditions of imprisonment of State and local prisoners.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4427?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-09-09",
+            "latestAction": {
+                "actionDate": "1981-09-14",
+                "text": "Referred to Subcommittee on Criminal Justice."
+            },
+            "number": "4423",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend title 18 of the United States Code to waive sovereign immunity and create a cause of action with respect to gross negligence in granting Federal parole.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4423?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-09-09",
+            "latestAction": {
+                "actionDate": "1981-09-11",
+                "text": "Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice."
+            },
+            "number": "4426",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend section 2254 of title 28 of the United States Code to limit Federal habeas corpus proceedings based on State convictions in certain cases where State courts remedies may not be properly exhausted.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/4426?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-03-19",
+            "latestAction": {
+                "actionDate": "1981-03-19",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "2634",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to exclude from gross income certain amounts of the military compensation of members of active or reserve components of the Armed Forces of the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/2634?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-03-10",
+            "latestAction": {
+                "actionDate": "1981-03-12",
+                "text": "Referred to Subcommittee on Criminal Justice."
+            },
+            "number": "2394",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend chapter 65 of title 18, United States Code, to provide criminal penalties for desecration of a religious structure or a consecrated grave, or the placement of an antireligious symbol on the property of another, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/2394?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-01-19",
+            "latestAction": {
+                "actionDate": "1981-04-14",
+                "text": "Unfavorable Executive Comment Received From State."
+            },
+            "number": "898",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A bill to provide that certain benefits under the Hostage Relief Act of 1980 will be available to all the American hostages held in Iran.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/898?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-04-20",
+            "latestAction": {
+                "actionDate": "1983-01-12",
+                "text": "Became Public Law No: 97-445."
+            },
+            "number": "459",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "A joint resolution authorizing the President to proclaim May 13, 1983, as \"American Indian Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/97/hjres/459?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-06-16",
+            "latestAction": {
+                "actionDate": "1982-09-21",
+                "text": "Executive Comment Received From State."
+            },
+            "number": "506",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A resolution expressing the sense of the House of Representatives with respect to the Soviet Union's obligations under international law to allow Lev Shapiro, his wife Elizaveta Shapiro, and their child to emigrate to Israel.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/97/hres/506?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-01-29",
+            "latestAction": {
+                "actionDate": "1981-01-29",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "43",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A concurrent resolution to urge the United States Postal Service to issue a commemorative postage stamp to honor the 66 Americans who were taken hostage in Iran, the 6 Americans who escaped capture by the Iranians with the assistance of the Canadian Government and the 8 American servicemen who died during the aborted attempt to rescue the American hostages.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/97/hconres/43?format=json"
+        },
+        {
+            "amendmentNumber": "580",
+            "congress": 98,
+            "introducedDate": "1984-02-02",
+            "latestAction": {
+                "actionDate": "1984-02-02",
+                "text": "Amendment Passed in Committee of the Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/580?format=json"
+        },
+        {
+            "amendmentNumber": "191",
+            "congress": 98,
+            "introducedDate": "1983-06-22",
+            "latestAction": {
+                "actionDate": "1983-06-22",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 139 - 280 (Record Vote No: 205). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/98/hamdt/191?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-11-16",
+            "latestAction": {
+                "actionDate": "1983-11-18",
+                "text": "Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice."
+            },
+            "number": "4409",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend section 2254 of title 28 of the United States Code to limit release of State prisoners by Federal courts pending Federal habeas corpus consideration.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4409?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-11-16",
+            "latestAction": {
+                "actionDate": "1983-11-18",
+                "text": "Referred to Subcommittee on Criminal Justice."
+            },
+            "number": "4408",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend title 18 or the United States Code to waive sovereign immunity and create a cause of action with respect to gross negligence in granting Federal parole.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4408?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-11-16",
+            "latestAction": {
+                "actionDate": "1983-11-18",
+                "text": "Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice."
+            },
+            "number": "4410",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend section 2254 of title 28 of the United States Code to provide for conclusive rebuttal of certain allegations made by applicants for Federal habeas corpus if the record of State proceedings contradicts such allegations.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4410?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-11-16",
+            "latestAction": {
+                "actionDate": "1983-11-18",
+                "text": "Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice."
+            },
+            "number": "4412",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "A bill to amend section 1979 of the Revised Statutes of the United States to limit the use of civil actions under that section to review the conditions of imprisonment of State and local prisoners.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4412?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-11-16",
+            "latestAction": {
+                "actionDate": "1983-11-18",
+                "text": "Referred to Subcommittee on Criminal Justice."
+            },
+            "number": "4407",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to enforce the fourteenth article of amendment to the Constitution with respect to certain law enforcement misconduct by providing a substitute remedy for the existing remedy of exclusion of evidence, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4407?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-11-16",
+            "latestAction": {
+                "actionDate": "1983-11-18",
+                "text": "Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice."
+            },
+            "number": "4411",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend section 2254 of title 28 of the United States Code to limit Federal habeas corpus proceedings based on State convictions in certain cases where State courts remedies may not be properly exhausted.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/4411?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-02-15",
+            "latestAction": {
+                "actionDate": "1983-02-15",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "1444",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Small Business Investment Incentive Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/1444?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-01-26",
+            "latestAction": {
+                "actionDate": "1983-02-01",
+                "text": "Referred to Subcommittee on Trade."
+            },
+            "number": "966",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to amend the Trade Act of 1974 to provide for congressional initiation of actions to respond to unfair foreign trade practices, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/966?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-01-26",
+            "latestAction": {
+                "actionDate": "1983-01-26",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "967",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to extend the credit for the employment of certain new employees, to include as a targeted group for purposes of such credit certain individuals who have exhausted their rights to unemployment benefits, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/967?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-01-26",
+            "latestAction": {
+                "actionDate": "1983-01-26",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "965",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide a refundable tax credit for taxpayers who maintain households which include elderly persons who are determined by a physician to be disabled.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/98/hr/965?format=json"
+        },
+        {
+            "congress": 98,
+            "introducedDate": "1983-07-11",
+            "latestAction": {
+                "actionDate": "1983-07-20",
+                "text": "Referred to Subcommittee on Human Rights and International Organizations."
+            },
+            "number": "260",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A resolution expressing the sense of the House of Representatives with respect to the Soviet Union's obligations under international law to allow Lev Shapiro, his wife Elizaveta Shapiro, and their child to emigrate to Israel.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/98/hres/260?format=json"
+        },
+        {
+            "amendmentNumber": "417",
+            "congress": 99,
+            "introducedDate": "1985-09-11",
+            "latestAction": {
+                "actionDate": "1985-09-11",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 172 - 242 (Record Vote No: 300). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/417?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1986-03-06",
+            "latestAction": {
+                "actionDate": "1986-05-16",
+                "text": "Executive Comment Received From USTR."
+            },
+            "number": "4337",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Truth in Packaging Act of 1986",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/4337?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-05-23",
+            "latestAction": {
+                "actionDate": "1985-05-29",
+                "text": "Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice."
+            },
+            "number": "2613",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "A bill to amend section 2254 of title 28 of the United States Code to limit Federal habeas corpus proceedings based on State convictions in certain cases where State courts remedies may not be properly exhausted.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2613?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-05-23",
+            "latestAction": {
+                "actionDate": "1985-05-29",
+                "text": "Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice."
+            },
+            "number": "2612",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "A bill to amend section 1979 of the Revised Statutes of the United States to limit the use of civil actions under that section to review the conditions of imprisonment of State and local prisoners.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2612?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-05-23",
+            "latestAction": {
+                "actionDate": "1985-05-28",
+                "text": "Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice."
+            },
+            "number": "2615",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "A bill to amend section 2254 of title 28 of the United States Code to limit release of State prisoners by Federal courts pending Federal habeas corpus consideration.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2615?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-05-23",
+            "latestAction": {
+                "actionDate": "1986-06-05",
+                "text": "See H.R.4980."
+            },
+            "number": "2611",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A bill to amend chapter 65 of title 18, United States Code, to provide criminal penalties for desecration of a religious structure or a consecrated grave, or the placement of an antireligious symbol on the property of another, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2611?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-05-23",
+            "latestAction": {
+                "actionDate": "1985-05-29",
+                "text": "Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice."
+            },
+            "number": "2614",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "A bill to amend section 2254 of title 28 of the United States Code to provide for conclusive rebuttal of certain allegations made by applicants for Federal habeas corpus if the record of State proceedings contradicts such allegations.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2614?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-05-23",
+            "latestAction": {
+                "actionDate": "1985-05-29",
+                "text": "Referred to Subcommittee on Criminal Justice."
+            },
+            "number": "2610",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to enforce the fourteenth article of amendment to the Constitution with respect to certain law enforcement misconduct by providing a substitute remedy for the existing remedy of exclusion of evidence, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2610?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-04-18",
+            "latestAction": {
+                "actionDate": "1985-04-22",
+                "text": "Referred to Subcommittee on Trade."
+            },
+            "number": "2115",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to amend the Trade Act of 1974 to provide for congressional initiation of actions to respond to unfair foreign trade practices, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2115?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-04-18",
+            "latestAction": {
+                "actionDate": "1985-04-18",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "2114",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to provide a refundable tax credit for taxpayers who maintain households which include elderly persons who are determined by a physician to be disabled.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2114?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-04-03",
+            "latestAction": {
+                "actionDate": "1985-04-03",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "1941",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Small Business Investment Incentive Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/1941?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-06-26",
+            "latestAction": {
+                "actionDate": "1985-07-08",
+                "text": "Referred to Subcommittee on International Operations."
+            },
+            "number": "208",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution entitled: the \"International Terrorism Control Treaty\".",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/99/hres/208?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-04-18",
+            "latestAction": {
+                "actionDate": "1985-04-26",
+                "text": "Referred to Subcommittee on Western Hemisphere Affairs."
+            },
+            "number": "122",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution condemning the actions of the Nicaraguan Government that hinder freedom of religion.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/99/hconres/122?format=json"
+        }
+    ]
+}

@@ -1,0 +1,3200 @@
+{
+    "pagination": {
+        "count": 214
+    },
+    "request": {
+        "bioguideId": "c000071",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "1063",
+            "congress": 113,
+            "introducedDate": "2014-07-14",
+            "latestAction": {
+                "actionDate": "2014-07-14",
+                "actionTime": "21:22:05",
+                "text": "On agreeing to the Camp amendment (A012) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/1063?format=json"
+        },
+        {
+            "amendmentNumber": "61",
+            "congress": 113,
+            "introducedDate": "2013-05-09",
+            "latestAction": {
+                "actionDate": "2013-05-09",
+                "actionTime": "11:12:50",
+                "text": "On agreeing to the Camp amendment (A002) Agreed to by the Yeas and Nays: 340 - 84 (Roll no. 140). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/61?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-12-11",
+            "latestAction": {
+                "actionDate": "2014-12-22",
+                "text": "Referred to the Subcommittee on Water and Power."
+            },
+            "number": "5861",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Guarding Our Great Lakes Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5861?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-12-10",
+            "latestAction": {
+                "actionDate": "2014-12-10",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "5833",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Taxpayer Protections Against Abusive Seizures Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5833?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-12-08",
+            "latestAction": {
+                "actionDate": "2014-12-11",
+                "actionTime": "12:27:53",
+                "text": "On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 275 - 149 (Roll no. 562)."
+            },
+            "number": "5806",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Supporting America's Charities Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5806?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-12-01",
+            "latestAction": {
+                "actionDate": "2014-12-19",
+                "text": "Became Public Law No: 113-295."
+            },
+            "number": "5771",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Tax Increase Prevention Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5771?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-09-18",
+            "latestAction": {
+                "actionDate": "2014-09-18",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5528",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Tax Technical Corrections Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5528?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-07-08",
+            "latestAction": {
+                "actionDate": "2014-08-08",
+                "text": "Became Public Law No: 113-159."
+            },
+            "number": "5021",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Highway and Transportation Funding Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5021?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-06-26",
+            "latestAction": {
+                "actionDate": "2014-10-06",
+                "text": "Became Public Law No: 113-185."
+            },
+            "number": "4994",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Improving Medicare Post-Acute Care Transformation Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4994?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-06-26",
+            "latestAction": {
+                "actionDate": "2014-09-29",
+                "text": "Became Public Law No: 113-183."
+            },
+            "number": "4980",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Preventing Sex Trafficking and Strengthening Families Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4980?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-01-14",
+            "latestAction": {
+                "actionDate": "2014-03-03",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 313."
+            },
+            "number": "3865",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Stop Targeting of Political Beliefs by the IRS Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3865?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-01-09",
+            "latestAction": {
+                "actionDate": "2014-01-09",
+                "text": "Referred to the Committee on Ways and Means, and in addition to the Committees on Rules, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "3830",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Bipartisan Congressional Trade Priorities Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3830?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-09-27",
+            "latestAction": {
+                "actionDate": "2013-10-28",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Finance."
+            },
+            "number": "3205",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Promoting Adoption and Legal Guardianship for Children in Foster Care Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3205?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-07-17",
+            "latestAction": {
+                "actionDate": "2013-07-23",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "2709",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the Generalized System of Preferences.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2709?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-07-17",
+            "latestAction": {
+                "actionDate": "2013-07-17",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2708",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "United States Job Creation and Manufacturing Competitiveness Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2708?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-04-26",
+            "latestAction": {
+                "actionDate": "2013-05-03",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "1780",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To provide that the only health plans that the Federal Government may make available to the President, Vice President, Members of Congress, and Federal employees are those created under the Patient Protection and Affordable Care Act or offered through a health insurance exchange.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/1780?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-02-28",
+            "latestAction": {
+                "actionDate": "2013-03-14",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Finance."
+            },
+            "number": "890",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Preserving the Welfare Work Requirement and TANF Extension Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/890?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-02-05",
+            "latestAction": {
+                "actionDate": "2013-02-05",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "496",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To require amounts remaining in Members' representational allowances at the end of a fiscal year to be used for deficit reduction or to reduce the Federal debt, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/496?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-01-21",
+            "latestAction": {
+                "actionDate": "2013-02-04",
+                "text": "Became Public Law No: 113-3."
+            },
+            "number": "325",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "No Budget, No Pay Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/325?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-09-15",
+            "latestAction": {
+                "actionDate": "2014-11-13",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 597."
+            },
+            "number": "4",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Jobs for America Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-12-10",
+            "latestAction": {
+                "actionDate": "2014-12-12",
+                "text": "Sponsor introductory remarks on measure. (CR E1800-1801)"
+            },
+            "number": "1",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Tax Reform Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/1?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-12-10",
+            "latestAction": {
+                "actionDate": "2014-12-17",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "124",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for a correction in the enrollment of H.R. 5771.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/113/hconres/124?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-08-01",
+            "latestAction": {
+                "actionDate": "2013-08-01",
+                "text": "Referred to the House Committee on Natural Resources."
+            },
+            "number": "50",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Designating a National Railroad Monument located in Diamond District Park in historic downtown Durand, Michigan, as the \"National Railroad Memorial\".",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/113/hconres/50?format=json"
+        },
+        {
+            "amendmentNumber": "83",
+            "congress": 112,
+            "introducedDate": "2011-02-17",
+            "latestAction": {
+                "actionDate": "2011-02-17",
+                "actionTime": "18:50:30",
+                "text": "On agreeing to the Camp amendment (A073) Failed by recorded vote: 137 - 292, 1 Present (Roll no. 84). (consideration: CR H1140-1141)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/83?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2013-01-01",
+            "latestAction": {
+                "actionDate": "2013-01-01",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "6727",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "United States Job Creation and Manufacturing Competitiveness Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6727?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-07-19",
+            "latestAction": {
+                "actionDate": "2012-12-14",
+                "text": "Became Public Law No: 112-208."
+            },
+            "number": "6156",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Russia and Moldova Jackson-Vanik Repeal and Sergei Magnitsky Rule of Law Accountability Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6156?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-07-18",
+            "latestAction": {
+                "actionDate": "2012-07-18",
+                "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "6140",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Preserving Work Requirements for Welfare Programs Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6140?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-06-21",
+            "latestAction": {
+                "actionDate": "2012-08-10",
+                "text": "Became Public Law No: 112-163."
+            },
+            "number": "5986",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To amend the African Growth and Opportunity Act to extend the third-country fabric program and to add South Sudan to the list of countries eligible for designation under that Act, to make technical corrections to the Harmonized Tariff Schedule of the United States relating to the textile and apparel rules of origin for the Dominican Republic-Central America-United States Free Trade Agreement, to approve the renewal of import restrictions contained in the Burmese Freedom and Democracy Act of 2003, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5986?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-19",
+            "latestAction": {
+                "actionDate": "2012-04-20",
+                "text": "Referred to the Subcommittee on Water Resources and Environment."
+            },
+            "number": "4406",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Stop Invasive Species Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/4406?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-02-29",
+            "latestAction": {
+                "actionDate": "2012-03-13",
+                "text": "Became Public Law No: 112-99."
+            },
+            "number": "4105",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To apply the countervailing duty provisions of the Tariff Act of 1930 to nonmarket economy countries, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/4105?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-02-01",
+            "latestAction": {
+                "actionDate": "2012-02-09",
+                "text": "Placed on the Union Calendar, Calendar No. 276."
+            },
+            "number": "3864",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "American Energy and Infrastructure Jobs Financing Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3864?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-12-23",
+            "latestAction": {
+                "actionDate": "2011-12-23",
+                "text": "Became Public Law No: 112-78."
+            },
+            "number": "3765",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Temporary Payroll Tax Cut Continuation Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3765?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-12-09",
+            "latestAction": {
+                "actionDate": "2012-02-22",
+                "text": "Became Public Law No: 112-96."
+            },
+            "number": "3630",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Middle Class Tax Relief and Job Creation Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3630?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-09-02",
+            "latestAction": {
+                "actionDate": "2011-10-21",
+                "text": "Became Public Law No: 112-40."
+            },
+            "number": "2832",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the Generalized System of Preferences, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2832?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-05-24",
+            "latestAction": {
+                "actionDate": "2011-05-31",
+                "actionTime": "19:10:28",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "1954",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "To implement the President's request to increase the statutory limit on the public debt.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1954?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-05-05",
+            "latestAction": {
+                "actionDate": "2011-05-23",
+                "text": "Placed on the Union Calendar, Calendar No. 48."
+            },
+            "number": "1745",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "JOBS Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1745?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-03-29",
+            "latestAction": {
+                "actionDate": "2011-04-06",
+                "text": "Placed on the Union Calendar, Calendar No. 27."
+            },
+            "number": "1232",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to eliminate certain tax benefits relating to abortion.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1232?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-03-11",
+            "latestAction": {
+                "actionDate": "2011-03-29",
+                "text": "Placed on the Union Calendar, Calendar No. 22."
+            },
+            "number": "1034",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Airport and Airway Trust Fund Financing Reauthorization Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1034?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-03-03",
+            "latestAction": {
+                "actionDate": "2011-03-07",
+                "text": "Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs."
+            },
+            "number": "892",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Stop Asian Carp Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/892?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-02-15",
+            "latestAction": {
+                "actionDate": "2011-02-22",
+                "text": "Placed on the Union Calendar, Calendar No. 7."
+            },
+            "number": "705",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Comprehensive 1099 Taxpayer Protection and Repayment of Exchange Subsidy Overpayments Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/705?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-02-10",
+            "latestAction": {
+                "actionDate": "2011-02-18",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "622",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the Andean Trade Preference Act, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/622?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-01-18",
+            "latestAction": {
+                "actionDate": "2011-01-18",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "297",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To require amounts remaining in Members' representational allowances at the end of a fiscal year to be used for deficit reduction or to reduce the Federal debt, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/297?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-07-24",
+            "latestAction": {
+                "actionDate": "2013-01-02",
+                "text": "Became Public Law No: 112-240."
+            },
+            "number": "8",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "American Taxpayer Relief Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/8?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-09-11",
+            "latestAction": {
+                "actionDate": "2012-09-21",
+                "text": "Received in the Senate."
+            },
+            "number": "118",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of Family Assistance of the Administration for Children and Families of the Department of Health and Human Services relating to waiver and expenditure authority under section 1115 of the Social Security Act (42 U.S.C. 1315) with respect to the Temporary Assistance for Needy Families program.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/112/hjres/118?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-12-12",
+            "latestAction": {
+                "actionDate": "2012-12-12",
+                "actionTime": "16:35:53",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "829",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Returning several measures to the Senate.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/829?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-02-28",
+            "latestAction": {
+                "actionDate": "2011-02-28",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "116",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing amounts for the expenses of the Committee on Ways and Means in the One Hundred Twelfth Congress.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/116?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-07-28",
+            "latestAction": {
+                "actionDate": "2006-07-28",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5984",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Unredeemed U.S. Savings Bond Return Act of 2006",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/5984?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-11-01",
+            "latestAction": {
+                "actionDate": "2005-11-01",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4186",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To amend the Trade Act of 1974 to create a Chief Trade Prosecutor to ensure compliance with trade agreements, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4186?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-09-07",
+            "latestAction": {
+                "actionDate": "2005-09-07",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3680",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to increase and extend temporary expensing for equipment used in refining of liquid fuels.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3680?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-28",
+            "latestAction": {
+                "actionDate": "2006-09-07",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3532",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Michigan Lighthouse and Maritime Heritage Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3532?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-28",
+            "latestAction": {
+                "actionDate": "2005-08-04",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3533",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to provide that net operating losses shall not be reduced in connection with a discharge of indebtedness in certain chapter 11 bankruptcy cases involving asbestos-related claims.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3533?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-26",
+            "latestAction": {
+                "actionDate": "2005-08-05",
+                "text": "Referred to the Subcommittee on Health, for a period to be subsequently determined by the Chairman."
+            },
+            "number": "3437",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare and Medicaid Nursing Facility Quality Improvement Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3437?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-06-20",
+            "latestAction": {
+                "actionDate": "2005-06-20",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2989",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Teacher Tax Relief Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/2989?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-05-03",
+            "latestAction": {
+                "actionDate": "2005-05-20",
+                "text": "Referred to the Subcommittee on Employer-Employee Relations."
+            },
+            "number": "2051",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Comprehensive Immunosuppressive Drug Coverage for Transplant Patients Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/2051?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-04-27",
+            "latestAction": {
+                "actionDate": "2005-04-27",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1879",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to modify the unrelated business taxable income rules.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1879?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-04-27",
+            "latestAction": {
+                "actionDate": "2005-05-09",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "1877",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on hydraulic control units.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1877?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-04-27",
+            "latestAction": {
+                "actionDate": "2005-05-09",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "1878",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on shield asy-steering gear.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1878?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-03-15",
+            "latestAction": {
+                "actionDate": "2005-03-24",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "1298",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Kidney Care Quality and Improvement Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1298?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-02-17",
+            "latestAction": {
+                "actionDate": "2005-02-17",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "897",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To restore and make permanent the exclusion from gross income for amounts received under qualified group legal services plans and to increase the maximum amount of the exclusion.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/897?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-02-08",
+            "latestAction": {
+                "actionDate": "2005-02-08",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "625",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to allow the Hope Scholarship Credit to cover fees, books, supplies, and equipment and to exempt Federal Pell Grants and Federal supplemental educational opportunity grants from reducing expenses taken into account for the Hope Scholarship Credit.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/625?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-02-08",
+            "latestAction": {
+                "actionDate": "2005-02-08",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "626",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "VEHICLE Technology Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/626?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-02-08",
+            "latestAction": {
+                "actionDate": "2005-07-13",
+                "text": "Placed on the Union Calendar, Calendar No. 103."
+            },
+            "number": "624",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To amend the Federal Water Pollution Control Act to authorize appropriations for sewer overflow control grants.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/624?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-02-01",
+            "latestAction": {
+                "actionDate": "2005-02-01",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "451",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To allow a period in which members of the clergy may revoke their exemption from Social Security coverage.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/451?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-02-01",
+            "latestAction": {
+                "actionDate": "2005-02-25",
+                "text": "Referred to the Subcommittee on Commerce, Trade and Consumer Protection."
+            },
+            "number": "449",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "American Job Retention and Creation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/449?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-01-06",
+            "latestAction": {
+                "actionDate": "2005-04-04",
+                "text": "Referred to the Subcommittee on Economic Opportunity."
+            },
+            "number": "269",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Montgomery GI Bill Enhancement Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/269?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-01-06",
+            "latestAction": {
+                "actionDate": "2005-01-06",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "267",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To require amounts remaining in Members' representational allowances at the end of a fiscal year to be used for deficit reduction or to reduce the Federal debt, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/267?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-01-06",
+            "latestAction": {
+                "actionDate": "2005-01-06",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "268",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To repeal the sunset of the Economic Growth and Tax Relief Reconciliation Act of 2001 with respect to the expansion of the adoption credit and adoption assistance programs.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/268?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-07-27",
+            "latestAction": {
+                "actionDate": "2006-09-19",
+                "actionTime": "17:35:39",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "959",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Recognizing and supporting the success of the Adoption and Safe Families Act of 1997 in increasing adoption and the efforts the Act has spurred including National Adoption Day and National Adoption Month, and encouraging adoption throughout the year.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/959?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-11-09",
+            "latestAction": {
+                "actionDate": "2005-11-09",
+                "text": "Referred to the House Committee on Government Reform."
+            },
+            "number": "544",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Recognizing and supporting the goals and ideals of National Adoption Month.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/544?format=json"
+        },
+        {
+            "amendmentNumber": "22",
+            "congress": 111,
+            "introducedDate": "2009-01-28",
+            "latestAction": {
+                "actionDate": "2009-01-28",
+                "actionTime": "17:31:53",
+                "text": "On agreeing to the Camp amendment (A011) Failed by recorded vote: 170 - 266 (Roll no. 44). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/hamdt/22?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-09-22",
+            "latestAction": {
+                "actionDate": "2010-09-22",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "6168",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to allow a deduction for certain small business income.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/6168?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-06-29",
+            "latestAction": {
+                "actionDate": "2010-06-30",
+                "text": "Referred to the Subcommittee on Water Resources and Environment."
+            },
+            "number": "5625",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Permanent Prevention of Asian Carp Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5625?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-01-20",
+            "latestAction": {
+                "actionDate": "2010-01-21",
+                "text": "Referred to the Subcommittee on Water Resources and Environment."
+            },
+            "number": "4472",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Close All Routes and Prevent Asian Carp Today Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4472?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-11-06",
+            "latestAction": {
+                "actionDate": "2009-12-08",
+                "text": "Referred to the Subcommittee on Health, Employment, Labor, and Pensions."
+            },
+            "number": "4038",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Common Sense Health Care Reform and Affordability Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4038?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-06-02",
+            "latestAction": {
+                "actionDate": "2009-06-02",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "2656",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To require amounts remaining in Members' representational allowances at the end of a fiscal year to be used for deficit reduction or to reduce the Federal debt, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2656?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-01",
+            "latestAction": {
+                "actionDate": "2009-04-01",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1840",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Protecting Incentives for the Adoption of Children with Special Needs Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1840?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-03-12",
+            "latestAction": {
+                "actionDate": "2009-04-29",
+                "text": "Referred to the Subcommittee on Health, Employment, Labor, and Pensions."
+            },
+            "number": "1458",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Comprehensive Immunosuppressive Drug Coverage for Kidney Transplant Patients Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1458?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-03-19",
+            "latestAction": {
+                "actionDate": "2010-06-18",
+                "text": "Referred to the Subcommittee on Livestock, Dairy, and Poultry."
+            },
+            "number": "1199",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Expressing support for designation of March 20, 2010, as National American Meat and Poultry Appreciation Day.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/1199?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-09-22",
+            "latestAction": {
+                "actionDate": "2010-01-04",
+                "text": "Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties."
+            },
+            "number": "759",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Expressing condolences to the family of Jim Pouillon on his passing.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/759?format=json"
+        },
+        {
+            "amendmentNumber": "575",
+            "congress": 110,
+            "introducedDate": "2007-07-18",
+            "latestAction": {
+                "actionDate": "2007-07-19",
+                "actionTime": "17:03:11",
+                "text": "On agreeing to the Camp (MI) amendment (A066) Failed by recorded vote: 192 - 228 (Roll no. 675). (consideration: CR H8161-8162; text: CR H8161)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/hamdt/575?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-06-04",
+            "latestAction": {
+                "actionDate": "2008-06-09",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "6179",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Promoting Health Information Technology Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6179?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4411",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on shield asy-steering gear.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4411?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-11",
+            "latestAction": {
+                "actionDate": "2007-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4412",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on hydraulic control units.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4412?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-10-17",
+            "latestAction": {
+                "actionDate": "2007-10-18",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3864",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Kids First Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3864?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-08-01",
+            "latestAction": {
+                "actionDate": "2007-09-19",
+                "text": "Referred to the Subcommittee on Health, Employment, Labor, and Pensions."
+            },
+            "number": "3282",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Comprehensive Immunosuppressive Drug Coverage for Kidney Transplant Patients Act of 2007",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3282?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-03-21",
+            "latestAction": {
+                "actionDate": "2007-03-21",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1618",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to provide a credit for the purchase of plug-in hybrid vehicles.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/1618?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-03-01",
+            "latestAction": {
+                "actionDate": "2007-03-07",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "1278",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Trade Prosecutor Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/1278?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-01-18",
+            "latestAction": {
+                "actionDate": "2007-01-18",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "549",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Teacher Tax Relief Act of 2007",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/549?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-01-05",
+            "latestAction": {
+                "actionDate": "2007-01-05",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "272",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To require amounts remaining in Members' representational allowances at the end of a fiscal year to be used for deficit reduction or to reduce the Federal debt, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/272?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-01-05",
+            "latestAction": {
+                "actionDate": "2007-01-05",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "273",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To repeal the sunset of the Economic Growth and Tax Relief Reconciliation Act of 2001 with respect to the expansion of the adoption credit and adoption assistance programs.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/273?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-01-10",
+            "latestAction": {
+                "actionDate": "2008-04-29",
+                "actionTime": "16:12:29",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "49",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Expressing the sense of the House of Representatives that there should be established a National Letter Carriers Appreciation Day.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/49?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-07-22",
+            "latestAction": {
+                "actionDate": "2004-08-03",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4927",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "ESRD Modernization Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/4927?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-03-31",
+            "latestAction": {
+                "actionDate": "2004-04-14",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "4090",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Trade Adjustment Assistance Equity for Service Workers Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/4090?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-03-31",
+            "latestAction": {
+                "actionDate": "2004-04-08",
+                "text": "Referred to the Subcommittee on Commerce, Trade and Consumer Protection."
+            },
+            "number": "4089",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "American Job Retention and Creation Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/4089?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-03-11",
+            "latestAction": {
+                "actionDate": "2004-03-15",
+                "text": "Executive Comment Requested from Interior."
+            },
+            "number": "3946",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Michigan Lighthouse and Maritime Heritage Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3946?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-09-25",
+            "latestAction": {
+                "actionDate": "2003-12-02",
+                "text": "Became Public Law No: 108-145."
+            },
+            "number": "3182",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Adoption Promotion Act of 2003\r",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3182?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-07-14",
+            "latestAction": {
+                "actionDate": "2003-07-28",
+                "text": "Referred to the Subcommittee on Employer-Employee Relations."
+            },
+            "number": "2719",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Air Line Pension Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2719?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-07-08",
+            "latestAction": {
+                "actionDate": "2003-07-08",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2662",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to provide that certain limousines are not subject to the gas guzzler tax.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2662?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-06-24",
+            "latestAction": {
+                "actionDate": "2003-06-27",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "2579",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "United States Agricultural Products Market Access Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2579?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-05-22",
+            "latestAction": {
+                "actionDate": "2003-06-20",
+                "text": "Referred to the Subcommittee on Employer-Employee Relations."
+            },
+            "number": "2223",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Comprehensive Immunosuppressive Drug Coverage for Transplant Patients Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2223?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-05-08",
+            "latestAction": {
+                "actionDate": "2003-05-08",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2029",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Tax Fairness for County Fairs Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2029?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-05-01",
+            "latestAction": {
+                "actionDate": "2003-05-01",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1912",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to modify the unrelated business taxable income rules.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/1912?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-04-11",
+            "latestAction": {
+                "actionDate": "2003-04-24",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "1784",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare Renal Dialysis Payment Fairness Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/1784?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-04-10",
+            "latestAction": {
+                "actionDate": "2003-04-10",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1727",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to repeal the dollar limitation on contributions to funeral trusts.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/1727?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-03-31",
+            "latestAction": {
+                "actionDate": "2003-03-31",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1512",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to provide that certain bonds issued by local governments in connection with delinquent real property taxes may be treated as tax exempt.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/1512?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-03-25",
+            "latestAction": {
+                "actionDate": "2003-03-25",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1421",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Tribal Government Tax-Exempt Bond Fairness Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/1421?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-03-13",
+            "latestAction": {
+                "actionDate": "2003-03-13",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1266",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to modify the credit for the production of fuel from nonconventional sources and the credit for the production of electricity to include landfill gas.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/1266?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-03-04",
+            "latestAction": {
+                "actionDate": "2003-03-04",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1054",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Clean Efficient Automobiles Resulting From Advanced Car Technologies (CLEAR ACT) Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/1054?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-03-04",
+            "latestAction": {
+                "actionDate": "2003-03-04",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1053",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to provide a 7-year recovery period for depreciation of potato storage facilities.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/1053?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-02-27",
+            "latestAction": {
+                "actionDate": "2003-02-27",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "973",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to restore and make permanent the exclusion from gross income for amounts received under qualified group legal services plans and to increase the maximum amount of the exclusion.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/973?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-02-26",
+            "latestAction": {
+                "actionDate": "2003-03-06",
+                "text": "Referred to the Subcommittee on Immigration, Border Security, and Claims."
+            },
+            "number": "922",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "To amend the September 11th Victim Compensation Fund of 2001 to provide for the liquidation of blocked assets of terrorists and terrorist organizations in order to reimburse the Treasury for the compensation of claimants.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/922?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-02-26",
+            "latestAction": {
+                "actionDate": "2003-02-26",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "921",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To require amounts remaining in Members' representational allowances at the end of a fiscal year to be used for deficit reduction or to reduce the Federal debt, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/921?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-02-25",
+            "latestAction": {
+                "actionDate": "2003-02-25",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "872",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Equity in Education Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/872?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-02-25",
+            "latestAction": {
+                "actionDate": "2003-03-26",
+                "text": "Referred to the Subcommittee on Benefits."
+            },
+            "number": "879",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Montgomery GI Bill Enhancement Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/879?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-02-25",
+            "latestAction": {
+                "actionDate": "2003-02-25",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "870",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to provide for the treatment of certain motor vehicle dealer transitional assistance.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/870?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-02-13",
+            "latestAction": {
+                "actionDate": "2003-03-10",
+                "text": "Referred to the Subcommittee on Health, for a period to be subsequently determined by the Chairman."
+            },
+            "number": "787",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare and Medicaid Nursing Facility Quality Improvement Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/787?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-02-13",
+            "latestAction": {
+                "actionDate": "2004-09-13",
+                "text": "Placed on the Union Calendar, Calendar No. 414."
+            },
+            "number": "784",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Water Quality Investment Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/784?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-02-13",
+            "latestAction": {
+                "actionDate": "2003-02-13",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "786",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to repeal the occupational taxes relating to distilled spirits, wine, and beer.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/786?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-02-13",
+            "latestAction": {
+                "actionDate": "2003-02-13",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "785",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Teacher Tax Relief Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/785?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-02-12",
+            "latestAction": {
+                "actionDate": "2003-02-26",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "721",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare Cholesterol Screening Coverage Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/721?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-02-05",
+            "latestAction": {
+                "actionDate": "2003-02-20",
+                "text": "Referred to the Subcommittee on Research."
+            },
+            "number": "545",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Firefighting Research and Coordination Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/545?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-01-29",
+            "latestAction": {
+                "actionDate": "2003-01-29",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "442",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to allow the Hope Scholarship Credit to cover fees, books, supplies, and equipment and to exempt Federal Pell Grants and Federal supplemental educational opportunity grants from reducing expenses taken into account for the Hope Scholarship Credit.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/442?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-01-29",
+            "latestAction": {
+                "actionDate": "2003-02-03",
+                "text": "Referred to the Subcommittee on Human Resources."
+            },
+            "number": "443",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Indian and Alaska Native Foster Care and Adoption Services Amendments of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/443?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-01-28",
+            "latestAction": {
+                "actionDate": "2004-05-28",
+                "text": "Became Public Law No: 108-229."
+            },
+            "number": "408",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To provide for expansion of Sleeping Bear Dunes National Lakeshore.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/408?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-01-27",
+            "latestAction": {
+                "actionDate": "2003-01-27",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "336",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To repeal the sunset of the Economic Growth and Tax Relief Reconciliation Act of 2001 with respect to the expansion of the adoption credit and adoption assistance programs.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/336?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-11-19",
+            "latestAction": {
+                "actionDate": "2004-11-19",
+                "text": "Referred to the House Committee on Government Reform."
+            },
+            "number": "864",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Recognizing and supporting the goals and ideals of National Adoption Month.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/864?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-11-19",
+            "latestAction": {
+                "actionDate": "2003-12-02",
+                "text": "Referred to the Subcommittee on Civil Service and Agency Organization."
+            },
+            "number": "452",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Recognizing and supporting the goals and ideals of National Adoption Month.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/452?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-10-16",
+            "latestAction": {
+                "actionDate": "2002-10-16",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5658",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to provide an alternative simplified credit for qualified research expenses.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5658?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-09-26",
+            "latestAction": {
+                "actionDate": "2002-10-02",
+                "text": "Referred to the Subcommittee on Research."
+            },
+            "number": "5479",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Firefighting Research and Coordination Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5479?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-07-22",
+            "latestAction": {
+                "actionDate": "2002-08-09",
+                "text": "Referred to the Subcommittee on Benefits."
+            },
+            "number": "5173",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Montgomery GI Bill Enhancement Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5173?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-07-10",
+            "latestAction": {
+                "actionDate": "2002-07-12",
+                "text": "Sponsor introductory remarks on measure. (CR E1251)"
+            },
+            "number": "5085",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Teacher Tax Relief Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5085?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-06-17",
+            "latestAction": {
+                "actionDate": "2002-06-17",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4950",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Equity in Education Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4950?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-05-22",
+            "latestAction": {
+                "actionDate": "2002-06-07",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 408."
+            },
+            "number": "4800",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To repeal the sunset of the Economic Growth and Tax Relief Reconciliation Act of 2001 with respect to the expansion of the adoption credit and adoption assistance programs.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4800?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-05-14",
+            "latestAction": {
+                "actionDate": "2002-05-14",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4718",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to provide a 7-year recovery period for depreciation of potato storage facilities.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4718?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-18",
+            "latestAction": {
+                "actionDate": "2002-04-18",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4488",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the unrelated business taxable income provisions of the Internal Revenue Code of 1986.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4488?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-03-20",
+            "latestAction": {
+                "actionDate": "2002-04-02",
+                "text": "Referred to the Subcommittee on Health, for a period to be subsequently determined by the Chairman."
+            },
+            "number": "4030",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare and Medicaid Nursing Facility Quality Improvement Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4030?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-02-07",
+            "latestAction": {
+                "actionDate": "2002-03-18",
+                "text": "Referred to the Subcommittee on Immigration and Claims."
+            },
+            "number": "3698",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "To amend the September 11th Victim Compensation Fund of 2001 to provide for the liquidation of blocked assets of terrorists and terrorist organizations in order to reimburse the Treasury for the compensation of claimants.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3698?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-12-20",
+            "latestAction": {
+                "actionDate": "2001-12-20",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3573",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to modify certain rules applying to individuals employed in the entertainment industry.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3573?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-11-13",
+            "latestAction": {
+                "actionDate": "2001-11-28",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3278",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare Cholesterol Screening Coverage Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3278?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-06-28",
+            "latestAction": {
+                "actionDate": "2001-06-28",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2374",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to treat certain motor vehicle dealer transitional assistance as an involuntary conversion, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2374?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-06-27",
+            "latestAction": {
+                "actionDate": "2001-07-02",
+                "text": "Referred to the Subcommittee on Human Resources."
+            },
+            "number": "2335",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Indian and Alaska Native Foster Care and Adoption Services Amendments of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2335?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-06-20",
+            "latestAction": {
+                "actionDate": "2001-06-20",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2253",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Tribal Government Tax-Exempt Bond Authority Reform Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2253?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-06-19",
+            "latestAction": {
+                "actionDate": "2001-06-19",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2219",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to allow the Hope Scholarship Credit to cover fees, books, supplies, and equipment and to exempt Federal Pell Grants and Federal supplemental educational opportunity grants from reducing expenses taken into account for the Hope Scholarship Credit.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2219?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-06-19",
+            "latestAction": {
+                "actionDate": "2001-06-22",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2220",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare Dialysis Benefit Improvement Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2220?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-05-16",
+            "latestAction": {
+                "actionDate": "2001-05-16",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1864",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Clean Efficient Automobiles Resulting From Advanced Car Technologies (CLEAR ACT) Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1864?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-05-16",
+            "latestAction": {
+                "actionDate": "2001-05-16",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1863",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to expand the credit for electricity produced from certain renewable resources to energy produced from landfill gas.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1863?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-05-15",
+            "latestAction": {
+                "actionDate": "2001-07-16",
+                "text": "Referred to the Subcommittee on Employer-Employee Relations."
+            },
+            "number": "1839",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Immunosuppressive Drug Coverage Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1839?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-04-04",
+            "latestAction": {
+                "actionDate": "2001-04-04",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1434",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to restore and make permanent the exclusion from gross income for amounts received under qualified group legal services plans and to increase the maximum amount of the exclusion.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1434?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-13",
+            "latestAction": {
+                "actionDate": "2001-03-13",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "985",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to repeal the dollar limitation on contributions to funeral trusts.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/985?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-13",
+            "latestAction": {
+                "actionDate": "2001-03-13",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "984",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to repeal the occupational taxes relating to distilled spirits, wine, and beer.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/984?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-13",
+            "latestAction": {
+                "actionDate": "2001-03-13",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "986",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Tax Fairness for County Fairs Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/986?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-01-03",
+            "latestAction": {
+                "actionDate": "2001-01-03",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "47",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To require any amounts appropriated for Members' Representational Allowances for the House of Representatives for a fiscal year that remain after all payments are made from such Allowances for the year to be deposited in the Treasury and used for deficit reduction or to reduce the Federal debt.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/47?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-09-26",
+            "latestAction": {
+                "actionDate": "2002-09-30",
+                "text": "Referred to the Subcommittee on Fisheries Conservation, Wildlife and Oceans."
+            },
+            "number": "560",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Expressing the sense of the House of Representatives regarding the restoration and protection of the Great Lakes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/107/hres/560?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-03-06",
+            "latestAction": {
+                "actionDate": "2002-03-12",
+                "text": "Referred to the Subcommittee on Energy and Mineral Resources."
+            },
+            "number": "361",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Expressing the sense of the House of Representatives regarding the restoration and protection of the Great Lakes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/107/hres/361?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-02-12",
+            "latestAction": {
+                "actionDate": "2002-02-13",
+                "text": "Received in the Senate and referred to the Committee on Commerce, Science, and Transportation."
+            },
+            "number": "326",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Commending the National Highway Traffic Safety Administration for their efforts to remind parents and care givers to use child safety seats and seat belts when transporting children in vehicles and for sponsoring National Child Passenger Safety Week.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/hconres/326?format=json"
+        },
+        {
+            "amendmentNumber": "865",
+            "congress": 106,
+            "introducedDate": "2000-06-22",
+            "latestAction": {
+                "actionDate": "2000-06-22",
+                "actionTime": "12:06:07",
+                "text": "On agreeing to the Camp amendment (A002) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/865?format=json"
+        },
+        {
+            "amendmentNumber": "166",
+            "congress": 106,
+            "introducedDate": "1999-06-10",
+            "latestAction": {
+                "actionDate": "1999-06-10",
+                "actionTime": "23:04:54",
+                "text": "On agreeing to the Camp amendment (A001) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/166?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-09-25",
+            "latestAction": {
+                "actionDate": "2000-11-09",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "5276",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Comprehensive Immunosuppressive Drug Coverage for Transplant Patients Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/5276?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-09-12",
+            "latestAction": {
+                "actionDate": "2000-10-19",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "5152",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare Renal Dialysis Payment Fairness Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/5152?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-06-07",
+            "latestAction": {
+                "actionDate": "2000-06-27",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "4592",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Organ Procurement Organization Certification Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4592?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-05-25",
+            "latestAction": {
+                "actionDate": "2000-06-03",
+                "text": "Referred to the Subcommittee on Human Resources."
+            },
+            "number": "4556",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Tax Fairness for Tribal Governments Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4556?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-04-03",
+            "latestAction": {
+                "actionDate": "2000-04-10",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4152",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Organ Procurement Organization Certification Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4152?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-11-18",
+            "latestAction": {
+                "actionDate": "1999-11-18",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3466",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to expand the credit for electricity produced from certain renewable resources to energy produced from landfill gas.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3466?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-09-29",
+            "latestAction": {
+                "actionDate": "2000-03-21",
+                "text": "Sponsor introductory remarks on measure. (CR H1142)"
+            },
+            "number": "2973",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "To impose a moratorium on the export of bulk fresh water from the Great Lakes Basin.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2973?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-08-05",
+            "latestAction": {
+                "actionDate": "1999-08-05",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2735",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to repeal the occupational taxes relating to distilled spirits, wine, and beer.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2735?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-29",
+            "latestAction": {
+                "actionDate": "1999-07-29",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2640",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Tax Fairness for County Fairs Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2640?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-26",
+            "latestAction": {
+                "actionDate": "1999-07-28",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "2609",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Product Development and Testing Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2609?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-01",
+            "latestAction": {
+                "actionDate": "1999-07-01",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2423",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to repeal the motor fuel excise taxes on intercity buses.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2423?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-17",
+            "latestAction": {
+                "actionDate": "1999-06-17",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2252",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Alternative Fuels Promotion Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2252?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-05-19",
+            "latestAction": {
+                "actionDate": "1999-05-28",
+                "text": "Referred to the Subcommittee on Postal Service."
+            },
+            "number": "1859",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Postal Rate Transition Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1859?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-04-14",
+            "latestAction": {
+                "actionDate": "1999-04-14",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1406",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to provide that certain bonds issued by local governments in connection with delinquent real property taxes may be treated as tax exempt.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1406?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-03-25",
+            "latestAction": {
+                "actionDate": "2000-07-20",
+                "text": "Hearings Held on Issue by Committee on Small Business, Subcommittee on Tax, Finance, and Imports."
+            },
+            "number": "1303",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Dry Cleaning Environmental Tax Credit Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1303?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-02",
+            "latestAction": {
+                "actionDate": "1999-02-10",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "450",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "United States Agricultural Products Market Access Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/450?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-02",
+            "latestAction": {
+                "actionDate": "1999-02-02",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "431",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To require any amounts appropriated for Members' Representational Allowances for the House of Representatives for a fiscal year that remain after all payments are made from such Allowances for the year to be deposited in the Treasury and used for deficit reduction or to reduce the Federal debt.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/431?format=json"
+        },
+        {
+            "amendmentNumber": "851",
+            "congress": 102,
+            "introducedDate": "1992-09-22",
+            "latestAction": {
+                "actionDate": "1992-09-22",
+                "actionTime": "16:20:03",
+                "text": "On agreeing to the Camp amendment (A007) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/851?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-05-07",
+            "latestAction": {
+                "actionDate": "1992-05-07",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5103",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to exempt medical benefits from the restrictions on welfare benefit funds.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5103?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-03-18",
+            "latestAction": {
+                "actionDate": "1992-06-15",
+                "text": "Referred to the Subcommittee on Energy and Power."
+            },
+            "number": "4487",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "To provide that a certain project on the Pine River in Michigan, is not subject to part 1 of the Federal Power Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4487?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-11-26",
+            "latestAction": {
+                "actionDate": "1991-11-26",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3954",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend the Social Security Act to clarify the medicare geographic classification adjacency requirements.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3954?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-10-22",
+            "latestAction": {
+                "actionDate": "1991-10-22",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3599",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 with respect to the deductibility of certain expenses allocable to business use of a dwelling unit.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3599?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-03-13",
+            "latestAction": {
+                "actionDate": "1991-03-19",
+                "text": "Referred to the Subcommittee on Forests, Family Farms, and Energy."
+            },
+            "number": "1418",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Farm and Forestry Energy Conservation Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1418?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-02-04",
+            "latestAction": {
+                "actionDate": "1992-02-10",
+                "text": "Referred to the Subcommittee on Census and Population."
+            },
+            "number": "397",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Designating the week May 3, 1992, through May 9, 1992, as \"National Correctional Officers Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/102/hjres/397?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-04-24",
+            "latestAction": {
+                "actionDate": "1991-04-26",
+                "text": "Referred to the Subcommittee on Census and Population."
+            },
+            "number": "232",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Designating the week beginning May 5, 1991, as \"National Correctional Officers Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/102/hjres/232?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-04-09",
+            "latestAction": {
+                "actionDate": "1992-04-09",
+                "text": "Referred to the House Committee on Rules."
+            },
+            "number": "435",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Amending the Rules of the House to limit the availability of appropriations for salaries and expenses of the House to one year and to require certain excess allowance amounts to be returned to the Treasury.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/102/hres/435?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-11-07",
+            "latestAction": {
+                "actionDate": "1991-11-20",
+                "text": "Referred to the Subcommittee on Asian and Pacific Affairs."
+            },
+            "number": "233",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Calling upon the President of the United States not to proceed toward the normalization of diplomatic and economic relations with the Socialist Republic of Vietnam until the United States Senate Select Committee on POW/MIA Affairs has reported its findings on the accounting of missing American servicemen in Southeast Asia.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/102/hconres/233?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-08-18",
+            "latestAction": {
+                "actionDate": "1994-08-25",
+                "text": "Executive Comment Requested from DOD."
+            },
+            "number": "4990",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 10, United States Code, to require the Secretary of Defense to establish a commission to collect and investigate reports by members of the Armed Forces of illnesses incurred during or shortly following their service in combat zones during a war or contingency operation.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4990?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-03-03",
+            "latestAction": {
+                "actionDate": "1994-03-03",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3951",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Tax Fairness for Agriculture Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3951?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-09-21",
+            "latestAction": {
+                "actionDate": "1993-09-23",
+                "text": "Referred to the Subcommittee on Human Resources."
+            },
+            "number": "3095",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 with respect to the treatment of certain lump sum distributions under the pension offset requirements applicable to State unemployment compensation laws.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3095?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-06-16",
+            "latestAction": {
+                "actionDate": "1993-07-16",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "2432",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Responsible Parent Immunization Plan Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2432?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-02-17",
+            "latestAction": {
+                "actionDate": "1993-02-22",
+                "text": "Referred to the Subcommittee on Environment, Credit and Rural Development."
+            },
+            "number": "941",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Soil and Water Protection Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/941?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-02-16",
+            "latestAction": {
+                "actionDate": "1993-02-16",
+                "text": "Referred to the House Committee on Rules."
+            },
+            "number": "885",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Amending the Rules of the House to limit the availability of appropriations for salaries and expenses of the House to one year and to require certain excess allowance amounts be returned to the Treasury.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/885?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-01-27",
+            "latestAction": {
+                "actionDate": "1993-02-01",
+                "text": "Executive Comment Requested from USDA."
+            },
+            "number": "659",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "To provide assistance to certain producers of high-moisture feed grains through a recourse loan program; establishing a period to allow for the orderly repayment of such loans; and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/659?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-01-27",
+            "latestAction": {
+                "actionDate": "1993-01-29",
+                "text": "Referred to the Subcommittee on Environment, Credit and Rural Development."
+            },
+            "number": "658",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "To provide assistance to certain agricultural producers whose crop quality has been adversely effected by drought, heat, wind, excessive moisture, or other natural climatological event; and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/658?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-03-17",
+            "latestAction": {
+                "actionDate": "1994-03-17",
+                "text": "Referred to the House Committee on Post Office and Civil Service."
+            },
+            "number": "341",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "To designate the week of November 15 through 22 as \"National Sportsmen's Instruction Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/341?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-05-19",
+            "latestAction": {
+                "actionDate": "1993-05-19",
+                "text": "Referred to the House Committee on Post Office and Civil Service."
+            },
+            "number": "198",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "Designating the week of November 15 through 22, 1993, as the \"National Sportsmen's Instruction Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/198?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-10-07",
+            "latestAction": {
+                "actionDate": "1993-10-19",
+                "text": "Referred to the Subcommittee on International Security, International Organizations and Human Rights."
+            },
+            "number": "163",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Concerning the release of the American hostages in Somalia and United States Armed Forces withdrawal.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/103/hconres/163?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-07-01",
+            "latestAction": {
+                "actionDate": "1993-07-12",
+                "text": "Referred to the Subcommittee on Europe and the Middle East."
+            },
+            "number": "116",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Calling upon the President to discontinue further economic assistance to the Government of the Russian Federation until all pertinent documents from the archives of the Communist Party of the former Soviet Union relating to the fates of American prisoners of war and missing in action have been provided to the United States Government.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/103/hconres/116?format=json"
+        },
+        {
+            "amendmentNumber": "579",
+            "congress": 104,
+            "introducedDate": "1995-07-20",
+            "latestAction": {
+                "actionDate": "1995-07-20",
+                "actionTime": "15:45:07",
+                "text": "On agreeing to the Camp amendment (A004) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/579?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-26",
+            "latestAction": {
+                "actionDate": "1996-09-26",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4197",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to permit States to make advance payments of the earned income tax credit.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/4197?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-06-27",
+            "latestAction": {
+                "actionDate": "1996-06-27",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3732",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To authorize the State of Michigan to implement the demonstration project known as \"To Strengthen Michigan Families\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3732?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-03-20",
+            "latestAction": {
+                "actionDate": "1996-03-29",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "3123",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Integrity in Medical Funding Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3123?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-03-08",
+            "latestAction": {
+                "actionDate": "1995-07-12",
+                "text": "Committee Hearings Held."
+            },
+            "number": "1161",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to provide an exclusion from unrelated business taxable income for certain sponsorship payments.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1161?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-03-09",
+            "latestAction": {
+                "actionDate": "1995-07-12",
+                "text": "Committee Hearings Held."
+            },
+            "number": "1178",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 with respect to the treatment of effectively connected investment income of insurance companies.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1178?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-02-01",
+            "latestAction": {
+                "actionDate": "1995-07-12",
+                "text": "Committee Hearings Held."
+            },
+            "number": "783",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Tax Fairness for Agriculture Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/783?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-04",
+            "latestAction": {
+                "actionDate": "1995-01-04",
+                "text": "Referred to the House Committee on House Oversight."
+            },
+            "number": "16",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Requiring that the upcoming audit of House financial records and administrative operations include a thorough examination of certain aspects of official allowances for Members.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/16?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-06-17",
+            "latestAction": {
+                "actionDate": "1998-06-17",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4069",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to provide that certain bonds issued by local governments in connection with delinquent real property taxes may be treated as tax exempt.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/4069?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-12",
+            "latestAction": {
+                "actionDate": "1998-03-17",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3452",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To amend the Tariff Act of 1930 to allow the sale of certain gasoline, alternative motor fuels, and motor oil at duty-free sales enterprises.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3452?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-10-01",
+            "latestAction": {
+                "actionDate": "1997-10-06",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "2596",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "United States Agricultural Products Market Access Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2596?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-05-20",
+            "latestAction": {
+                "actionDate": "1997-05-20",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1662",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 with respect to the treatment of effectively connected investment income of insurance companies.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1662?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-04-15",
+            "latestAction": {
+                "actionDate": "1997-08-05",
+                "text": "See H.R.2014."
+            },
+            "number": "1327",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Family Tax Relief Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1327?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-04-10",
+            "latestAction": {
+                "actionDate": "1997-04-10",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1279",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to exclude the activity of soliciting and receiving qualified sponsorship payments from unrelated business income.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1279?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-02-27",
+            "latestAction": {
+                "actionDate": "1997-02-27",
+                "text": "Referred to the House Committee on House Oversight."
+            },
+            "number": "866",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To provide that Members of the House of Representatives may return unused amounts from the Members' Representational Allowance to the Treasury for deficit reduction.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/866?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-02-27",
+            "latestAction": {
+                "actionDate": "1997-03-07",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "868",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Integrity in Medical Funding Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/868?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-02-27",
+            "latestAction": {
+                "actionDate": "1997-11-19",
+                "text": "Became Public Law No: 105-89."
+            },
+            "number": "867",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Adoption and Safe Families Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/867?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-02-04",
+            "latestAction": {
+                "actionDate": "1997-02-04",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "519",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to permanently extend the special rule for charitable contributions to private foundations of stock for which market quotations are readily available.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/519?format=json"
+        }
+    ]
+}

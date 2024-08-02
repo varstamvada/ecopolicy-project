@@ -1,0 +1,865 @@
+{
+    "pagination": {
+        "count": 59
+    },
+    "request": {
+        "bioguideId": "o000108",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "494",
+            "congress": 102,
+            "introducedDate": "1992-03-26",
+            "latestAction": {
+                "actionDate": "1992-03-26",
+                "actionTime": "18:32:47",
+                "text": "On agreeing to the Orton amendment (A048) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/494?format=json"
+        },
+        {
+            "amendmentNumber": "367",
+            "congress": 102,
+            "introducedDate": "1991-10-30",
+            "latestAction": {
+                "actionDate": "1991-10-30",
+                "actionTime": "19:58:20",
+                "text": "On agreeing to the Orton amendment (A010) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/367?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-10-05",
+            "latestAction": {
+                "actionDate": "1992-10-05",
+                "text": "Referred to the House Committee on Appropriations."
+            },
+            "number": "6150",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Foreign Aid Reduction and Reform Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/6150?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-10-01",
+            "latestAction": {
+                "actionDate": "1992-10-01",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "6089",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Comprehensive Budget Process Reform Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/6089?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-06-15",
+            "latestAction": {
+                "actionDate": "1992-06-15",
+                "text": "Referred to the House Committee on Interior and Insular Affairs."
+            },
+            "number": "5395",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Utah Federal Lands Exchange Equity Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5395?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-05-13",
+            "latestAction": {
+                "actionDate": "1992-05-13",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5157",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "First-time Homebuyer Affordability Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5157?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-04-09",
+            "latestAction": {
+                "actionDate": "1992-05-04",
+                "text": "Referred to the Subcommittee on Housing and Community Development."
+            },
+            "number": "4942",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "To amend section 212 of the HOME Investment Partnerships Act to authorize participating jurisdictions to use assistance under such Act for administrative costs.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4942?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-04-01",
+            "latestAction": {
+                "actionDate": "1992-05-12",
+                "text": "See S.1182."
+            },
+            "number": "4737",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Fishlake National Forest Enlargement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4737?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-03-31",
+            "latestAction": {
+                "actionDate": "1992-04-16",
+                "text": "Referred to the Subcommittee on Postsecondary Education."
+            },
+            "number": "4711",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "To amend the Higher Education Act of 1965 to establish a Veterans Teacher Corp, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4711?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-02-26",
+            "latestAction": {
+                "actionDate": "1992-03-03",
+                "text": "Referred to the Subcommittee on Financial Institutions Supervision, Regulation and Insurance."
+            },
+            "number": "4317",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Resolution Trust Corporation Accountability and Efficiency Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4317?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-02-18",
+            "latestAction": {
+                "actionDate": "1992-02-18",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4236",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 with respect to the treatment of certain real estate activities under the limitations on losses from passive activities.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4236?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-02-18",
+            "latestAction": {
+                "actionDate": "1992-02-18",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4237",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Capital Investment Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4237?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-06-09",
+            "latestAction": {
+                "actionDate": "1992-06-11",
+                "text": "Referred to the Subcommittee on Economic and Commercial Law."
+            },
+            "number": "504",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Proposing an amendment to the Constitution of the United States to provide for a balanced budget for the United States Government.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/102/hjres/504?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-06-10",
+            "latestAction": {
+                "actionDate": "1992-06-15",
+                "text": "Referred to the Subcommittee on Economic and Commercial Law."
+            },
+            "number": "506",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Proposing an amendment to the Constitution of the United States relating to the election of the President and Vice President.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/102/hjres/506?format=json"
+        },
+        {
+            "amendmentNumber": "221",
+            "congress": 103,
+            "introducedDate": "1993-07-20",
+            "latestAction": {
+                "actionDate": "1993-07-20",
+                "actionTime": "15:28:42",
+                "text": "By unanimous consent, the Orton amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/221?format=json"
+        },
+        {
+            "amendmentNumber": "222",
+            "congress": 103,
+            "introducedDate": "1993-07-20",
+            "latestAction": {
+                "actionDate": "1993-07-20",
+                "actionTime": "15:35:57",
+                "text": "On agreeing to the Orton amendment (A010) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/222?format=json"
+        },
+        {
+            "amendmentNumber": "131",
+            "congress": 103,
+            "introducedDate": "1993-06-22",
+            "latestAction": {
+                "actionDate": "1993-06-22",
+                "actionTime": "18:17:57",
+                "text": "On agreeing to the Orton amendment (A013) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/131?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-07-19",
+            "latestAction": {
+                "actionDate": "1994-08-04",
+                "text": "Referred to the Subcommittee on Human Resources."
+            },
+            "number": "4793",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Self-Sufficiency Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4793?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-06-29",
+            "latestAction": {
+                "actionDate": "1994-06-29",
+                "text": "Referred to the House Committee on Rules."
+            },
+            "number": "4678",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Budget Resolution Accountability Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4678?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-06-21",
+            "latestAction": {
+                "actionDate": "1994-10-03",
+                "text": "Placed on the Union Calendar, Calendar No. 437."
+            },
+            "number": "4615",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "To make applicable the provisions of the Act commonly known as the \"Warren Act\" to the Central Utah Project, Utah, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4615?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-05-24",
+            "latestAction": {
+                "actionDate": "1994-06-06",
+                "text": "Referred to the Subcommittee on Housing and Community Development."
+            },
+            "number": "4484",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "FHA Improvement Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4484?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-11-21",
+            "latestAction": {
+                "actionDate": "1993-12-16",
+                "text": "Referred to the Subcommittee on Crime and Criminal Justice."
+            },
+            "number": "3606",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "To amend the Omnibus Crime Control and Safe Streets Act of 1968 to provide an exemption from funding limitations for multijurisdictional gang task forces and child abuse response programs.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3606?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-10-26",
+            "latestAction": {
+                "actionDate": "1993-11-15",
+                "text": "Referred to the Subcommittee on Crime and Criminal Justice."
+            },
+            "number": "3366",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Child Endangerment and Abuse Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3366?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-08-06",
+            "latestAction": {
+                "actionDate": "1993-08-16",
+                "text": "Referred to the Subcommittee on Financial Institutions Supervision, Regulation and Deposit Insurance."
+            },
+            "number": "2988",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Credit Union Community Development Enhancement Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2988?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-07-01",
+            "latestAction": {
+                "actionDate": "1993-08-03",
+                "text": "Referred to the Subcommittee on Housing and Community Development."
+            },
+            "number": "2605",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "FHA Parental Loan Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2605?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-07",
+            "latestAction": {
+                "actionDate": "1993-10-28",
+                "text": "For Further Action See H.R.322."
+            },
+            "number": "1708",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Hardrock Mining Reform Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1708?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-02",
+            "latestAction": {
+                "actionDate": "1993-04-15",
+                "text": "Referred to the Subcommittee on Consumer Credit and Insurance."
+            },
+            "number": "1682",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "To repeal the Truth in Savings Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1682?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-24",
+            "latestAction": {
+                "actionDate": "1993-08-10",
+                "text": "See H.R.2264."
+            },
+            "number": "1465",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 with respect to the treatment of certain real estate activities under the limitations on losses from passive activities.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1465?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-16",
+            "latestAction": {
+                "actionDate": "1993-03-16",
+                "text": "Referred to the House Committee on Appropriations."
+            },
+            "number": "1363",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "To rescind a portion of the funds available for HOPE grants, and to transfer an additional portion of the funds to the HOME investment partnerships program.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1363?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-02-25",
+            "latestAction": {
+                "actionDate": "1993-03-04",
+                "text": "Sponsor introductory remarks on measure. (CR E513-514)"
+            },
+            "number": "1149",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "First-time Homebuyer Affordability Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1149?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-02-24",
+            "latestAction": {
+                "actionDate": "1993-06-16",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "1138",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Comprehensive Budget Process Reform Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1138?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-11-19",
+            "latestAction": {
+                "actionDate": "1993-11-30",
+                "text": "Referred to the Subcommittee on Civil and Constitutional Rights."
+            },
+            "number": "298",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Proposing an amendment to the Constitution of the United States to limit the terms of Representatives and Senators, and to provide for a four-year term for Representatives.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/298?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-05-27",
+            "latestAction": {
+                "actionDate": "1993-05-27",
+                "text": "Referred to the House Committee on Post Office and Civil Service."
+            },
+            "number": "207",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To provide for the issuance of a commemorative postage stamp in honor of Dr. Martha Hughes Cannon.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/207?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-30",
+            "latestAction": {
+                "actionDate": "1993-04-01",
+                "text": "Referred to the Subcommittee on Economic and Commercial Law."
+            },
+            "number": "169",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Proposing an amendment to the Constitution of the United States relating to the election of the President and Vice President.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/169?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-02-24",
+            "latestAction": {
+                "actionDate": "1994-03-17",
+                "text": "See H.J.Res.103."
+            },
+            "number": "123",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Proposing an amendment to the Constitution of the United States to provide for a balanced budget for the United States Government.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/123?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-10-07",
+            "latestAction": {
+                "actionDate": "1994-11-21",
+                "text": "Referred to the Subcommittee on National Parks, Forests and Public Lands."
+            },
+            "number": "584",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Requesting that the Secretary of the Interior withdraw proposed regulations concerning rights-of-way granted under section 2477 of the Revised Statutes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/103/hres/584?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-09-30",
+            "latestAction": {
+                "actionDate": "1994-10-19",
+                "text": "Referred to the Subcommittee on Legislation and National Security."
+            },
+            "number": "301",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Expressing the sense of the Congress regarding entitlements.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/103/hconres/301?format=json"
+        },
+        {
+            "amendmentNumber": "1228",
+            "congress": 104,
+            "introducedDate": "1996-06-26",
+            "latestAction": {
+                "actionDate": "1996-06-26",
+                "actionTime": "21:33:59",
+                "text": "On agreeing to the Orton amendments (A033) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/1228?format=json"
+        },
+        {
+            "amendmentNumber": "1062",
+            "congress": 104,
+            "introducedDate": "1996-05-16",
+            "latestAction": {
+                "actionDate": "1996-05-16",
+                "actionTime": "14:15:50",
+                "text": "On agreeing to the Orton amendment (A002) Failed by recorded vote: 130 - 295 (Roll no. 177). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/1062?format=json"
+        },
+        {
+            "amendmentNumber": "884",
+            "congress": 104,
+            "introducedDate": "1995-10-26",
+            "latestAction": {
+                "actionDate": "1995-10-26",
+                "actionTime": "17:46:09",
+                "text": "On agreeing to the Orton amendment (A001) Failed by recorded vote: 72 - 356, 1 Present (Roll no. 741). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/884?format=json"
+        },
+        {
+            "amendmentNumber": "642",
+            "congress": 104,
+            "introducedDate": "1995-07-25",
+            "latestAction": {
+                "actionDate": "1995-07-25",
+                "actionTime": "16:38:15",
+                "text": "Mr. Wolf raised a point of order against the Orton amendment (A017). Mr. Wolf stated that the provisions of the amendment would change existing law, constituting legislation on an appropriations bill and was, therefore, in violation of clause 2 of rule XXI. The Chair sustained the point of order. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/642?format=json"
+        },
+        {
+            "amendmentNumber": "455",
+            "congress": 104,
+            "introducedDate": "1995-06-22",
+            "latestAction": {
+                "actionDate": "1995-06-22",
+                "actionTime": "14:30:42",
+                "text": "On agreeing to the Orton amendment (A010) Failed by recorded vote: 104 - 321 (Roll no. 412). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/455?format=json"
+        },
+        {
+            "amendmentNumber": "93",
+            "congress": 104,
+            "introducedDate": "1995-02-06",
+            "latestAction": {
+                "actionDate": "1995-02-06",
+                "actionTime": "18:10:30",
+                "text": "On agreeing to the Orton amendment (A016) Failed by recorded vote: 65 - 360 (Roll no. 91). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/93?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-26",
+            "latestAction": {
+                "actionDate": "1996-09-26",
+                "text": "Referred to the Committee on Resources, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "4214",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To amend the Antiquities Act to provide for the Congressional approval of the establishment of national monuments, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/4214?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-27",
+            "latestAction": {
+                "actionDate": "1996-09-27",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4231",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Principal Residence Tax Exclusion Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/4231?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-06-12",
+            "latestAction": {
+                "actionDate": "1996-06-17",
+                "text": "Executive Comment Requested from Interior."
+            },
+            "number": "3627",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To provide for the transfer of certain lands near Myton, Utah, to the Utah Division of Wildlife Resources.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3627?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-05-16",
+            "latestAction": {
+                "actionDate": "1996-07-25",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3486",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To dispose of certain Federal properties at Dutch John, Utah, assist local government in the interim delivery of basic services to the Dutch John community, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3486?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-10-25",
+            "latestAction": {
+                "actionDate": "1995-12-20",
+                "actionTime": "23:07:26",
+                "text": "Mr. Taylor (MS) notified the House of his intention to offer a resolution that raises a question of the privileges of the House relating to the statutory responsibility of enacting a budget into law. The Chair announced that, under the provisions of rule IX, a resolution offered from the floor by a Member other than the Majority Leader or the Minority Leader as a question of the privileges of the House has immediate precedence only at a time or place designed by the Speaker in the legislative schedule within 2 legislative days of its being properly noticed. The Chair announced that such a designation would be made at a later time, pending a determination as to whether the resolution constituted a question of privilege."
+            },
+            "number": "2530",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Common Sense Balanced Budget Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2530?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-08-04",
+            "latestAction": {
+                "actionDate": "1995-08-09",
+                "text": "Executive Comment Requested from Interior, Treasury."
+            },
+            "number": "2239",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Mixed-Blood Ute Indian Tax Status Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2239?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-07-13",
+            "latestAction": {
+                "actionDate": "1995-07-17",
+                "text": "Executive Comment Requested from Interior, USDA."
+            },
+            "number": "2035",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Manti-La Sal National Forest Boundary Adjustment Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2035?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-02-08",
+            "latestAction": {
+                "actionDate": "1995-03-24",
+                "text": "See H.R.4."
+            },
+            "number": "865",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Self-Sufficiency Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/865?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-30",
+            "latestAction": {
+                "actionDate": "1995-01-30",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "726",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "First-time Homebuyer Affordability Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/726?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-11",
+            "latestAction": {
+                "actionDate": "1995-02-22",
+                "text": "Sponsor introductory remarks on measure. (CR E406-407)"
+            },
+            "number": "487",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "FHA Modernization and Efficiency Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/487?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-04",
+            "latestAction": {
+                "actionDate": "1995-01-27",
+                "text": "Referred to the Subcommittee on Financial Institutions and Consumer Credit."
+            },
+            "number": "337",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "To repeal the Truth in Savings Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/337?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-04",
+            "latestAction": {
+                "actionDate": "1995-03-15",
+                "text": "For Further Action See H.J.Res.2."
+            },
+            "number": "38",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Proposing an amendment to the Constitution of the United States to limit the terms of Representatives and Senators, and to provide for a four-year term for Representatives.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/104/hjres/38?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-04",
+            "latestAction": {
+                "actionDate": "1995-01-24",
+                "text": "For Further Action See H.J.Res.1."
+            },
+            "number": "37",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Proposing an amendment to the Constitution of the United States to provide for a balanced budget for the United States Government.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/104/hjres/37?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-04",
+            "latestAction": {
+                "actionDate": "1995-01-25",
+                "text": "Referred to the Subcommittee on the Constitution."
+            },
+            "number": "36",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Proposing an amendment to the Constitution of the United States relating to the election of the President and Vice President.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/104/hjres/36?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-08-04",
+            "latestAction": {
+                "actionDate": "1995-09-05",
+                "text": "Referred to the Subcommittee on the Legislative and Budget Process."
+            },
+            "number": "212",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To express the sense of the House of Representatives that the provisions of S. 4 (the Line Item Veto Act), as passed by the House, should apply to all fiscal year 1996 appropriation bills and to the reconciliation bill required by H. Con. Res. 67.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/212?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-04",
+            "latestAction": {
+                "actionDate": "1995-01-17",
+                "text": "Executive Comment Requested from Interior."
+            },
+            "number": "25",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Requesting that the Secretary of the Interior withdraw proposed regulations concerning rights-of-way granted under section 2477 of the Revised Statues.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/25?format=json"
+        }
+    ]
+}

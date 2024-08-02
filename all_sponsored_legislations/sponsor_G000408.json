@@ -1,0 +1,413 @@
+{
+    "pagination": {
+        "count": 26
+    },
+    "request": {
+        "bioguideId": "g000408",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "601",
+            "congress": 104,
+            "introducedDate": "1995-07-21",
+            "latestAction": {
+                "actionDate": "1995-07-21",
+                "actionTime": "12:12:41",
+                "text": "On agreeing to the Waldholtz amendment (A001) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/601?format=json"
+        },
+        {
+            "amendmentNumber": "75",
+            "congress": 104,
+            "introducedDate": "1995-02-01",
+            "latestAction": {
+                "actionDate": "1995-02-01",
+                "actionTime": "16:48:14",
+                "text": "On agreeing to the Waldholtz amendments (A001) Agreed to without objection. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/75?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-26",
+            "latestAction": {
+                "actionDate": "1996-10-04",
+                "text": "Referred to the Subcommittee on Crime."
+            },
+            "number": "4193",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Grand Jury Fairness Reform Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/4193?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-27",
+            "latestAction": {
+                "actionDate": "1996-10-04",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "4248",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare Antibiotic Coverage Amendments of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/4248?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-04-17",
+            "latestAction": {
+                "actionDate": "1996-04-23",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "3262",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Common Sense Medicare Antibiotic Coverage Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3262?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-17",
+            "latestAction": {
+                "actionDate": "1996-09-18",
+                "actionTime": "13:00:00",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "522",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Waiving points of order against the conference report to accompany the bill (H.R. 3675) making appropriations for the Department of Transportation and related agencies for the fiscal year ending September 30, 1997, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/522?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-25",
+            "latestAction": {
+                "actionDate": "1996-09-25",
+                "text": "Placed on the House Calendar, Calendar No. 284."
+            },
+            "number": "536",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Waiving points of order against the conference report to accompany the bill (H.R. 1296) to provide for the administration of certain Presidio properties at minimal cost to the Federal taxpayer.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/536?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-07-24",
+            "latestAction": {
+                "actionDate": "1996-07-26",
+                "actionTime": "11:15:31",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "488",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the bill (H.R. 2391) to amend the Fair Labor Standards Act of 1938 to provide compensatory time for all employees.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/488?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-06-25",
+            "latestAction": {
+                "actionDate": "1996-06-27",
+                "actionTime": "01:07:41",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "460",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the bill (H.R. 3675) making appropriations of the Department of Transportation and related agencies for the fiscal year ending September 30, 1997, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/460?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-03-22",
+            "latestAction": {
+                "actionDate": "1996-03-27",
+                "actionTime": "18:33:15",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "389",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the Senate amendments to the bill (H.R. 1833) to amend title 18, United States Code, to ban partial-birth abortions.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/389?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-05-07",
+            "latestAction": {
+                "actionDate": "1996-05-09",
+                "actionTime": "20:22:50",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "427",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the bill (H.R. 3322) to authorize appropriations for fiscal year 1997 for civilian science activities of the Federal Government, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/427?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-05-02",
+            "latestAction": {
+                "actionDate": "1996-05-07",
+                "actionTime": "16:53:07",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "422",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the bill (H.R. 3120) to amend title 18, United States Code, with respect to witness retaliation, witness tampering and jury tampering.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/422?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-01-31",
+            "latestAction": {
+                "actionDate": "1996-02-28",
+                "actionTime": "11:30:01",
+                "text": "Laid on the table. (consideration: CR H1403)"
+            },
+            "number": "352",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Authorizing the Speaker to declare recesses subject to the call of the Chair from February 2, 1996, through February 26, 1996.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/352?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-10-31",
+            "latestAction": {
+                "actionDate": "1995-11-01",
+                "actionTime": "11:59:45",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "251",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the bill (H.R. 1833) to amend title 18, United States Code, to ban partial-birth abortions.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/251?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-09-18",
+            "latestAction": {
+                "actionDate": "1995-09-19",
+                "actionTime": "11:16:57",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "222",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for the consideration of the bill (H.R. 1617) to consolidate and reform workforce development and literacy programs, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/222?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-09-21",
+            "latestAction": {
+                "actionDate": "1995-09-27",
+                "actionTime": "13:55:47",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "226",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the bill (H.R. 743) to amend the National Labor Relations Act to allow labor management cooperative efforts that improve economic competitiveness in the United States to continue to thrive, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/226?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-10-30",
+            "latestAction": {
+                "actionDate": "1995-11-16",
+                "actionTime": "19:19:34",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "250",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To amend the Rules of the House of Representatives to provide for gift reform.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/250?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-10-24",
+            "latestAction": {
+                "actionDate": "1995-10-25",
+                "actionTime": "12:38:41",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "241",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Waiving points of order against the conference report to accompany the bill (H.R. 2002) making appropriations for the Department of Transportation and related agencies for the fiscal year ending September 30, 1996, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/241?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-09-06",
+            "latestAction": {
+                "actionDate": "1995-09-06",
+                "text": "Referred to the House Committee on Standards of Official Conduct."
+            },
+            "number": "214",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To amend the Rules of the House of Representatives to provide for gift reform.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/214?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-06-29",
+            "latestAction": {
+                "actionDate": "1995-06-30",
+                "actionTime": "14:09:22",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "179",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for immediate consideration of a concurrent resolution providing for adjournment of the House and Senate for the Independence Day district work period.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/179?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-07-19",
+            "latestAction": {
+                "actionDate": "1995-07-21",
+                "actionTime": "12:13:15",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "194",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for the consideration of the bill (H.R. 2002) making appropriations for the Department of Transportation and related agencies for the fiscal year ending September 30, 1996, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/194?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-05-11",
+            "latestAction": {
+                "actionDate": "1995-05-15",
+                "actionTime": "12:49:45",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "146",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for consideration of the bill (H.R. 614) to direct the Secretary of the Interior to convey to the State of Minnesota the New London National Fish Hatchery production facility.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/146?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-02-28",
+            "latestAction": {
+                "actionDate": "1995-03-02",
+                "actionTime": "10:58:41",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "101",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for the consideration of the bill (H.R. 925) to compensate owners of private property for the effect of certain regulatory restrictions.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/101?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-04-06",
+            "latestAction": {
+                "actionDate": "1995-04-06",
+                "text": "Referred to the House Committee on Standards of Official Conduct."
+            },
+            "number": "134",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To amend the Rules of the House of Representatives concerning the receipt of gifts from lobbyists and other persons.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/134?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-31",
+            "latestAction": {
+                "actionDate": "1995-02-01",
+                "actionTime": "16:56:38",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "51",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for the consideration of the bill (H.R. 101) to transfer a parcel of land to the Taos Pueblo Indians of New Mexico.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/51?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-26",
+            "latestAction": {
+                "actionDate": "1996-10-15",
+                "text": "Referred to the Subcommittee on Employer-Employee Relations."
+            },
+            "number": "223",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Expressing the sense of the Congress with respect to considering addiction to nicotine to be a disability.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/104/hconres/223?format=json"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "pagination": {
+        "count": 3
+    },
+    "request": {
+        "bioguideId": "f000351",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-19",
+            "latestAction": {
+                "actionDate": "1996-10-03",
+                "text": "Referred to the Subcommittee on Water Resources and Environment."
+            },
+            "number": "4115",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Residential Windstorm Insurance Plan Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/4115?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-06-13",
+            "latestAction": {
+                "actionDate": "1996-06-26",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3634",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Virgin Islands Organic Revision Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3634?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-06-13",
+            "latestAction": {
+                "actionDate": "1996-06-26",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3635",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To direct the Secretary of the Interior to enter into an agreement with the Governor of the Virgin Islands, upon request, that provides for the transfer of the authority to manage Christiansted National Historic site.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3635?format=json"
+        }
+    ]
+}

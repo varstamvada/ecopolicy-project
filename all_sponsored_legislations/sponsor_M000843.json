@@ -1,0 +1,913 @@
+{
+    "pagination": {
+        "count": 61
+    },
+    "request": {
+        "bioguideId": "m000843",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "711",
+            "congress": 101,
+            "introducedDate": "1990-09-11",
+            "latestAction": {
+                "actionDate": "1990-09-11",
+                "actionTime": "18:17:40",
+                "text": "On agreeing to the Molinari amendment (A004) Agreed to by recorded vote: 230 - 188 (Roll no. 322). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/711?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-10-01",
+            "latestAction": {
+                "actionDate": "1990-10-09",
+                "text": "Referred to the Subcommittee on Administrative Law and Governmental Relations."
+            },
+            "number": "5766",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend the Federal charter for the Boys' Clubs of America to reflect the change of the name of the organization to the Boys & Girls Clubs of America.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5766?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-06-19",
+            "latestAction": {
+                "actionDate": "1990-07-02",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "5085",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To provide for a study of hazardous air pollutants by the National Institute of Environmental Health Sciences.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5085?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-09-16",
+            "latestAction": {
+                "actionDate": "1992-10-09",
+                "text": "Referred to the Subcommittee on Select Education."
+            },
+            "number": "5960",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Sexual Assault Prevention Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5960?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-05-19",
+            "latestAction": {
+                "actionDate": "1992-07-20",
+                "text": "Referred to the Subcommittee on Select Education."
+            },
+            "number": "5205",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Adam Mann Child Abuse and Neglect Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5205?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-02-26",
+            "latestAction": {
+                "actionDate": "1992-03-27",
+                "text": "Referred to the Subcommittee on Elementary, Secondary and Vocational Education."
+            },
+            "number": "4322",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Breastfeeding Promotion Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4322?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-10-29",
+            "latestAction": {
+                "actionDate": "1992-09-18",
+                "text": "Referred to Subcommittee on Courts and Administrative Practice."
+            },
+            "number": "3664",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Irwin Rutman.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3664?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-09-17",
+            "latestAction": {
+                "actionDate": "1991-10-24",
+                "text": "Referred to the Subcommittee on Employment Opportunities."
+            },
+            "number": "3353",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Glass Ceiling Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3353?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-08-02",
+            "latestAction": {
+                "actionDate": "1991-10-24",
+                "text": "Referred to the Subcommittee on Postsecondary Education."
+            },
+            "number": "3261",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "To establish prefreshman summer programs for disadvantaged students at institutions of higher education.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3261?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-07-10",
+            "latestAction": {
+                "actionDate": "1991-07-17",
+                "text": "Referred to the Subcommittee on Crime and Criminal Justice."
+            },
+            "number": "2860",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Irwin Rutman Retired Safety Officers Benefits Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2860?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-05-08",
+            "latestAction": {
+                "actionDate": "1991-05-24",
+                "text": "Referred to the Subcommittee on Transportation and Hazardous Materials."
+            },
+            "number": "2266",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To clarify that fly ash from municipal solid waste incinerators shall be regulated under subtitle C of the Solid Waste Disposal Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2266?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-02-27",
+            "latestAction": {
+                "actionDate": "1991-03-25",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "1148",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To provide for a study of hazardous air pollutants by the National Institute of Environmental Health Sciences.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1148?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-02-27",
+            "latestAction": {
+                "actionDate": "1992-07-08",
+                "text": "Referred to the Subcommittee on Civil and Constitutional Rights."
+            },
+            "number": "1149",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Women's Equal Opportunity Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/1149?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-01-14",
+            "latestAction": {
+                "actionDate": "1991-12-10",
+                "text": "Became Public Law No: 102-199."
+            },
+            "number": "525",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend the Federal charter for the Boys' Clubs of America to reflect the change of the name of the organization to the Boys & Girls Clubs of America.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/525?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-08-12",
+            "latestAction": {
+                "actionDate": "1992-10-28",
+                "text": "Became Public Law No: 102-557."
+            },
+            "number": "546",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "Designating February 4, 1993, and February 3, 1994, as \"National Women and Girls in Sports Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/102/hjres/546?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-10-03",
+            "latestAction": {
+                "actionDate": "1992-10-03",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "598",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Concerning the crisis in the former Yugoslavia.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/102/hres/598?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-07-02",
+            "latestAction": {
+                "actionDate": "1992-07-10",
+                "text": "Referred to the Subcommittee on Postal Operations and Services."
+            },
+            "number": "346",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Expressing the sense of the Congress that the United States Postal Service should not tender high-threat mail to air carriers for transportation on passenger flights until the recommendations of the Federal Aviation Administration's mail and cargo security study are implemented.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/102/hconres/346?format=json"
+        },
+        {
+            "amendmentNumber": "232",
+            "congress": 103,
+            "introducedDate": "1993-07-21",
+            "latestAction": {
+                "actionDate": "1993-07-21",
+                "actionTime": "17:05:12",
+                "text": "On agreeing to the Molinari amendment (A007) Failed by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/232?format=json"
+        },
+        {
+            "amendmentNumber": "230",
+            "congress": 103,
+            "introducedDate": "1993-07-21",
+            "latestAction": {
+                "actionDate": "1993-07-21",
+                "actionTime": "16:56:07",
+                "text": "On agreeing to the Molinari amendment (A005) Failed by recorded vote: 184 - 247 (Roll no. 351). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/230?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-03-08",
+            "latestAction": {
+                "actionDate": "1994-05-25",
+                "text": "Executive Comment Requested from Interior."
+            },
+            "number": "3976",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To amend the Act establishing the Gateway National Recreation Area to provide for the management of Fort Wadsworth by the Secretary of the Interior, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3976?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-09-21",
+            "latestAction": {
+                "actionDate": "1993-09-24",
+                "text": "Referred to the Subcommittee on International Law, Immigration, and Refugees."
+            },
+            "number": "3105",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "To restructure the enforcement components of the Immigration and Naturalization Service.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3105?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-08-06",
+            "latestAction": {
+                "actionDate": "1993-08-13",
+                "text": "Referred to the Subcommittee on Crime and Criminal Justice."
+            },
+            "number": "2975",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "To amend the Omnibus Crime Control and Safe Streets Act to reduce funding if States do not enact legislation that requires the death penalty in certain cases.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2975?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-22",
+            "latestAction": {
+                "actionDate": "1993-05-11",
+                "text": "Referred to the Subcommittee on Elementary, Secondary and Vocational Education."
+            },
+            "number": "1831",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "To amend the Elementary and Secondary Education Act of 1965 to establish gender equity teacher training programs to ensure gender equity in education programs, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1831?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-07",
+            "latestAction": {
+                "actionDate": "1993-04-13",
+                "text": "Referred to the Subcommittee on Crime and Criminal Justice."
+            },
+            "number": "1707",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Irwin Rutman Retired Public Safety Officers Death Benefits Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1707?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-07",
+            "latestAction": {
+                "actionDate": "1993-04-13",
+                "text": "Referred to the Subcommittee on Administrative Law and Governmental Relations."
+            },
+            "number": "1715",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of the estate of Irwin Rutman.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1715?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-10",
+            "latestAction": {
+                "actionDate": "1993-04-01",
+                "text": "Referred to the Subcommittee on Housing and Community Development."
+            },
+            "number": "1294",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To designate military installations selected for closure or realignment under a base closure law, and the communities within which such military installations are located, as enterprise zones for purposes of title VII of the Housing and Community Development Act of 1987 and as redevelopment areas for purposes of the Public Works and Economic Development Act of 1965.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1294?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-02-18",
+            "latestAction": {
+                "actionDate": "1993-03-04",
+                "text": "Referred to the Subcommittee on Water Resources and Environment."
+            },
+            "number": "994",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "To direct the Secretary of the Army to conduct a review of the report of the Chief of Engineers on Staten Island from Fort Wadsworth to Arthur Kill, New York, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/994?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-01-27",
+            "latestAction": {
+                "actionDate": "1993-02-10",
+                "text": "Referred to the Subcommittee on Crime and Criminal Justice."
+            },
+            "number": "688",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Sexual Assault Prevention Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/688?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-06-30",
+            "latestAction": {
+                "actionDate": "1994-06-30",
+                "text": "Referred to the House Committee on Post Office and Civil Service."
+            },
+            "number": "385",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "To designate February 2, 1995, and February 1, 1996, as \"National Women and Girls in Sports Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/385?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-08-18",
+            "latestAction": {
+                "actionDate": "1994-08-18",
+                "text": "Referred to the House Committee on Post Office and Civil Service."
+            },
+            "number": "403",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "To designate October 1, 1994, as \"National Incest and Sexual Abuse Healing Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/403?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-07-28",
+            "latestAction": {
+                "actionDate": "1993-07-28",
+                "text": "Referred to the House Committee on Post Office and Civil Service."
+            },
+            "number": "243",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Designating August 1, 1993, as \"National Incest and Sexual Abuse Healing Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/243?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-09-23",
+            "latestAction": {
+                "actionDate": "1993-10-05",
+                "text": "Referred to the Subcommittee on Europe and the Middle East."
+            },
+            "number": "154",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Concerning the need for immediate investigation into violations of international law in the former Yugoslavia and prosecution of persons responsible for those violations.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/103/hconres/154?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-02-18",
+            "latestAction": {
+                "actionDate": "1993-03-09",
+                "text": "Referred to the Subcommittee on International Security, International Organizations and Human Rights."
+            },
+            "number": "45",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of the Congress concerning rape and forced pregnancy of women and girls in the former Yugoslavia.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/103/hconres/45?format=json"
+        },
+        {
+            "amendmentNumber": "1323",
+            "congress": 104,
+            "introducedDate": "1996-07-23",
+            "latestAction": {
+                "actionDate": "1996-07-23",
+                "actionTime": "19:38:29",
+                "text": "On agreeing to the Molinari amendment (A011) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/1323?format=json"
+        },
+        {
+            "amendmentNumber": "434",
+            "congress": 104,
+            "introducedDate": "1995-06-14",
+            "latestAction": {
+                "actionDate": "1995-06-14",
+                "actionTime": "19:17:55",
+                "text": "On agreeing to the Molinari amendment (A012) Agreed to by recorded vote: 293 - 133 (Roll no. 379). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/434?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-04-23",
+            "latestAction": {
+                "actionDate": "1996-06-24",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 454."
+            },
+            "number": "3286",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Adoption Promotion and Stability Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3286?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-04-25",
+            "latestAction": {
+                "actionDate": "1996-05-09",
+                "text": "Referred to the Subcommittee on Railroads."
+            },
+            "number": "3335",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Federal Railroad Administration Performance, Personnel, and Enforcement Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3335?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-02-01",
+            "latestAction": {
+                "actionDate": "1996-02-15",
+                "text": "Referred to the Subcommittee on Railroads."
+            },
+            "number": "2949",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Railroad and Transit Sabotage Prevention Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2949?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-09-14",
+            "latestAction": {
+                "actionDate": "1995-09-29",
+                "text": "Referred to the Subcommittee on Housing and Community Opportunity."
+            },
+            "number": "2340",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "Public Housing Safety Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2340?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-08-04",
+            "latestAction": {
+                "actionDate": "1995-11-16",
+                "text": "See H.R.2594."
+            },
+            "number": "2233",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Railroad Retirement and Railroad Unemployment Insurance Amendments Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2233?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-06-30",
+            "latestAction": {
+                "actionDate": "1995-07-14",
+                "text": "Referred to the Subcommittee on Housing and Community Opportunity."
+            },
+            "number": "1988",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "Public Housing Safety Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1988?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-06-22",
+            "latestAction": {
+                "actionDate": "1995-07-10",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "1920",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Domestic Violence Victims Insurance Protection Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1920?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-06-07",
+            "latestAction": {
+                "actionDate": "1995-06-16",
+                "text": "Referred to the Subcommittee on Housing and Community Opportunity."
+            },
+            "number": "1773",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "Public Housing Safety Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1773?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-06-08",
+            "latestAction": {
+                "actionDate": "1995-12-04",
+                "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 255."
+            },
+            "number": "1788",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Amtrak Reform and Privatization Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1788?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-05-11",
+            "latestAction": {
+                "actionDate": "1995-05-19",
+                "text": "Referred to the Subcommittee on Housing and Community Opportunity."
+            },
+            "number": "1619",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "National Senior Citizens Pet Ownership Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1619?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-05-03",
+            "latestAction": {
+                "actionDate": "1995-05-03",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "1577",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of the estate of Irwin Rutman.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1577?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-05-03",
+            "latestAction": {
+                "actionDate": "1995-05-19",
+                "text": "Referred to the Subcommittee on Employer-Employee Relations."
+            },
+            "number": "1571",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "To amend the Age Discrimination in Employment Act of 1967 to protect elected and appointed judges against discrimination based on age.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1571?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-05-03",
+            "latestAction": {
+                "actionDate": "1995-07-18",
+                "text": "Referred to the Subcommittee on Crime."
+            },
+            "number": "1572",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Irwin Rutman Retired Public Safety Officers Death Benefits Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1572?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-03-28",
+            "latestAction": {
+                "actionDate": "1995-04-10",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "1334",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "State Medicaid Savings Incentive Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1334?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-27",
+            "latestAction": {
+                "actionDate": "1995-01-27",
+                "actionTime": "14:32:20",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "48",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Electing Representative Amo Houghton of New York to the Committee on International Relations.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/48?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-07-24",
+            "latestAction": {
+                "actionDate": "1997-11-20",
+                "text": "For Further Action See S.738."
+            },
+            "number": "2247",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Amtrak Reform and Privatization Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2247?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-06-17",
+            "latestAction": {
+                "actionDate": "1997-06-30",
+                "text": "Referred to the Subcommittee on Railroads."
+            },
+            "number": "1939",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Railroad Infrastructure Financing Improvement Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1939?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-06-11",
+            "latestAction": {
+                "actionDate": "1997-06-11",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "1869",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of the estate of Irwin Rutman.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1869?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-06-11",
+            "latestAction": {
+                "actionDate": "1997-06-20",
+                "text": "Referred to the Subcommittee on Crime."
+            },
+            "number": "1862",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Irwin Rutman Retired Public Safety Officers Death Benefits Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1862?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-05-14",
+            "latestAction": {
+                "actionDate": "1998-06-09",
+                "text": "See H.R.2400."
+            },
+            "number": "1609",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "ISTEA Reauthorization Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1609?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-05-13",
+            "latestAction": {
+                "actionDate": "1997-08-13",
+                "text": "Became Public Law No: 105-41."
+            },
+            "number": "1585",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Stamp Out Breast Cancer Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1585?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-04-30",
+            "latestAction": {
+                "actionDate": "1997-05-12",
+                "text": "Referred to the Subcommittee on Railroads."
+            },
+            "number": "1501",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Railroad and Transit Sabotage Prevention Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1501?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-04-30",
+            "latestAction": {
+                "actionDate": "1997-05-12",
+                "text": "Referred to the Subcommittee on Railroads."
+            },
+            "number": "1499",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Federal Railroad Administration Performance, Personnel, and Enforcement Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1499?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-04-23",
+            "latestAction": {
+                "actionDate": "1997-05-21",
+                "text": "Referred to the Subcommittee on Early Childhood, Youth and Families."
+            },
+            "number": "1419",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Child Abuse and Neglect Enforcement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1419?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-02-12",
+            "latestAction": {
+                "actionDate": "1997-03-05",
+                "text": "Referred to the Subcommittee on Crime."
+            },
+            "number": "727",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Officer Brian Gibson District of Columbia Police Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/727?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-02-05",
+            "latestAction": {
+                "actionDate": "1997-03-03",
+                "text": "Referred to the Subcommittee on Employer-Employee Relations."
+            },
+            "number": "616",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Women's Health and Cancer Rights Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/616?format=json"
+        }
+    ]
+}

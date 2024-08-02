@@ -1,0 +1,81 @@
+{
+    "pagination": {
+        "count": 5
+    },
+    "request": {
+        "bioguideId": "n000094",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "426",
+            "congress": 102,
+            "introducedDate": "1991-11-26",
+            "latestAction": {
+                "actionDate": "1991-11-26",
+                "actionTime": "17:14:03",
+                "text": "On agreeing to the Nichols amendment (A007) Failed by recorded vote: 133 - 292 (Roll no. 433). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/426?format=json"
+        },
+        {
+            "amendmentNumber": "317",
+            "congress": 102,
+            "introducedDate": "1991-10-15",
+            "latestAction": {
+                "actionDate": "1991-10-15",
+                "actionTime": "15:42:17",
+                "text": "On agreeing to the Nichols amendment (A001) Failed by recorded vote: 153 - 249 (Roll no. 305). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/317?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-03-24",
+            "latestAction": {
+                "actionDate": "1992-04-28",
+                "text": "Referred to the Subcommittee on Personnel and Police."
+            },
+            "number": "4555",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To limit the number of years that a person may be employed by the House of Representatives.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4555?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-06-10",
+            "latestAction": {
+                "actionDate": "1991-06-10",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2604",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to repeal the luxury excise tax.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2604?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-03-24",
+            "latestAction": {
+                "actionDate": "1992-05-12",
+                "text": "Referred to the Subcommittee on Civil and Constitutional Rights."
+            },
+            "number": "451",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Proposing an amendment to the Constitution of the United States to limit the number of years a person may serve as a Representative in, or Delegate or Resident Commissioner to, the Congress.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/102/hjres/451?format=json"
+        }
+    ]
+}

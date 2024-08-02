@@ -1,0 +1,3721 @@
+{
+    "pagination": {
+        "count": 466,
+        "next": "https://api.congress.gov/v3/member/H001022/sponsored-legislation?offset=250&limit=250&format=json"
+    },
+    "request": {
+        "bioguideId": "h001022",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-04",
+            "latestAction": {
+                "actionDate": "1995-02-24",
+                "text": "Reported (Amended) by the Committee on Commerce. H. Rept. 104-50, Part I."
+            },
+            "number": "10",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Securities Litigation Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/10?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-08-22",
+            "latestAction": {
+                "actionDate": "1980-08-22",
+                "text": "Referred to House Committee on Government Operations."
+            },
+            "number": "8006",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Financial Integrity Act of 1980",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/8006?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-07-31",
+            "latestAction": {
+                "actionDate": "1980-07-31",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "7899",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "A bill to amend the Immigration and Nationality Act to provide for the immediate deportation of aliens who are arrested and refuse to disclose their identity to law enforcement officers.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/7899?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-09-28",
+            "latestAction": {
+                "actionDate": "1979-09-28",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "5467",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "A bill to amend title 35, United States Code, to provide that, except in exceptional cases, attorney's fees should be awarded in cases involving patent infringements.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/5467?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-09-21",
+            "latestAction": {
+                "actionDate": "1979-09-21",
+                "text": "Referred to House Committee on Armed Services."
+            },
+            "number": "5363",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to provide for the conveyance of certain real property to the State of Illinois for National Guard purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/5363?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-07-20",
+            "latestAction": {
+                "actionDate": "1979-07-20",
+                "text": "Referred to House Committee on Government Operations."
+            },
+            "number": "4883",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend the Freedom of Information Act to improve the handling of classified information and investigatory records, to revise the deadlines for agency action, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/4883?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-07-20",
+            "latestAction": {
+                "actionDate": "1979-07-20",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "4884",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Married Individuals Income Tax Relief Act of 1979",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/4884?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-05-14",
+            "latestAction": {
+                "actionDate": "1979-05-14",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "4069",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to prohibit the use of private contributions to defray the cost of an official White House function, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/4069?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-05-14",
+            "latestAction": {
+                "actionDate": "1979-05-14",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "4068",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend the Ethics in Government Act requiring a full public disclosure of any private contributions used to defray the cost of an official White House function.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/4068?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-04-25",
+            "latestAction": {
+                "actionDate": "1979-04-25",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "3742",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Married Individuals Income Tax Relief Act of 1978",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/3742?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-03-15",
+            "latestAction": {
+                "actionDate": "1979-03-15",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "3009",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow individuals to designate $1 of their income tax liability to be used for purposes of reducing the public debt of the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/3009?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-02-08",
+            "latestAction": {
+                "actionDate": "1979-02-08",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "1964",
+            "policyArea": {
+                "name": null
+            },
+            "title": "Federal Constitution Convention Amendment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/1964?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-02-08",
+            "latestAction": {
+                "actionDate": "1979-02-08",
+                "text": "Referred to House Committee on Foreign Affairs."
+            },
+            "number": "1965",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "United States Export-Import Bank Energy Development Facility Act of 1979",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/1965?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-25",
+            "latestAction": {
+                "actionDate": "1979-01-25",
+                "text": "Referred to House Committee on Public Works and Transportation."
+            },
+            "number": "1514",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to amend the Flood Control Act of 1937 to increase the funds available for projects for the removal of obstructions and the clearing of channels.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/1514?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-15",
+            "latestAction": {
+                "actionDate": "1979-12-28",
+                "text": "Private Law 96-34."
+            },
+            "number": "918",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Maryrose and Rosemary Evangelista.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/918?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-15",
+            "latestAction": {
+                "actionDate": "1979-01-15",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "504",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend title 18, United States Code, relating to the production of false documents or papers of the United States, and the use of false information in obtaining official documents and papers of the United States, involving an element of identification.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/504?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-15",
+            "latestAction": {
+                "actionDate": "1979-01-15",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "503",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to provide a penalty for the robbery or attempted robbery of any controlled substance from any pharmacy.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/503?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-15",
+            "latestAction": {
+                "actionDate": "1979-01-15",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "500",
+            "policyArea": {
+                "name": null
+            },
+            "title": "Federal Constitution Convention Amendment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/500?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-15",
+            "latestAction": {
+                "actionDate": "1979-01-15",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "501",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend title 18 of the United States Code for the purpose of prohibiting the sale of children in interstate or foreign commerce.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/501?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-15",
+            "latestAction": {
+                "actionDate": "1979-01-15",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "502",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend title I of the Omnibus Crime Control and Safe Streets Act of 1968 to provide for the recapture of unused proceeds of certain grants.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/96/hr/502?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1980-05-07",
+            "latestAction": {
+                "actionDate": "1980-05-07",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "543",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A joint resolution proposing an amendment to the Constitution of the United States providing that all persons shall have the right to be free from discrimination.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/96/hjres/543?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-12-13",
+            "latestAction": {
+                "actionDate": "1979-12-13",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "465",
+            "policyArea": {
+                "name": null
+            },
+            "title": "A bill proposing an amendment to the Constitution of the United States to establish a twelve year term of office for judges of the Supreme Court.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/96/hjres/465?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-02-08",
+            "latestAction": {
+                "actionDate": "1979-02-08",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "194",
+            "policyArea": {
+                "name": "Social Sciences and History"
+            },
+            "title": "A joint resolution authorizing the President to proclaim the month of February of each year as \"American History Month\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/96/hjres/194?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-15",
+            "latestAction": {
+                "actionDate": "1979-01-15",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "55",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A joint resolution proposing an amendment to the Constitution of the United States allowing an item veto in appropriations.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/96/hjres/55?format=json"
+        },
+        {
+            "congress": 96,
+            "introducedDate": "1979-01-15",
+            "latestAction": {
+                "actionDate": "1979-01-15",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "56",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "A joint resolution proposing an amendment to the Constitution of the United States guaranteeing the right of life to the unborn.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/96/hjres/56?format=json"
+        },
+        {
+            "amendmentNumber": "1190",
+            "congress": 109,
+            "introducedDate": "2006-07-26",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/1190?format=json"
+        },
+        {
+            "amendmentNumber": "504",
+            "congress": 109,
+            "introducedDate": "2005-07-21",
+            "latestAction": {
+                "actionDate": "2005-07-21",
+                "actionTime": "19:36:10",
+                "text": "On agreeing to the Hyde amendment (A016) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/504?format=json"
+        },
+        {
+            "amendmentNumber": "465",
+            "congress": 109,
+            "introducedDate": "2005-07-19",
+            "latestAction": {
+                "actionDate": "2005-07-19",
+                "actionTime": "16:07:48",
+                "text": "On agreeing to the Hyde amendment (A012) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/465?format=json"
+        },
+        {
+            "amendmentNumber": "455",
+            "congress": 109,
+            "introducedDate": "2005-07-19",
+            "latestAction": {
+                "actionDate": "2005-07-19",
+                "actionTime": "17:09:58",
+                "text": "On agreeing to the Hyde amendment (A002) as modified Agreed to by recorded vote: 226 - 195 (Roll no. 385). (text as modified: CR H6057-6068)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/455?format=json"
+        },
+        {
+            "amendmentNumber": "454",
+            "congress": 109,
+            "introducedDate": "2005-07-19",
+            "latestAction": {
+                "actionDate": "2005-07-19",
+                "actionTime": "14:09:49",
+                "text": "On agreeing to the Hyde amendment (A001) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/454?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-07-20",
+            "latestAction": {
+                "actionDate": "2006-07-20",
+                "text": "Referred to the Committee on International Relations, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "5847",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To amend the Arms Export Control Act to strengthen the requirements for congressional review of arms sales and exports under such Act, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/5847?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-06-26",
+            "latestAction": {
+                "actionDate": "2006-12-18",
+                "text": "Became Public Law No: 109-401."
+            },
+            "number": "5682",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Henry J. Hyde United States and India Nuclear Cooperation Promotion Act of 2006",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/5682?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-06-21",
+            "latestAction": {
+                "actionDate": "2006-06-21",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "5655",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Legal Employment Act of 2006",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/5655?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-06-29",
+            "latestAction": {
+                "actionDate": "2006-06-29",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "5713",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "United Nations Budget Reform Act of 2006",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/5713?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-03-16",
+            "latestAction": {
+                "actionDate": "2006-03-16",
+                "text": "Referred to the Committee on International Relations, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "4974",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To authorize the President to waive the application of certain requirements under the Atomic Energy Act of 1954 with respect to India.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4974?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-03-02",
+            "latestAction": {
+                "actionDate": "2006-11-13",
+                "text": "Read twice and referred to the Committee on Rules and Administration."
+            },
+            "number": "4844",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal Election Integrity Act of 2006",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4844?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-12-16",
+            "latestAction": {
+                "actionDate": "2005-12-16",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "4572",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Export Administration Renewal Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4572?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-12-13",
+            "latestAction": {
+                "actionDate": "2006-01-10",
+                "text": "Became Public Law No: 109-167."
+            },
+            "number": "4501",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Passport Services Enhancement Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4501?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-11-17",
+            "latestAction": {
+                "actionDate": "2005-11-17",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "4369",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To withhold amounts available for contributions to the regular assessed budget of the United Nations unless certain requirements relating to the transfer and public availability of the complete archive of files of the Independent Inquiry Committee into the Oil-for-Food Program are met.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4369?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-10-07",
+            "latestAction": {
+                "actionDate": "2006-07-13",
+                "text": "Placed on the Union Calendar, Calendar No. 319."
+            },
+            "number": "4014",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Millennium Challenge Reauthorization Act of 2006",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4014?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-06-30",
+            "latestAction": {
+                "actionDate": "2006-10-13",
+                "text": "Became Public Law No: 109-344."
+            },
+            "number": "3127",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Darfur Peace and Accountability Act of 2006",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3127?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-06-29",
+            "latestAction": {
+                "actionDate": "2005-07-14",
+                "actionTime": "11:20:43",
+                "text": "On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 215 - 203 (Roll no. 374). (text: CR 7/13/2005 H5760-5762)"
+            },
+            "number": "3100",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "East Asia Security Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3100?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-06-07",
+            "latestAction": {
+                "actionDate": "2005-06-21",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 133."
+            },
+            "number": "2745",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Henry J. Hyde United Nations Reform Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/2745?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-05-24",
+            "latestAction": {
+                "actionDate": "2005-05-24",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "2593",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Narco-Terrorism Enforcement Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/2593?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-04-12",
+            "latestAction": {
+                "actionDate": "2005-04-12",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "1550",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Indian Ocean Tsunami Relief, Recovery, and Reconstruction Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1550?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-03-10",
+            "latestAction": {
+                "actionDate": "2005-03-10",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "1213",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Caribbean Basin Trade Enhancement Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1213?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-02-17",
+            "latestAction": {
+                "actionDate": "2005-03-03",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "885",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To authorize the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of Ukraine.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/885?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-07-26",
+            "latestAction": {
+                "actionDate": "2006-07-26",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "949",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Commending the people and Government of Romania, on the occasion of the visit of Romanian President Traian Basescu to the United States, for the strong relationship between Romania and the United States.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/949?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-06-12",
+            "latestAction": {
+                "actionDate": "2006-06-16",
+                "actionTime": "11:17:36",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "861",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Declaring that the United States will prevail in the Global War on Terror, the struggle to protect freedom from the terrorist adversary.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/861?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-03-29",
+            "latestAction": {
+                "actionDate": "2006-04-04",
+                "actionTime": "19:16:22",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "744",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing support for the Good Friday Agreement of 1998 as the blueprint for lasting peace in Northern Ireland and support for continued police reform in Northern Ireland as a critical element in the peace process.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/744?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-02-28",
+            "latestAction": {
+                "actionDate": "2006-05-02",
+                "actionTime": "18:54:19",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "697",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Congratulating the people and Government of Italy, the Torino Olympic Organizing Committee, the International Olympic Committee, the United States Olympic Committee, the 2006 United States Olympic and Paralympic Teams, and all international athletes upon the successful completion of the 2006 Olympic Winter Games in Turin, Italy.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/697?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-12-15",
+            "latestAction": {
+                "actionDate": "2005-12-16",
+                "actionTime": "14:40:08",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "612",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the commitment of the House of Representatives to achieving victory in Iraq.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/612?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-10-28",
+            "latestAction": {
+                "actionDate": "2005-10-28",
+                "actionTime": "11:43:20",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "523",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Condemning Iranian President Mahmoud Ahmadinejad's threats against Israel.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/523?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-10-17",
+            "latestAction": {
+                "actionDate": "2005-10-18",
+                "actionTime": "18:09:39",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "492",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Mourning the loss of life caused by the earthquake that occurred on October 8, 2005, in Pakistan and India, expressing the condolences of the American people to the families of the victims, and urging assistance to those affected.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/492?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-09-07",
+            "latestAction": {
+                "actionDate": "2005-09-08",
+                "actionTime": "16:14:42",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "428",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sincere gratitude of the House of Representatives to the foreign individuals, organizations, and governments that have offered material assistance and other forms of support to those who have been affected by Hurricane Katrina.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/428?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-09-07",
+            "latestAction": {
+                "actionDate": "2005-09-08",
+                "actionTime": "16:24:43",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "427",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Relating to the terrorist attacks against the United States on September 11, 2001.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/427?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-12",
+            "latestAction": {
+                "actionDate": "2005-07-14",
+                "actionTime": "11:30:29",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "356",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Condemning in the strongest terms the terrorist attacks in London, England, on July 7, 2005.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/356?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-04-06",
+            "latestAction": {
+                "actionDate": "2005-04-06",
+                "actionTime": "15:46:30",
+                "text": "On agreeing to the resolution Agreed to by the Yeas and Nays: 415 - 0 (Roll no. 94). (text: CR H1807-1808)"
+            },
+            "number": "190",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Honoring the life and achievements of His Holiness Pope John Paul II and expressing profound sorrow on his death.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/190?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-02-16",
+            "latestAction": {
+                "actionDate": "2005-02-16",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "107",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing amounts for the expenses of the Committee on International Relations in the One Hundred Ninth Congress.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/107?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-02-01",
+            "latestAction": {
+                "actionDate": "2005-02-02",
+                "actionTime": "14:39:14",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "57",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Urging the European Union to maintain its arms embargo on the People's Republic of China.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/57?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-01-04",
+            "latestAction": {
+                "actionDate": "2005-01-04",
+                "actionTime": "18:52:06",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "12",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Expressing condolences and support for assistance to the victims of the earthquake and tsunamis that occurred on December 26, 2004, in South and Southeast Asia.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/12?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-12-08",
+            "latestAction": {
+                "actionDate": "2006-01-27",
+                "text": "Referred to the Committee on Foreign Relations."
+            },
+            "number": "312",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Urging the Government of the Russian Federation to withdraw the first draft of the proposed legislation as passed in its first reading in the State Duma that would have the effect of severely restricting the establishment, operations, and activities of domestic, international, and foreign nongovernmental organizations in the Russian Federation, or to modify the proposed legislation to entirely remove these restrictions.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/109/hconres/312?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-06-24",
+            "latestAction": {
+                "actionDate": "2005-07-14",
+                "text": "Received in the Senate and referred to the Committee on Foreign Relations."
+            },
+            "number": "191",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Commemorating the 60th anniversary of the conclusion of the War in the\r\nPacific and honoring veterans of both the Pacific and Atlantic theaters  of the Second World War.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/109/hconres/191?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-05-26",
+            "latestAction": {
+                "actionDate": "2005-07-12",
+                "text": "Received in the Senate and referred to the Committee on Foreign Relations."
+            },
+            "number": "168",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Condemning the Democratic People's Republic of Korea for the abductions and continued captivity of citizens of the Republic of Korea and Japan as acts of terrorism and gross violations of human rights.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/109/hconres/168?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-03-15",
+            "latestAction": {
+                "actionDate": "2005-03-17",
+                "text": "Received in the Senate and referred to the Committee on Foreign Relations."
+            },
+            "number": "98",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the grave concern of Congress regarding the recent passage of the anti-secession law by the National People's Congress of the People's Republic of China.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/109/hconres/98?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-01-06",
+            "latestAction": {
+                "actionDate": "2005-01-26",
+                "text": "Received in the Senate."
+            },
+            "number": "16",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Congratulating the people of Ukraine for conducting a democratic, transparent, and fair runoff presidential election on December 26, 2004, and congratulating Viktor Yushchenko on his election as President of Ukraine and his commitment to democracy and reform.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/109/hconres/16?format=json"
+        },
+        {
+            "amendmentNumber": "669",
+            "congress": 108,
+            "introducedDate": "2004-07-13",
+            "latestAction": {
+                "actionDate": "2004-07-13",
+                "actionTime": "11:25:53",
+                "text": "On agreeing to the Hyde amendment (A001) as modified Agreed to by voice vote. (text as modified: CR H5552)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/hamdt/669?format=json"
+        },
+        {
+            "amendmentNumber": "245",
+            "congress": 108,
+            "introducedDate": "2003-07-15",
+            "latestAction": {
+                "actionDate": "2003-07-15",
+                "actionTime": "16:51:39",
+                "text": "On agreeing to the Hyde amendments (A011) as modified Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/hamdt/245?format=json"
+        },
+        {
+            "amendmentNumber": "236",
+            "congress": 108,
+            "introducedDate": "2003-07-15",
+            "latestAction": {
+                "actionDate": "2003-07-16",
+                "actionTime": "12:48:42",
+                "text": "On agreeing to the Hyde amendment (A002) as amended Agreed to by the Yeas and Nays: 368 - 52 (Roll no. 368). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/hamdt/236?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-11-17",
+            "latestAction": {
+                "actionDate": "2004-11-17",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "5375",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "United Nations Accountability Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/5375?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-06-14",
+            "latestAction": {
+                "actionDate": "2004-06-14",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "4558",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Millennium Challenge Accountability Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/4558?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-06-14",
+            "latestAction": {
+                "actionDate": "2004-06-28",
+                "text": "Referred to the Subcommittee on Domestic and International Monetary Policy, Trade, and Technology."
+            },
+            "number": "4560",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Foreign Credit Reform Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/4560?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-06-14",
+            "latestAction": {
+                "actionDate": "2004-06-16",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "4559",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Post-Conflict Trade Recovery Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/4559?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-06-09",
+            "latestAction": {
+                "actionDate": "2004-06-09",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "4530",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal Election Integrity Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/4530?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-05-20",
+            "latestAction": {
+                "actionDate": "2004-06-28",
+                "text": "Referred to the Subcommittee on Immigration, Border Security, and Claims."
+            },
+            "number": "4415",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Save American Jobs Through L Visa Reform Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/4415?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-05-13",
+            "latestAction": {
+                "actionDate": "2004-06-09",
+                "text": "Referred to the Subcommittee on Domestic and International Monetary Policy, Trade, and Technology, for a period to be subsequently determined by the Chairman."
+            },
+            "number": "4364",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "United States Economic Assistance Conditionality Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/4364?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-05-12",
+            "latestAction": {
+                "actionDate": "2004-05-20",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "4347",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "International Assistance to Missing and Exploited Children Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/4347?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-03-30",
+            "latestAction": {
+                "actionDate": "2004-03-30",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "4058",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "United States Assistance for Civilians Affected by Conflict Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/4058?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-03-30",
+            "latestAction": {
+                "actionDate": "2004-06-02",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+            },
+            "number": "4060",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Health, Safety, and Security of Peace Corps Volunteers Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/4060?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-02-06",
+            "latestAction": {
+                "actionDate": "2004-03-22",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+            },
+            "number": "3782",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Counter-Terrorist and Narco-Terrorist Rewards Program Act\r",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3782?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-09-23",
+            "latestAction": {
+                "actionDate": "2003-11-04",
+                "text": "Placed on the Union Calendar, Calendar No. 198."
+            },
+            "number": "3145",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Overseas Private Investment Corporation Amendments Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3145?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-06-12",
+            "latestAction": {
+                "actionDate": "2003-07-14",
+                "text": "Placed on the Union Calendar, Calendar No. 112."
+            },
+            "number": "2441",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Millennium Challenge Account Authorization and Peace Corps Expansion Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2441?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-05-15",
+            "latestAction": {
+                "actionDate": "2003-06-25",
+                "text": "Referred to the Subcommittee on Courts, the Internet, and Intellectual Property."
+            },
+            "number": "2118",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "To increase the annual salaries of justices and judges of the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2118?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-05-06",
+            "latestAction": {
+                "actionDate": "2003-05-06",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "1966",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Millennium Challenge Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/1966?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-05-05",
+            "latestAction": {
+                "actionDate": "2003-07-17",
+                "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 211."
+            },
+            "number": "1950",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Millennium Challenge Account, Peace Corps Expansion, and Foreign Relations Authorization Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/1950?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-03-17",
+            "latestAction": {
+                "actionDate": "2003-05-27",
+                "text": "Became Public Law No: 108-25."
+            },
+            "number": "1298",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "United States Leadership Against HIV/AIDS, Tuberculosis, and  Malaria Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/1298?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-01-27",
+            "latestAction": {
+                "actionDate": "2003-03-06",
+                "text": "Referred to the Subcommittee on Immigration, Border Security, and Claims."
+            },
+            "number": "367",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "To allow North Koreans to apply for refugee status or asylum.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/367?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-09-08",
+            "latestAction": {
+                "actionDate": "2004-09-09",
+                "text": "Referred to the Subcommittee on Coast Guard and Maritime Transportation."
+            },
+            "number": "757",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Expressing the sense of the House of Representatives on the anniversary of the terrorist attacks launched against the United States on September 11, 2001.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/757?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-06-23",
+            "latestAction": {
+                "actionDate": "2004-06-25",
+                "actionTime": "00:20:45",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "691",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Congratulating the Interim Government of Iraq on its forthcoming assumption of sovereign authority in Iraq.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/691?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-03-11",
+            "latestAction": {
+                "actionDate": "2004-03-17",
+                "actionTime": "19:46:53",
+                "text": "On agreeing to the resolution Agreed to by recorded vote: 327 - 93, 7 Present (Roll no. 64). (text: CR H1142)"
+            },
+            "number": "557",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Relating to the liberation of the Iraqi people and the valiant service of the United States Armed Forces and Coalition forces.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/557?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-09-05",
+            "latestAction": {
+                "actionDate": "2003-10-20",
+                "actionTime": "18:56:42",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "356",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of the House of Representatives regarding the man-made famine that occurred in Ukraine in 1932-1933.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/356?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-02-25",
+            "latestAction": {
+                "actionDate": "2003-02-25",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "96",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing amounts for the expenses of the Committee on International Relations in the One Hundred Eighth Congress.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/96?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-06-23",
+            "latestAction": {
+                "actionDate": "2004-07-19",
+                "text": "Received in the Senate and referred to the Committee on Foreign Relations."
+            },
+            "number": "462",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Reaffirming unwavering commitment to the Taiwan Relations Act, and for other purposes.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/108/hconres/462?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-05-05",
+            "latestAction": {
+                "actionDate": "2004-10-05",
+                "text": "Received in the Senate."
+            },
+            "number": "415",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Urging the Government of Ukraine to ensure a democratic, transparent, and fair election process for the presidential election on October 31, 2004.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/108/hconres/415?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-03-25",
+            "latestAction": {
+                "actionDate": "2004-09-07",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "398",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution expressing the concern of Congress over Iran's development of the means to produce nuclear weapons.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/108/hconres/398?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-09-09",
+            "latestAction": {
+                "actionDate": "2003-10-14",
+                "text": "Received in the Senate and referred to the Committee on Foreign Relations."
+            },
+            "number": "274",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Commending the National Endowment for Democracy for its contributions to democratic development around the world on the occasion of the 20th anniversary of the establishment of the National Endowment for Democracy.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/108/hconres/274?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-02-04",
+            "latestAction": {
+                "actionDate": "2003-02-12",
+                "text": "Received in the Senate and referred to the Committee on Foreign Relations."
+            },
+            "number": "27",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Condemning the selection of Libya to chair the United Nations Commission on Human Rights, and for other purposes.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/108/hconres/27?format=json"
+        },
+        {
+            "amendmentNumber": "484",
+            "congress": 107,
+            "introducedDate": "2002-05-21",
+            "latestAction": {
+                "actionDate": "2002-05-21",
+                "actionTime": "15:53:34",
+                "text": "On agreeing to the Hyde amendment (A001) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/hamdt/484?format=json"
+        },
+        {
+            "amendmentNumber": "418",
+            "congress": 107,
+            "introducedDate": "2002-02-13",
+            "latestAction": {
+                "actionDate": "2002-02-13",
+                "actionTime": "17:00:28",
+                "text": "On agreeing to the Hyde amendment (A004) Failed by recorded vote: 188 - 237, 1 Present (Roll no. 22). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/hamdt/418?format=json"
+        },
+        {
+            "amendmentNumber": "408",
+            "congress": 107,
+            "introducedDate": "2001-11-28",
+            "latestAction": {
+                "actionDate": "2001-11-28",
+                "actionTime": "20:57:09",
+                "text": "On agreeing to the Hyde amendment (A017) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/hamdt/408?format=json"
+        },
+        {
+            "amendmentNumber": "34",
+            "congress": 107,
+            "introducedDate": "2001-05-16",
+            "latestAction": {
+                "actionDate": "2001-05-16",
+                "actionTime": "12:37:38",
+                "text": "On agreeing to the Hyde amendment (A004) Agreed to by recorded vote: 218 - 210 (Roll no. 115). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/hamdt/34?format=json"
+        },
+        {
+            "amendmentNumber": "32",
+            "congress": 107,
+            "introducedDate": "2001-05-10",
+            "latestAction": {
+                "actionDate": "2001-05-10",
+                "actionTime": "14:03:41",
+                "text": "On agreeing to the Hyde amendment (A002) Agreed to by recorded vote: 252 - 165, 1 Present (Roll no. 107). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/hamdt/32?format=json"
+        },
+        {
+            "amendmentNumber": "36",
+            "congress": 107,
+            "introducedDate": "2001-05-16",
+            "latestAction": {
+                "actionDate": "2001-05-16",
+                "actionTime": "16:48:39",
+                "text": "On agreeing to the Hyde amendments (A005) as modified Agreed to by voice vote. (text as modified: CR H2229)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/hamdt/36?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-11-19",
+            "latestAction": {
+                "actionDate": "2002-11-19",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "5761",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "United States Leadership Against HIV/AIDS, Tuberculosis,  and Malaria Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5761?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-10-16",
+            "latestAction": {
+                "actionDate": "2002-11-12",
+                "text": "Referred to the Subcommittee on Immigration, Border Security, and Claims."
+            },
+            "number": "5649",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "To allow North Koreans to apply for refugee status or asylum.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5649?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-06-11",
+            "latestAction": {
+                "actionDate": "2002-06-11",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "4902",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To repeal section 801 of the Revenue Act of 1916.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4902?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-06-06",
+            "latestAction": {
+                "actionDate": "2002-06-06",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "4877",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Foreign Aid Impact Assessment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4877?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-25",
+            "latestAction": {
+                "actionDate": "2002-05-20",
+                "text": "Executive Comment Requested from DOD."
+            },
+            "number": "4591",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Colombia Antiterrorism Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4591?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-03-19",
+            "latestAction": {
+                "actionDate": "2002-05-22",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+            },
+            "number": "3994",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Afghanistan Freedom Support Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3994?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-03-14",
+            "latestAction": {
+                "actionDate": "2002-07-23",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+            },
+            "number": "3969",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Freedom Promotion Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3969?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-12-19",
+            "latestAction": {
+                "actionDate": "2001-12-19",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "3543",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Fair Play for Playwrights Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3543?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-11-27",
+            "latestAction": {
+                "actionDate": "2002-01-16",
+                "text": "Became Public Law No: 107-132."
+            },
+            "number": "3348",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To designate the National Foreign Affairs Training Center as the George P. Shultz National Foreign Affairs Training Center.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3348?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-10-31",
+            "latestAction": {
+                "actionDate": "2001-11-30",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 249."
+            },
+            "number": "3189",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Export Extension Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3189?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-07-24",
+            "latestAction": {
+                "actionDate": "2001-08-02",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 116."
+            },
+            "number": "2602",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To extend the Export Administration Act until November 20, 2001.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2602?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-07-18",
+            "latestAction": {
+                "actionDate": "2001-11-14",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+            },
+            "number": "2541",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Enhanced Protective Activities Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2541?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-06-06",
+            "latestAction": {
+                "actionDate": "2002-07-15",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "2069",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2069?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-05-24",
+            "latestAction": {
+                "actionDate": "2001-05-24",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1980",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Gas Tax Reduction Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1980?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-04-27",
+            "latestAction": {
+                "actionDate": "2002-09-30",
+                "text": "Became Public Law No: 107-228."
+            },
+            "number": "1646",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Foreign Relations Authorization Act, Fiscal Year 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1646?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-03-05",
+            "latestAction": {
+                "actionDate": "2002-05-09",
+                "text": "Referred to the Subcommittee on Workforce Protections."
+            },
+            "number": "356",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Supporting the goals and ideas of North American Occupational Safety and Health Week.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/107/hres/356?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-03-06",
+            "latestAction": {
+                "actionDate": "2002-03-06",
+                "actionTime": "14:05:28",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "358",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing support for the democratically elected Government of Colombia and its efforts to counter threats from United States-designated foreign terrorist organizations.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/107/hres/358?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-09-05",
+            "latestAction": {
+                "actionDate": "2001-09-05",
+                "actionTime": "18:43:44",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "233",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Recognizing the important relationship between the United States and Mexico.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/107/hres/233?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-02-27",
+            "latestAction": {
+                "actionDate": "2001-02-27",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "58",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing amounts for the expenses of the Committee on International Relations in the One Hundred Seventh Congress.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/107/hres/58?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-02-08",
+            "latestAction": {
+                "actionDate": "2001-02-13",
+                "actionTime": "18:23:38",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "34",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Congratulating the Prime Minister-elect of Israel, Ariel Sharon, calling for an end to violence in the Middle East, reaffirming the friendship between the Governments of the United States and Israel, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/107/hres/34?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-09-25",
+            "latestAction": {
+                "actionDate": "2002-09-26",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "483",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Directing the Clerk of the House of Representatives to make technical corrections in the enrollment of the bill H.R. 1646.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/hconres/483?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-07-26",
+            "latestAction": {
+                "actionDate": "2002-07-26",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "453",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of Congress relating to the increasingly dire food security situation in Zimbabwe and the failure of the Mugabe regime to take appropriate measures to mitigate the impact of its failed policies on the nutritional well-being of the people of Zimbabwe and of other countries in the Southern Africa region.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/hconres/453?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-12-04",
+            "latestAction": {
+                "actionDate": "2001-12-06",
+                "text": "Received in the Senate and referred to the Committee on Foreign Relations."
+            },
+            "number": "280",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing solidarity with Israel in the fight against terrorism.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/hconres/280?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-10-04",
+            "latestAction": {
+                "actionDate": "2001-12-06",
+                "text": "Received in the Senate and referred to the Committee on Foreign Relations."
+            },
+            "number": "242",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Recognizing Radio Free Europe/Radio Liberty's success in promoting democracy and its continuing contribution to United States national interests.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/hconres/242?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-09-06",
+            "latestAction": {
+                "actionDate": "2001-10-17",
+                "text": "Received in the Senate and referred to the Committee on Foreign Relations."
+            },
+            "number": "217",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Recognizing the historic significance of the fiftieth anniversary of the alliance between Australia and the United States under the ANZUS Treaty, paying tribute to the United States-Australia relationship, reaffirming the importance of economic and security cooperation between the United States and Australia, and welcoming the state visit by Australian Prime Minister John Howard.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/hconres/217?format=json"
+        },
+        {
+            "amendmentNumber": "236",
+            "congress": 106,
+            "introducedDate": "1999-06-24",
+            "latestAction": {
+                "actionDate": "1999-06-24",
+                "actionTime": "15:12:27",
+                "text": "On agreeing to the Hyde amendment (A001) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/236?format=json"
+        },
+        {
+            "amendmentNumber": "217",
+            "congress": 106,
+            "introducedDate": "1999-06-18",
+            "latestAction": {
+                "actionDate": "1999-06-18",
+                "actionTime": "01:43:27",
+                "text": "On agreeing to the Hyde amendment (A003) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/217?format=json"
+        },
+        {
+            "amendmentNumber": "174",
+            "congress": 106,
+            "introducedDate": "1999-06-15",
+            "latestAction": {
+                "actionDate": "1999-06-15",
+                "actionTime": "20:01:22",
+                "text": "On agreeing to the Hyde amendment (A007) Failed by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/174?format=json"
+        },
+        {
+            "amendmentNumber": "182",
+            "congress": 106,
+            "introducedDate": "1999-06-16",
+            "latestAction": {
+                "actionDate": "1999-06-16",
+                "actionTime": "18:24:10",
+                "text": "On agreeing to the Hyde amendment (A008) Failed by recorded vote: 146 - 282 (Roll no. 213). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/182?format=json"
+        },
+        {
+            "amendmentNumber": "63",
+            "congress": 106,
+            "introducedDate": "1999-05-05",
+            "latestAction": {
+                "actionDate": "1999-05-05",
+                "actionTime": "16:46:23",
+                "text": "On agreeing to the Hyde amendment (A010) Failed by recorded vote: 184 - 238 (Roll no. 110). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/63?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-10-26",
+            "latestAction": {
+                "actionDate": "2000-10-26",
+                "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "5563",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Offender Reentry and Community Safety Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/5563?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-10-25",
+            "latestAction": {
+                "actionDate": "2000-10-31",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "5544",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Pain Relief Promotion Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/5544?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-10-19",
+            "latestAction": {
+                "actionDate": "2000-10-19",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5505",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to exclude from gross income the value of diplomas, medals, and amounts received as part of international awards recognizing individual achievement for physics, chemistry, medicine, literature, economics, and peace.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/5505?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-10-04",
+            "latestAction": {
+                "actionDate": "2000-10-06",
+                "text": "Referred to the Subcommittee on Commercial and Administrative Law."
+            },
+            "number": "5380",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "To amend title 5, United States Code, to make technical amendments to certain provisions of title 5, United States Code, enacted by the Congressional Review Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/5380?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-09-25",
+            "latestAction": {
+                "actionDate": "2000-10-20",
+                "text": "Referred to the Subcommittee on Energy and Power."
+            },
+            "number": "5278",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Energy Independence Through Presidential Leadership Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/5278?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-07-13",
+            "latestAction": {
+                "actionDate": "2000-07-14",
+                "text": "Referred to the Subcommittee on Economic Development, Public Buildings, Hazardous Materials and Pipeline Transportation."
+            },
+            "number": "4852",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Federal Courts Budget Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4852?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-07-13",
+            "latestAction": {
+                "actionDate": "2000-07-20",
+                "text": "Committee Hearings Held."
+            },
+            "number": "4845",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal Property Campaign Fundraising Reform Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4845?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-07-12",
+            "latestAction": {
+                "actionDate": "2000-07-12",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "4826",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Lobbying With Appropriated Funds Reform Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4826?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-05-25",
+            "latestAction": {
+                "actionDate": "2000-05-25",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4543",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to provide relief for payment of asbestos-related claims.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4543?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-05-16",
+            "latestAction": {
+                "actionDate": "2000-06-29",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "4460",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Internet Tax Simplification Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4460?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-05-04",
+            "latestAction": {
+                "actionDate": "2000-07-28",
+                "text": "Became Public Law No: 106-252."
+            },
+            "number": "4391",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Mobile Telecommunications Sourcing Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4391?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-04-13",
+            "latestAction": {
+                "actionDate": "2000-06-29",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "4267",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Internet Tax Reform and Reduction Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4267?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-03-08",
+            "latestAction": {
+                "actionDate": "2000-03-22",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3869",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To provide for the liquidation or reliquidation of certain entries of copper and brass sheet and strip.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3869?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-10-25",
+            "latestAction": {
+                "actionDate": "2000-03-22",
+                "text": "Committee Hearings Held."
+            },
+            "number": "3138",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Free Market Antitrust Immunity Reform (FAIR) Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3138?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-10-20",
+            "latestAction": {
+                "actionDate": "1999-11-22",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "3111",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To exempt certain reports from automatic elimination and sunset pursuant to the Federal Reports Elimination and Sunset Act of 1995.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3111?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-08-04",
+            "latestAction": {
+                "actionDate": "1999-11-03",
+                "text": "Committee Hearings Held."
+            },
+            "number": "2701",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Justice for MAS Applicants Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2701?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-15",
+            "latestAction": {
+                "actionDate": "1999-11-03",
+                "text": "Committee Hearings Held."
+            },
+            "number": "2533",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Fairness in Telecommunications License Transfers Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2533?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-17",
+            "latestAction": {
+                "actionDate": "2000-05-23",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 566."
+            },
+            "number": "2260",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Pain Relief Promotion Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2260?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-08",
+            "latestAction": {
+                "actionDate": "1999-07-09",
+                "text": "Referred to the Subcommittee on Early Childhood, Youth and Families."
+            },
+            "number": "2036",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Children's Defense Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2036?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-05-18",
+            "latestAction": {
+                "actionDate": "1999-06-15",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "1843",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Mothers and Newborns Health Insurance Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1843?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-05-13",
+            "latestAction": {
+                "actionDate": "1999-11-19",
+                "text": "Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 420."
+            },
+            "number": "1801",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Antitrust Technical Corrections Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1801?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-05-04",
+            "latestAction": {
+                "actionDate": "2000-04-25",
+                "text": "Became Public Law No: 106-185."
+            },
+            "number": "1658",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Civil Asset Forfeiture Reform Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1658?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-04-20",
+            "latestAction": {
+                "actionDate": "2000-03-16",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "1488",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Compassion for Children and Child Support Enforcement Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1488?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-03-25",
+            "latestAction": {
+                "actionDate": "2000-07-24",
+                "text": "Placed on the Union Calendar, Calendar No. 449."
+            },
+            "number": "1283",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Asbestos Compensation Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1283?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-25",
+            "latestAction": {
+                "actionDate": "1999-07-13",
+                "text": "Referred to the Subcommittee on Crime."
+            },
+            "number": "222",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Expressing the sense of the House of Representatives about the Federal Bureau of Investigation Crisis Negotiation Program.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/106/hres/222?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-23",
+            "latestAction": {
+                "actionDate": "1999-02-23",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "74",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing amounts for the expenses of the Committee on the Judiciary in the One Hundred Sixth Congress.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/106/hres/74?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-01-06",
+            "latestAction": {
+                "actionDate": "1999-01-06",
+                "text": "Received in the Senate."
+            },
+            "number": "10",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Appointing the authorizing managers for the impeachment trial of William Jefferson Clinton, President of the United States.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/106/hres/10?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-07-10",
+            "latestAction": {
+                "actionDate": "2000-07-10",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "369",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To urge the Nobel Commission to award the Nobel Prize for Peace to His Holiness, Pope John Paul II, for his dedication to fostering peace throughout the world.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/106/hconres/369?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-08-25",
+            "latestAction": {
+                "actionDate": "1976-08-25",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "15260",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend title 18 of the United States Code for the purpose of prohibiting the sale of children in interstate or foreign commerce.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/15260?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-08-02",
+            "latestAction": {
+                "actionDate": "1976-08-02",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "15012",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Umberto Ruffolo.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/15012?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-06-10",
+            "latestAction": {
+                "actionDate": "1976-06-10",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "14297",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to increase for a 5-year period the duty on certain hand tools.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/14297?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-05-20",
+            "latestAction": {
+                "actionDate": "1976-05-20",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "13916",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow individuals to designate $1 of their income tax liability to be used for purposes of reducing the public debt of the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/13916?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-05-07",
+            "latestAction": {
+                "actionDate": "1976-05-07",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "13643",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow individuals to designate $1 of their income tax liability to be used for purposes of reducing the public debt of the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/13643?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-04-27",
+            "latestAction": {
+                "actionDate": "1976-04-27",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "13307",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow individuals to designate $1 of their income tax liability to be used for purposes of reducing the public debt of the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/13307?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-04-13",
+            "latestAction": {
+                "actionDate": "1976-04-13",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "13203",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow individuals to designate $1 of their income tax liability to be used for purposes of reducing the public debt of the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/13203?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-03-09",
+            "latestAction": {
+                "actionDate": "1976-03-09",
+                "text": "Referred to House Committee on House Administration."
+            },
+            "number": "12363",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to repeal the Presidential Primary Matching Payment Account Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/12363?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-02-19",
+            "latestAction": {
+                "actionDate": "1976-02-19",
+                "text": "Referred to House Committee on House Administration."
+            },
+            "number": "11981",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to repeal the Presidential Primary Matching Payment Account Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/11981?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-02-05",
+            "latestAction": {
+                "actionDate": "1976-02-05",
+                "text": "Referred to House Committee on House Administration."
+            },
+            "number": "11753",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to repeal the Presidential Primary Matching Payment Account Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/11753?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-12-04",
+            "latestAction": {
+                "actionDate": "1975-12-04",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "10995",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to extend to all unmarried individuals the full tax benefits of income splitting now enjoyed by married individuals filing joint returns; and to remove rate inequities for married persons where both are employed.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/10995?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-12-04",
+            "latestAction": {
+                "actionDate": "1975-12-04",
+                "text": "Referred to House Committee on Banking, Currency and Housing."
+            },
+            "number": "10994",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "A bill to require the payment of interest on certain funds of the United States held on deposit in commercial banks, to provide for reimbursement of commercial banks for services performed for the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/10994?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-09-26",
+            "latestAction": {
+                "actionDate": "1975-09-26",
+                "text": "Referred to House Committee on Agriculture."
+            },
+            "number": "9871",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "National Food Stamp Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/9871?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-09-19",
+            "latestAction": {
+                "actionDate": "1975-09-19",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "9730",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A bill to provide that the recently enacted provisions authorizing increases in the salaries of Senators and Representatives be limited only to the increase which will take effect October 1, 1975.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/9730?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-09-10",
+            "latestAction": {
+                "actionDate": "1975-09-10",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "9512",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A bill to provide that the recently enacted provisions authorizing increases in the salaries of Senators and Representatives be limited only to the increase which will take effect October 1, 1975.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/9512?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-03-04",
+            "latestAction": {
+                "actionDate": "1975-03-04",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "4168",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend title II of the Social Security Act so as to remove the limitation upon the amount of outside income which an individual may earn while receiving benefits thereunder.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/4168?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-03-04",
+            "latestAction": {
+                "actionDate": "1975-03-04",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "4167",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow a deduction for income tax purposes of certain expenses incurred by the taxpayer for the education of a dependent.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/4167?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-02-27",
+            "latestAction": {
+                "actionDate": "1975-02-27",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "3862",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to exclude from gross income the first $1,000 of interest received from savings account deposits in home lending institutions.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/94/hr/3862?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-07-22",
+            "latestAction": {
+                "actionDate": "1976-07-22",
+                "text": "Referred to House Committee on Post Office and Civil Service."
+            },
+            "number": "1029",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A resolution to authorize the President to proclaim the second Sunday in September of each year as Bataan Day.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/94/hjres/1029?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-02-05",
+            "latestAction": {
+                "actionDate": "1976-02-05",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "796",
+            "policyArea": {
+                "name": "Constitutional amendments"
+            },
+            "title": "A joint resolution proposing an amendment to the Constitution of the United States guaranteeing the right of life to the unborn.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/94/hjres/796?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-09-17",
+            "latestAction": {
+                "actionDate": "1975-09-17",
+                "text": "Referred to House Committee on Rules."
+            },
+            "number": "657",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Joint resolution to create a Joint Committee on Intelligence Operations.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/94/hjres/657?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-09-19",
+            "latestAction": {
+                "actionDate": "1975-09-19",
+                "text": "Referred to House Committee on Rules."
+            },
+            "number": "728",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Resolution creating a Select Committee on Energy.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/94/hres/728?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-07-22",
+            "latestAction": {
+                "actionDate": "1975-07-22",
+                "text": "Referred to House Committee on Rules."
+            },
+            "number": "619",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Resolution to create a Select Committee on Energy.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/94/hres/619?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1976-03-30",
+            "latestAction": {
+                "actionDate": "1976-03-30",
+                "text": "Referred to House Committee on International Relations."
+            },
+            "number": "598",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution expressing the sense of Congress with respect to the Baltic States.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/94/hconres/598?format=json"
+        },
+        {
+            "congress": 94,
+            "introducedDate": "1975-01-29",
+            "latestAction": {
+                "actionDate": "1975-01-29",
+                "text": "Referred to House Committee on Foreign Affairs (Subsequently: International Relations)."
+            },
+            "number": "79",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution expressing the sense of Congress concerning recognition by the European Security Conference of the Soviet Union's occupation of Estonia, Latvia, and Lithuania.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/94/hconres/79?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-08-08",
+            "latestAction": {
+                "actionDate": "1978-08-08",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "13793",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to amend title 28 of the United States Code to provide for an exclusive remedy against the United States in suits based upon acts or omissions of United States employees, to provide an improved procedure relating to certain illegal searches and seizures, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/13793?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-06-23",
+            "latestAction": {
+                "actionDate": "1978-06-23",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "13276",
+            "policyArea": {
+                "name": "Public records"
+            },
+            "title": "A bill to amend title 18, United States Code, relating to the production of false documents or papers of the United States, and the use of false information in obtaining official documents and paper of the United States, involving an element of identification.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/13276?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-05-25",
+            "latestAction": {
+                "actionDate": "1978-05-25",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "12868",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to provide an improved procedure relating to certain illegal searches and seizures.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/12868?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-05-09",
+            "latestAction": {
+                "actionDate": "1978-05-09",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "12635",
+            "policyArea": {
+                "name": null
+            },
+            "title": "A bill to amend the Rehabilitation Act of 1973 to provide that alcoholism and drug abuse shall not be considered physical or mental impairments for purposes of certain requirements established in such Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/12635?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-05-04",
+            "latestAction": {
+                "actionDate": "1978-05-04",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "12569",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A bill to amend title I of the Omnibus Crime Control and Safe Streets Act of 1968 to provide for the recapture of unused proceeds of certain grants.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/12569?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-03-16",
+            "latestAction": {
+                "actionDate": "1978-03-16",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "11600",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Federal Constitution Convention Amendment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/11600?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-03-15",
+            "latestAction": {
+                "actionDate": "1978-03-15",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "11573",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "A bill to amend the Rehabilitation Act of 1973 with respect to the definition of a handicap.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/11573?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-03-13",
+            "latestAction": {
+                "actionDate": "1978-03-13",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "11472",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "A bill to amend the Rehabilitation Act of 1973 with respect to the definition of a handicap.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/11472?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-03-08",
+            "latestAction": {
+                "actionDate": "1978-10-14",
+                "text": "Measure passed House, amended."
+            },
+            "number": "11405",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Maryrose and Rosemary Evangelista.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/11405?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-03-07",
+            "latestAction": {
+                "actionDate": "1978-03-07",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "11332",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "A bill to amend the Rehabilitation Act of 1973 with respect to the definition of a handicap.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/11332?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-02-21",
+            "latestAction": {
+                "actionDate": "1978-02-21",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "11018",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to provide for the establishment of a Commission on Federal Judicial Nominations with respect to each Federal judicial district for the purpose of recommending to the President, on the basis of merit, potential nominees for the offices of United States district judge, United States attorney, and United States marshal for such district.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/11018?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-02-21",
+            "latestAction": {
+                "actionDate": "1978-02-21",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "11017",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "A bill to amend the Rehabilitation Act of 1973 with respect to the definition of a handicap.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/11017?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-02-08",
+            "latestAction": {
+                "actionDate": "1978-02-08",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "10835",
+            "policyArea": {
+                "name": "Public records"
+            },
+            "title": "A bill to amend title 18, United States Code, relating to the production of false documents or papers of the United States, and the use of false information in obtaining official documents and papers of the United States, involving an element of identification.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/10835?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-02-08",
+            "latestAction": {
+                "actionDate": "1978-02-08",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "10836",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Federal Constitution Convention Amendment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/10836?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-02-08",
+            "latestAction": {
+                "actionDate": "1978-02-08",
+                "text": "Referred to House Committee on Merchant Marine and Fisheries."
+            },
+            "number": "10864",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill to permit the vessel Manatra II to be inspected, licensed, and operated as a passenger-carrying vessel, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/10864?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-02-06",
+            "latestAction": {
+                "actionDate": "1978-02-06",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "10767",
+            "policyArea": {
+                "name": "Income tax"
+            },
+            "title": "Married Individuals Income Tax Relief Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/10767?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1978-02-08",
+            "latestAction": {
+                "actionDate": "1978-02-08",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "10837",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow individuals to designate $1 of their income tax liability to be used for purposes of reducing the public debt of the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/10837?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-11-30",
+            "latestAction": {
+                "actionDate": "1977-11-30",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "10172",
+            "policyArea": {
+                "name": "Public records"
+            },
+            "title": "A bill to amend title 18, United States Code, relating to the production of false documents or papers of the United States, and the use of false information in obtaining official documents and papers of the United States, involving an element of identification.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/10172?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-11-29",
+            "latestAction": {
+                "actionDate": "1977-11-29",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "10135",
+            "policyArea": {
+                "name": "Cemeteries and funerals"
+            },
+            "title": "A bill to have an inscription and appropriate medals, ribbons, and tributes placed upon the crypt at the National Cemetery at Arlington, Va., reserved for an American soldier who lost his life in Southeast Asia during the Vietnam era, and whose identity is unknown.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/10135?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-11-29",
+            "latestAction": {
+                "actionDate": "1977-11-29",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "10133",
+            "policyArea": {
+                "name": "Public records"
+            },
+            "title": "A bill to amend title 18, United States Code, relating to the production of false documents or papers of the United States, and the use of false information in obtaining official documents and papers of the United States, involving an element of identification.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/10133?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-11-29",
+            "latestAction": {
+                "actionDate": "1977-11-29",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "10134",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "A bill to provide procedures for calling constitutional conventions for proposing amendments to the Constitution of the United States, on application of the legislatures of two-thirds of the States, pursuant to article V of the Constitution.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/10134?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-11-01",
+            "latestAction": {
+                "actionDate": "1977-11-01",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "9880",
+            "policyArea": {
+                "name": "Public records"
+            },
+            "title": "A bill to amend title 18, United States Code, relating to the production of false documents or papers of the United States, and the use of false information in obtaining official documents and papers of the United States involving an element of identification.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/9880?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-11-01",
+            "latestAction": {
+                "actionDate": "1977-11-01",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "9867",
+            "policyArea": {
+                "name": "Cemeteries and funerals"
+            },
+            "title": "A bill to have an inscription and appropriate medals, ribbons, and tributes placed upon the crypt at the National Cemetery at Arlington, Va., reserved for an American soldier who lost his life in Southeast Asia during the Vietnam era, and whose identity is unknown.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/9867?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-10-26",
+            "latestAction": {
+                "actionDate": "1977-10-26",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "9767",
+            "policyArea": {
+                "name": "Cemeteries and funerals"
+            },
+            "title": "A bill to have an inscription and appropriate medals, ribbons, and tributes placed upon the crypt at the National Cemetery at Arlington, Va., reserved for an American soldier who lost his life in Southeast Asia during the Vietnam era, and whose identity is unknown.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/9767?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-10-27",
+            "latestAction": {
+                "actionDate": "1977-10-27",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "9781",
+            "policyArea": {
+                "name": "Cemeteries and funerals"
+            },
+            "title": "A bill to have an inscription and appropriate medals, ribbons, and tributes placed upon the crypt at the National Cemetery at Arlington, Va., reserved for an American soldier who lost his life in Southeast Asia during the Vietnam era, and whose identity is unknown.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/9781?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-10-26",
+            "latestAction": {
+                "actionDate": "1977-10-26",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "9766",
+            "policyArea": {
+                "name": "Cemeteries and funerals"
+            },
+            "title": "A bill to have an inscription and appropriate medals, ribbons, and tributes placed upon the crypt at the National Cemetery at Arlington, Va., reserved for an American soldier who lost his life in Southeast Asia during the Vietnam era, and whose identity is unknown.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/9766?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-09-12",
+            "latestAction": {
+                "actionDate": "1977-09-12",
+                "text": "Referred to House Committee on Banking, Finance and Urban Affairs."
+            },
+            "number": "9040",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "A bill to reduce the gross compensation of U.S. executive directors and alternate directors of the international financial institutions to levels comparable with positions of similar responsibility within the U.S. Government.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/9040?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-07-27",
+            "latestAction": {
+                "actionDate": "1977-07-27",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "8560",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "A bill to provide procedures for calling constitutional conventions for proposing amendments to the Constitution of the United States, on application of the legislatures of two-thirds of the States, pursuant to article V of the Constitution.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/8560?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-07-27",
+            "latestAction": {
+                "actionDate": "1977-07-27",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "8590",
+            "policyArea": {
+                "name": "Public records"
+            },
+            "title": "A bill to amend title 18, United States Code, relating to the production of false documents or papers of the United States, and the use of false information in obtaining official documents and papers of the United States, involving an element of identification.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/8590?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-07-25",
+            "latestAction": {
+                "actionDate": "1977-07-25",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "8509",
+            "policyArea": {
+                "name": "Cemeteries and funerals"
+            },
+            "title": "A bill to have an inscription and appropriate medals, ribbons, and tributes placed upon the crypt at the National Cemetery at Arlington, Va., reserved for an American soldier who lost his life in Southeast Asia during the Vietnam era, and whose identity is unknown.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/8509?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-07-13",
+            "latestAction": {
+                "actionDate": "1977-07-13",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "8266",
+            "policyArea": {
+                "name": "Public records"
+            },
+            "title": "A bill to amend title 18, United States Code, relating to the production of false documents or papers of the United States, and the use of false information in obtaining official documents and papers of the United States, involving an element of identification.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/8266?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-06-21",
+            "latestAction": {
+                "actionDate": "1977-06-21",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "7916",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Special Prosecutor Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/7916?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-06-08",
+            "latestAction": {
+                "actionDate": "1977-06-08",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "7668",
+            "policyArea": {
+                "name": "Cemeteries and funerals"
+            },
+            "title": "A bill to have an inscription and appropriate medals, ribbons, and tributes placed upon the crypt at the National Cemetery at Arlington, Va., reserved for an American soldier who lost his life in Southeast Asia during the Vietnam era, and whose identity is unknown.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/7668?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-06-13",
+            "latestAction": {
+                "actionDate": "1977-06-13",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "7743",
+            "policyArea": {
+                "name": "Public records"
+            },
+            "title": "A bill to amend title 18, United States Code, relating to the production of false documents or papers of the United States, and the use of false information in obtaining official documents and papers of the United States, involving an element of identification.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/7743?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-06-06",
+            "latestAction": {
+                "actionDate": "1977-06-06",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "7625",
+            "policyArea": {
+                "name": "Cemeteries and funerals"
+            },
+            "title": "A bill to have an inscription and appropriate medals, ribbons, and tributes placed upon the crypt at the National Cemetery at Arlington, Va., reserved for an American soldier who lost his life in Southeast Asia during the Vietnam era, and whose identity is unknown.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/7625?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-06-01",
+            "latestAction": {
+                "actionDate": "1977-06-01",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "7512",
+            "policyArea": {
+                "name": "Cemeteries and funerals"
+            },
+            "title": "A bill to have an inscription and appropriate medals, ribbons, and tributes placed upon the crypt at the National Cemetery at Arlington, Va., reserved for an American soldier who lost his life in Southeast Asia during the Vietnam era, and whose identity is unknown.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/7512?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-06-01",
+            "latestAction": {
+                "actionDate": "1977-06-01",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "7511",
+            "policyArea": {
+                "name": "Public records"
+            },
+            "title": "A bill to amend title 18, United States Code, relating to the production of false documents or papers of the United States, and the use of false information in obtaining official documents and papers of the United States, involving an element of identification.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/7511?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-06-01",
+            "latestAction": {
+                "actionDate": "1977-06-01",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "7513",
+            "policyArea": {
+                "name": "Cemeteries and funerals"
+            },
+            "title": "A bill to have an inscription and appropriate medals, ribbons, and tributes placed upon the crypt at the National Cemetery at Arlington, Va., reserved for an American soldier who lost his life in Southeast Asia during the Vietnam era, and whose identity is unknown.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/7513?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-06-01",
+            "latestAction": {
+                "actionDate": "1977-06-01",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "7514",
+            "policyArea": {
+                "name": "Cemeteries and funerals"
+            },
+            "title": "A bill to have an inscription and appropriate medals, ribbons, and tributes placed upon the crypt at the National Cemetery at Arlington, Va., reserved for an American soldier who lost his life in Southeast Asia during the Vietnam era, and whose identity is unknown.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/7514?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-05-26",
+            "latestAction": {
+                "actionDate": "1977-05-26",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "7463",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A bill to amend title XVI of the Social Security Act to provide that supplemental security income benefits shall be payable to a resident alien only if he has continuously resided in the United States for at least 5 years.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/7463?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-05-23",
+            "latestAction": {
+                "actionDate": "1977-05-23",
+                "text": "Referred to House Committee on Interstate and Foreign Commerce."
+            },
+            "number": "7339",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "A bill to discourage the use of leg-hold or steel jaw traps on animals in the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/7339?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-05-11",
+            "latestAction": {
+                "actionDate": "1977-05-11",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "7090",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to exclude from gross income the first $1,000 of interest received from savings account deposits in home lending institutions.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/7090?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-05-09",
+            "latestAction": {
+                "actionDate": "1977-05-09",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "7008",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Federal Constitution Convention Amendment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/7008?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-05-09",
+            "latestAction": {
+                "actionDate": "1977-05-09",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "7009",
+            "policyArea": {
+                "name": "Public records"
+            },
+            "title": "A bill to amend title 18, United States Code, relating to the production of false documents or papers of the United States, and the use of false information in obtaining official documents and papers of the United States, involving an element of identification.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/7009?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-04-29",
+            "latestAction": {
+                "actionDate": "1977-04-29",
+                "text": "Referred to House Committee on Veterans' Affairs."
+            },
+            "number": "6778",
+            "policyArea": {
+                "name": "Cemeteries and funerals"
+            },
+            "title": "A bill to have an inscription and appropriate medals, ribbons, and tributes placed upon the crypt at the National Cemetery at Arlington, Va., reserved for an American soldier who lost his life in Southeast Asia during the Vietnam era, and whose identity is unknown.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/6778?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-04-29",
+            "latestAction": {
+                "actionDate": "1977-04-29",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "6779",
+            "policyArea": {
+                "name": null
+            },
+            "title": "A bill to amend title 18 of the United States Code for the purpose of prohibiting the sale of children in interstate or foreign commerce.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/6779?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-29",
+            "latestAction": {
+                "actionDate": "1977-03-29",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "5732",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A bill to amend title XVIII of the Social Security Act to extend the coverage of services provided outside the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/5732?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-29",
+            "latestAction": {
+                "actionDate": "1977-03-29",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "5731",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow a deduction for income tax purposes of certain expenses incurred by the taxpayer for the education of a dependent.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/5731?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-23",
+            "latestAction": {
+                "actionDate": "1977-03-23",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "5557",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Mrs. Olga Tarvin.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/5557?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-10",
+            "latestAction": {
+                "actionDate": "1977-03-10",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "4835",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Special Prosecutor Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/4835?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-08",
+            "latestAction": {
+                "actionDate": "1977-03-08",
+                "text": "Referred to House Committee on Interior and Insular Affairs."
+            },
+            "number": "4674",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to add certain lands to the Boundary Waters Canoe Area, to redesignate such areas as the Boundary Waters Wilderness Area, to withdraw certain authorities for timber harvesting and vehicle use within such area, to increase the payments made to counties respecting such area.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/4674?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-03-02",
+            "latestAction": {
+                "actionDate": "1977-03-02",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "4292",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Special Prosecutor Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/4292?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-02-08",
+            "latestAction": {
+                "actionDate": "1977-02-08",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "3254",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1954 to allow individuals to designate $1 of their income tax liability to be used for purposes of reducing the public debt of the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/3254?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-02-08",
+            "latestAction": {
+                "actionDate": "1977-02-08",
+                "text": "Referred to House Committee on Banking, Finance and Urban Affairs."
+            },
+            "number": "3253",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "A bill to require the payment of interest on certain funds of the United States held on deposit in commercial banks, to provide for reimbursement of commercial banks for services performed for the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/3253?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-02-01",
+            "latestAction": {
+                "actionDate": "1977-02-01",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "2826",
+            "policyArea": {
+                "name": null
+            },
+            "title": "A bill to amend title 18 of the United States Code for the purpose of prohibiting the sale of children in interstate or foreign commerce.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/2826?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-01-31",
+            "latestAction": {
+                "actionDate": "1977-01-31",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "2711",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Special Prosecutor Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/2711?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-01-11",
+            "latestAction": {
+                "actionDate": "1977-01-11",
+                "text": "Referred to House Committee on Education and Labor."
+            },
+            "number": "1677",
+            "policyArea": {
+                "name": "Age and employment"
+            },
+            "title": "A bill to terminate age discrimination in employment.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/1677?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-01-04",
+            "latestAction": {
+                "actionDate": "1978-08-04",
+                "text": "Private Law 95-48."
+            },
+            "number": "1420",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Umberto Ruffolo.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/1420?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-01-04",
+            "latestAction": {
+                "actionDate": "1977-01-04",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "117",
+            "policyArea": {
+                "name": null
+            },
+            "title": "A bill to amend title 18 of the United States Code for the purpose of prohibiting the sale of children in interstate or foreign commerce.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/95/hr/117?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-12-06",
+            "latestAction": {
+                "actionDate": "1977-12-06",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "668",
+            "policyArea": {
+                "name": "Blacks"
+            },
+            "title": "A joint resolution proposing an amendment to the Constitution on the United States providing that all persons shall have the right to be free from discrimination.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/95/hjres/668?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-10-06",
+            "latestAction": {
+                "actionDate": "1977-10-06",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "616",
+            "policyArea": {
+                "name": "Abortion"
+            },
+            "title": "A joint resolution proposing an amendment to the Constitution of the United States guaranteeing the right of life to the unborn.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/95/hjres/616?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-06-15",
+            "latestAction": {
+                "actionDate": "1977-06-15",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "520",
+            "policyArea": {
+                "name": "Abortion"
+            },
+            "title": "Joint resolution proposing an amendment to the Constitution of the United States guaranteeing the right of life to the unborn.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/95/hjres/520?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-04-21",
+            "latestAction": {
+                "actionDate": "1977-04-21",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "406",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Joint resolution proposing an amendment to the Constitution of the United States allowing an item veto in appropriations.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/95/hjres/406?format=json"
+        },
+        {
+            "congress": 95,
+            "introducedDate": "1977-04-21",
+            "latestAction": {
+                "actionDate": "1977-04-21",
+                "text": "Referred to House Committee on the Judiciary."
+            },
+            "number": "405",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Joint resolution proposing an amendment to the Constitution of the United States allowing an item veto in appropriations.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/95/hjres/405?format=json"
+        }
+    ]
+}

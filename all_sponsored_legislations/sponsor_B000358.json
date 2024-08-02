@@ -1,0 +1,72 @@
+{
+    "pagination": {
+        "count": 4
+    },
+    "request": {
+        "bioguideId": "b000358",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 97,
+            "introducedDate": "1981-12-10",
+            "latestAction": {
+                "actionDate": "1983-01-13",
+                "text": "Became Public Law No: 97-466."
+            },
+            "number": "5161",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to designate certain lands in the Monongahela National Forest, West Virginia, as wilderness; and to designate management of certain lands for uses other than wilderness.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/5161?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-03-04",
+            "latestAction": {
+                "actionDate": "1981-09-29",
+                "text": "Unfavorable Executive Comment Received From DOT."
+            },
+            "number": "2278",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to place a sign memorializing the New River Gorge Bridge as the world's largest steel-arch span bridge.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/97/hr/2278?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1981-06-17",
+            "latestAction": {
+                "actionDate": "1982-03-16",
+                "text": "See S.J.Res.91."
+            },
+            "number": "290",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A joint resolution to authorize and request the President to designate July, 1981 as \"National Peach Month,\" and for other purposes.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/97/hjres/290?format=json"
+        },
+        {
+            "congress": 97,
+            "introducedDate": "1982-07-20",
+            "latestAction": {
+                "actionDate": "1982-12-02",
+                "text": "Resolution agreed to in Senate without amendment and with a preamble by Voice Vote."
+            },
+            "number": "376",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "A concurrent resolution recognizing the outstanding service and patriotism exhibited by the volunteers of the American National Red Cross during times of war and expressing the gratitude of the Congress for the service of such volunteers.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/97/hconres/376?format=json"
+        }
+    ]
+}

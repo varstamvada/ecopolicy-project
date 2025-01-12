@@ -1,0 +1,1181 @@
+{
+    "pagination": {
+        "count": 80
+    },
+    "request": {
+        "bioguideId": "b000220",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "732",
+            "congress": 112,
+            "introducedDate": "2011-07-26",
+            "latestAction": {
+                "actionDate": "2011-07-26",
+                "actionTime": "19:53:35",
+                "text": "On agreeing to the Bass (NH) amendment (A009) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/732?format=json"
+        },
+        {
+            "amendmentNumber": "55",
+            "congress": 112,
+            "introducedDate": "2011-02-16",
+            "latestAction": {
+                "actionDate": "2011-02-17",
+                "actionTime": "10:47:05",
+                "text": "On agreeing to the Bass (NH) amendment (A045) Failed by recorded vote: 104 - 322, 2 Present (Roll no. 71). (consideration: CR H1083)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/55?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-09-19",
+            "latestAction": {
+                "actionDate": "2012-09-19",
+                "text": "Referred to the House Committee on the Budget."
+            },
+            "number": "6438",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Member Pay Reduction and Responsibility Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6438?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-02-14",
+            "latestAction": {
+                "actionDate": "2012-02-21",
+                "text": "Referred to the Subcommittee on Energy and Environment."
+            },
+            "number": "4017",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Smart Energy Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/4017?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-11-03",
+            "latestAction": {
+                "actionDate": "2011-11-04",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3342",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Affordable Medicines Utilization Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3342?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-11-01",
+            "latestAction": {
+                "actionDate": "2011-12-08",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "3293",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 10, United States Code, to authorize the Secretary of Defense (and the Secretary of Homeland Security in the case of the Coast Guard) to issue, at no cost to the United States, a military service identification card to persons who served in the Armed Forces.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3293?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-10-14",
+            "latestAction": {
+                "actionDate": "2011-10-18",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3211",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Humanitarian Device Reform Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3211?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-06-21",
+            "latestAction": {
+                "actionDate": "2011-09-08",
+                "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education."
+            },
+            "number": "2253",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "To establish within the Department of Education the Innovation Inspiration school grant program, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2253?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-05-05",
+            "latestAction": {
+                "actionDate": "2011-05-06",
+                "text": "Referred to the Subcommittee on Energy and Power."
+            },
+            "number": "1756",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "National Oilheat Research Alliance Reauthorization Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1756?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-04-15",
+            "latestAction": {
+                "actionDate": "2011-08-25",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "1591",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Sanctity of Eternal Rest for Veterans Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1591?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-04-04",
+            "latestAction": {
+                "actionDate": "2011-10-06",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+            },
+            "number": "1343",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "To return unused or reclaimed funds made available for broadband awards in the American Recovery and Reinvestment Act of 2009 to the Treasury of the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1343?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-06-15",
+            "latestAction": {
+                "actionDate": "2011-06-15",
+                "text": "Referred to the House Committee on Rules."
+            },
+            "number": "307",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Amending the Rules of the House of Representatives to establish a Committee on the Reduction of Nonessential Federal Expenditures.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/307?format=json"
+        },
+        {
+            "amendmentNumber": "797",
+            "congress": 109,
+            "introducedDate": "2006-05-04",
+            "latestAction": {
+                "actionDate": "2006-05-04",
+                "actionTime": "12:43:07",
+                "text": "On agreeing to the Bass amendment (A010) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/797?format=json"
+        },
+        {
+            "amendmentNumber": "124",
+            "congress": 109,
+            "introducedDate": "2005-05-12",
+            "latestAction": {
+                "actionDate": "2005-05-12",
+                "actionTime": "12:56:36",
+                "text": "On agreeing to the Bass amendment (A003) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/124?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-12-05",
+            "latestAction": {
+                "actionDate": "2006-12-05",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "6340",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "To clarify provisions relating to statutory copyright licenses for satellite carriers.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/6340?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-09-29",
+            "latestAction": {
+                "actionDate": "2006-10-02",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "6260",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend title XVIII of the Social Security Act to provide for coverage under the Medicare Program of certain medical mobility devices approved as class III medical devices.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/6260?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-09",
+            "latestAction": {
+                "actionDate": "2006-05-15",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "5321",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Access to Better Choice in Dialysis Act of 2006",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/5321?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-02",
+            "latestAction": {
+                "actionDate": "2006-07-13",
+                "text": "Committee on Energy and Natural Resources. Hearings held."
+            },
+            "number": "5254",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Refinery Permit Process Schedule Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/5254?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-03-30",
+            "latestAction": {
+                "actionDate": "2006-09-25",
+                "actionTime": "19:00:05",
+                "text": "On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 223 - 167 (Roll no. 471)."
+            },
+            "number": "5059",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "New Hampshire Wilderness Act of 2006",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/5059?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-03-16",
+            "latestAction": {
+                "actionDate": "2006-03-16",
+                "text": "Referred to the House Committee on Government Reform."
+            },
+            "number": "4980",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To allow employees of Federally-qualified health centers to obtain health coverage under chapter 89 of title 5, United States Code.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4980?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-02-14",
+            "latestAction": {
+                "actionDate": "2006-02-14",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "4740",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Save Our Small and Seasonal Businesses Act of 2006",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4740?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-09-07",
+            "latestAction": {
+                "actionDate": "2006-12-05",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 669."
+            },
+            "number": "3675",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "American Spirit Fraud Prevention Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3675?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-06-30",
+            "latestAction": {
+                "actionDate": "2005-08-10",
+                "text": "Referred to the Subcommittee on Education Reform."
+            },
+            "number": "3145",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Mandatory IDEA Full Funding Compromise Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3145?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-04-27",
+            "latestAction": {
+                "actionDate": "2005-05-23",
+                "text": "Referred to the Subcommittee on Energy and Air Quality."
+            },
+            "number": "1873",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Clean Air Planning Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1873?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-06-27",
+            "latestAction": {
+                "actionDate": "2006-06-27",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "436",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Congratulating Donald Andrew Hall for his selection by the Librarian of Congress as the 14th Poet Laureate of the United States and for his great accomplishments in prose and essays focusing on New England rural living, baseball, and how work conveys meaning to ordinary life.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/109/hconres/436?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-03-17",
+            "latestAction": {
+                "actionDate": "2005-03-17",
+                "text": "Referred to the House Committee on Government Reform."
+            },
+            "number": "104",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Congratulating Bode Miller for winning the 2004-2005 World Cup overall title in Alpine skiing.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/109/hconres/104?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-10-08",
+            "latestAction": {
+                "actionDate": "2004-10-08",
+                "text": "Referred to the Subcommittee on Energy and Air Quality."
+            },
+            "number": "5302",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Renewable Energy Security Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/5302?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-02-11",
+            "latestAction": {
+                "actionDate": "2004-03-11",
+                "text": "Referred to the Subcommittee on Education Reform."
+            },
+            "number": "3802",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Mandatory IDEA Full Funding Compromise Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3802?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-09-25",
+            "latestAction": {
+                "actionDate": "2003-12-06",
+                "text": "Became Public Law No: 108-166."
+            },
+            "number": "3185",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To designate the facility of the United States Postal Service located at 38 Spring Street in Nashua, New Hampshire, as the \"Hugh Gregg Post Office Building\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3185?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-09-16",
+            "latestAction": {
+                "actionDate": "2003-10-06",
+                "text": "Referred to the Subcommittee on Energy and Air Quality."
+            },
+            "number": "3093",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Clean Air Planning Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3093?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-07-16",
+            "latestAction": {
+                "actionDate": "2003-10-14",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Armed Services."
+            },
+            "number": "2755",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To authorize the President to issue posthumously to the late William \"Billy\" Mitchell a commission as major general, United States Army.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2755?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-01-27",
+            "latestAction": {
+                "actionDate": "2003-02-13",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+            },
+            "number": "346",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "American Spirit Fraud Prevention Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/346?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-10-30",
+            "latestAction": {
+                "actionDate": "2002-12-17",
+                "text": "Became Public Law No: 107-352."
+            },
+            "number": "3180",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To consent to certain amendments to the New Hampshire-Vermont Interstate School Compact.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3180?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-10-02",
+            "latestAction": {
+                "actionDate": "2001-11-27",
+                "text": "Referred to the Subcommittee on Crime."
+            },
+            "number": "2986",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "American Spirit Fraud Prevention Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2986?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-10-02",
+            "latestAction": {
+                "actionDate": "2001-11-14",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+            },
+            "number": "2985",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "American Spirit Fraud Prevention Act ",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2985?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-04-04",
+            "latestAction": {
+                "actionDate": "2001-04-16",
+                "text": "Referred to the Subcommittee on Commerce, Trade and Consumer Protection."
+            },
+            "number": "1426",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "To amend the Consumer Product Safety Act to provide that low-speed electric personal assistive mobility devices are consumer products subject to that Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1426?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-13",
+            "latestAction": {
+                "actionDate": "2001-11-14",
+                "text": "Placed on the Union Calendar, Calendar No. 176."
+            },
+            "number": "981",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Budget Responsibility and Efficiency Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/981?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-02-27",
+            "latestAction": {
+                "actionDate": "2001-04-20",
+                "text": "Referred to the Subcommittee on Education Reform."
+            },
+            "number": "737",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Mandatory IDEA Full Funding Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/737?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-02-26",
+            "latestAction": {
+                "actionDate": "2001-03-13",
+                "text": "Star Print ordered on the bill."
+            },
+            "number": "724",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "To authorize appropriations to carry out part B of title I of the Energy Policy and Conservation Act, relating to the Strategic Petroleum Reserve.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/724?format=json"
+        },
+        {
+            "amendmentNumber": "776",
+            "congress": 106,
+            "introducedDate": "2000-06-13",
+            "latestAction": {
+                "actionDate": "2000-06-13",
+                "actionTime": "17:07:17",
+                "text": "On agreeing to the Bass amendment (A018) Failed by recorded vote: 98 - 319 (Roll no. 259). (text:  CR H4258)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/776?format=json"
+        },
+        {
+            "amendmentNumber": "758",
+            "congress": 106,
+            "introducedDate": "2000-06-08",
+            "latestAction": {
+                "actionDate": "2000-06-08",
+                "actionTime": "18:03:44",
+                "text": "On agreeing to the Bass amendment (A002) Failed by voice vote. (text: CR H4087-4088)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/758?format=json"
+        },
+        {
+            "amendmentNumber": "407",
+            "congress": 106,
+            "introducedDate": "1999-08-05",
+            "latestAction": {
+                "actionDate": "1999-08-05",
+                "actionTime": "20:27:31",
+                "text": "On agreeing to the Bass amendment (A017) Failed by recorded vote: 169 - 256 (Roll no. 381). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/407?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-09-14",
+            "latestAction": {
+                "actionDate": "2000-10-28",
+                "text": "Referred to the Subcommittee on Early Childhood, Youth and Families."
+            },
+            "number": "5180",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Mandatory IDEA Full Funding Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/5180?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-05-25",
+            "latestAction": {
+                "actionDate": "2000-07-13",
+                "text": "Referred to the Subcommittee on Employer-Employee Relations."
+            },
+            "number": "4551",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Fair Benefits for Seniors Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4551?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-05-19",
+            "latestAction": {
+                "actionDate": "2000-05-19",
+                "text": "Referred to the Committee on Ways and Means, and in addition to the Committees on the Budget, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "4505",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Debt Reduction and Control Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4505?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-03-23",
+            "latestAction": {
+                "actionDate": "2000-04-03",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "4069",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Stamp Out Breast Cancer Reauthorization Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4069?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-02-08",
+            "latestAction": {
+                "actionDate": "2000-02-15",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3585",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "To require the Attorney General and the Secretary of the Treasury to operate the land border port of entry located in Pittsburg, New Hampshire, as a full-time port of entry.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3585?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-11-08",
+            "latestAction": {
+                "actionDate": "1999-11-08",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "3246",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Small Business Pension Accessibility Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3246?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-09-30",
+            "latestAction": {
+                "actionDate": "1999-09-30",
+                "text": "Referred to the Committee on the Budget, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "2985",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Budget Responsibility and Efficiency Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2985?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-09-13",
+            "latestAction": {
+                "actionDate": "1999-09-17",
+                "text": "Referred to the Subcommittee on National Parks and Public Lands."
+            },
+            "number": "2839",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Saint-Gaudens National Historic Site Improvement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2839?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-08-05",
+            "latestAction": {
+                "actionDate": "1999-09-10",
+                "text": "Referred to the Subcommittee on Telecommunications, Trade, and Consumer Protection."
+            },
+            "number": "2727",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Telephone Services Consumer Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2727?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-03-03",
+            "latestAction": {
+                "actionDate": "1999-03-30",
+                "text": "Referred to the Subcommittee on Telecommunications, Trade, and Consumer Protection."
+            },
+            "number": "952",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Local Zoning Preservation Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/952?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-08-05",
+            "latestAction": {
+                "actionDate": "2000-10-03",
+                "actionTime": "14:42:07",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "278",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Expressing the sense of the House of Representatives regarding the importance of education, early detection and treatment, and other efforts in the fight against breast cancer.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/106/hres/278?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-16",
+            "latestAction": {
+                "actionDate": "1999-06-22",
+                "actionTime": "14:55:06",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "211",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Expressing the sense of the House of Representatives regarding the importance of raising public awareness of prostate cancer, and of regular testing and examinations in the fight against prostate cancer.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/106/hres/211?format=json"
+        },
+        {
+            "amendmentNumber": "541",
+            "congress": 104,
+            "introducedDate": "1995-07-17",
+            "latestAction": {
+                "actionDate": "1995-07-17",
+                "actionTime": "18:09:29",
+                "text": "By unanimous consent, the Bass amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/541?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-26",
+            "latestAction": {
+                "actionDate": "1996-09-26",
+                "text": "Referred to the House Committee on Transportation and Infrastructure."
+            },
+            "number": "4225",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To authorize the Secretary of Transportation to issue a certificate of documentation with appropriate endorsement for employment in the coastwise trade and fisheries for the vessel HEY, DA!.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/4225?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-05",
+            "latestAction": {
+                "actionDate": "1996-09-10",
+                "text": "Referred to the Subcommittee on National Parks, Forests and Lands."
+            },
+            "number": "4026",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Berlin, New Hampshire Historic Recognition Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/4026?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-07-23",
+            "latestAction": {
+                "actionDate": "1996-07-31",
+                "text": "Referred to the Subcommittee on Government Management, Information and Technology."
+            },
+            "number": "3872",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "White House Inspector General Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3872?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-07-11",
+            "latestAction": {
+                "actionDate": "1996-09-04",
+                "text": "Referred to the Subcommittee on the Constitution."
+            },
+            "number": "3792",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "R.I.G.H.T. Congress Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3792?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-03-29",
+            "latestAction": {
+                "actionDate": "1996-03-29",
+                "text": "Referred to the House Committee on House Oversight."
+            },
+            "number": "3208",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Congressional Campaign Finance Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3208?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-01-31",
+            "latestAction": {
+                "actionDate": "1996-10-03",
+                "text": "On motion to refer the bill and the accompanying veto message to the Committee on Resources. Agreed to without objection."
+            },
+            "number": "2909",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Silvio O. Conte National Fish and Wildlife Refuge Eminent Domain Prevention Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2909?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-09-28",
+            "latestAction": {
+                "actionDate": "1995-10-05",
+                "text": "Referred to the Subcommittee on Resource Conservation, Research and Forestry."
+            },
+            "number": "2421",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Northern Forest Stewardship Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2421?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-09-19",
+            "latestAction": {
+                "actionDate": "1995-09-19",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2355",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to allow a corporation to elect the pooling method of determining foreign tax credits in certain cases, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2355?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-06-30",
+            "latestAction": {
+                "actionDate": "1995-07-06",
+                "text": "Referred to the Subcommittee on Human Resources."
+            },
+            "number": "1974",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "SSI Disability Benefits Reform Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1974?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-07-16",
+            "latestAction": {
+                "actionDate": "1996-07-16",
+                "text": "Referred to the Committee on Rules, and in addition to the Committee on House Oversight, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "480",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Amending the Rules of the House of Representatives to implement the recommendations of the Task Force on Committee Review regarding committee operations, procedures, and staffing, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/480?format=json"
+        },
+        {
+            "amendmentNumber": "831",
+            "congress": 105,
+            "introducedDate": "1998-08-04",
+            "latestAction": {
+                "actionDate": "1998-08-04",
+                "actionTime": "21:39:39",
+                "text": "On agreeing to the Bass amendment (A007) Failed by recorded vote: 155 - 267 (Roll No. 384). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/831?format=json"
+        },
+        {
+            "amendmentNumber": "702",
+            "congress": 105,
+            "introducedDate": "1998-06-23",
+            "latestAction": {
+                "actionDate": "1998-06-24",
+                "actionTime": "16:49:00",
+                "text": "On agreeing to the Bass amendment (A006) Failed by recorded vote: 192 - 232 (Roll No. 263). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/702?format=json"
+        },
+        {
+            "amendmentNumber": "678",
+            "congress": 105,
+            "introducedDate": "1998-06-11",
+            "latestAction": {
+                "actionDate": "1998-06-11",
+                "actionTime": "13:51:14",
+                "text": "On agreeing to the Bass amendment (A005) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/678?format=json"
+        },
+        {
+            "amendmentNumber": "540",
+            "congress": 105,
+            "introducedDate": "1998-03-27",
+            "latestAction": {
+                "actionDate": "1998-03-27",
+                "actionTime": "11:45:01",
+                "text": "By unanimous consent, the Bass amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/540?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-06-10",
+            "latestAction": {
+                "actionDate": "1998-06-18",
+                "text": "Referred to the Subcommittee on Crime."
+            },
+            "number": "4026",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Megan's Law Implementation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/4026?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-04-29",
+            "latestAction": {
+                "actionDate": "1998-05-08",
+                "text": "Referred to the Subcommittee on Telecommunications, Trade, and Consumer Protection."
+            },
+            "number": "3749",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "To amend the Communications Act of 1934 to improve the protection of consumers against \"slamming\" by telecommunications carriers, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3749?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-04-23",
+            "latestAction": {
+                "actionDate": "1998-04-29",
+                "text": "Referred to the Subcommittee on Government Management, Information and Technology."
+            },
+            "number": "3721",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Campaign Reform Act of 1998",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3721?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-02-26",
+            "latestAction": {
+                "actionDate": "1998-02-26",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3282",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To allow a Hope Scholarship Credit for expenses paid in December 1997 for education furnished in academic periods beginning after 1997.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3282?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-06-10",
+            "latestAction": {
+                "actionDate": "1997-07-22",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "1843",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Local Free Access Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1843?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-03-06",
+            "latestAction": {
+                "actionDate": "1997-03-18",
+                "text": "Referred to the Subcommittee on Forestry, Resource Conservation and Research."
+            },
+            "number": "971",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Northern Forest Stewardship Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/971?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-01-07",
+            "latestAction": {
+                "actionDate": "1997-02-10",
+                "text": "Executive Comment Requested from Interior."
+            },
+            "number": "105",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Androscoggin River Valley Heritage Area Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/105?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-01-07",
+            "latestAction": {
+                "actionDate": "1997-02-10",
+                "text": "Executive Comment Requested from Interior."
+            },
+            "number": "13",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "Silvio O. Conte National Fish and Wildlife Refuge Eminent Domain Prevention Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/13?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-10-01",
+            "latestAction": {
+                "actionDate": "1998-10-09",
+                "actionTime": "11:46:29",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "565",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Expressing the sense of the House of Representatives regarding the importance of mammograms and biopsies in the fight against breast cancer.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/105/hres/565?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-26",
+            "latestAction": {
+                "actionDate": "1998-06-16",
+                "actionTime": "16:37:51",
+                "text": "The title of the measure was amended. Agreed to without objection."
+            },
+            "number": "399",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Urging the Congress and the President to work to fully fund the Federal Government's obligation under the Individuals with Disabilities Education Act.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/105/hres/399?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-09-18",
+            "latestAction": {
+                "actionDate": "1997-10-15",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "235",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Expressing support for the goals of National Mammography Day.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/105/hres/235?format=json"
+        }
+    ]
+}

@@ -1,0 +1,2632 @@
+{
+    "pagination": {
+        "count": 179
+    },
+    "request": {
+        "bioguideId": "c000830",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "147",
+            "congress": 109,
+            "introducedDate": "2005-05-18",
+            "latestAction": {
+                "actionDate": "2005-05-18",
+                "actionTime": "14:02:47",
+                "text": "On agreeing to the Cox amendment (A002) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/147?format=json"
+        },
+        {
+            "amendmentNumber": "149",
+            "congress": 109,
+            "introducedDate": "2005-05-18",
+            "latestAction": {
+                "actionDate": "2005-05-18",
+                "actionTime": "14:22:20",
+                "text": "On agreeing to the Cox amendment (A004) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/149?format=json"
+        },
+        {
+            "amendmentNumber": "26",
+            "congress": 109,
+            "introducedDate": "2005-03-09",
+            "latestAction": {
+                "actionDate": "2005-03-09",
+                "actionTime": "15:22:55",
+                "text": "On agreeing to the Cox amendment (A007) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/26?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-05-10",
+            "latestAction": {
+                "actionDate": "2005-05-10",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "2216",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Global Internet Freedom Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/2216?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-04-26",
+            "latestAction": {
+                "actionDate": "2005-05-19",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "1817",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Department of Homeland Security Authorization Act for Fiscal Year 2006",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1817?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-04-19",
+            "latestAction": {
+                "actionDate": "2005-07-01",
+                "text": "Referred to the Subcommittee on Courts, the Internet, and Intellectual Property."
+            },
+            "number": "1685",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Internet Consumer Protection Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1685?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-04-19",
+            "latestAction": {
+                "actionDate": "2005-07-01",
+                "text": "Referred to the Subcommittee on Courts, the Internet, and Intellectual Property."
+            },
+            "number": "1684",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Internet Tax Nondiscrimination Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1684?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-04-12",
+            "latestAction": {
+                "actionDate": "2005-05-12",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "1544",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Faster and Smarter Funding for First Responders Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1544?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-02-02",
+            "latestAction": {
+                "actionDate": "2005-02-25",
+                "text": "Referred to the Subcommittee on Health, for a period to be subsequently determined by the Chairman."
+            },
+            "number": "534",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Help Efficient, Accessible, Low-cost, Timely Healthcare (HEALTH) Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/534?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-01-04",
+            "latestAction": {
+                "actionDate": "2005-01-04",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "66",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Health Care Freedom of Choice Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/66?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-01-04",
+            "latestAction": {
+                "actionDate": "2005-01-04",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "64",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Family Heritage Preservation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/64?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-28",
+            "latestAction": {
+                "actionDate": "2005-07-28",
+                "text": "Ordered to be Reported by Voice Vote."
+            },
+            "number": "398",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Expressing the sense of the House of Representatives that the employees of the Department of Homeland Security, their partners at all levels of government, and the millions of law enforcement agents and emergency response providers nationwide should be commended for their dedicated service on the Nation's front lines in the war against terrorism.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/398?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-02-15",
+            "latestAction": {
+                "actionDate": "2005-02-15",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "104",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing amounts for the expenses of the Committee on Homeland Security in the One Hundred Ninth Congress.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/104?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-01-06",
+            "latestAction": {
+                "actionDate": "2005-02-09",
+                "text": "Referred to the Subcommittee on 21st Century Competitiveness."
+            },
+            "number": "34",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Congratulating the University of Southern California Trojans for their second straight national title.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/34?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-05-03",
+            "latestAction": {
+                "actionDate": "2005-05-19",
+                "text": "Referred to the Subcommittee on Europe and Emerging Threats."
+            },
+            "number": "143",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of Congress that the continued participation of the Russian Federation in the Group of 8 nations should be conditioned on the Russian Government voluntarily accepting and adhering to the norms and standards of democracy.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/109/hconres/143?format=json"
+        },
+        {
+            "amendmentNumber": "191",
+            "congress": 108,
+            "introducedDate": "2003-06-25",
+            "latestAction": {
+                "actionDate": "2003-06-25",
+                "actionTime": "18:35:10",
+                "text": "By unanimous consent, the Cox amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/hamdt/191?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-07-22",
+            "latestAction": {
+                "actionDate": "2004-08-02",
+                "text": "Referred to the Subcommittee on Infrastructure and Border Security."
+            },
+            "number": "4930",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Homeland Security Information Sharing and Analysis Enhancement Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/4930?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-07-19",
+            "latestAction": {
+                "actionDate": "2004-08-04",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "4852",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Department of Homeland Security Authorization Act for Fiscal Year 2005\r",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/4852?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-04-22",
+            "latestAction": {
+                "actionDate": "2004-04-22",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4205",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to allow a credit for the installation of hydrogen fueling stations.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/4205?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-10-08",
+            "latestAction": {
+                "actionDate": "2004-06-21",
+                "text": "Placed on the Union Calendar, Calendar No. 325."
+            },
+            "number": "3266",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Faster and Smarter Funding for First Responders Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3266?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-07-10",
+            "latestAction": {
+                "actionDate": "2003-07-23",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2700",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare Patient Access to Drugs for Rare Diseases Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2700?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-06-04",
+            "latestAction": {
+                "actionDate": "2003-06-25",
+                "text": "Referred to the Subcommittee on the Constitution."
+            },
+            "number": "2319",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To include the Secretary of Homeland Security within the order of Presidential succession which applies in the absence of a qualified President and Vice President, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2319?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-05-20",
+            "latestAction": {
+                "actionDate": "2003-05-21",
+                "text": "Referred to the Subcommittee on Railroads."
+            },
+            "number": "2165",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Coastal and Historic Communities Protection Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2165?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-05-14",
+            "latestAction": {
+                "actionDate": "2003-05-22",
+                "text": "Ordered to be Reported (Amended) by Voice Vote."
+            },
+            "number": "2087",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Bob Hope American Patriot Award Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2087?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-04-03",
+            "latestAction": {
+                "actionDate": "2004-05-28",
+                "text": "Became Public Law No: 108-233."
+            },
+            "number": "1598",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Irvine Basin Surface and Groundwater Improvement Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/1598?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-03-25",
+            "latestAction": {
+                "actionDate": "2003-11-25",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 420."
+            },
+            "number": "1416",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Homeland Security Technical Corrections Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/1416?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-03-11",
+            "latestAction": {
+                "actionDate": "2003-03-24",
+                "text": "Referred to the Subcommittee on Energy and Air Quality, for a period to be subsequently determined by the Chairman."
+            },
+            "number": "1180",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Hydrogen Transportation Wins Over Growing Reliance on Oil (H2 GROW) Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/1180?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-03-06",
+            "latestAction": {
+                "actionDate": "2003-03-06",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1117",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Health Care Freedom of Choice Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/1117?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-01-08",
+            "latestAction": {
+                "actionDate": "2003-01-27",
+                "text": "Referred to the Subcommittee on Human Resources."
+            },
+            "number": "262",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Child Support Enforcement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/262?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-01-07",
+            "latestAction": {
+                "actionDate": "2003-01-07",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "53",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Health Care Freedom of Choice Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/53?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-01-07",
+            "latestAction": {
+                "actionDate": "2003-01-07",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "52",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to repeal the \"luxury tax\" on beer, enacted in the Omnibus Budget Reconciliation Act of 1990, which doubled previous excise levels.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/52?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-01-07",
+            "latestAction": {
+                "actionDate": "2003-09-18",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 283."
+            },
+            "number": "49",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Internet Tax Nondiscrimination Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/49?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-01-07",
+            "latestAction": {
+                "actionDate": "2003-01-07",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "51",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Family Heritage Preservation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/51?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-01-07",
+            "latestAction": {
+                "actionDate": "2003-01-07",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "48",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Global Internet Freedom Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/48?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-01-07",
+            "latestAction": {
+                "actionDate": "2003-01-07",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "50",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Investor Protection, Market Stabilization, and Tax Fairness Restoration Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/50?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-02-04",
+            "latestAction": {
+                "actionDate": "2003-03-06",
+                "text": "Became Public Law No: 108-9."
+            },
+            "number": "19",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Recognizing the 92d birthday of Ronald Reagan.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/108/hjres/19?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-06-09",
+            "latestAction": {
+                "actionDate": "2004-09-13",
+                "actionTime": "19:06:40",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "667",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing support for freedom in Hong Kong.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/667?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-06-01",
+            "latestAction": {
+                "actionDate": "2004-06-03",
+                "actionTime": "14:12:13",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "655",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Condemning the crackdown on democracy protestors in Tiananmen Square, Beijing, in the People's Republic of China on the 15th anniversary of that tragic massacre.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/655?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-05-04",
+            "latestAction": {
+                "actionDate": "2004-05-20",
+                "text": "Referred to the Subcommittee on the Constitution."
+            },
+            "number": "620",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Commemorating the 50th anniversary of the landmark United States Supreme Court decision in the case of Brown v. Board of Education.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/620?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-06-16",
+            "latestAction": {
+                "actionDate": "2003-06-26",
+                "actionTime": "17:01:58",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "277",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing support for freedom in Hong Kong.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/277?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-02-27",
+            "latestAction": {
+                "actionDate": "2003-05-08",
+                "actionTime": "18:11:20",
+                "text": "The title of the measure was amended. Agreed to without objection."
+            },
+            "number": "110",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing amounts for the expenses of the Select Committee on Homeland Security.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/110?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-09-09",
+            "latestAction": {
+                "actionDate": "2004-09-23",
+                "text": "Received in the Senate and referred to the Committee on Governmental Affairs."
+            },
+            "number": "489",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Supporting the goals and ideals of National Preparedness Month.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/108/hconres/489?format=json"
+        },
+        {
+            "amendmentNumber": "576",
+            "congress": 107,
+            "introducedDate": "2002-07-25",
+            "latestAction": {
+                "actionDate": "2002-07-25",
+                "actionTime": "23:17:27",
+                "text": "On agreeing to the Cox amendment (A003) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/hamdt/576?format=json"
+        },
+        {
+            "amendmentNumber": "291",
+            "congress": 107,
+            "introducedDate": "2001-08-01",
+            "latestAction": {
+                "actionDate": "2001-08-01",
+                "actionTime": "21:11:07",
+                "text": "On agreeing to the Cox amendment (A006) Failed by recorded vote: 125 - 300 (Roll no. 313). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/hamdt/291?format=json"
+        },
+        {
+            "amendmentNumber": "69",
+            "congress": 107,
+            "introducedDate": "2001-05-23",
+            "latestAction": {
+                "actionDate": "2001-05-23",
+                "actionTime": "18:18:08",
+                "text": "On agreeing to the Cox amendment (A027) Failed by recorded vote: 101 - 326 (Roll no. 143). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/hamdt/69?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-11-08",
+            "latestAction": {
+                "actionDate": "2002-11-08",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5705",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Health Care Freedom of Choice Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5705?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-11-08",
+            "latestAction": {
+                "actionDate": "2002-11-08",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5706",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Family Heritage Preservation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5706?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-10-02",
+            "latestAction": {
+                "actionDate": "2002-10-02",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "5524",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Global Internet Freedom Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5524?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-09-04",
+            "latestAction": {
+                "actionDate": "2002-09-04",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5323",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Investor Protection, Market Stabilization, and Tax Fairness Restoration Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5323?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-07-16",
+            "latestAction": {
+                "actionDate": "2002-07-16",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5130",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Child Support Enforcement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5130?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-25",
+            "latestAction": {
+                "actionDate": "2002-05-29",
+                "text": "Became Public Law No: 107-183."
+            },
+            "number": "4592",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To name the chapel located in the national cemetery in Los Angeles, California, as the \"Bob Hope Veterans Chapel\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4592?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-16",
+            "latestAction": {
+                "actionDate": "2002-04-16",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4262",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on certain refracting and reflecting telescopes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4262?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-09-20",
+            "latestAction": {
+                "actionDate": "2001-09-21",
+                "text": "Referred to the Subcommittee on Coast Guard and Maritime Transportation."
+            },
+            "number": "2923",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To authorize the Secretary of Transportation to issue a certificate of documentation with appropriate endorsement for employment in the coastwise trade for the vessel SOVEREIGN.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2923?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-09-05",
+            "latestAction": {
+                "actionDate": "2001-10-31",
+                "text": "Referred to the Subcommittee on Benefits."
+            },
+            "number": "2835",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To authorize the payment of compensation to members of the Armed Forces and civilian employees of the United States who performed slave labor for Japan during World War II, or the surviving spouses of such members, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2835?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-05-02",
+            "latestAction": {
+                "actionDate": "2001-06-26",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "1675",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Internet Tax Nondiscrimination Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1675?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-04-24",
+            "latestAction": {
+                "actionDate": "2001-11-28",
+                "text": "Became Public Law No: 107-75."
+            },
+            "number": "1552",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Internet Tax Nondiscrimination Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1552?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-27",
+            "latestAction": {
+                "actionDate": "2001-04-03",
+                "text": "Referred to the Subcommittee on Immigration and Claims."
+            },
+            "number": "1258",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Sarabeth M. Davis, Robert S. Borders, Victor Maron, Irving Berke, and Adele E. Conrad.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1258?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-01-31",
+            "latestAction": {
+                "actionDate": "2001-01-31",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "330",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Family Heritage Preservation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/330?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-10-07",
+            "latestAction": {
+                "actionDate": "2002-11-12",
+                "text": "Referred to the Subcommittee on Courts, the Internet, and Intellectual Property."
+            },
+            "number": "116",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Consumer Technology Bill of Rights",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/107/hjres/116?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-02-05",
+            "latestAction": {
+                "actionDate": "2002-02-14",
+                "text": "Became Public Law No: 107-143."
+            },
+            "number": "82",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Recognizing the 91st birthday of Ronald Reagan.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/107/hjres/82?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-01-31",
+            "latestAction": {
+                "actionDate": "2001-02-15",
+                "text": "Became Public Law No: 107-1."
+            },
+            "number": "7",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Recognizing the 90th birthday of Ronald Reagan.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/107/hjres/7?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-11-12",
+            "latestAction": {
+                "actionDate": "2002-11-15",
+                "actionTime": "02:21:45",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "599",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Congratulating the Anaheim Angels for winning the 2002 World Series.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/107/hres/599?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-09-26",
+            "latestAction": {
+                "actionDate": "2002-10-02",
+                "actionTime": "14:39:25",
+                "text": "On agreeing to the resolution Agreed to by the Yeas and Nays: 414 - 0 (Roll no. 431). (text: CR H6941)"
+            },
+            "number": "559",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Expressing the sense of the House of Representatives that each State should examine its existing statutes, practices, and procedures governing special elections so that, in the event of a catastrophe, vacancies in the House of Representatives may be filled in a timely fashion.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/107/hres/559?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-27",
+            "latestAction": {
+                "actionDate": "2002-05-21",
+                "actionTime": "10:03:39",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "103",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "Referring the bill (H.R. 1258), entitled \"A bill for the relief of Sarabeth M. Davis, Robert S. Borders, Victor Maron, Irving Berke, and Adele E. Conrad\", to the chief judge of the United States Court of Federal Claims for a report thereon.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/107/hres/103?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-03-20",
+            "latestAction": {
+                "actionDate": "2002-06-19",
+                "text": "Received in the Senate and referred to the Committee on Armed Services."
+            },
+            "number": "364",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Recognizing the historic significance of the 50th anniversary of the founding of the United States Army Special Forces and honoring the \"Father of the Special Forces\", Colonel Aaron Bank (United States Army, retired) of Mission Viejo, California, for his role in establishing the Army Special Forces.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/hconres/364?format=json"
+        },
+        {
+            "amendmentNumber": "954",
+            "congress": 106,
+            "introducedDate": "2000-06-29",
+            "latestAction": {
+                "actionDate": "2000-06-30",
+                "actionTime": "01:28:53",
+                "text": "On agreeing to the Cox amendment (A003) Failed by recorded vote: 201 - 214 (Roll no. 369). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/954?format=json"
+        },
+        {
+            "amendmentNumber": "730",
+            "congress": 106,
+            "introducedDate": "2000-05-19",
+            "latestAction": {
+                "actionDate": "2000-05-19",
+                "actionTime": "10:35:14",
+                "text": "On agreeing to the Cox amendment (A002) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/730?format=json"
+        },
+        {
+            "amendmentNumber": "724",
+            "congress": 106,
+            "introducedDate": "2000-05-18",
+            "latestAction": {
+                "actionDate": "2000-05-18",
+                "actionTime": "17:04:17",
+                "text": "On agreeing to the Cox amendment (A011) Agreed to by recorded vote: 334 - 85 (Roll no. 205). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/724?format=json"
+        },
+        {
+            "amendmentNumber": "145",
+            "congress": 106,
+            "introducedDate": "1999-06-09",
+            "latestAction": {
+                "actionDate": "1999-06-09",
+                "actionTime": "15:20:16",
+                "text": "On agreeing to the Cox amendment (A001) Agreed to by recorded vote: 428 - 0 (Roll no. 180). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/145?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-11-03",
+            "latestAction": {
+                "actionDate": "2000-11-06",
+                "text": "Referred to the Subcommittee on Immigration and Claims."
+            },
+            "number": "5625",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "To amend the Immigration and Nationality Act to establish a pilot program under which an alien may be provided H-1B nonimmigrant status without regard to the numerical limitation applicable to that nonimmigrant category if the United States employer seeking the alien's entry makes a qualifying scholarship contribution to an institution of higher education in the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/5625?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-10-27",
+            "latestAction": {
+                "actionDate": "2000-11-08",
+                "text": "Referred to the Subcommittee on Finance and Hazardous Materials."
+            },
+            "number": "5589",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Orphan Meth Lab Cleanup Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/5589?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-10-17",
+            "latestAction": {
+                "actionDate": "2000-10-25",
+                "text": "Referred to the Subcommittee on Immigration and Claims."
+            },
+            "number": "5481",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Sarabeth M. Davis, Robert S. Borders, Victor Maron, Irving Berke, and Adele E. Conrad.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/5481?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-10-03",
+            "latestAction": {
+                "actionDate": "2000-10-20",
+                "text": "Referred to the Subcommittee on Finance and Hazardous Materials."
+            },
+            "number": "5365",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Financial Accounting for Intangibles Reexamination (FAIR) Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/5365?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-07-27",
+            "latestAction": {
+                "actionDate": "2000-07-27",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5022",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Health Care Freedom of Choice Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/5022?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-05-10",
+            "latestAction": {
+                "actionDate": "2000-05-17",
+                "text": "Referred to the Subcommittee on Immigration and Claims."
+            },
+            "number": "4422",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Vijai Rajan.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4422?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-04-05",
+            "latestAction": {
+                "actionDate": "2000-04-05",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4184",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Fairness in Amortization of Software Tax Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4184?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-03-15",
+            "latestAction": {
+                "actionDate": "2000-03-15",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3982",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Emergency Tax Relief for Motorists and Truckers Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3982?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-02-29",
+            "latestAction": {
+                "actionDate": "2000-05-18",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 556."
+            },
+            "number": "3709",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Internet Nondiscrimination Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3709?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-09-29",
+            "latestAction": {
+                "actionDate": "1999-10-08",
+                "text": "Referred to the Subcommittee on Domestic and International Monetary Policy."
+            },
+            "number": "2969",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Ecosystem and Indigenous Peoples Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2969?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-13",
+            "latestAction": {
+                "actionDate": "1999-10-08",
+                "text": "For Further Action See H.R.2684."
+            },
+            "number": "2491",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "Fairness in Trusts and Estates Planning Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2491?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-01",
+            "latestAction": {
+                "actionDate": "1999-07-21",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "2427",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To amend the Clean Air Act to remove a provision limiting States to proportionately less assistance than their respective populations and tax payments to the Federal government.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2427?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-24",
+            "latestAction": {
+                "actionDate": "1999-03-11",
+                "text": "Referred to the Subcommittee on Human Resources."
+            },
+            "number": "816",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Child Support Enforcement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/816?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-01-06",
+            "latestAction": {
+                "actionDate": "1999-01-06",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "86",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Family Heritage Preservation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/86?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-10-05",
+            "latestAction": {
+                "actionDate": "1999-10-05",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "70",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Providing for expedited emergency humanitarian assistance, disaster relief assistance, and medical assistance to the people of Taiwan.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/106/hjres/70?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-10-17",
+            "latestAction": {
+                "actionDate": "2000-10-25",
+                "text": "Referred to the Subcommittee on Immigration and Claims."
+            },
+            "number": "636",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "Referring the bill (H.R. ), entitled \"A bill for the relief of Sarabeth M. Davis, Robert S. Borders, Victor Maron, Irving Berke, and Adele E. Conrad\", to the chief judge of the United States Court of Federal Claims for a report thereon.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/106/hres/636?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-05-13",
+            "latestAction": {
+                "actionDate": "1999-05-13",
+                "actionTime": "15:36:46",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "170",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Amending House Resolution 5, One Hundred Sixth Congress, as amended.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/106/hres/170?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-04-28",
+            "latestAction": {
+                "actionDate": "1999-04-29",
+                "actionTime": "10:29:57",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "153",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Amending House Resolution 5, One Hundred Sixth Congress, as amended by House Resolution 129, One Hundred Sixth Congress.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/106/hres/153?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-03-24",
+            "latestAction": {
+                "actionDate": "1999-03-24",
+                "actionTime": "19:28:55",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "129",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Extending the Select Committee on U.S. National Security and Military/Commercial Concerns With the People's Republic of China.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/106/hres/129?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-11-09",
+            "latestAction": {
+                "actionDate": "1999-11-19",
+                "text": "Referred to the Committee on Judiciary."
+            },
+            "number": "223",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Expressing the sense of the Congress regarding Freedom Day.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/106/hconres/223?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-09-30",
+            "latestAction": {
+                "actionDate": "2000-10-05",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "190",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Urging the United States to seek a global consensus supporting a moratorium on tariffs and on special, multiple, and discriminatory taxation of electronic commerce.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/106/hconres/190?format=json"
+        },
+        {
+            "amendmentNumber": "299",
+            "congress": 101,
+            "introducedDate": "1989-11-01",
+            "latestAction": {
+                "actionDate": "1989-11-01",
+                "actionTime": "17:10:01",
+                "text": "On agreeing to the Cox amendment (A005) Failed by recorded vote: 115 - 300 (Roll no. 327). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/299?format=json"
+        },
+        {
+            "amendmentNumber": "289",
+            "congress": 101,
+            "introducedDate": "1989-10-19",
+            "latestAction": {
+                "actionDate": "1989-10-19",
+                "actionTime": "15:50:34",
+                "text": "On agreeing to the Cox amendments (A004) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/101/hamdt/289?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-10-27",
+            "latestAction": {
+                "actionDate": "1990-11-05",
+                "text": "See H.R.5835."
+            },
+            "number": "5975",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Budget Process Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5975?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-10-03",
+            "latestAction": {
+                "actionDate": "1990-11-16",
+                "text": "See H.R.4009."
+            },
+            "number": "5790",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To clear certain impediments to the licensing of a vessel for employment in the coastwise trade and fisheries of the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/5790?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-06-21",
+            "latestAction": {
+                "actionDate": "1989-12-31",
+                "text": "Referred to the Subcommittee on the Legislative Process."
+            },
+            "number": "2703",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Spending Control Enhancement Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2703?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-06-20",
+            "latestAction": {
+                "actionDate": "1989-06-26",
+                "text": "Referred to the Subcommittee on Military Installations and Facilities."
+            },
+            "number": "2683",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To prohibit joint use of the Marine Corps Air Station at El Toro, California, with civil aviation.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2683?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-03-15",
+            "latestAction": {
+                "actionDate": "1989-03-27",
+                "text": "Referred to the Subcommittee on Aviation."
+            },
+            "number": "1424",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "To conform the Railway Labor Act to the National Labor Relations Act with regard to unlawful secondary activity.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/1424?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-10-23",
+            "latestAction": {
+                "actionDate": "1990-10-23",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "679",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of the Congress recognizing Hungary's successful transition to democracy.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/101/hjres/679?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-08-03",
+            "latestAction": {
+                "actionDate": "1990-08-21",
+                "text": "Referred to the Subcommittee on Asian and Pacific Affairs."
+            },
+            "number": "458",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Concerning the normalization of relations between the United States and the Socialist Republic of Vietnam.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/101/hres/458?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-04-26",
+            "latestAction": {
+                "actionDate": "1990-05-07",
+                "text": "Referred to the Subcommittee on Europe and the Middle East."
+            },
+            "number": "313",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "In support of freedom of the press in Lithuania.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/101/hconres/313?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-02-06",
+            "latestAction": {
+                "actionDate": "1990-05-01",
+                "text": "Executive Comment Received from State."
+            },
+            "number": "257",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To express the sense of the Congress concerning the February 24, 1990, elections in Lithuania.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/101/hconres/257?format=json"
+        },
+        {
+            "amendmentNumber": "637",
+            "congress": 102,
+            "introducedDate": "1992-06-24",
+            "latestAction": {
+                "actionDate": "1992-06-24",
+                "actionTime": "17:23:19",
+                "text": "On agreeing to the Cox (CA) amendment (A005) Failed by recorded vote: 134 - 292 (Roll no. 226). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/637?format=json"
+        },
+        {
+            "amendmentNumber": "128",
+            "congress": 102,
+            "introducedDate": "1991-06-12",
+            "latestAction": {
+                "actionDate": "1991-06-12",
+                "actionTime": "16:09:45",
+                "text": "On agreeing to the Cox (CA) amendments (A008) as modified Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/128?format=json"
+        },
+        {
+            "amendmentNumber": "98",
+            "congress": 102,
+            "introducedDate": "1991-06-05",
+            "latestAction": {
+                "actionDate": "1991-06-05",
+                "actionTime": "17:29:36",
+                "text": "On agreeing to the Cox (CA) amendment (A006) Failed by recorded vote: 130 - 294 (Roll no. 136). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/98?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-10-06",
+            "latestAction": {
+                "actionDate": "1992-10-06",
+                "text": "Referred to the House Committee on Public Works + Transportation."
+            },
+            "number": "6192",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To designate the United States Federal building and United States courthouse to be located at Fifth and Ross Streets in Santa Ana, California, as the \"Ronald Reagan Federal Building and Courthouse\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/6192?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-10-06",
+            "latestAction": {
+                "actionDate": "1992-10-06",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "6196",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Tax Fairness Restoration and Economic Growth Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/6196?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-10-06",
+            "latestAction": {
+                "actionDate": "1992-10-06",
+                "text": "Referred to the House Committee on Public Works + Transportation."
+            },
+            "number": "6193",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To designate the United States Federal building and United States courthouse to be located at Fifth and Ross Streets in Santa Ana, California, as the \"Ronald Reagan Building\", and to designate the Gallipolis Locks and Dam, Ohio River and West Virginia, as the \"Robert C. Byrd Locks and Dam\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/6193?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-06-24",
+            "latestAction": {
+                "actionDate": "1992-07-22",
+                "text": "Referred to the Subcommittee on National Parks and Public Lands."
+            },
+            "number": "5473",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Cleveland National Forest Land Exchange Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5473?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-06-11",
+            "latestAction": {
+                "actionDate": "1992-06-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5378",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Turbo Enterprise Zone Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5378?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-05-13",
+            "latestAction": {
+                "actionDate": "1992-10-04",
+                "actionTime": "19:53:12",
+                "text": "By request of Mr. Boucher the House passed over the measure without prejudice."
+            },
+            "number": "5163",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To authorize issuance of a certificate of documentation for employment in the coastwise trade of the United States for the vessel WILD GOOSE.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5163?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-02-20",
+            "latestAction": {
+                "actionDate": "1992-10-23",
+                "text": "Became Public Law No: 102-435."
+            },
+            "number": "4281",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To designate the United States Federal building and United States courthouse to be located at Fifth and Ross Streets in Santa Ana, California, as the \"Ronald Reagan Building\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4281?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-11-13",
+            "latestAction": {
+                "actionDate": "1992-01-09",
+                "text": "Referred to the Subcommittee on Military Installations and Facilities."
+            },
+            "number": "3759",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To provide for the exchange or sale of real property at the Tustin Marine Corps Air Station in the State of California under the Defense Base Closure and Realignment Act of 1990.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3759?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-05-14",
+            "latestAction": {
+                "actionDate": "1991-11-22",
+                "text": "Unfavorable Executive Comment Received from Treasury."
+            },
+            "number": "2344",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To enable the filing of a Protest relating to certain Customs entries.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2344?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-01-03",
+            "latestAction": {
+                "actionDate": "1992-09-25",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "298",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Budget Process Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/298?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-06-27",
+            "latestAction": {
+                "actionDate": "1991-07-09",
+                "text": "Referred to the Subcommittee on Europe and the Middle East."
+            },
+            "number": "292",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of Congress that the Republic of Hungary has embraced democracy and renounced socialist rule.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/102/hjres/292?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-01-18",
+            "latestAction": {
+                "actionDate": "1991-02-07",
+                "text": "Referred to the Subcommittee on Department Operations, Research, and Foreign Agriculture."
+            },
+            "number": "80",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To revoke recently-extended U.S. taxpayer subsidies to the Soviet Union as a consequence of its attacks on freedom of the press and democracy in the Baltic republics in Lithuania, Latvia, and Estonia.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/102/hjres/80?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-11-04",
+            "latestAction": {
+                "actionDate": "1991-11-06",
+                "actionTime": "13:19:45",
+                "text": "On motion to table the measure Agreed to by the Yeas and Nays: 265 - 160 (Roll no. 377)."
+            },
+            "number": "268",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Presenting a question of the privileges of the House.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/102/hres/268?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-05-20",
+            "latestAction": {
+                "actionDate": "1992-07-08",
+                "text": "Referred to the Subcommittee on Administrative Law and Governmental Relations."
+            },
+            "number": "322",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Relating to debt collection from Members of Congress and congressional employees.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/102/hconres/322?format=json"
+        },
+        {
+            "amendmentNumber": "259",
+            "congress": 103,
+            "introducedDate": "1993-07-29",
+            "latestAction": {
+                "actionDate": "1993-07-29",
+                "actionTime": "13:23:39",
+                "text": "On agreeing to the Cox amendment (A016) Agreed to by recorded vote: 326 - 98 (Roll no. 383). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/259?format=json"
+        },
+        {
+            "amendmentNumber": "44",
+            "congress": 103,
+            "introducedDate": "1993-05-12",
+            "latestAction": {
+                "actionDate": "1993-05-12",
+                "actionTime": "17:02:47",
+                "text": "On agreeing to the Cox amendments (A011) Failed by recorded vote: 180 - 237 (Roll no. 160). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/44?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-09-22",
+            "latestAction": {
+                "actionDate": "1994-10-03",
+                "text": "Referred to the Subcommittee on Crime and Criminal Justice."
+            },
+            "number": "5080",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To repeal the Postal Service monopoly on first class mail.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/5080?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-08-16",
+            "latestAction": {
+                "actionDate": "1994-11-21",
+                "text": "Referred to the Subcommittee on National Parks, Forests and Public Lands."
+            },
+            "number": "4966",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Cleveland National Forest Land Exchange Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4966?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-08-08",
+            "latestAction": {
+                "actionDate": "1994-11-21",
+                "text": "Referred to the Subcommittee on Energy and Mineral Resources."
+            },
+            "number": "4919",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Helium Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4919?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-03-10",
+            "latestAction": {
+                "actionDate": "1994-03-15",
+                "text": "Referred to the Subcommittee on Legislation and National Security."
+            },
+            "number": "4006",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Economic and Employment Impact Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4006?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-03-08",
+            "latestAction": {
+                "actionDate": "1994-05-31",
+                "text": "Referred to the Subcommittee on Crime and Criminal Justice."
+            },
+            "number": "3971",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Retired Federal Bureau of Investigation Agent Self-Defense Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3971?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-02-01",
+            "latestAction": {
+                "actionDate": "1994-02-01",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3756",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Earthquake Insurance Incentive Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3756?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-11-16",
+            "latestAction": {
+                "actionDate": "1993-11-21",
+                "text": "Referred to the Subcommittee on Crime and Criminal Justice."
+            },
+            "number": "3520",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Arson Prevention and National Forest Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3520?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-10-19",
+            "latestAction": {
+                "actionDate": "1994-02-02",
+                "text": "Executive Comment Requested from Interior."
+            },
+            "number": "3304",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "To amend the Outer Continental Shelf Lands Act to allow State disapproval of Federal offshore leasing decisions.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3304?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-08-06",
+            "latestAction": {
+                "actionDate": "1993-08-06",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2925",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Junk Your Clunker Tax Credit Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2925?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-08-06",
+            "latestAction": {
+                "actionDate": "1993-08-13",
+                "text": "Referred to the Subcommittee on Legislation and National Security."
+            },
+            "number": "2929",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Budget Process Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2929?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-08-06",
+            "latestAction": {
+                "actionDate": "1993-08-06",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "2924",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend the Federal Election Campaign Act of 1971 to eliminate soft money from Federal election campaigns.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2924?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-08-05",
+            "latestAction": {
+                "actionDate": "1993-12-09",
+                "text": "Referred to the Subcommittee on Intellectual Property and Judicial Administration."
+            },
+            "number": "2880",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Loser Pays Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2880?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-08-04",
+            "latestAction": {
+                "actionDate": "1993-09-03",
+                "text": "Referred to the Subcommittee on Transportation and Hazardous Materials."
+            },
+            "number": "2858",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Interstate Commerce Commission Sunset Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2858?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-07-23",
+            "latestAction": {
+                "actionDate": "1994-07-27",
+                "text": "See H.R.3800."
+            },
+            "number": "2718",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To amend the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 and the Solid Waste Disposal Act to limit the liability under those Acts of lenders and fiduciaries.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2718?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-07-23",
+            "latestAction": {
+                "actionDate": "1993-07-23",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2717",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Family Heritage Preservation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2717?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-07-22",
+            "latestAction": {
+                "actionDate": "1993-07-26",
+                "text": "Referred to the Subcommittee on Environment, Credit and Rural Development."
+            },
+            "number": "2705",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "To eliminate the Rural Electrification Administration.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2705?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-06-09",
+            "latestAction": {
+                "actionDate": "1993-06-16",
+                "text": "Referred to the Subcommittee on Human Resources."
+            },
+            "number": "2355",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Child Support Enforcement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2355?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-05-19",
+            "latestAction": {
+                "actionDate": "1993-05-21",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "2157",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Disability Benefits for the Blind Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2157?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-29",
+            "latestAction": {
+                "actionDate": "1993-04-29",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1928",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to repeal the \"luxury tax\" on beer, enacted in the Omnibus Budget Reconciliation Act of 1990, which doubled previous excise levels.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1928?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-31",
+            "latestAction": {
+                "actionDate": "1994-07-19",
+                "text": "For Further Action See H.R.3967."
+            },
+            "number": "1552",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "To repeal the Helium Act, to require the Secretary of the Interior to sell Federal real and personal property held in connection with activities carried out under the Helium Act, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1552?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-02-23",
+            "latestAction": {
+                "actionDate": "1993-02-23",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1051",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Turbo Enterprise Zone Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1051?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-01-05",
+            "latestAction": {
+                "actionDate": "1993-01-25",
+                "text": "Referred to the Subcommittee on International Operations."
+            },
+            "number": "143",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Radio Free Asia Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/143?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-01-05",
+            "latestAction": {
+                "actionDate": "1994-08-02",
+                "text": "See H.R.3600."
+            },
+            "number": "144",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Health Care Cost Containment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/144?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-07-22",
+            "latestAction": {
+                "actionDate": "1994-07-22",
+                "text": "Referred to the House Committee on Post Office and Civil Service."
+            },
+            "number": "392",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Designating September 5, 1994, Labor Day, as \"Try American Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/392?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-07-29",
+            "latestAction": {
+                "actionDate": "1993-07-29",
+                "text": "Referred to the House Committee on Post Office and Civil Service."
+            },
+            "number": "244",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Designating September 6, 1993, as \"Try American Day\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/244?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-10-07",
+            "latestAction": {
+                "actionDate": "1994-10-17",
+                "text": "Referred to the Subcommittee on Europe and the Middle East."
+            },
+            "number": "583",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of the House of Representatives concerning the Iraqi Government's campaign against the Marsh Arabs of Southern Iraq.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/103/hres/583?format=json"
+        },
+        {
+            "amendmentNumber": "744",
+            "congress": 104,
+            "introducedDate": "1995-08-04",
+            "latestAction": {
+                "actionDate": "1995-08-04",
+                "actionTime": "11:56:57",
+                "text": "On agreeing to the Cox amendment (A004) Agreed to by recorded vote: 420 - 4 (Roll no. 631). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/744?format=json"
+        },
+        {
+            "amendmentNumber": "269",
+            "congress": 104,
+            "introducedDate": "1995-03-08",
+            "latestAction": {
+                "actionDate": "1995-03-08",
+                "actionTime": "13:05:54",
+                "text": "On agreeing to the Cox amendment (A004) Agreed to by recorded vote: 252 - 173, 1 Present (Roll no. 210). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/269?format=json"
+        },
+        {
+            "amendmentNumber": "266",
+            "congress": 104,
+            "introducedDate": "1995-03-07",
+            "latestAction": {
+                "actionDate": "1995-03-07",
+                "actionTime": "18:52:16",
+                "text": "On agreeing to the Cox amendment (A001) Agreed to by recorded vote: 292 - 124, 1 Present (Roll no. 209). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/266?format=json"
+        },
+        {
+            "amendmentNumber": "288",
+            "congress": 104,
+            "introducedDate": "1995-03-09",
+            "latestAction": {
+                "actionDate": "1995-03-09",
+                "actionTime": "20:58:31",
+                "text": "On agreeing to the Cox amendment (A012) Agreed to by recorded vote: 247 - 171 (Roll no. 226). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/288?format=json"
+        },
+        {
+            "amendmentNumber": "287",
+            "congress": 104,
+            "introducedDate": "1995-03-09",
+            "latestAction": {
+                "actionDate": "1995-03-09",
+                "actionTime": "19:46:29",
+                "text": "On agreeing to the Cox amendment (A011) Agreed to by recorded vote: 263 - 164 (Roll no. 225). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/287?format=json"
+        },
+        {
+            "amendmentNumber": "110",
+            "congress": 104,
+            "introducedDate": "1995-02-08",
+            "latestAction": {
+                "actionDate": "1995-02-08",
+                "actionTime": "19:21:18",
+                "text": "On agreeing to the Cox amendment (A004) Agreed to by recorded vote: 291 - 140 (Roll no. 106). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/110?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-28",
+            "latestAction": {
+                "actionDate": "1996-09-28",
+                "text": "Referred to the Committee on the Budget, and in addition to the Committees on Government Reform and Oversight, Appropriations, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "4285",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Budget Process Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/4285?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-27",
+            "latestAction": {
+                "actionDate": "1996-09-30",
+                "text": "Received in the Senate."
+            },
+            "number": "4233",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Savings in Construction Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/4233?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-25",
+            "latestAction": {
+                "actionDate": "1996-10-09",
+                "text": "Became Public Law No: 104-273."
+            },
+            "number": "4168",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Helium Privatization Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/4168?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-06-04",
+            "latestAction": {
+                "actionDate": "1996-06-04",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3569",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To provide that most-favored-nation trading status for the People's Republic of China may continue provided that Taiwan is admitted to the World Trade Organization by March 1, 1997.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3569?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-03-14",
+            "latestAction": {
+                "actionDate": "1996-04-16",
+                "text": "For Further Action See H.R.2337."
+            },
+            "number": "3086",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Fast and Efficient Tax Filing Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3086?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-03-12",
+            "latestAction": {
+                "actionDate": "1996-03-28",
+                "text": "For Further Action See H.R.2202."
+            },
+            "number": "3062",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "To authorize the States to assist the Attorney General in performing functions under the Immigration and Nationality Act relating to deportation of aliens.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3062?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-03-05",
+            "latestAction": {
+                "actionDate": "1996-06-27",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 477."
+            },
+            "number": "3008",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Helium Privatization Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3008?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-01-30",
+            "latestAction": {
+                "actionDate": "1996-03-05",
+                "text": "For Further Action See H.R.3008."
+            },
+            "number": "2906",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Helium Privatization Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2906?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-12-14",
+            "latestAction": {
+                "actionDate": "1996-10-11",
+                "text": "Became Public Law No: 104-289."
+            },
+            "number": "2779",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Savings in Construction Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2779?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-06-30",
+            "latestAction": {
+                "actionDate": "1995-07-10",
+                "text": "Referred to the Subcommittee on Telecommunications and Finance."
+            },
+            "number": "1978",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Internet Freedom and Family Empowerment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1978?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-02-09",
+            "latestAction": {
+                "actionDate": "1996-03-05",
+                "text": "For Further Action See H.R.3008."
+            },
+            "number": "873",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Helium Privatization Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/873?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-02-01",
+            "latestAction": {
+                "actionDate": "1995-02-01",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "784",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Family Heritage Preservation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/784?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-04",
+            "latestAction": {
+                "actionDate": "1995-11-09",
+                "text": "Referred to Subcommittee on Forests and Public Lands."
+            },
+            "number": "207",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Cleveland National Forest Land Exchange Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/207?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-07-26",
+            "latestAction": {
+                "actionDate": "1996-07-26",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "490",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Expressing the sense of the House of Representatives that Taiwan should be admitted to the World Trade Organization without making such admission conditional on the previous or simultaneous admission of the People's Republic of China to the WTO.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/490?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-06-25",
+            "latestAction": {
+                "actionDate": "1996-06-27",
+                "actionTime": "18:00:36",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "461",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Regarding U.S. concerns with human rights abuse, nuclear and chemical weapons proliferation, illegal weapons trading, military intimidation of Taiwan, and trade violations by the People's Republic of China and the People's Liberation Army, and directing the committees of jurisdiction to commence hearings and report appropriate legislation.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/461?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-03-07",
+            "latestAction": {
+                "actionDate": "1996-03-21",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "148",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A concurrent resolution expressing the sense of Congress regarding missile tests and military exercises by the People's Republic of China.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/104/hconres/148?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-03-28",
+            "latestAction": {
+                "actionDate": "1996-09-26",
+                "text": "Received in the Senate."
+            },
+            "number": "51",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of the Congress relating to the removal of Russian troops from Kaliningrad.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/104/hconres/51?format=json"
+        },
+        {
+            "amendmentNumber": "493",
+            "congress": 105,
+            "introducedDate": "1998-02-25",
+            "latestAction": {
+                "actionDate": "1998-02-25",
+                "actionTime": "11:23:56",
+                "text": "By unanimous consent, the Cox amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/493?format=json"
+        },
+        {
+            "amendmentNumber": "270",
+            "congress": 105,
+            "introducedDate": "1997-07-24",
+            "latestAction": {
+                "actionDate": "1997-07-24",
+                "actionTime": "14:29:44",
+                "text": "On agreeing to the Cox amendment (A009) Agreed to by recorded vote: 418 - 0 (Roll no. 311). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/270?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-06-22",
+            "latestAction": {
+                "actionDate": "1998-06-24",
+                "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 427."
+            },
+            "number": "4105",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Internet Tax Freedom Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/4105?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-05-12",
+            "latestAction": {
+                "actionDate": "1998-07-14",
+                "text": "Sponsor introductory remarks on measure. (CR E1288)"
+            },
+            "number": "3849",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Internet Tax Freedom Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3849?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-06-10",
+            "latestAction": {
+                "actionDate": "1997-06-10",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1841",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to repeal the death tax for family farms and small businesses.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1841?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-04-17",
+            "latestAction": {
+                "actionDate": "1997-04-17",
+                "text": "Referred to House Appropriations"
+            },
+            "number": "1372",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Budget Process Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1372?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-03-13",
+            "latestAction": {
+                "actionDate": "1998-07-14",
+                "text": "Sponsor introductory remarks on measure. (CR E1288)"
+            },
+            "number": "1054",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Internet Tax Freedom Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1054?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-03-03",
+            "latestAction": {
+                "actionDate": "1997-03-03",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "902",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Family Heritage Preservation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/902?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-02-27",
+            "latestAction": {
+                "actionDate": "1997-03-05",
+                "text": "Referred to the Subcommittee on Human Resources."
+            },
+            "number": "869",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Child Support Enforcement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/869?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-07-17",
+            "latestAction": {
+                "actionDate": "1997-07-24",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "190",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Expressing the sense of the House of Representatives that Taiwan should be admitted to the World Trade Organization without making such admission conditional on the previous or simultaneous admission of the People's Republic of China to the WTO.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/105/hres/190?format=json"
+        }
+    ]
+}

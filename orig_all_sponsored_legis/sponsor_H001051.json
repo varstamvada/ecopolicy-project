@@ -1,0 +1,687 @@
+{
+    "pagination": {
+        "count": 46
+    },
+    "request": {
+        "bioguideId": "h001051",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "534",
+            "congress": 113,
+            "introducedDate": "2014-02-04",
+            "latestAction": {
+                "actionDate": "2014-02-04",
+                "actionTime": "15:19:03",
+                "text": "On agreeing to the Hanna amendment (A002) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/534?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-07-30",
+            "latestAction": {
+                "actionDate": "2014-07-30",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5281",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Young Savers Security in Retirement Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5281?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-01-14",
+            "latestAction": {
+                "actionDate": "2014-01-15",
+                "text": "Referred to the Subcommittee on Highways and Transit."
+            },
+            "number": "3872",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "State Transportation and Infrastructure Financing Innovation Act (STIFIA)",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3872?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-10-30",
+            "latestAction": {
+                "actionDate": "2013-10-31",
+                "text": "Referred to the Subcommittee on Highways and Transit."
+            },
+            "number": "3413",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "TRUE Safety Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3413?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-07-19",
+            "latestAction": {
+                "actionDate": "2014-12-11",
+                "text": "Placed on the Union Calendar, Calendar No. 497."
+            },
+            "number": "2751",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Commonsense Construction Contracting Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2751?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-06-24",
+            "latestAction": {
+                "actionDate": "2013-06-24",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2476",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "SERVE Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2476?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-06-11",
+            "latestAction": {
+                "actionDate": "2013-06-21",
+                "text": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs."
+            },
+            "number": "2310",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Guard Units And Reservists Deserve Remembrance Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2310?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-03-21",
+            "latestAction": {
+                "actionDate": "2013-03-21",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1353",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "STEM Education Opportunity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/1353?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-03-12",
+            "latestAction": {
+                "actionDate": "2013-05-17",
+                "text": "Became Public Law No: 113-10."
+            },
+            "number": "1071",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "To specify the size of the precious-metal blanks that will be used in the production of the National Baseball Hall of Fame commemorative coins.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/1071?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-02-15",
+            "latestAction": {
+                "actionDate": "2014-05-21",
+                "text": "Placed on the Union Calendar, Calendar No. 342."
+            },
+            "number": "776",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Security in Bonding Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/776?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-04-26",
+            "latestAction": {
+                "actionDate": "2013-05-08",
+                "text": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs."
+            },
+            "number": "190",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Condemning the April 15, 2013, Improvised Explosive Device (IED) attacks in Boston, Massachusetts and calling upon the United States Government, the governments of all nations, the United Nations, and other international organizations to renounce the use of IEDs and take actions to stop their proliferation.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/190?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-03-21",
+            "latestAction": {
+                "actionDate": "2013-05-06",
+                "text": "Referred to the Subcommittee on Asia and the Pacific."
+            },
+            "number": "134",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Condemning the Democratic People's Republic of Korea for its continuing acts of aggression, its expressed intent to break the July 10, 1953, Korean War Armistice Agreement, and for its repeated violations of United Nations Security Council resolutions.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/134?format=json"
+        },
+        {
+            "amendmentNumber": "1385",
+            "congress": 112,
+            "introducedDate": "2012-07-18",
+            "latestAction": {
+                "actionDate": "2012-07-18",
+                "actionTime": "17:20:18",
+                "text": "On agreeing to the Hanna amendment (A008) Failed by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/1385?format=json"
+        },
+        {
+            "amendmentNumber": "708",
+            "congress": 112,
+            "introducedDate": "2011-07-21",
+            "latestAction": {
+                "actionDate": "2011-07-21",
+                "actionTime": "21:19:54",
+                "text": "On agreeing to the Hanna amendment (A012) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/708?format=json"
+        },
+        {
+            "amendmentNumber": "199",
+            "congress": 112,
+            "introducedDate": "2011-03-29",
+            "latestAction": {
+                "actionDate": "2011-03-29",
+                "actionTime": "18:57:13",
+                "text": "On agreeing to the Hanna amendment (A001) Agreed to by recorded vote: 247 - 170 (Roll no. 194). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/199?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-08-02",
+            "latestAction": {
+                "actionDate": "2012-08-02",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "6325",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "STEM Education Opportunity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6325?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-08-02",
+            "latestAction": {
+                "actionDate": "2012-09-20",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "6324",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Cutting FUEL Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6324?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-26",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "4925",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on gallium unwrought.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/4925?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-26",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "4924",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on germanium oxides.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/4924?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-26",
+            "latestAction": {
+                "actionDate": "2012-05-02",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "4923",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on germanium unwrought.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/4923?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-12-01",
+            "latestAction": {
+                "actionDate": "2012-05-16",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "3534",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Security in Bonding Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3534?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-11-18",
+            "latestAction": {
+                "actionDate": "2012-01-12",
+                "text": "Referred to the Subcommittee on Capital Markets and Government Sponsored Enterprises."
+            },
+            "number": "3476",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "AGREE Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3476?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-10-25",
+            "latestAction": {
+                "actionDate": "2011-11-02",
+                "text": "Referred to the Subcommittee on Courts, Commercial and Administrative Law."
+            },
+            "number": "3257",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Regulatory Time-Out Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3257?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-10-06",
+            "latestAction": {
+                "actionDate": "2011-10-07",
+                "text": "Referred to the Subcommittee on Highways and Transit."
+            },
+            "number": "3122",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Clean Construction Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3122?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-09-22",
+            "latestAction": {
+                "actionDate": "2011-10-12",
+                "text": "Referred to the Subcommittee on Immigration Policy and Enforcement."
+            },
+            "number": "3024",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Access to Agricultural Labor Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3024?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-07-14",
+            "latestAction": {
+                "actionDate": "2012-08-03",
+                "text": "Became Public Law No: 112-152."
+            },
+            "number": "2527",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "National Baseball Hall of Fame Commemorative Coin Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2527?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-06-21",
+            "latestAction": {
+                "actionDate": "2012-05-15",
+                "text": "Became Public Law No: 112-111."
+            },
+            "number": "2244",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To designate the facility of the United States Postal Service located at 67 Castle Street in Geneva, New York, as the \"Corporal Steven Blaine Riccione Post Office\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2244?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-05-31",
+            "latestAction": {
+                "actionDate": "2011-12-20",
+                "text": "Became Public Law No: 112-73."
+            },
+            "number": "2061",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Civilian Service Recognition Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2061?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-02-10",
+            "latestAction": {
+                "actionDate": "2011-02-10",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "609",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "American Competitiveness Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/609?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-11-16",
+            "latestAction": {
+                "actionDate": "2016-11-16",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "925",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Expressing the sense of the House of Representatives regarding the vital role the Civil Air Patrol has played, and continues to play, in supporting the homeland security and national defense of the United States.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/114/hres/925?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-09-15",
+            "latestAction": {
+                "actionDate": "2016-09-15",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "870",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Recognizing the 200th anniversary of the Remington Arms Company.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/114/hres/870?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-09-08",
+            "latestAction": {
+                "actionDate": "2016-09-08",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "852",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of the House of Representatives on the challenges posed to long-term stability in Lebanon by the conflict in Syria.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/114/hres/852?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-04-26",
+            "latestAction": {
+                "actionDate": "2016-09-22",
+                "text": "Received in the Senate."
+            },
+            "number": "5064",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Improving Small Business Cyber Security Act of 2016",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5064?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-03-21",
+            "latestAction": {
+                "actionDate": "2016-03-25",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "654",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Recognizing and supporting the goals of \"World Sleep Day\", on March 18, 2016.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/114/hres/654?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-02-25",
+            "latestAction": {
+                "actionDate": "2016-02-26",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4625",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Firefighter Cancer Registry Act of 2016",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/4625?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-01-05",
+            "latestAction": {
+                "actionDate": "2016-01-05",
+                "text": "Referred to the House Committee on Small Business."
+            },
+            "number": "4317",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "PROS Act of 2016",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/4317?format=json"
+        },
+        {
+            "amendmentNumber": "745",
+            "congress": 114,
+            "introducedDate": "2015-11-03",
+            "latestAction": {
+                "actionDate": "2015-11-03",
+                "actionTime": "16:10:48",
+                "text": "On agreeing to the Hanna amendment (A012) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/114/hamdt/745?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-11-19",
+            "latestAction": {
+                "actionDate": "2015-11-19",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "535",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Condemning in the strongest terms the terrorist attacks in Beirut, Lebanon, on November 12, 2015, that resulted in the loss of at least 43 lives.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/114/hres/535?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-09-18",
+            "latestAction": {
+                "actionDate": "2015-09-18",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3570",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "STEM Education Opportunity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3570?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-09-17",
+            "latestAction": {
+                "actionDate": "2015-09-18",
+                "text": "Referred to the Subcommittee on Environment and the Economy."
+            },
+            "number": "3533",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Water System Cost Savings Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3533?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-05-21",
+            "latestAction": {
+                "actionDate": "2015-06-04",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2535",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "SERVE Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/2535?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-05-19",
+            "latestAction": {
+                "actionDate": "2015-11-16",
+                "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education."
+            },
+            "number": "2411",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Strong Start for America's Children Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/2411?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-02-26",
+            "latestAction": {
+                "actionDate": "2015-02-26",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1125",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Start Saving Sooner Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/1125?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-02-10",
+            "latestAction": {
+                "actionDate": "2015-03-16",
+                "text": "Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law."
+            },
+            "number": "838",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Security in Bonding Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/838?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-03-18",
+            "latestAction": {
+                "actionDate": "2015-03-18",
+                "text": "Referred to the House Committee on Small Business."
+            },
+            "number": "1444",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Commonsense Contracting Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/1444?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-02-02",
+            "latestAction": {
+                "actionDate": "2015-02-03",
+                "text": "Referred to the Subcommittee on Highways and Transit."
+            },
+            "number": "652",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "State Transportation and Infrastructure Financing Innovation Act (STIFIA)",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/652?format=json"
+        }
+    ]
+}

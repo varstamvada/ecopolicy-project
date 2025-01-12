@@ -1,0 +1,762 @@
+{
+    "pagination": {
+        "count": 50
+    },
+    "request": {
+        "bioguideId": "c001104",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 117,
+            "introducedDate": "2022-11-15",
+            "latestAction": {
+                "actionDate": "2022-11-15",
+                "text": "Referred to the House Committee on Education and Labor."
+            },
+            "number": "9298",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "To direct the Secretary of Labor to conduct a study on implementing a process through which a State or business may apply for an exemption from enforcement of certain occupational safety and health standards on the basis of economic hardship, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/9298?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-11-15",
+            "latestAction": {
+                "actionDate": "2022-11-15",
+                "text": "Referred to the House Committee on Rules."
+            },
+            "number": "1472",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Clarifying the application of rule XXI of the Rules of the House of Representatives to certain retrenchments of expenditures in appropriations measures, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/117/hres/1472?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-09-28",
+            "latestAction": {
+                "actionDate": "2022-09-28",
+                "text": "Referred to the House Committee on Education and Labor."
+            },
+            "number": "8999",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "To amend the Occupational Safety and Health Act of 1970 to provide for the expiration of emergency temporary standards after 6 months.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/8999?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-09-20",
+            "latestAction": {
+                "actionDate": "2022-11-01",
+                "text": "Referred to the Subcommittee on Immigration and Citizenship."
+            },
+            "number": "8915",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "BOND Act of 2022",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/8915?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-08-02",
+            "latestAction": {
+                "actionDate": "2022-08-02",
+                "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "8638",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "ORR Act of 2022",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/8638?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-07-29",
+            "latestAction": {
+                "actionDate": "2022-07-29",
+                "text": "Referred to the House Committee on Oversight and Reform."
+            },
+            "number": "8604",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Free City Commission Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/8604?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-07-29",
+            "latestAction": {
+                "actionDate": "2022-07-29",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "8603",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To direct the President to take such actions as may be necessary to prohibit the purchase of public or private real estate located in the United States by an foreign governments.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/8603?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-07-21",
+            "latestAction": {
+                "actionDate": "2022-07-21",
+                "text": "Referred to the House Committee on Oversight and Reform."
+            },
+            "number": "8464",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To require certain agencies in the executive branch of the Federal government to conduct a study on duplicative functions, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/8464?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-07-15",
+            "latestAction": {
+                "actionDate": "2022-07-15",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "8399",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to repeal the National Firearms Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/8399?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-07-14",
+            "latestAction": {
+                "actionDate": "2022-07-14",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "8378",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Protect S.T.A.T.E. Lines Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/8378?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-06-24",
+            "latestAction": {
+                "actionDate": "2022-06-24",
+                "text": "Referred to the House Committee on Veterans' Affairs."
+            },
+            "number": "8225",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 38, United States Code, to improve the treatment of anesthesiologist assistants in the Veterans Health Administration of the Department of Veterans Affairs.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/8225?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-06-16",
+            "latestAction": {
+                "actionDate": "2022-06-16",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "8101",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To direct the Commissioner of Social Security to conduct a study relating to administrative costs.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/8101?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-06-09",
+            "latestAction": {
+                "actionDate": "2022-06-09",
+                "text": "Referred to the Subcommittee on Europe, Energy, the Environment and Cyber."
+            },
+            "number": "8002",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Energy Independence Task Force Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/8002?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-05-11",
+            "latestAction": {
+                "actionDate": "2022-05-11",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "7715",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "SOULS Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/7715?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-04-14",
+            "latestAction": {
+                "actionDate": "2022-11-01",
+                "text": "Referred to the Subcommittee on Immigration and Citizenship."
+            },
+            "number": "7507",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "REFORM Act of 2022",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/7507?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-04-06",
+            "latestAction": {
+                "actionDate": "2022-04-07",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "7418",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Candace Owens Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/7418?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-03-31",
+            "latestAction": {
+                "actionDate": "2022-03-31",
+                "text": "Referred to the House Committee on Oversight and Reform."
+            },
+            "number": "7319",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To designate the facility of the United States Postal Service located at 33 Coxe Avenue, in Asheville, North Carolina, as the \"Dorothy Hansine Andersen Post Office\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/7319?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-03-30",
+            "latestAction": {
+                "actionDate": "2022-03-30",
+                "text": "Referred to the House Committee on Oversight and Reform."
+            },
+            "number": "7286",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "CEASE Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/7286?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-03-18",
+            "latestAction": {
+                "actionDate": "2022-03-21",
+                "text": "Referred to the Subcommittee on Energy."
+            },
+            "number": "7154",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "He Did That Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/7154?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-03-16",
+            "latestAction": {
+                "actionDate": "2022-03-17",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "7097",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "3T Act of 2022",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/7097?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-03-03",
+            "latestAction": {
+                "actionDate": "2022-11-01",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "6918",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "No Publicity for Terrorists Act of 2022",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/6918?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-03-01",
+            "latestAction": {
+                "actionDate": "2022-03-01",
+                "text": "Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "6879",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Task Force Pineapple Congressional Gold Medal Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/6879?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-02-22",
+            "latestAction": {
+                "actionDate": "2022-11-01",
+                "text": "Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties."
+            },
+            "number": "937",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Recognizing the duty of the Federal Government to preserve liberty by operating within the enumerated powers in the Constitution of the United States and its founding principles.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/117/hres/937?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-02-09",
+            "latestAction": {
+                "actionDate": "2022-02-09",
+                "text": "Referred to the House Committee on Armed Services."
+            },
+            "number": "6665",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "USB Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/6665?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-02-08",
+            "latestAction": {
+                "actionDate": "2022-11-01",
+                "text": "Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties."
+            },
+            "number": "71",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Proposing an amendment to the Constitution of the United States to limit the number of terms that a Member of Congress may serve.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/117/hjres/71?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-10-26",
+            "latestAction": {
+                "actionDate": "2021-10-26",
+                "text": "Referred to the House Committee on Education and Labor."
+            },
+            "number": "5728",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Justice for All Businesses Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/5728?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-07-28",
+            "latestAction": {
+                "actionDate": "2021-07-29",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4749",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Don\u2019t Knock on My Door Act of 2021",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/4749?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-07-28",
+            "latestAction": {
+                "actionDate": "2021-07-29",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4748",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "HEALTH Act of 2021",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/4748?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-07-27",
+            "latestAction": {
+                "actionDate": "2022-05-18",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "4702",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Military Spouse Tax Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/4702?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-07-22",
+            "latestAction": {
+                "actionDate": "2022-11-01",
+                "text": "Referred to the Subcommittee on Immigration and Citizenship."
+            },
+            "number": "4630",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "No Fly for Illegals Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/4630?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-10-21",
+            "latestAction": {
+                "actionDate": "2022-11-01",
+                "text": "Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties."
+            },
+            "number": "732",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Expressing the sense of the House of Representatives that it is the duty of Congress to uphold the Constitution and principles on which the United States of America was founded and that nothing in the Constitution or Declaration of Independence is meant to be construed as racist or harmful.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/117/hres/732?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-10-19",
+            "latestAction": {
+                "actionDate": "2021-10-20",
+                "text": "Referred to the Subcommittee on Aviation."
+            },
+            "number": "5613",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Let Me Travel America Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/5613?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-09-10",
+            "latestAction": {
+                "actionDate": "2021-09-10",
+                "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "627",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of the House of Representatives that the Biden Administration should continue to block all assets of the Government of Afghanistan that are held in accounts of United States financial institutions to ensure the Taliban does not have access to such assets.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/117/hres/627?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-09-07",
+            "latestAction": {
+                "actionDate": "2022-11-01",
+                "text": "Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties."
+            },
+            "number": "623",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Expressing the sense of the House of Representatives that political violence, violent speech, and inciteful language have no place in our political discourse and should be wholly condemned.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/117/hres/623?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-07-30",
+            "latestAction": {
+                "actionDate": "2021-09-21",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "4874",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Fly Vets Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/4874?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-07-30",
+            "latestAction": {
+                "actionDate": "2021-08-04",
+                "text": "Referred to the Subcommittee on Europe, Energy, the Environment and Cyber."
+            },
+            "number": "4873",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "FADS Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/4873?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-07-26",
+            "latestAction": {
+                "actionDate": "2022-11-01",
+                "text": "Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties."
+            },
+            "number": "557",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Expressing the sense of the House of Representatives against the malignant and metastasizing ideology of anti-Semitism.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/117/hres/557?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-06-17",
+            "latestAction": {
+                "actionDate": "2022-11-01",
+                "text": "Referred to the Subcommittee on Immigration and Citizenship."
+            },
+            "number": "3983",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Responsible Practical Training Act of 2021",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/3983?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-06-16",
+            "latestAction": {
+                "actionDate": "2021-06-16",
+                "text": "Referred to the House Committee on Education and Labor."
+            },
+            "number": "3928",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Informed Electorate Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/3928?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-06-01",
+            "latestAction": {
+                "actionDate": "2021-06-01",
+                "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "3654",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "ROBUST Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/3654?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-05-12",
+            "latestAction": {
+                "actionDate": "2021-05-12",
+                "text": "Referred to the House Committee on Education and Labor."
+            },
+            "number": "3137",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Protect Equality And Civics Education (PEACE) Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/3137?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-04-08",
+            "latestAction": {
+                "actionDate": "2021-04-09",
+                "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management."
+            },
+            "number": "2392",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "United States Capitol Complex Security Improvement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/2392?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-04-08",
+            "latestAction": {
+                "actionDate": "2021-04-08",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "2389",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "United States Capitol Police Wellness Promotion Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/2389?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-04-08",
+            "latestAction": {
+                "actionDate": "2021-04-28",
+                "text": "Referred to the Subcommittee on Economic Opportunity."
+            },
+            "number": "2391",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veterans Fellowship Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/2391?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-04-08",
+            "latestAction": {
+                "actionDate": "2021-06-05",
+                "text": "Referred to the Subcommittee for Indigenous Peoples of the United States."
+            },
+            "number": "2390",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Donument Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/2390?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-04-01",
+            "latestAction": {
+                "actionDate": "2021-04-02",
+                "text": "Referred to the Subcommittee on Border Security, Facilitation, and Operations."
+            },
+            "number": "2300",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "To terminate certain executive actions, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/2300?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-03-19",
+            "latestAction": {
+                "actionDate": "2021-10-19",
+                "text": "Referred to the Subcommittee on Immigration and Citizenship."
+            },
+            "number": "2084",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Common-Sense Census Act of 2021",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/2084?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-03-18",
+            "latestAction": {
+                "actionDate": "2021-03-18",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "252",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Commemorating the 100-year anniversary of the fall of Kronstadt, which took place on March 18, 1921.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/117/hres/252?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-03-12",
+            "latestAction": {
+                "actionDate": "2021-03-16",
+                "text": "Referred to the Subcommittee on Consumer Protection and Commerce."
+            },
+            "number": "1876",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "SPF Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/1876?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-03-11",
+            "latestAction": {
+                "actionDate": "2021-03-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1807",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Businesses Preparing for a Better Tomorrow Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/1807?format=json"
+        }
+    ]
+}

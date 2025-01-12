@@ -1,0 +1,144 @@
+{
+    "pagination": {
+        "count": 313,
+        "next": "https://api.congress.gov/v3/member/T000162/sponsored-legislation?offset=250&limit=250&format=json"
+    },
+    "request": {
+        "bioguideId": "t000162",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "566",
+            "congress": 102,
+            "introducedDate": "1992-05-27",
+            "latestAction": {
+                "actionDate": "1992-05-27",
+                "actionTime": "14:58:18",
+                "text": "On agreeing to the Thomas (WY) amendment (A016) Failed by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/566?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-04-15",
+            "latestAction": {
+                "actionDate": "2005-04-15",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "814",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Coal [[Leasing]] Amendments Act of 2005",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/814?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-04-14",
+            "latestAction": {
+                "actionDate": "2005-04-14",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S3657-3658)"
+            },
+            "number": "784",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Seniors Mental Health Access Improvement Act of 2005",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/784?format=json"
+        },
+
+        {
+            "congress": 109,
+            "introducedDate": "2005-02-01",
+            "latestAction": {
+                "actionDate": "2006-10-05",
+                "text": "Became Public Law No: 109-298."
+            },
+            "number": "244",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to extend the deadline for commencement of construction of a hydroelectric project in the State of Wyoming.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/244?format=json"
+        }
+    ]
+}{
+    "pagination": {
+        "count": 313,
+        "prev": "https://api.congress.gov/v3/member/T000162/sponsored-legislation?offset=0&limit=250&format=json"
+    },
+    "request": {
+        "bioguideId": "t000162",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "3290",
+            "congress": 104,
+            "introducedDate": "1996-02-01",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/samdt/3290?format=json"
+        },
+        {
+            "amendmentNumber": "3073",
+            "congress": 104,
+            "introducedDate": "1995-11-29",
+            "latestAction": {
+                "actionDate": "1995-11-29",
+                "text": "Amendment SP 3073 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/samdt/3073?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-02-16",
+            "latestAction": {
+                "actionDate": "1995-02-16",
+                "text": "Read twice and referred to the Committee on Governmental Affairs."
+            },
+            "number": "439",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Regulatory Reform Commissions Act of 1995",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/104/s/439?format=json"
+        },
+        {
+            "amendmentNumber": "3017",
+            "congress": 105,
+            "introducedDate": "1998-06-25",
+            "latestAction": {
+                "actionDate": "1998-06-25",
+                "text": "Amendment SP 3017 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/samdt/3017?format=json"
+        },
+
+        {
+            "congress": 105,
+            "introducedDate": "1998-10-21",
+            "latestAction": {
+                "actionDate": "1998-10-21",
+                "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S12936)"
+            },
+            "number": "313",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A resolution expressing the sense of the Senate with respect to the brutal killing of Mr. Matthew Shepard.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/105/sres/313?format=json"
+        }
+    ]
+}

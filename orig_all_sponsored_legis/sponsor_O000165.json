@@ -1,0 +1,599 @@
+{
+    "pagination": {
+        "count": 39
+    },
+    "request": {
+        "bioguideId": "o000165",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "25",
+            "congress": 109,
+            "introducedDate": "2005-03-09",
+            "latestAction": {
+                "actionDate": "2005-03-09",
+                "actionTime": "16:36:10",
+                "text": "On agreeing to the Osborne amendment Agreed to by recorded vote: 236 - 184 (Roll no. 58). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/25?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-07-28",
+            "latestAction": {
+                "actionDate": "2006-09-28",
+                "text": "Referred to the Subcommittee on Select Education."
+            },
+            "number": "6011",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Coordinated Youth Education, Employment Training, and Residential Treatment Act of 2006",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/6011?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-07-12",
+            "latestAction": {
+                "actionDate": "2006-07-12",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5775",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "CAFO Tax Credit Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/5775?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-02-14",
+            "latestAction": {
+                "actionDate": "2006-11-13",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "4750",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Lower Republican River Basin Study Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4750?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-10-17",
+            "latestAction": {
+                "actionDate": "2006-06-14",
+                "text": "Sponsor introductory remarks on measure. (CR E3975-3976)"
+            },
+            "number": "4065",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Temporary Worker Registration and Visa Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4065?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-05-26",
+            "latestAction": {
+                "actionDate": "2005-06-08",
+                "text": "Executive Comment Requested from USDA."
+            },
+            "number": "2717",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Hunger-Free Communities Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/2717?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-04-20",
+            "latestAction": {
+                "actionDate": "2005-04-25",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "1741",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Rural Veterans Access to Care Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1741?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-03-17",
+            "latestAction": {
+                "actionDate": "2005-05-10",
+                "text": "Referred to the Subcommittee on Commercial and Administrative Law."
+            },
+            "number": "1422",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "Student Athlete Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1422?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-03-09",
+            "latestAction": {
+                "actionDate": "2005-03-14",
+                "text": "Referred to the Subcommittee on Water and Power."
+            },
+            "number": "1197",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "To extend the water service contract for the Ainsworth Unit, Sandhills Division, Pick-Sloan Missouri Basin Program, Nebraska.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1197?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-02-16",
+            "latestAction": {
+                "actionDate": "2005-11-16",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "856",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Federal Youth Coordination Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/856?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-02-10",
+            "latestAction": {
+                "actionDate": "2005-02-10",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "775",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Farmland Capital Gains Equity Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/775?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-01-26",
+            "latestAction": {
+                "actionDate": "2005-01-26",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "399",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Rural Economic Investment Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/399?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-01-25",
+            "latestAction": {
+                "actionDate": "2005-01-25",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "341",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Improving the Community Services Block Grant Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/341?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-01-31",
+            "latestAction": {
+                "actionDate": "2006-02-08",
+                "actionTime": "15:32:26",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "660",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Supporting the goals and ideals of National Mentoring Month.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/660?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-03-09",
+            "latestAction": {
+                "actionDate": "2005-04-18",
+                "text": "Referred to the Subcommittee on 21st Century Competitiveness."
+            },
+            "number": "145",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Expressing the sense of the House of Representatives that the National Collegiate Athletic Association (NCAA) should affirm its commitment to a policy of discouraging alcohol use among underage students by ending all alcohol advertising during radio and television broadcasts of collegiate sporting events.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/145?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-01-25",
+            "latestAction": {
+                "actionDate": "2005-02-08",
+                "actionTime": "18:53:07",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "46",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Supporting the goals and ideals of National Mentoring Month.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/46?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-09-07",
+            "latestAction": {
+                "actionDate": "2004-09-29",
+                "text": "Received in the Senate."
+            },
+            "number": "5016",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "To extend the water service contract for the Ainsworth Unit, Sandhills Division, Pick-Sloan Missouri Basin Program, Nebraska.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/5016?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-06-24",
+            "latestAction": {
+                "actionDate": "2004-07-15",
+                "text": "Referred to the Subcommittee on Select Education."
+            },
+            "number": "4703",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Federal Youth Coordination Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/4703?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-05-05",
+            "latestAction": {
+                "actionDate": "2004-05-05",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4295",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Rural Economic Investment Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/4295?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-03-11",
+            "latestAction": {
+                "actionDate": "2004-03-30",
+                "text": "Referred to the Subcommittee on Health, for a period to be subsequently determined by the Chairman."
+            },
+            "number": "3961",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "United States Animal Identification Plan Implementation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3961?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-10-02",
+            "latestAction": {
+                "actionDate": "2003-10-06",
+                "text": "Executive Comment Requested from Interior."
+            },
+            "number": "3241",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Lower Republican River Basin Study Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3241?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-09-30",
+            "latestAction": {
+                "actionDate": "2004-10-05",
+                "text": "Became Public Law No: 108-318."
+            },
+            "number": "3209",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "To amend the Reclamation Project Authorization Act of 1972 to clarify the acreage for which the North Loup division is authorized to provide irrigation water under the Missouri River Basin project.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3209?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-09-05",
+            "latestAction": {
+                "actionDate": "2004-02-05",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "3030",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Improving the Community Services Block Grant Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3030?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-06-05",
+            "latestAction": {
+                "actionDate": "2004-03-09",
+                "text": "Sponsor introductory remarks on measure. (CR H993)"
+            },
+            "number": "2379",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Rural Veterans Access to Care Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2379?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-05-08",
+            "latestAction": {
+                "actionDate": "2003-10-15",
+                "text": "Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held."
+            },
+            "number": "2040",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "To amend the Irrigation Project Contract Extension Act of 1998 to extend certain contracts between the Bureau of Reclamation and certain irrigation water contractors in the States of Wyoming and Nebraska.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2040?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-03-26",
+            "latestAction": {
+                "actionDate": "2003-06-25",
+                "text": "Referred to the Subcommittee on Commercial and Administrative Law."
+            },
+            "number": "1451",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "Student Athlete Protection Act  ",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/1451?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-01-08",
+            "latestAction": {
+                "actionDate": "2003-01-08",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "310",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Farmland Capital Gains Equity Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/310?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-03-24",
+            "latestAction": {
+                "actionDate": "2004-05-04",
+                "text": "Sponsor introductory remarks on measure. (CR H2520-2521)"
+            },
+            "number": "575",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Expressing the sense of the House of Representatives that the National Collegiate Athletic Association (NCAA) should affirm its commitment to a policy of discouraging alcohol use among underage students by ending all alcohol advertising during radio and television broadcasts of collegiate sporting events.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/575?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-01-20",
+            "latestAction": {
+                "actionDate": "2004-01-21",
+                "actionTime": "12:45:39",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "491",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Honoring individuals who are mentors and supporting efforts to recruit more mentors.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/491?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-05-01",
+            "latestAction": {
+                "actionDate": "2003-05-27",
+                "text": "Referred to the Subcommittee on 21st Century Competitiveness."
+            },
+            "number": "216",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Congratulating the Hastings College women's basketball team for winning 2 consecutive National Association of Intercollegiate Athletics (NAIA) Division II national championships.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/216?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-01-08",
+            "latestAction": {
+                "actionDate": "2003-01-27",
+                "actionTime": "18:58:15",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "25",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Supporting efforts to promote greater awareness of the need for youth mentors and increased involvement with youth through mentoring.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/25?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-05-06",
+            "latestAction": {
+                "actionDate": "2004-09-28",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "161",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Recognizing the outstanding efforts of the individuals and communities who volunteered or donated items to the North Platte Canteen in North Platte, Nebraska, during World War II from December 25, 1941, to April 1, 1946.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/108/hconres/161?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-07-24",
+            "latestAction": {
+                "actionDate": "2002-08-05",
+                "text": "Executive Comment Requested from USDA."
+            },
+            "number": "5206",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Nebraska National Forest Cooperation Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5206?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-06-13",
+            "latestAction": {
+                "actionDate": "2002-09-25",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Indian Affairs."
+            },
+            "number": "4938",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "To direct the Secretary of the Interior, through the Bureau of Reclamation, to conduct a feasibility study to determine the most feasible method of developing a safe and adequate municipal, rural, and industrial water supply for the Santee Sioux Tribe of Nebraska, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4938?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-06-28",
+            "latestAction": {
+                "actionDate": "2002-09-25",
+                "text": "Placed on the Union Calendar, Calendar No. 427."
+            },
+            "number": "2408",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "Yankton Sioux Tribe and Santee Sioux Tribe Equitable Compensation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2408?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-04-04",
+            "latestAction": {
+                "actionDate": "2001-06-20",
+                "text": "Referred to the Subcommittee on Education Reform."
+            },
+            "number": "1501",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Mentoring for Success Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1501?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-02-14",
+            "latestAction": {
+                "actionDate": "2001-04-05",
+                "text": "Referred to the Subcommittee on Education Reform."
+            },
+            "number": "692",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Rural Education Initiative Amendments Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/692?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-01-30",
+            "latestAction": {
+                "actionDate": "2001-01-30",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "294",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Farmland Capital Gains Equity Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/294?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-01-23",
+            "latestAction": {
+                "actionDate": "2002-01-23",
+                "actionTime": "13:49:13",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "330",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Expressing the sense of the House of Representatives regarding the benefits of mentoring.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/107/hres/330?format=json"
+        }
+    ]
+}

@@ -1,0 +1,4096 @@
+{
+    "pagination": {
+        "count": 323,
+        "next": "https://api.congress.gov/v3/member/B001066/sponsored-legislation?offset=250&limit=250&format=json"
+    },
+    "request": {
+        "bioguideId": "b001066",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-04",
+            "latestAction": {
+                "actionDate": "1995-11-20",
+                "text": "Sponsor introductory remarks on measure. (CR E2219)"
+            },
+            "number": "8",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Senior Citizens' Equity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/8?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-09-13",
+            "latestAction": {
+                "actionDate": "2001-09-13",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S9397)"
+            },
+            "number": "1423",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to provide tax relief for military or civilian employees of the United States who are victims of terrorist attacks against the United States.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/1423?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-04-01",
+            "latestAction": {
+                "actionDate": "2004-04-01",
+                "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+            },
+            "number": "2268",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Cockpit Security Technical Corrections and Improvements Act of 2004",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/2268?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-07-14",
+            "latestAction": {
+                "actionDate": "2000-07-14",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2876",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Privacy and Identity Protection Act of 2000 ",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/106/s/2876?format=json"
+        },
+        {
+            "amendmentNumber": "4120",
+            "congress": 109,
+            "introducedDate": "2006-05-23",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4120?format=json"
+        },
+        {
+            "amendmentNumber": "4121",
+            "congress": 109,
+            "introducedDate": "2006-05-23",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4121?format=json"
+        },
+        {
+            "amendmentNumber": "4118",
+            "congress": 109,
+            "introducedDate": "2006-05-23",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4118?format=json"
+        },
+        {
+            "amendmentNumber": "4119",
+            "congress": 109,
+            "introducedDate": "2006-05-23",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/4119?format=json"
+        },
+        {
+            "amendmentNumber": "2638",
+            "congress": 109,
+            "introducedDate": "2005-11-17",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/2638?format=json"
+        },
+        {
+            "amendmentNumber": "1145",
+            "congress": 109,
+            "introducedDate": "2005-07-11",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/1145?format=json"
+        },
+        {
+            "amendmentNumber": "1146",
+            "congress": 109,
+            "introducedDate": "2005-07-11",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/1146?format=json"
+        },
+        {
+            "amendmentNumber": "518",
+            "congress": 109,
+            "introducedDate": "2005-04-18",
+            "latestAction": {
+                "actionDate": "2005-04-20",
+                "text": "Amendment SA 518 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S3996-3997)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/518?format=json"
+        },
+        {
+            "amendmentNumber": "519",
+            "congress": 109,
+            "introducedDate": "2005-04-18",
+            "latestAction": {
+                "actionDate": "2005-04-20",
+                "text": "Amendment SA 519 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S3997)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/519?format=json"
+        },
+        {
+            "amendmentNumber": "228",
+            "congress": 109,
+            "introducedDate": "2005-03-17",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/228?format=json"
+        },
+        {
+            "amendmentNumber": "241",
+            "congress": 109,
+            "introducedDate": "2005-03-17",
+            "latestAction": {
+                "actionDate": "2005-03-17",
+                "text": "Amendment SA 241 agreed to in Senate by Yea-Nay. 55 - 45. Record Vote Number: 74. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/samdt/241?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-09-28",
+            "latestAction": {
+                "actionDate": "2006-09-30",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 656."
+            },
+            "number": "3992",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "United States Fair Currency Practices Act of 2006",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3992?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-09-28",
+            "latestAction": {
+                "actionDate": "2006-09-28",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "3974",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to permit a special amortization deduction for intangible assets acquired from eligible small businesses to take account of the actual economic useful life of such assets and to encourage growth in industries for which intangible assets are an important source of revenue.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3974?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-06-29",
+            "latestAction": {
+                "actionDate": "2006-06-29",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "3602",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to provide duty-free treatment for certain parts of motor vehicles.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3602?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-06-29",
+            "latestAction": {
+                "actionDate": "2006-06-29",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "3623",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Coal-to-Liquid Fuel Promotion Energy Act of 2006",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3623?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-06-14",
+            "latestAction": {
+                "actionDate": "2006-06-14",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "3513",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Lewis and Clark National Historic Trail Extension Act of 2006",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3513?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-26",
+            "latestAction": {
+                "actionDate": "2006-05-26",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "3325",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Coal-to-Liquid Fuel Promotion Act of 2006",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3325?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-25",
+            "latestAction": {
+                "actionDate": "2006-05-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "3180",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on certain compounds of yttrium cerium phosphates.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3180?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-25",
+            "latestAction": {
+                "actionDate": "2006-05-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "3181",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the duty suspension on ORGASOL polyamide powders.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3181?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-25",
+            "latestAction": {
+                "actionDate": "2006-05-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "3177",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on certain compounds of lanthanum phosphates.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3177?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-25",
+            "latestAction": {
+                "actionDate": "2006-05-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "3179",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on certain compounds of lanthanum, cerium, and terbium phosphates.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3179?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-25",
+            "latestAction": {
+                "actionDate": "2006-05-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "3178",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on certain compounds of yttrium europium oxide co-precipitates.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/3178?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-19",
+            "latestAction": {
+                "actionDate": "2006-05-19",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2884",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to facilitate and expedite direct refunds to coal producers and exporters of the excise tax unconstitutionally imposed on coal exported from the United States.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2884?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-02-15",
+            "latestAction": {
+                "actionDate": "2006-02-15",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2289",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A bill to amend title XVIII of the Social Security Act to increase the per resident payment floor for direct graduate medical education payments under the Medicare program.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/2289?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-11-03",
+            "latestAction": {
+                "actionDate": "2005-11-04",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 280."
+            },
+            "number": "1960",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "Integrity in Professional Sports Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1960?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-26",
+            "latestAction": {
+                "actionDate": "2005-07-26",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "1499",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to amend the Federal Power Act to provide for competitive and reliable electricity transmission in the Commonwealth of Kentucky.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1499?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-06-29",
+            "latestAction": {
+                "actionDate": "2005-09-28",
+                "text": "Committee on Commerce, Science, and Transportation. Hearings held. Hearings printed: S.Hrg. 109-525."
+            },
+            "number": "1334",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "Professional Sports Integrity and Accountability Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1334?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-06-23",
+            "latestAction": {
+                "actionDate": "2005-06-23",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1293",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to permit the consolidation of life insurance companies with other companies.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1293?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-06-08",
+            "latestAction": {
+                "actionDate": "2005-06-08",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1200",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Realistic Roofing Tax Treatment Act of 2005",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1200?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-05-26",
+            "latestAction": {
+                "actionDate": "2005-05-26",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1153",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Coal-based Generation Improvement Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1153?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-05-23",
+            "latestAction": {
+                "actionDate": "2005-05-23",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1100",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Songwriters Capital Gains Tax Equity Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1100?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-05-12",
+            "latestAction": {
+                "actionDate": "2005-05-12",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1027",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to exempt the natural aging process in the determination of the production period for distilled spirits under section 263A of the Internal Revenue Code of 1986.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/1027?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-04-28",
+            "latestAction": {
+                "actionDate": "2005-04-29",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "957",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Clean Coal Power Initiative Act of 2005",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/957?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-04-13",
+            "latestAction": {
+                "actionDate": "2005-04-13",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "774",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Social Security Benefits Tax Relief Act of 2005",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/774?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-04-11",
+            "latestAction": {
+                "actionDate": "2005-04-11",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "755",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Informed Choice Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/755?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-03-17",
+            "latestAction": {
+                "actionDate": "2005-03-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "646",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Domestic Spirits Tax Equity Act of 2005",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/646?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-02-17",
+            "latestAction": {
+                "actionDate": "2005-02-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "440",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A bill to amend title XIX of the Social Security Act to include podiatrists as physicians for purposes of covering physicians services under the medicaid program.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/440?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-02-01",
+            "latestAction": {
+                "actionDate": "2005-02-01",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "246",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Adoption Tax Relief Guarantee Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/109/s/246?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-09-29",
+            "latestAction": {
+                "actionDate": "2006-12-06",
+                "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 12/7/2006 S11388)"
+            },
+            "number": "607",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution admonishing the statements made by President Hugo Chavez at the United Nations General Assembly on September 20, 2006, and the undemocratic actions of President Chavez.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/109/sres/607?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-09-21",
+            "latestAction": {
+                "actionDate": "2006-09-21",
+                "text": "Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S9907-9908)"
+            },
+            "number": "581",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A resolution condemning the anti-democratic actions of President Hugo Chavez and admonishing the statements made by him to the United Nations General Assembly on September 20, 2006.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/109/sres/581?format=json"
+        },
+        {
+            "amendmentNumber": "4380",
+            "congress": 111,
+            "introducedDate": "2010-06-17",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/4380?format=json"
+        },
+        {
+            "amendmentNumber": "4356",
+            "congress": 111,
+            "introducedDate": "2010-06-15",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/4356?format=json"
+        },
+        {
+            "amendmentNumber": "3998",
+            "congress": 111,
+            "introducedDate": "2010-05-12",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/3998?format=json"
+        },
+        {
+            "amendmentNumber": "3999",
+            "congress": 111,
+            "introducedDate": "2010-05-12",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/3999?format=json"
+        },
+        {
+            "amendmentNumber": "3728",
+            "congress": 111,
+            "introducedDate": "2010-04-15",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/3728?format=json"
+        },
+        {
+            "amendmentNumber": "3681",
+            "congress": 111,
+            "introducedDate": "2010-03-24",
+            "latestAction": {
+                "actionDate": "2010-03-25",
+                "text": "Motion to table amendment SA 3681 agreed to in Senate by Yea-Nay Vote. 61 - 36. Record Vote Number: 87. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/3681?format=json"
+        },
+        {
+            "amendmentNumber": "3355",
+            "congress": 111,
+            "introducedDate": "2010-03-02",
+            "latestAction": {
+                "actionDate": "2010-03-02",
+                "text": "Amendment SA 3355 ruled out of order by the chair. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/3355?format=json"
+        },
+        {
+            "amendmentNumber": "3361",
+            "congress": 111,
+            "introducedDate": "2010-03-03",
+            "latestAction": {
+                "actionDate": "2010-03-03",
+                "text": "Motion to table amendment SA 3361 agreed to in Senate by Yea-Nay Vote. 61 - 36. Record Vote Number: 38. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/3361?format=json"
+        },
+        {
+            "amendmentNumber": "3360",
+            "congress": 111,
+            "introducedDate": "2010-03-03",
+            "latestAction": {
+                "actionDate": "2010-03-03",
+                "text": "Motion to table amendment SA 3360 agreed to in Senate by Yea-Nay Vote. 56 - 41. Record Vote Number: 37. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/3360?format=json"
+        },
+        {
+            "amendmentNumber": "2653",
+            "congress": 111,
+            "introducedDate": "2009-10-07",
+            "latestAction": {
+                "actionDate": "2009-10-08",
+                "text": "Amendment SA 2653 ruled non-germane by the chair. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/2653?format=json"
+        },
+        {
+            "amendmentNumber": "1517",
+            "congress": 111,
+            "introducedDate": "2009-07-14",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/1517?format=json"
+        },
+        {
+            "amendmentNumber": "1238",
+            "congress": 111,
+            "introducedDate": "2009-06-03",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/1238?format=json"
+        },
+        {
+            "amendmentNumber": "1236",
+            "congress": 111,
+            "introducedDate": "2009-06-03",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/1236?format=json"
+        },
+        {
+            "amendmentNumber": "1239",
+            "congress": 111,
+            "introducedDate": "2009-06-03",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/1239?format=json"
+        },
+        {
+            "amendmentNumber": "1237",
+            "congress": 111,
+            "introducedDate": "2009-06-03",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/1237?format=json"
+        },
+        {
+            "amendmentNumber": "1086",
+            "congress": 111,
+            "introducedDate": "2009-05-12",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/1086?format=json"
+        },
+        {
+            "amendmentNumber": "817",
+            "congress": 111,
+            "introducedDate": "2009-04-01",
+            "latestAction": {
+                "actionDate": "2009-04-02",
+                "text": "Amendment SA 817 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/817?format=json"
+        },
+        {
+            "amendmentNumber": "818",
+            "congress": 111,
+            "introducedDate": "2009-04-01",
+            "latestAction": {
+                "actionDate": "2009-04-02",
+                "text": "Amendment SA 818 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/818?format=json"
+        },
+        {
+            "amendmentNumber": "665",
+            "congress": 111,
+            "introducedDate": "2009-03-05",
+            "latestAction": {
+                "actionDate": "2009-03-10",
+                "text": "Proposed amendment SA 665 withdrawn in Senate. (consideration: CR S2940)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/665?format=json"
+        },
+        {
+            "amendmentNumber": "531",
+            "congress": 111,
+            "introducedDate": "2009-02-06",
+            "latestAction": {
+                "actionDate": "2009-02-06",
+                "text": "Amendment SA 531 not agreed to in Senate by Yea-Nay Vote. 41 - 55. Record Vote Number: 57. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/531?format=json"
+        },
+        {
+            "amendmentNumber": "283",
+            "congress": 111,
+            "introducedDate": "2009-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/283?format=json"
+        },
+        {
+            "amendmentNumber": "242",
+            "congress": 111,
+            "introducedDate": "2009-02-04",
+            "latestAction": {
+                "actionDate": "2009-02-04",
+                "text": "Amendment SA 242 ruled out of order by the chair. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/242?format=json"
+        },
+        {
+            "amendmentNumber": "243",
+            "congress": 111,
+            "introducedDate": "2009-02-04",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/243?format=json"
+        },
+        {
+            "amendmentNumber": "123",
+            "congress": 111,
+            "introducedDate": "2009-02-03",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/123?format=json"
+        },
+        {
+            "amendmentNumber": "124",
+            "congress": 111,
+            "introducedDate": "2009-02-03",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/124?format=json"
+        },
+        {
+            "amendmentNumber": "122",
+            "congress": 111,
+            "introducedDate": "2009-02-03",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/122?format=json"
+        },
+        {
+            "amendmentNumber": "81",
+            "congress": 111,
+            "introducedDate": "2009-01-28",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/81?format=json"
+        },
+        {
+            "amendmentNumber": "74",
+            "congress": 111,
+            "introducedDate": "2009-01-28",
+            "latestAction": {
+                "actionDate": "2009-01-29",
+                "text": "Motion to table amendment SA 74 agreed to in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 25. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/samdt/74?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-12-02",
+            "latestAction": {
+                "actionDate": "2010-12-02",
+                "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+            },
+            "number": "4002",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to require the Secretary of Agriculture to issue expeditiously special use permits regarding the use of houseboats on Laurel Lake in the Daniel Boone National Forest in the State of Kentucky, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/4002?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-09-29",
+            "latestAction": {
+                "actionDate": "2010-09-29",
+                "text": "Read twice and referred to the Committee on Environment and Public Works."
+            },
+            "number": "3933",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Electricity Reliability Protection Act of 2010",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/3933?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-03-09",
+            "latestAction": {
+                "actionDate": "2010-03-09",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "3094",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A bill to allow individuals to elect to opt out of the Medicare part A benefits.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/3094?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-12-18",
+            "latestAction": {
+                "actionDate": "2009-12-18",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S13462)"
+            },
+            "number": "2916",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to provide that Internal Revenue Service Notice 2010-2 shall have no force and effect and to amend the Internal Revenue Code of 1986 to restrict the authority of the Secretary of the Treasury to prescribe regulations under section 382 of such Code.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2916?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-11-21",
+            "latestAction": {
+                "actionDate": "2009-11-21",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S11972-11973)"
+            },
+            "number": "2816",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Adoption Tax Relief Guarantee Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2816?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-11-02",
+            "latestAction": {
+                "actionDate": "2009-11-02",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2658",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend temporarily the suspension of duty on strontium magnesium phosphate-tin doped inorganic products.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2658?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-11-02",
+            "latestAction": {
+                "actionDate": "2009-11-02",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2659",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend temporarily the suspension of duty on yttrium vanadate phosphor.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2659?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-11-02",
+            "latestAction": {
+                "actionDate": "2009-11-02",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2660",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend temporarily the suspension of duty on yttrium oxide phosphor.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2660?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-11-02",
+            "latestAction": {
+                "actionDate": "2009-11-02",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2654",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend temporarily the suspension of duty on lanthanum phosphate phosphor.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2654?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-11-02",
+            "latestAction": {
+                "actionDate": "2009-11-02",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2644",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on high pressure fuel pump.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2644?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-11-02",
+            "latestAction": {
+                "actionDate": "2009-11-02",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2656",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend temporarily the suspension of duty on mixtures or coprecipitates of yttrium oxide and europium oxide.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2656?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-11-02",
+            "latestAction": {
+                "actionDate": "2009-11-02",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2646",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on injection fuel injector.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2646?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-11-02",
+            "latestAction": {
+                "actionDate": "2009-11-02",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2648",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on motor generator units.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2648?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-11-02",
+            "latestAction": {
+                "actionDate": "2009-11-02",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2655",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend the temporary suspension of duty on mixtures or coprecipitates of lanthanum phosphate, cerium-doped lanthanum phosphate, cerium phosphate, and terbium phosphate.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2655?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-11-02",
+            "latestAction": {
+                "actionDate": "2009-11-02",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2645",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on electric vehicle inverter.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2645?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-11-02",
+            "latestAction": {
+                "actionDate": "2009-11-02",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2651",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend temporarily the suspension of duty on compound of barium magnesium aluminate phosphor.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2651?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-11-02",
+            "latestAction": {
+                "actionDate": "2009-11-02",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2657",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend temporarily the suspension of duty on strontium halophosphate doped with europium.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2657?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-11-02",
+            "latestAction": {
+                "actionDate": "2009-11-02",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2652",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend temporarily the suspension of duty on calcium chloride phosphate phosphor.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2652?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-11-02",
+            "latestAction": {
+                "actionDate": "2009-11-02",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2650",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on stator/rotor.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2650?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-11-02",
+            "latestAction": {
+                "actionDate": "2009-11-02",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2647",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on lithium ion electrical storage battery.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2647?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-11-02",
+            "latestAction": {
+                "actionDate": "2009-11-02",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2649",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on power electronics boxes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2649?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-11-02",
+            "latestAction": {
+                "actionDate": "2009-11-02",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2653",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to extend temporarily the suspension of duty on compound of strontium chloroapatite-europium.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2653?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-30",
+            "latestAction": {
+                "actionDate": "2009-10-30",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2567",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on carbonaceous pastes for electrodes and similar pastes for furnace linings.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2567?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-29",
+            "latestAction": {
+                "actionDate": "2009-10-29",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2120",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on certain hydrogenated polymers of norbornene derivatives.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2120?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-29",
+            "latestAction": {
+                "actionDate": "2009-10-29",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2117",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Polycaprolactone Triol.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2117?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-29",
+            "latestAction": {
+                "actionDate": "2009-10-29",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2119",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on guanidine nitrate.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2119?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-29",
+            "latestAction": {
+                "actionDate": "2009-10-29",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2116",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Polycaprolactone Diol #2.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2116?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-29",
+            "latestAction": {
+                "actionDate": "2009-10-29",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2115",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on Polycaprolactone Diol #1.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2115?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-29",
+            "latestAction": {
+                "actionDate": "2009-10-29",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2118",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on nitroguanidine.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/2118?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-08",
+            "latestAction": {
+                "actionDate": "2009-10-13",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 176."
+            },
+            "number": "1772",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A bill to require that all legislative matters be available and fully scored by CBO 72 hours before consideration by any subcommittee or committee of the Senate or on the floor of the Senate.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/1772?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-06-19",
+            "latestAction": {
+                "actionDate": "2009-06-19",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S6846-6847)"
+            },
+            "number": "1306",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Energy Employees Occupational Illness Compensation Program Improvement Act of 2009",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/1306?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-03-19",
+            "latestAction": {
+                "actionDate": "2009-03-19",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "654",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Equity and Access for Podiatric Physicians Under Medicaid Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/111/s/654?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-09-28",
+            "latestAction": {
+                "actionDate": "2010-09-28",
+                "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S7666-7669; text as passed Senate: CR S7666; text of measure as introduced: CR S7635)"
+            },
+            "number": "653",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A resolution designating October 30, 2010, as a national day of remembrance for nuclear weapons program workers.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/111/sres/653?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-07",
+            "latestAction": {
+                "actionDate": "2009-10-07",
+                "text": "Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S10222)"
+            },
+            "number": "307",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "A resolution to require that all legislative matters be available and fully scored by CBO 72 hours before consideration by any subcommittee or committee of the Senate or on the floor of the Senate.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/111/sres/307?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-05-14",
+            "latestAction": {
+                "actionDate": "2009-05-20",
+                "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S5766)"
+            },
+            "number": "151",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A resolution designates a national day of remembrance on October 30, 2009, for nuclear weapons program workers.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/111/sres/151?format=json"
+        },
+        {
+            "amendmentNumber": "5432",
+            "congress": 110,
+            "introducedDate": "2008-09-10",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/5432?format=json"
+        },
+        {
+            "amendmentNumber": "5131",
+            "congress": 110,
+            "introducedDate": "2008-07-24",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/5131?format=json"
+        },
+        {
+            "amendmentNumber": "5073",
+            "congress": 110,
+            "introducedDate": "2008-07-14",
+            "latestAction": {
+                "actionDate": "2008-07-15",
+                "text": "Amendment SA 5073 not agreed to in Senate by Yea-Nay Vote. 16 - 80. Record Vote Number: 176. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/5073?format=json"
+        },
+        {
+            "amendmentNumber": "5007",
+            "congress": 110,
+            "introducedDate": "2008-06-19",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/5007?format=json"
+        },
+        {
+            "amendmentNumber": "4694",
+            "congress": 110,
+            "introducedDate": "2008-05-05",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/4694?format=json"
+        },
+        {
+            "amendmentNumber": "4696",
+            "congress": 110,
+            "introducedDate": "2008-05-05",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/4696?format=json"
+        },
+        {
+            "amendmentNumber": "4693",
+            "congress": 110,
+            "introducedDate": "2008-05-05",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/4693?format=json"
+        },
+        {
+            "amendmentNumber": "4695",
+            "congress": 110,
+            "introducedDate": "2008-05-05",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/4695?format=json"
+        },
+        {
+            "amendmentNumber": "4497",
+            "congress": 110,
+            "introducedDate": "2008-04-08",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/4497?format=json"
+        },
+        {
+            "amendmentNumber": "4498",
+            "congress": 110,
+            "introducedDate": "2008-04-08",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/4498?format=json"
+        },
+        {
+            "amendmentNumber": "4493",
+            "congress": 110,
+            "introducedDate": "2008-04-07",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/4493?format=json"
+        },
+        {
+            "amendmentNumber": "4395",
+            "congress": 110,
+            "introducedDate": "2008-04-03",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/4395?format=json"
+        },
+        {
+            "amendmentNumber": "4307",
+            "congress": 110,
+            "introducedDate": "2008-03-13",
+            "latestAction": {
+                "actionDate": "2008-03-14",
+                "text": "Amendment SA 4307 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/4307?format=json"
+        },
+        {
+            "amendmentNumber": "4217",
+            "congress": 110,
+            "introducedDate": "2008-03-12",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/4217?format=json"
+        },
+        {
+            "amendmentNumber": "4192",
+            "congress": 110,
+            "introducedDate": "2008-03-12",
+            "latestAction": {
+                "actionDate": "2008-03-13",
+                "text": "Amendment SA 4192 not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 52. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/4192?format=json"
+        },
+        {
+            "amendmentNumber": "4187",
+            "congress": 110,
+            "introducedDate": "2008-03-12",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/4187?format=json"
+        },
+        {
+            "amendmentNumber": "4186",
+            "congress": 110,
+            "introducedDate": "2008-03-12",
+            "latestAction": {
+                "actionDate": "2008-03-13",
+                "text": "Amendment SA 4186 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/4186?format=json"
+        },
+        {
+            "amendmentNumber": "4188",
+            "congress": 110,
+            "introducedDate": "2008-03-12",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/4188?format=json"
+        },
+        {
+            "amendmentNumber": "4121",
+            "congress": 110,
+            "introducedDate": "2008-03-05",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/4121?format=json"
+        },
+        {
+            "amendmentNumber": "3618",
+            "congress": 110,
+            "introducedDate": "2007-11-13",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/3618?format=json"
+        },
+        {
+            "amendmentNumber": "3414",
+            "congress": 110,
+            "introducedDate": "2007-10-19",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/3414?format=json"
+        },
+        {
+            "amendmentNumber": "2858",
+            "congress": 110,
+            "introducedDate": "2007-09-11",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/2858?format=json"
+        },
+        {
+            "amendmentNumber": "2625",
+            "congress": 110,
+            "introducedDate": "2007-08-02",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/2625?format=json"
+        },
+        {
+            "amendmentNumber": "2547",
+            "congress": 110,
+            "introducedDate": "2007-07-31",
+            "latestAction": {
+                "actionDate": "2007-08-01",
+                "text": "Motion to table amendment SA 2547 agreed to in Senate by Yea-Nay Vote. 53 - 43. Record Vote Number: 290. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/2547?format=json"
+        },
+        {
+            "amendmentNumber": "2331",
+            "congress": 110,
+            "introducedDate": "2007-07-19",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/2331?format=json"
+        },
+        {
+            "amendmentNumber": "2332",
+            "congress": 110,
+            "introducedDate": "2007-07-19",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/2332?format=json"
+        },
+        {
+            "amendmentNumber": "2316",
+            "congress": 110,
+            "introducedDate": "2007-07-18",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/2316?format=json"
+        },
+        {
+            "amendmentNumber": "1628",
+            "congress": 110,
+            "introducedDate": "2007-06-18",
+            "latestAction": {
+                "actionDate": "2007-06-19",
+                "text": "Amendment SA 1628 not agreed to in Senate by Yea-Nay Vote. 39 - 55. Record Vote Number: 213. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/1628?format=json"
+        },
+        {
+            "amendmentNumber": "1082",
+            "congress": 110,
+            "introducedDate": "2007-05-10",
+            "latestAction": {
+                "actionDate": "2007-05-10",
+                "text": "Amendment SA 1082 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/1082?format=json"
+        },
+        {
+            "amendmentNumber": "1007",
+            "congress": 110,
+            "introducedDate": "2007-05-01",
+            "latestAction": {
+                "actionDate": "2007-05-01",
+                "text": "Amendment SA 1007 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/1007?format=json"
+        },
+        {
+            "amendmentNumber": "621",
+            "congress": 110,
+            "introducedDate": "2007-03-23",
+            "latestAction": {
+                "actionDate": "2007-03-23",
+                "text": "Amendment SA 621 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/621?format=json"
+        },
+        {
+            "amendmentNumber": "595",
+            "congress": 110,
+            "introducedDate": "2007-03-22",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/595?format=json"
+        },
+        {
+            "amendmentNumber": "594",
+            "congress": 110,
+            "introducedDate": "2007-03-22",
+            "latestAction": {
+                "actionDate": "2007-03-23",
+                "text": "Amendment SA 594 not agreed to in Senate by Yea-Nay Vote. 44 - 55. Record Vote Number: 111. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/594?format=json"
+        },
+        {
+            "amendmentNumber": "500",
+            "congress": 110,
+            "introducedDate": "2007-03-21",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/500?format=json"
+        },
+        {
+            "amendmentNumber": "483",
+            "congress": 110,
+            "introducedDate": "2007-03-21",
+            "latestAction": {
+                "actionDate": "2007-03-21",
+                "text": "Amendment SA 483 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 87. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/483?format=json"
+        },
+        {
+            "amendmentNumber": "485",
+            "congress": 110,
+            "introducedDate": "2007-03-21",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/485?format=json"
+        },
+        {
+            "amendmentNumber": "334",
+            "congress": 110,
+            "introducedDate": "2007-03-05",
+            "latestAction": {
+                "actionDate": "2007-03-09",
+                "text": "Amendment SA 334 ruled non-germane by the chair. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/334?format=json"
+        },
+        {
+            "amendmentNumber": "119",
+            "congress": 110,
+            "introducedDate": "2007-01-23",
+            "latestAction": {
+                "actionDate": "2007-01-25",
+                "text": "Amendment SA 119 ruled out of order by the chair. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/samdt/119?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-10-01",
+            "latestAction": {
+                "actionDate": "2008-10-01",
+                "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S10335)"
+            },
+            "number": "3670",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "A bill to regulate certain State and local taxation of electronic commerce, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/110/s/3670?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-09-17",
+            "latestAction": {
+                "actionDate": "2008-09-17",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (text of measure as introduced: CR S8954)"
+            },
+            "number": "3510",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "A bill to prohibit the Board of Governors of the Federal Reserve System from making funds available at a discount rate to private individuals, partnerships, and corporations.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/110/s/3510?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-09-09",
+            "latestAction": {
+                "actionDate": "2008-09-09",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "3458",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "A bill to prohibit golden parachute payments for former executives and directors of Fannie Mae and Freddie Mac.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/110/s/3458?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-07-07",
+            "latestAction": {
+                "actionDate": "2008-09-16",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 1006."
+            },
+            "number": "3226",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Abraham Lincoln Birthplace National Historical Park Act of 2008",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/110/s/3226?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-04-14",
+            "latestAction": {
+                "actionDate": "2008-04-14",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2851",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to modify the penalty on the understatement of taxpayer's liability by tax return preparers.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/110/s/2851?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-04-03",
+            "latestAction": {
+                "actionDate": "2008-04-03",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "2813",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "China Currency Manipulation Act of 2008",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/110/s/2813?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-08-03",
+            "latestAction": {
+                "actionDate": "2008-06-11",
+                "text": "Indefinitely postponed by Senate by Unanimous Consent. (consideration: CR S5530)"
+            },
+            "number": "1991",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Lewis and Clark National Historic Trail Extension Study Act of 2007",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/110/s/1991?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-05-10",
+            "latestAction": {
+                "actionDate": "2007-05-10",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1366",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to permit the consolidation of life insurance companies with other companies.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/110/s/1366?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-03-27",
+            "latestAction": {
+                "actionDate": "2007-03-27",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "998",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to exempt the natural aging process in the determination of the production period for distilled spirits under section 263A of the Internal Revenue Code of 1986.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/110/s/998?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-03-13",
+            "latestAction": {
+                "actionDate": "2007-03-13",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S3074-3075)"
+            },
+            "number": "864",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Access to Competitive Power Act of 2007",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/110/s/864?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-03-07",
+            "latestAction": {
+                "actionDate": "2007-03-07",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "796",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Fair Currency Act of 2007",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/110/s/796?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-02-13",
+            "latestAction": {
+                "actionDate": "2007-02-13",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S1904)"
+            },
+            "number": "561",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Adoption Tax Relief Guarantee Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/110/s/561?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-01-25",
+            "latestAction": {
+                "actionDate": "2007-05-16",
+                "text": "Committee on the Judiciary. Hearings held. Hearings printed: S.Hrg. 110-472."
+            },
+            "number": "399",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A bill to amend title XIX of the Social Security Act to include podiatrists as physicians for purposes of covering physicians services under the Medicaid program.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/110/s/399?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-01-24",
+            "latestAction": {
+                "actionDate": "2007-01-24",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "373",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to facilitate and expedite direct refunds to coal producers and exporters of the excise tax unconstitutionally imposed on coal exported from the United States.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/110/s/373?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-01-04",
+            "latestAction": {
+                "actionDate": "2007-01-04",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S143-144)"
+            },
+            "number": "154",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Coal-to-Liquid Fuel Energy Act of 2007",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/110/s/154?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-01-04",
+            "latestAction": {
+                "actionDate": "2007-01-04",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S144-148)"
+            },
+            "number": "155",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Coal-to-Liquid Fuel Promotion Act of 2007",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/110/s/155?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-08-02",
+            "latestAction": {
+                "actionDate": "2007-08-02",
+                "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S10840-10841; text as passed Senate: CR S10840; text of measure as introduced: CR S10822)"
+            },
+            "number": "294",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A resolution designating September 2007 as \"National Bourbon Heritage Month\".",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/110/sres/294?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-04-17",
+            "latestAction": {
+                "actionDate": "2007-04-17",
+                "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4621; text as passed Senate: CR S4621; text of measure as introduced: CR S4618)"
+            },
+            "number": "152",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A resolution honoring the lifetime achievements of Jackie Robinson.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/110/sres/152?format=json"
+        },
+        {
+            "amendmentNumber": "3525",
+            "congress": 108,
+            "introducedDate": "2004-06-24",
+            "latestAction": {
+                "actionDate": "2004-06-24",
+                "text": "Amendment SA 3525 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/3525?format=json"
+        },
+        {
+            "amendmentNumber": "3128",
+            "congress": 108,
+            "introducedDate": "2004-05-10",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/3128?format=json"
+        },
+        {
+            "amendmentNumber": "2882",
+            "congress": 108,
+            "introducedDate": "2004-03-22",
+            "latestAction": {
+                "actionDate": "2004-03-22",
+                "text": "Amendment SA 2882 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/2882?format=json"
+        },
+        {
+            "amendmentNumber": "2866",
+            "congress": 108,
+            "introducedDate": "2004-03-22",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/2866?format=json"
+        },
+        {
+            "amendmentNumber": "2686",
+            "congress": 108,
+            "introducedDate": "2004-03-04",
+            "latestAction": {
+                "actionDate": "2004-03-22",
+                "text": "By Unanimous Consent, Amendment SA 2686, previously agreed to as amended by Amendment SA 2687, was modified to reflect the amendment as having been agreed to without amendment. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/2686?format=json"
+        },
+        {
+            "amendmentNumber": "2655",
+            "congress": 108,
+            "introducedDate": "2004-03-03",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/2655?format=json"
+        },
+        {
+            "amendmentNumber": "2656",
+            "congress": 108,
+            "introducedDate": "2004-03-03",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/2656?format=json"
+        },
+        {
+            "amendmentNumber": "2658",
+            "congress": 108,
+            "introducedDate": "2004-03-03",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/2658?format=json"
+        },
+        {
+            "amendmentNumber": "2659",
+            "congress": 108,
+            "introducedDate": "2004-03-03",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/2659?format=json"
+        },
+        {
+            "amendmentNumber": "2657",
+            "congress": 108,
+            "introducedDate": "2004-03-03",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/2657?format=json"
+        },
+        {
+            "amendmentNumber": "2614",
+            "congress": 108,
+            "introducedDate": "2004-02-12",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/2614?format=json"
+        },
+        {
+            "amendmentNumber": "2506",
+            "congress": 108,
+            "introducedDate": "2004-02-11",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/2506?format=json"
+        },
+        {
+            "amendmentNumber": "2505",
+            "congress": 108,
+            "introducedDate": "2004-02-11",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/2505?format=json"
+        },
+        {
+            "amendmentNumber": "1898",
+            "congress": 108,
+            "introducedDate": "2003-10-22",
+            "latestAction": {
+                "actionDate": "2003-10-22",
+                "text": "Amendment SA 1898 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/1898?format=json"
+        },
+        {
+            "amendmentNumber": "1897",
+            "congress": 108,
+            "introducedDate": "2003-10-22",
+            "latestAction": {
+                "actionDate": "2003-10-22",
+                "text": "Amendment SA 1897 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/1897?format=json"
+        },
+        {
+            "amendmentNumber": "903",
+            "congress": 108,
+            "introducedDate": "2003-06-12",
+            "latestAction": {
+                "actionDate": "2003-06-12",
+                "text": "Amendment SA 903 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/903?format=json"
+        },
+        {
+            "amendmentNumber": "789",
+            "congress": 108,
+            "introducedDate": "2003-05-21",
+            "latestAction": {
+                "actionDate": "2003-05-22",
+                "text": "Amendment SA 789 as modified agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/789?format=json"
+        },
+        {
+            "amendmentNumber": "754",
+            "congress": 108,
+            "introducedDate": "2003-05-20",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/754?format=json"
+        },
+        {
+            "amendmentNumber": "727",
+            "congress": 108,
+            "introducedDate": "2003-05-20",
+            "latestAction": {
+                "actionDate": "2003-05-22",
+                "text": "Amendment SA 727 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/727?format=json"
+        },
+        {
+            "amendmentNumber": "728",
+            "congress": 108,
+            "introducedDate": "2003-05-20",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/728?format=json"
+        },
+        {
+            "amendmentNumber": "646",
+            "congress": 108,
+            "introducedDate": "2003-05-15",
+            "latestAction": {
+                "actionDate": "2003-05-15",
+                "text": "Amendment SA 646 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/646?format=json"
+        },
+        {
+            "amendmentNumber": "638",
+            "congress": 108,
+            "introducedDate": "2003-05-15",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/638?format=json"
+        },
+        {
+            "amendmentNumber": "589",
+            "congress": 108,
+            "introducedDate": "2003-05-14",
+            "latestAction": {
+                "actionDate": "2003-05-15",
+                "text": "Amendment SA 589 agreed to in Senate by Yea-Nay Vote. 98 - 2. Record Vote Number: 148. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/589?format=json"
+        },
+        {
+            "amendmentNumber": "496",
+            "congress": 108,
+            "introducedDate": "2003-04-03",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/496?format=json"
+        },
+        {
+            "amendmentNumber": "444",
+            "congress": 108,
+            "introducedDate": "2003-04-02",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/444?format=json"
+        },
+        {
+            "amendmentNumber": "413",
+            "congress": 108,
+            "introducedDate": "2003-03-25",
+            "latestAction": {
+                "actionDate": "2003-03-26",
+                "text": "Motion by Senator Frist to reconsider the vote (Roll Call No. 94) by which amendment SA 413 was not agreed to was withdrawn in Senate. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/413?format=json"
+        },
+        {
+            "amendmentNumber": "112",
+            "congress": 108,
+            "introducedDate": "2003-01-21",
+            "latestAction": {
+                "actionDate": "2003-01-23",
+                "text": "Amendment SA 112 as modified agreed to in Senate by Voice Vote. (text as modified: CR S1429)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/112?format=json"
+        },
+        {
+            "amendmentNumber": "38",
+            "congress": 108,
+            "introducedDate": "2003-01-17",
+            "latestAction": {
+                "actionDate": "2003-01-23",
+                "text": "Amendment SA 38 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/38?format=json"
+        },
+        {
+            "amendmentNumber": "37",
+            "congress": 108,
+            "introducedDate": "2003-01-17",
+            "latestAction": {
+                "actionDate": "2003-01-23",
+                "text": "Amendment SA 37 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/samdt/37?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-09-30",
+            "latestAction": {
+                "actionDate": "2004-09-30",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2872",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Agricultural Business Security Tax Credit Act of 2004",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/2872?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-06-24",
+            "latestAction": {
+                "actionDate": "2004-09-29",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "2589",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to clarify the status of certain retirement plans and the organizations which maintain the plans.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/2589?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-05-04",
+            "latestAction": {
+                "actionDate": "2004-09-23",
+                "text": "Sponsor introductory remarks on measure. (CR S9570)"
+            },
+            "number": "2376",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Working Family Tax Relief Act of 2004",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/2376?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-04-07",
+            "latestAction": {
+                "actionDate": "2004-06-22",
+                "text": "Committee on Veterans' Affairs. Hearings held."
+            },
+            "number": "2296",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to require the Secretary of Veterans Affairs to give the Commonwealth of Kentucky the first option on the Louisville Department of Veterans Affairs Medical Center, Kentucky, upon its conveyance, lease or other disposal by the Department of Veterans Affairs.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/2296?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-03-25",
+            "latestAction": {
+                "actionDate": "2004-06-30",
+                "text": "Became Public Law No: 108-264."
+            },
+            "number": "2238",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Bunning-Bereuter-Blumenaur Flood Insurance Reform Act of 2004",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/2238?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-03-11",
+            "latestAction": {
+                "actionDate": "2004-03-12",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "2206",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Pell Grants Plus Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/2206?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-03-09",
+            "latestAction": {
+                "actionDate": "2004-03-09",
+                "text": "Read twice and referred to the Committee on Armed Services."
+            },
+            "number": "2184",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to amend title 10 United States Code, to increase the rates of educational assistance for members of the Selected Reserve, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/2184?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-03-08",
+            "latestAction": {
+                "actionDate": "2004-03-08",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2174",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A bill to amend title XIX of the Social Security Act to include podiatrists as physicians for purposes of covering physicians services under the medicaid program.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/2174?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-02-24",
+            "latestAction": {
+                "actionDate": "2004-02-24",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2106",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Songwriters Capital Gains Tax Equity Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/2106?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-01-22",
+            "latestAction": {
+                "actionDate": "2004-01-22",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S186)"
+            },
+            "number": "2018",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Lewis and Clark National Historic Trail Extension Act of 2004",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/2018?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-11-22",
+            "latestAction": {
+                "actionDate": "2003-11-22",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S15573)"
+            },
+            "number": "1931",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to repeal the sunset of the Economic Growth and Tax Relief Reconciliation Act of 2001 with respect to the expansion of the adoption credit and adoption assistance programs.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/1931?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-10-21",
+            "latestAction": {
+                "actionDate": "2003-12-06",
+                "text": "Became Public Law No: 108-171."
+            },
+            "number": "1768",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "National Flood Insurance Program Reauthorization Act of 2004",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/1768?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-10-20",
+            "latestAction": {
+                "actionDate": "2003-10-20",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1759",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to reduce the holding period to 12 months for purposes of determining whether horses are section 1231 assets.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/1759?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-09-30",
+            "latestAction": {
+                "actionDate": "2003-09-30",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1679",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Realistic Roofing Tax Treatment Act of 2003",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/1679?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-09-30",
+            "latestAction": {
+                "actionDate": "2003-09-30",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1681",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to exempt the natural aging process in the determination of the production period for distilled spirits under section 263A of the Internal Revenue Code of 1986.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/1681?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-09-25",
+            "latestAction": {
+                "actionDate": "2003-11-13",
+                "text": "Referred to the Subcommittee on Aviation."
+            },
+            "number": "1657",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to amend section 44921 of title 49, United States Code, to provide for the arming of cargo pilots against terrorism.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/1657?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-07-31",
+            "latestAction": {
+                "actionDate": "2003-07-31",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1506",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Domestic Spirits Tax Equity Act of 2003",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/1506?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-07-30",
+            "latestAction": {
+                "actionDate": "2003-07-30",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1494",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to extend the special 5-year carryback of certain net operating losses to losses for 2003, 2004,  and 2005.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/1494?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-07-30",
+            "latestAction": {
+                "actionDate": "2003-07-30",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1495",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to permit the consolidation of life insurance companies with other companies.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/1495?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-07-25",
+            "latestAction": {
+                "actionDate": "2003-07-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1457",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to reduce the rate of tax on distilled spirits on its pre-1985 level.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/1457?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-07-22",
+            "latestAction": {
+                "actionDate": "2003-07-22",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1439",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Adoption Incentive Program Reauthorization Act of 2003",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/1439?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-07-08",
+            "latestAction": {
+                "actionDate": "2003-07-08",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1371",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to permit a special amortization deduction for intangible assets acquired from eligible small businesses to take account of the actual economic useful life of such assets and to encourage growth in industries for which intangible assets are an important source of revenue.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/1371?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-03-25",
+            "latestAction": {
+                "actionDate": "2003-03-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "698",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to clarify the status of the Young Men's Christian Association Retirement Fund for purposes of the Internal Revenue Code of 1986.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/698?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-03-18",
+            "latestAction": {
+                "actionDate": "2003-03-18",
+                "text": "Read twice and referred to the Committee on Armed Services."
+            },
+            "number": "655",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "A bill to provide for the conveyance of land at Fort Knox, Kentucky, to facilitate the establishment of a State-run cemetery for veterans.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/655?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-03-10",
+            "latestAction": {
+                "actionDate": "2003-03-10",
+                "text": "Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S3412-3418)"
+            },
+            "number": "582",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Coal Energy Research Development and Demonstration Act of 2003 ",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/582?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-03-05",
+            "latestAction": {
+                "actionDate": "2003-03-13",
+                "text": "Sponsor introductory remarks on measure. (CR S3721)"
+            },
+            "number": "516",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Arming Cargo Pilots Against Terrorism Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/516?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-03-05",
+            "latestAction": {
+                "actionDate": "2004-10-25",
+                "text": "Became Public Law No: 108-367."
+            },
+            "number": "524",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Fort Donelson National Battlefield Expansion Act of 2004",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/524?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-03-05",
+            "latestAction": {
+                "actionDate": "2003-03-05",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "514",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Social Security Benefits Tax Relief Act of 2003",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/514?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-02-25",
+            "latestAction": {
+                "actionDate": "2003-02-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "439",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Protection Act of 2003",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/439?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-02-13",
+            "latestAction": {
+                "actionDate": "2003-02-13",
+                "text": "Read twice and referred to the Committee on the Judiciary. (text  of measure as introduced: CR S2479-2480)"
+            },
+            "number": "404",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Child Modeling Exploitation Prevention Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/404?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-02-11",
+            "latestAction": {
+                "actionDate": "2003-02-11",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "340",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Informed Choice Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/108/s/340?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-01-09",
+            "latestAction": {
+                "actionDate": "2003-01-09",
+                "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S176; text as passed Senate: CR S176; text of measure as introduced: CR S174)"
+            },
+            "number": "16",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A resolution honoring the Hilltoppers of Western Kentucky University from Bowling Green, Kentucky, for winning the 2002 National Collegiate Athletic Association Division I-AA Football Championship.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/108/sres/16?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-03-13",
+            "latestAction": {
+                "actionDate": "2003-11-10",
+                "text": "Referred to the Subcommittee on 21st Century Competitiveness."
+            },
+            "number": "21",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Direct Support Professional Recognition Resolution",
+            "type": "SCONRES",
+            "url": "https://api.congress.gov/v3/bill/108/sconres/21?format=json"
+        },
+        {
+            "amendmentNumber": "4724",
+            "congress": 107,
+            "introducedDate": "2002-09-24",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/4724?format=json"
+        },
+        {
+            "amendmentNumber": "4520",
+            "congress": 107,
+            "introducedDate": "2002-09-10",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/4520?format=json"
+        },
+        {
+            "amendmentNumber": "4430",
+            "congress": 107,
+            "introducedDate": "2002-07-31",
+            "latestAction": {
+                "actionDate": "2002-07-31",
+                "text": "Amendment SA 4430 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/4430?format=json"
+        },
+        {
+            "amendmentNumber": "4243",
+            "congress": 107,
+            "introducedDate": "2002-07-11",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/4243?format=json"
+        },
+        {
+            "amendmentNumber": "4144",
+            "congress": 107,
+            "introducedDate": "2002-06-26",
+            "latestAction": {
+                "actionDate": "2002-06-26",
+                "text": "Amendment SA 4144 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/4144?format=json"
+        },
+        {
+            "amendmentNumber": "3974",
+            "congress": 107,
+            "introducedDate": "2002-06-25",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/3974?format=json"
+        },
+        {
+            "amendmentNumber": "3607",
+            "congress": 107,
+            "introducedDate": "2002-06-05",
+            "latestAction": {
+                "actionDate": "2002-06-06",
+                "text": "Amendment SA 3607 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/3607?format=json"
+        },
+        {
+            "amendmentNumber": "2985",
+            "congress": 107,
+            "introducedDate": "2002-03-07",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2985?format=json"
+        },
+        {
+            "amendmentNumber": "2796",
+            "congress": 107,
+            "introducedDate": "2002-02-05",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2796?format=json"
+        },
+        {
+            "amendmentNumber": "2699",
+            "congress": 107,
+            "introducedDate": "2002-01-24",
+            "latestAction": {
+                "actionDate": "2002-02-05",
+                "text": "Amendment SA 2699 as modified agreed to in Senate by Voice Vote. (text as modified:  CR S323)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2699?format=json"
+        },
+        {
+            "amendmentNumber": "2593",
+            "congress": 107,
+            "introducedDate": "2001-12-13",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2593?format=json"
+        },
+        {
+            "amendmentNumber": "2594",
+            "congress": 107,
+            "introducedDate": "2001-12-13",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2594?format=json"
+        },
+        {
+            "amendmentNumber": "2435",
+            "congress": 107,
+            "introducedDate": "2001-12-07",
+            "latestAction": {
+                "actionDate": "2001-12-07",
+                "text": "Amendment SA 2435 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2435?format=json"
+        },
+        {
+            "amendmentNumber": "2414",
+            "congress": 107,
+            "introducedDate": "2001-12-07",
+            "latestAction": {
+                "actionDate": "2001-12-07",
+                "text": "Amendment SA 2414 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2414?format=json"
+        },
+        {
+            "amendmentNumber": "2340",
+            "congress": 107,
+            "introducedDate": "2001-12-07",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2340?format=json"
+        },
+        {
+            "amendmentNumber": "2314",
+            "congress": 107,
+            "introducedDate": "2001-12-07",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2314?format=json"
+        },
+        {
+            "amendmentNumber": "2008",
+            "congress": 107,
+            "introducedDate": "2001-10-25",
+            "latestAction": {
+                "actionDate": "2001-10-25",
+                "text": "Amendment SA 2008 agreed to in Senate by Unanimous Consent. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/2008?format=json"
+        },
+        {
+            "amendmentNumber": "1977",
+            "congress": 107,
+            "introducedDate": "2001-10-25",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1977?format=json"
+        },
+        {
+            "amendmentNumber": "1699",
+            "congress": 107,
+            "introducedDate": "2001-09-26",
+            "latestAction": {
+                "actionDate": "2001-09-26",
+                "text": "Amendment SA 1699 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1699?format=json"
+        },
+        {
+            "amendmentNumber": "1638",
+            "congress": 107,
+            "introducedDate": "2001-09-24",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1638?format=json"
+        },
+        {
+            "amendmentNumber": "1622",
+            "congress": 107,
+            "introducedDate": "2001-09-24",
+            "latestAction": {
+                "actionDate": "2001-09-25",
+                "text": "Motion to table amendment SA 1622 agreed to in Senate by Yea-Nay Vote. 53 - 47. Record Vote Number: 286. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1622?format=json"
+        },
+        {
+            "amendmentNumber": "1005",
+            "congress": 107,
+            "introducedDate": "2001-07-17",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/samdt/1005?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-11-14",
+            "latestAction": {
+                "actionDate": "2002-11-14",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "3157",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Fort Donelson National Battlefield Expansion Act of 2002",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/3157?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-10-10",
+            "latestAction": {
+                "actionDate": "2002-10-10",
+                "text": "Read twice and referred to the Committee on Armed Services."
+            },
+            "number": "3109",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to authorize the conveyance of a portion of the Bluegrass Army Depot, Richmond, Kentucky, to facilitate construction of a State veterans' center.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/3109?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-10-10",
+            "latestAction": {
+                "actionDate": "2002-10-10",
+                "text": "Read twice and referred to the Committee on Armed Services."
+            },
+            "number": "3108",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to authorize the conveyance of a portion of the Bluegrass Army Depot, Kentucky, to preserve a historic Civil War battlefield.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/3108?format=json"
+        }
+    ]
+}{
+    "pagination": {
+        "count": 323,
+        "prev": "https://api.congress.gov/v3/member/B001066/sponsored-legislation?offset=0&limit=250&format=json"
+    },
+    "request": {
+        "bioguideId": "b001066",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 107,
+            "introducedDate": "2002-06-19",
+            "latestAction": {
+                "actionDate": "2002-06-19",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2643",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to repeal the sunset of the Economic Growth and Tax Relief Reconciliation Act of 2001 with respect to the expansion of the adoption credit and adoption assistance programs.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2643?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-18",
+            "latestAction": {
+                "actionDate": "2002-04-18",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2206",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to make technical correction with respect to the duty suspension relating to certain polyamides.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/2206?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-03-04",
+            "latestAction": {
+                "actionDate": "2002-03-04",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "1984",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A bill to authorize the Secretary of Health and Human Services to make grants to nonprofit tax-exempt organizations for the purchase of ultrasound equipment to provide free examinations to pregnant women needing such services, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/1984?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-02-04",
+            "latestAction": {
+                "actionDate": "2002-02-04",
+                "text": "Read twice and referred jointly to the Committees on the Budget; Governmental Affairs pursuant to the order August 4, 1977, with instructions that if one Committee reports, the other Committee have thirty days to report or be discharged. (text of measure as introduced:  CR S287)"
+            },
+            "number": "1908",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "A bill to exclude the receipts and disbursements of the Abandoned Mine Reclamation Fund from the budget of the United States Government, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/1908?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-07-17",
+            "latestAction": {
+                "actionDate": "2001-07-17",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "1187",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "A bill to provide for the management of environmental matters at the Paducah Gaseous Diffusion Plant, Kentucky, through the Assistant Secretary of Energy for Environmental Management.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/1187?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-06-12",
+            "latestAction": {
+                "actionDate": "2001-06-12",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1014",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Number Privacy and Identity Theft Prevention Act of 2001",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/1014?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-05-08",
+            "latestAction": {
+                "actionDate": "2001-05-08",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "844",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to provide that the exclusion from gross income for foster care payments shall also apply to payments by qualified placement agencies.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/844?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-23",
+            "latestAction": {
+                "actionDate": "2001-03-23",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "608",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "TVA Distributor Self-Sufficiency Act of 2001",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/608?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-06",
+            "latestAction": {
+                "actionDate": "2001-03-06",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "459",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Vaccinate America's Children Now Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/107/s/459?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-09-04",
+            "latestAction": {
+                "actionDate": "2002-09-04",
+                "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S8229-8330; text of measure as introduced: CR S8204-8205)"
+            },
+            "number": "320",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A resolution honoring the Valley Sports American Little League baseball team from Louisville, Kentucky for winning the 2002 Little League Baseball World Series.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/107/sres/320?format=json"
+        },
+        {
+            "amendmentNumber": "4067",
+            "congress": 106,
+            "introducedDate": "2000-09-06",
+            "latestAction": {
+                "actionDate": "2000-09-07",
+                "text": "Amendment SA 4067 agreed to in Senate by Voice Vote. (text: CR S8169)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/samdt/4067?format=json"
+        },
+        {
+            "amendmentNumber": "3038",
+            "congress": 106,
+            "introducedDate": "2000-04-06",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/samdt/3038?format=json"
+        },
+        {
+            "amendmentNumber": "2896",
+            "congress": 106,
+            "introducedDate": "2000-03-30",
+            "latestAction": {
+                "actionDate": "2000-03-30",
+                "text": "Proposed amendment SA 2896 withdrawn in Senate. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/samdt/2896?format=json"
+        },
+        {
+            "amendmentNumber": "1377",
+            "congress": 106,
+            "introducedDate": "1999-07-28",
+            "latestAction": {
+                "actionDate": "1999-07-30",
+                "text": "Amendment SP 1377 agreed to in Senate by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/samdt/1377?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-03-09",
+            "latestAction": {
+                "actionDate": "2000-03-09",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2240",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to suspend temporarily the duty on certain polyamides.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/106/s/2240?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-02-22",
+            "latestAction": {
+                "actionDate": "2000-02-22",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "2078",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "A bill to authorize the President to award a gold medal on behalf of Congress to Muhammad Ali in recognition of his outstanding athletic accomplishments and enduring contributions to humanity, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/106/s/2078?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-02-08",
+            "latestAction": {
+                "actionDate": "2000-02-08",
+                "text": "Read twice and referred jointly to the Committees on the Budget; and Governmental Affairs pursuant to the order of August 4, 1977, with instuctions that if one Committe reports, the other Committee have thirty days to report or be discharged. ."
+            },
+            "number": "2040",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "A bill to exclude the receipts and disbursements of the Abandoned Mine Reclamation Fund from the budget of the United States Government, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/106/s/2040?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-01-31",
+            "latestAction": {
+                "actionDate": "2000-01-31",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2017",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to exclude from gross income payments made to tobacco growers pursuant to Phase I or II of the Master Settlement Agreement between a State and tobacco product manufacturers.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/106/s/2017?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-10-06",
+            "latestAction": {
+                "actionDate": "1999-10-06",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "1695",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to provide that beer or wine which may not be sold may be transferred to a distilled spirits plant, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/106/s/1695?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-04-28",
+            "latestAction": {
+                "actionDate": "1999-04-28",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "904",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to provide that certain costs of private foundations in removing hazardous substances shall be treated as qualifying distributions.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/106/s/904?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-03-11",
+            "latestAction": {
+                "actionDate": "1999-03-15",
+                "text": "Sponsor introductory remarks on measure. (CR S2620-2621)"
+            },
+            "number": "588",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security for the 21st Century Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/106/s/588?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-01-19",
+            "latestAction": {
+                "actionDate": "1999-01-19",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "87",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to provide that the exclusion from gross income for foster care payments shall also apply to payments by qualifying placement agencies, and for other purposes.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/106/s/87?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-01-19",
+            "latestAction": {
+                "actionDate": "1999-01-19",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "88",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "A bill to amend title XIX of the Social Security Act to exempt disabled individuals from being required to enroll with a managed care entity under the medicaid program.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/106/s/88?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-01-19",
+            "latestAction": {
+                "actionDate": "1999-01-19",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "85",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Vaccinate America's Children Now Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/106/s/85?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-01-19",
+            "latestAction": {
+                "actionDate": "1999-01-19",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "86",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Ticket to Work and Self-Sufficiency Act of 1999",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/106/s/86?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-01-19",
+            "latestAction": {
+                "actionDate": "1999-01-19",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "84",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Fallen Heroes Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/106/s/84?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-08-07",
+            "latestAction": {
+                "actionDate": "1988-11-09",
+                "text": "Became Private Law No: 100-41."
+            },
+            "number": "3238",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "A bill for the relief of Maria Linda Sy Gonzalez.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3238?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-04-04",
+            "latestAction": {
+                "actionDate": "1989-04-18",
+                "text": "Referred to the Subcommittee on Elections."
+            },
+            "number": "1664",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend the Federal Election Campaign Act to reduce the influence of multicandidate political committees in elections for Federal office, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/1664?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-07-22",
+            "latestAction": {
+                "actionDate": "1992-10-05",
+                "text": "See H.R.11."
+            },
+            "number": "5644",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To provide that certain costs of private foundations in removing hazardous substances shall be treated as qualifying distributions.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5644?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-01-22",
+            "latestAction": {
+                "actionDate": "1992-02-10",
+                "text": "Referred to the Subcommittee on Water Resources."
+            },
+            "number": "4093",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Wetlands Simplification Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4093?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-07-10",
+            "latestAction": {
+                "actionDate": "1992-02-26",
+                "text": "See H.R.4318."
+            },
+            "number": "2847",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To amend the Harmonized Tariff Schedule of the United States to restore the rate of duty applicable to man-made fiber felt fabric for technical uses that was in effect under the Tariff Schedules of the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2847?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-04-09",
+            "latestAction": {
+                "actionDate": "1992-04-16",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "309",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Expressing the sense of the Congress that the current Canadian quota regime on chicken imports should be removed as part of the Uruguay Round and North American Free Trade Agreement negotiations and that Canada's imposition of quotas on United States processed chicken violates Article XI of the General Agreement on Tariffs and Trade.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/102/hconres/309?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-08-03",
+            "latestAction": {
+                "actionDate": "1993-11-22",
+                "text": "Text of Measure Incorporated into H.R.2150."
+            },
+            "number": "2852",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To authorize the Secretary of Transportation to issue a certificate of documentation with appropriate endorsement for employment in the coastwise trade of the United States for the vessel MARY B.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2852?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-07-20",
+            "latestAction": {
+                "actionDate": "1994-06-23",
+                "text": "Text of Measure Incorporated into H.R.3059."
+            },
+            "number": "2669",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To authorize the Secretary of Transportation to convey to the City of Warsaw, Kentucky, a vessel in the National Defense Reserve Fleet that is scheduled to be scrapped.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2669?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-07-13",
+            "latestAction": {
+                "actionDate": "1993-09-23",
+                "text": "Committee Hearings Held."
+            },
+            "number": "2617",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Military Separation Retirement Benefits Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2617?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-05-19",
+            "latestAction": {
+                "actionDate": "1993-09-16",
+                "text": "Executive Comment Received from ITC."
+            },
+            "number": "2156",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To amend the Harmonized Tariff Schedule of the United States to restore the rate of duty applicable to man-made fiber felt fabric for technical uses that was in effect under the Tariff Schedules of the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2156?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-04-27",
+            "latestAction": {
+                "actionDate": "1994-04-21",
+                "text": "See H.R.4277."
+            },
+            "number": "1864",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Integrity Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1864?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-09",
+            "latestAction": {
+                "actionDate": "1993-03-11",
+                "text": "Referred to the Subcommittee on Legislation and National Security."
+            },
+            "number": "1252",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "To repeal title X of the Congressional Budget and Impoundment Control Act of 1974.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1252?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-09",
+            "latestAction": {
+                "actionDate": "1993-04-29",
+                "text": "See H.R.1578."
+            },
+            "number": "1253",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Legislative Line Item Veto Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1253?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-02-24",
+            "latestAction": {
+                "actionDate": "1994-03-23",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "1089",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Wetlands Simplification Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1089?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-01-05",
+            "latestAction": {
+                "actionDate": "1993-01-05",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "82",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to restore the deduction for interest on certain educational loans.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/82?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-11-20",
+            "latestAction": {
+                "actionDate": "1994-09-28",
+                "text": "See H.R.5110."
+            },
+            "number": "185",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Expressing the sense of the Congress that the current Canadian quota regime on chicken imports should be removed as part of the Uruguay Round multilateral trade negotiations and that the imposition of quotas by Canada on United States processed chicken violates Article XI of the General Agreement on Tariffs and Trade.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/103/hconres/185?format=json"
+        },
+        {
+            "amendmentNumber": "1277",
+            "congress": 104,
+            "introducedDate": "1996-07-11",
+            "latestAction": {
+                "actionDate": "1996-07-11",
+                "actionTime": "23:54:15",
+                "text": "On agreeing to the Bunning amendment (A028) Agreed to by recorded vote: 421 - 3 (Roll no. 309). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/1277?format=json"
+        },
+        {
+            "amendmentNumber": "593",
+            "congress": 104,
+            "introducedDate": "1995-07-20",
+            "latestAction": {
+                "actionDate": "1995-07-20",
+                "actionTime": "21:53:18",
+                "text": "On agreeing to the Bunning amendment (A018) Failed by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/593?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-27",
+            "latestAction": {
+                "actionDate": "1996-09-28",
+                "text": "Sponsor introductory remarks on measure. (CR E1774)"
+            },
+            "number": "4230",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Rehabilitation and Return to Work Opportunity Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/4230?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-10",
+            "latestAction": {
+                "actionDate": "1996-09-18",
+                "text": "Received in the Senate."
+            },
+            "number": "4039",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Social Security Miscellaneous Amendments Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/4039?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-03-21",
+            "latestAction": {
+                "actionDate": "1996-03-21",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3137",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to clarify the reasonable cause exception from the penalty for failures to file tax returns or pay taxes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3137?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-12-14",
+            "latestAction": {
+                "actionDate": "1996-03-20",
+                "text": "Became Public Law No: 104-117."
+            },
+            "number": "2778",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To provide that members of the Armed Forces performing services for the peacekeeping effort in the Republic of Bosnia and Herzegovina shall be entitled to certain tax benefits in the same manner as if such services were performed in a combat zone.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2778?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-11-29",
+            "latestAction": {
+                "actionDate": "1996-03-28",
+                "text": "For Further Action See H.R.3136."
+            },
+            "number": "2684",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Senior Citizens' Right to Work Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2684?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-11-20",
+            "latestAction": {
+                "actionDate": "1995-11-30",
+                "text": "For Further Action See H.R.2684."
+            },
+            "number": "2668",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Senior Citizens' Right To Work Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2668?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-08-04",
+            "latestAction": {
+                "actionDate": "1995-08-04",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2199",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Equine Tax Fairness Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2199?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-05-11",
+            "latestAction": {
+                "actionDate": "1995-05-11",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "1612",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Major League Baseball Antitrust Reform Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1612?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-02-15",
+            "latestAction": {
+                "actionDate": "1995-02-24",
+                "text": "Referred to the Subcommittee on Domestic and International Monetary Policy."
+            },
+            "number": "949",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Federal Reserve System Accountability Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/949?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-04",
+            "latestAction": {
+                "actionDate": "1995-01-17",
+                "text": "Sponsor introductory remarks on measure. (CR H245-246)"
+            },
+            "number": "120",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Baseball Fans and Communities Protection Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/120?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-08-02",
+            "latestAction": {
+                "actionDate": "1995-08-07",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "209",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Honoring the old-age, survivors, and disability insurance program upon the 60th anniversary of the enactment of the Social Security Act.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/209?format=json"
+        },
+        {
+            "amendmentNumber": "372",
+            "congress": 105,
+            "introducedDate": "1997-09-18",
+            "latestAction": {
+                "actionDate": "1997-09-18",
+                "actionTime": "16:53:32",
+                "text": "On agreeing to the Bunning amendment (A004) Agreed to by recorded vote: 221 - 194, 1 Present (Roll no. 411). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/372?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-10-01",
+            "latestAction": {
+                "actionDate": "1998-10-05",
+                "text": "Referred to the Subcommittee on Health and Environment, for a period to be subsequently determined by the Chairman."
+            },
+            "number": "4662",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To direct the Commissioner of Social Security to establish a demonstration project to conduct outreach efforts to increase awareness of the availability of Medicare cost-sharing assistance to eligible low-income Medicare beneficiaries.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/4662?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-07-29",
+            "latestAction": {
+                "actionDate": "1998-07-29",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4346",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Fallen Heroes Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/4346?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-06-04",
+            "latestAction": {
+                "actionDate": "1998-06-04",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3991",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to provide that the exclusion from gross income for foster care payments shall also apply to payments by certain nongovernmental placement agencies, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3991?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-04-01",
+            "latestAction": {
+                "actionDate": "1998-04-01",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3641",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to allow capital gain treatment on the transfer of a franchise in connection with the transfer of an existing business, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3641?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-26",
+            "latestAction": {
+                "actionDate": "1998-03-30",
+                "text": "Referred to the Subcommittee on Energy and Mineral Resources."
+            },
+            "number": "3564",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To exclude the receipts and disbursements of the Abandoned Mine Reclamation Fund from the budget of the United States Government, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3564?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-11",
+            "latestAction": {
+                "actionDate": "1998-06-09",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 403."
+            },
+            "number": "3433",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Ticket to Work and Self-Sufficiency Act of 1998",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3433?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-12",
+            "latestAction": {
+                "actionDate": "1998-08-04",
+                "text": "See H.R.4342."
+            },
+            "number": "3446",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To provide for the elimination of duty on Ziram.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3446?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-05",
+            "latestAction": {
+                "actionDate": "1998-03-11",
+                "text": "Referred to the Subcommittee on Social Security."
+            },
+            "number": "3351",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "To amend the Social Security Act to establish the Protect Social Security Account into which the Secretary of the Treasury shall deposit budget surpluses until a reform measure is enacted to ensure the long-term solvency of the OASDI trust funds.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3351?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-02-12",
+            "latestAction": {
+                "actionDate": "1998-02-12",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3217",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Vaccinate America's Children Now Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3217?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-11-06",
+            "latestAction": {
+                "actionDate": "1998-07-29",
+                "text": "Became Public Law No: 105-213."
+            },
+            "number": "2841",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "To extend the time required for the construction of a hydroelectric project.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2841?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-04-28",
+            "latestAction": {
+                "actionDate": "1997-04-28",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1465",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to restore the deduction for interest on certain educational loans.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1465?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-04-17",
+            "latestAction": {
+                "actionDate": "1997-04-17",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1369",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to modify the tax treatment of qualified State tuition programs.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1369?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-04-15",
+            "latestAction": {
+                "actionDate": "1997-04-15",
+                "text": "Referred to the House Committee on Appropriations."
+            },
+            "number": "1326",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Government Shutdown Prevention Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1326?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-03-21",
+            "latestAction": {
+                "actionDate": "1997-03-31",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "1214",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on the chemical P-Toluenesulfonamide.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1214?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-02-12",
+            "latestAction": {
+                "actionDate": "1997-02-12",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "704",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Major League Baseball Antitrust Reform Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/704?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-02-12",
+            "latestAction": {
+                "actionDate": "1997-02-12",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "705",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Equine Tax Fairness Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/705?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-02-12",
+            "latestAction": {
+                "actionDate": "1997-02-28",
+                "text": "Referred to the Subcommittee on Financial Institutions and Consumer Credit."
+            },
+            "number": "703",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Federal Reserve System Accountability Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/703?format=json"
+        }
+    ]
+}

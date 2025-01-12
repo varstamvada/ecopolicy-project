@@ -2,59 +2,61 @@ import os
 import json
 import csv
 
-directory = './all_sponsored_legislations'
-output_csv = 'all_sponsored_bills.csv'
-csv_headers = ['bioguideId', 'congress', 'type', 'number', 'introducedDate', 'actionDate', 'PolicyArea_name', 'Latest_Action_text', 'url', 'congress_type_number', 'title']
-counter = 0
-csv_rows = []
+# Define the output CSV file
+output_file = 'small_All_sponsors_data.csv'
 
-for filename in os.listdir(directory):
-    if filename.startswith('sponsor_') and filename.endswith('.json'):
-        file_path = os.path.join(directory, filename)
-        print(filename)
-        counter += 1
-        print(counter)
-        with open(file_path, 'r') as file:
-            data = json.load(file)
+# Specify the directory containing the JSON files
+directory = '.'
 
-        bioguide_id = data['request'].get('bioguideId', None)
+# Define the CSV column headers
+headers = ['bioguideid', 'congress', 'introducedDate', 'actionDate', 'text', 'number', 'policyArea', 'title', 'type',
+           'url']
 
-        for item in data.get('sponsoredLegislation', []):
-            congress = item.get('congress', None)
-            type_ = item.get('type', None)
-            number = item.get('number', None)
-            introduced_date = item.get('introducedDate', None)
-            latest_action = item.get('latestAction', {})
-            # If latestAction is null, set actionDate and text to null
-            if latest_action is None:
-                action_date = None
-                text = None
-            else:
-                action_date = latest_action.get('actionDate', '')
-                text = latest_action.get('text', '')
-            title = item.get('title', None)
-            policy_area = item.get('policyArea', {})
-            # If policyArea is null, set name to null
-            if policy_area is None:
-                name = None
-            else:
-                name = policy_area.get('name', '')
-            url = item.get('url', None)
-            congress_type_number = f"{congress}_{type_}_{number}"
-
-
-
-
-
-            # Append the row to the CSV rows list
-            csv_rows.append([
-                bioguide_id, congress, type_, number, introduced_date, action_date, name, text, url, congress_type_number, title
-            ])
-
-# Write the CSV file
-with open(output_csv, 'w', newline='') as csvfile:
+# Open the CSV file for writing
+with open(output_file, mode='w', newline='', encoding='utf-8') as csvfile:
     csvwriter = csv.writer(csvfile)
-    csvwriter.writerow(csv_headers)
-    csvwriter.writerows(csv_rows)
 
-print(f"CSV file '{output_csv}' has been created successfully.")
+    # Write the headers to the CSV file
+    csvwriter.writerow(headers)
+
+    # Iterate over all files in the specified directory
+    for filename in os.listdir(directory):
+        # Check if the file name starts with 'sponsor_'
+        if filename.startswith('sponsor_') and filename.endswith('.json'):
+            file_path = os.path.join(directory, filename)
+            print(filename)
+            # Open and read the JSON file
+            with open(file_path, 'r', encoding='utf-8') as jsonfile:
+                data = json.load(jsonfile)
+
+                # Iterate over each record in the JSON data
+                for record in data:
+                    # Extract the required fields, handling missing data
+                    bioguideid = filename.split('_')[1].split('.')[0]
+                    congress = record.get('congress', '')
+                    introducedDate = record.get('introducedDate', '')
+                    latestAction = record.get('latestAction', {})
+                    # If latestAction is null, set actionDate and text to null
+                    if latestAction is None:
+                        actionDate = None
+                        text = None
+                    else:
+                        actionDate = latestAction.get('actionDate', '')
+                        text = latestAction.get('text', '')
+                    number = record.get('number', '')
+                    policyArea = record.get('policyArea', {})
+                    # If policyArea is null, set name to null
+                    if policyArea is None:
+                        name = None
+                    else:
+                        name = policyArea.get('name', '')
+                    title = record.get('title', '')
+                    bill_type = record.get('type', '')
+                    url = record.get('url', '')
+
+                    # Write the extracted data to the CSV file
+                    csvwriter.writerow(
+                        [bioguideid, congress, introducedDate, actionDate, text, number, policyArea, title, bill_type,
+                         url])
+
+print(f'Data has been successfully written to {output_file}')

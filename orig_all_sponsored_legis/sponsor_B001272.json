@@ -1,0 +1,114 @@
+{
+    "pagination": {
+        "count": 7
+    },
+    "request": {
+        "bioguideId": "b001272",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "1427",
+            "congress": 112,
+            "introducedDate": "2012-07-19",
+            "latestAction": {
+                "actionDate": "2012-07-19",
+                "actionTime": "18:36:51",
+                "text": "On agreeing to the Berg amendment (A050) Agreed to by recorded vote: 232 - 183 (Roll no. 493). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/1427?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-09-21",
+            "latestAction": {
+                "actionDate": "2012-09-26",
+                "text": "Referred to the Subcommittee on Energy and Power."
+            },
+            "number": "6501",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Energy Consumer Protection Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6501?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-25",
+            "latestAction": {
+                "actionDate": "2012-04-25",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4643",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Small Business Tax Simplification Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/4643?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-03-28",
+            "latestAction": {
+                "actionDate": "2012-06-06",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Finance."
+            },
+            "number": "4282",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "International Child Support Recovery Improvement Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/4282?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-12-08",
+            "latestAction": {
+                "actionDate": "2011-12-09",
+                "text": "Referred to the Subcommittee on Energy and Power."
+            },
+            "number": "3616",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Generator Regulatory Relief Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3616?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-11-04",
+            "latestAction": {
+                "actionDate": "2011-11-04",
+                "text": "Referred to the Subcommittee on Energy and Power."
+            },
+            "number": "3379",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Regional Haze Federalism Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3379?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-08-01",
+            "latestAction": {
+                "actionDate": "2011-08-05",
+                "text": "Referred to the Subcommittee on Human Resources."
+            },
+            "number": "2731",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "HIRES Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2731?format=json"
+        }
+    ]
+}

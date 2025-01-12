@@ -1,0 +1,1264 @@
+{
+    "pagination": {
+        "count": 85
+    },
+    "request": {
+        "bioguideId": "r000566",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "793",
+            "congress": 109,
+            "introducedDate": "2006-05-04",
+            "latestAction": {
+                "actionDate": "2006-05-04",
+                "actionTime": "12:14:50",
+                "text": "On agreeing to the Ryun (KS) amendment (A006) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/793?format=json"
+        },
+        {
+            "amendmentNumber": "668",
+            "congress": 109,
+            "introducedDate": "2005-12-16",
+            "latestAction": {
+                "actionDate": "2005-12-16",
+                "actionTime": "20:56:56",
+                "text": "On agreeing to the Ryun (KS) amendment (A033) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/668?format=json"
+        },
+        {
+            "amendmentNumber": "533",
+            "congress": 109,
+            "introducedDate": "2005-09-14",
+            "latestAction": {
+                "actionDate": "2005-09-14",
+                "actionTime": "13:43:08",
+                "text": "On agreeing to the Ryun (KS) amendment (A014) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/533?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-07-26",
+            "latestAction": {
+                "actionDate": "2006-08-03",
+                "text": "Referred to the Subcommittee on Livestock and Horticulture ."
+            },
+            "number": "5909",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "Haley's Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/5909?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-12-15",
+            "latestAction": {
+                "actionDate": "2006-01-03",
+                "text": "Referred to the Subcommittee on Economic Opportunity."
+            },
+            "number": "4563",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Servicemembers Interest Rate Relief Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4563?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-10-27",
+            "latestAction": {
+                "actionDate": "2006-02-06",
+                "text": "Referred to the Subcommittee on Immigration, Border Security, and Claims."
+            },
+            "number": "4168",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Strengthening American Citizenship Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4168?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-27",
+            "latestAction": {
+                "actionDate": "2005-08-04",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3491",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on certain leather footwear.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3491?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-27",
+            "latestAction": {
+                "actionDate": "2005-08-04",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3487",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on certain rubber or plastic footwear.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3487?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-27",
+            "latestAction": {
+                "actionDate": "2005-08-04",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3483",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on certain footwear.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3483?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-27",
+            "latestAction": {
+                "actionDate": "2005-08-04",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3484",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on certain athletic footwear.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3484?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-27",
+            "latestAction": {
+                "actionDate": "2005-08-04",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3486",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on certain footwear for men.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3486?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-27",
+            "latestAction": {
+                "actionDate": "2005-08-04",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3485",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on certain work footwear.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3485?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-27",
+            "latestAction": {
+                "actionDate": "2005-08-04",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3489",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on certain athletic footwear.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3489?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-27",
+            "latestAction": {
+                "actionDate": "2005-08-04",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3488",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on certain work footwear.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3488?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-27",
+            "latestAction": {
+                "actionDate": "2005-08-04",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3490",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on certain rubber or plastic footwear.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3490?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-21",
+            "latestAction": {
+                "actionDate": "2005-07-24",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3392",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on certain footwear with open toes or heels.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3392?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-21",
+            "latestAction": {
+                "actionDate": "2005-07-24",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3389",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on certain footwear for girls.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3389?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-21",
+            "latestAction": {
+                "actionDate": "2005-07-24",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3391",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on certain athletic footwear.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3391?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-21",
+            "latestAction": {
+                "actionDate": "2005-07-24",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3394",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on certain work footwear.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3394?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-21",
+            "latestAction": {
+                "actionDate": "2005-07-24",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3387",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on certain work footwear.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3387?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-21",
+            "latestAction": {
+                "actionDate": "2005-07-24",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3386",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on certain footwear with open toes or heels.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3386?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-21",
+            "latestAction": {
+                "actionDate": "2005-07-24",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3390",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on certain protective footwear.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3390?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-21",
+            "latestAction": {
+                "actionDate": "2005-07-24",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3388",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on certain women's footwear.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3388?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-21",
+            "latestAction": {
+                "actionDate": "2005-07-24",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3393",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on certain work footwear.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3393?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-21",
+            "latestAction": {
+                "actionDate": "2005-07-24",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3395",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend temporarily the duty on certain work footwear.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3395?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-06-30",
+            "latestAction": {
+                "actionDate": "2006-02-08",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3186",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "Build HOMES Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3186?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-06-09",
+            "latestAction": {
+                "actionDate": "2005-06-21",
+                "text": "Referred to the Subcommittee on Economic Opportunity."
+            },
+            "number": "2859",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Servicemembers Interest Rate Relief Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/2859?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-05-19",
+            "latestAction": {
+                "actionDate": "2005-07-01",
+                "text": "Referred to the Subcommittee on Courts, the Internet, and Intellectual Property."
+            },
+            "number": "2513",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "To amend the Immigration and Nationality Act to prescribe the oath or affirmation of renunciation and allegiance required to be naturalized as a citizen of the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/2513?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-05-05",
+            "latestAction": {
+                "actionDate": "2005-05-05",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2202",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Social Security Benefits Tax Fairness Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/2202?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-05-03",
+            "latestAction": {
+                "actionDate": "2005-05-03",
+                "text": "Referred to the Committee on Financial Services, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "2061",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Community Banks Serving Their Communities First Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/2061?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-04-21",
+            "latestAction": {
+                "actionDate": "2005-05-10",
+                "text": "Referred to the Subcommittee on Immigration, Border Security, and Claims."
+            },
+            "number": "1804",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "To prescribe the oath of renunciation and allegiance for purposes of the Immigration and Nationality Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1804?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-03-10",
+            "latestAction": {
+                "actionDate": "2005-03-17",
+                "text": "Referred to the Subcommittee on Forests and Forest Health."
+            },
+            "number": "1261",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To amend the National Trails System Act to improve the efficiency and fairness of acquiring railroad rights-of-way for interim use as public trails by applying the procedures applicable to other Federal real estate acquisitions.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1261?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-02-10",
+            "latestAction": {
+                "actionDate": "2005-02-11",
+                "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management."
+            },
+            "number": "781",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Geary County, Kansas, Land Conveyance Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/781?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-01-26",
+            "latestAction": {
+                "actionDate": "2005-02-25",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "415",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Hearing Health Accessibility Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/415?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-01-26",
+            "latestAction": {
+                "actionDate": "2006-06-28",
+                "text": "Placed on the Union Calendar, Calendar No. 298."
+            },
+            "number": "413",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Bleeding Kansas National Heritage Area Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/413?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-01-26",
+            "latestAction": {
+                "actionDate": "2005-01-26",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "414",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Hearing Aid Assistance Tax Credit Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/414?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-27",
+            "latestAction": {
+                "actionDate": "2006-04-27",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "786",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Condemning the recent election of the Iranian Ambassador to the United Nations to the position of Vice-chair of the United Nations Disarmament Commission.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/786?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-05-02",
+            "latestAction": {
+                "actionDate": "2006-05-02",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "793",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Affirming that statements of national unity, including the National Anthem, should be recited or sung in English.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/793?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-03-09",
+            "latestAction": {
+                "actionDate": "2006-04-06",
+                "text": "Sponsor introductory remarks on measure. (CR H1566)"
+            },
+            "number": "720",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Honoring the life of Gordon Roger Alexander Buchanan Parks.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/720?format=json"
+        },
+        {
+            "amendmentNumber": "582",
+            "congress": 108,
+            "introducedDate": "2004-06-18",
+            "latestAction": {
+                "actionDate": "2004-06-18",
+                "actionTime": "12:26:51",
+                "text": "On agreeing to the Ryun (KS) amendment (A015) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/hamdt/582?format=json"
+        },
+        {
+            "amendmentNumber": "543",
+            "congress": 108,
+            "introducedDate": "2004-05-20",
+            "latestAction": {
+                "actionDate": "2004-05-20",
+                "actionTime": "15:31:30",
+                "text": "On agreeing to the Ryun (KS) amendment (A012) Agreed to by recorded vote: 290 - 132 (Roll no. 204). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/hamdt/543?format=json"
+        },
+        {
+            "amendmentNumber": "314",
+            "congress": 108,
+            "introducedDate": "2003-07-23",
+            "latestAction": {
+                "actionDate": "2003-07-23",
+                "actionTime": "23:25:30",
+                "text": "By unanimous consent, the Ryun (KS) amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/hamdt/314?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-04-02",
+            "latestAction": {
+                "actionDate": "2004-04-20",
+                "text": "Referred to the Subcommittee on Domestic and International Monetary Policy, Trade, and Technology."
+            },
+            "number": "4162",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Reverend Oliver L. Brown Congressional Gold Medal Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/4162?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-03-04",
+            "latestAction": {
+                "actionDate": "2004-03-09",
+                "text": "Executive Comment Requested from Interior."
+            },
+            "number": "3909",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Bleeding Kansas National Heritage Area Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3909?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-01-27",
+            "latestAction": {
+                "actionDate": "2004-06-25",
+                "text": "Became Public Law No: 108-252."
+            },
+            "number": "3733",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To designate the facility of the United States Postal Service located at 410 Huston Street in Altamont, Kansas, as the \"Myron V. George Post Office\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3733?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-11-19",
+            "latestAction": {
+                "actionDate": "2003-11-19",
+                "text": "Referred to the House Committee on Resources."
+            },
+            "number": "3532",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To amend the National Trails System Act to improve the efficiency and fairness of acquiring railroad rights-of-way for interim use as public trails by applying the procedures that govern other Federal real estate acquisitions.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3532?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-09-25",
+            "latestAction": {
+                "actionDate": "2004-04-01",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "3191",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "To prescribe the oath of renunciation and allegiance for purposes of the Immigration and Nationality Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3191?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-09-16",
+            "latestAction": {
+                "actionDate": "2003-09-16",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3103",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Hearing Aid Assistance Tax Credit Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3103?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-07-22",
+            "latestAction": {
+                "actionDate": "2003-08-08",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2821",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Hearing Health Accessibility Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2821?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-02-26",
+            "latestAction": {
+                "actionDate": "2003-02-26",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "943",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Hearing Aid Assistance Tax Credit Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/943?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-01-07",
+            "latestAction": {
+                "actionDate": "2003-01-07",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "181",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Family Care Tax Credit Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/181?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-11-18",
+            "latestAction": {
+                "actionDate": "2003-12-10",
+                "text": "Referred to the Subcommittee on Courts, the Internet, and Intellectual Property."
+            },
+            "number": "446",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Constitutional Preservation Resolution",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/446?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-10-01",
+            "latestAction": {
+                "actionDate": "2003-10-20",
+                "text": "Referred to the Subcommittee on Civil Service and Agency Organization."
+            },
+            "number": "388",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Expressing the sense of the House of Representatives that \"Put the Brakes on Fatalities Day\" should be established.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/388?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-03-19",
+            "latestAction": {
+                "actionDate": "2003-04-11",
+                "text": "Referred to the Subcommittee on Total Force."
+            },
+            "number": "150",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the support of the House of Representatives for the members of the Armed Forces of the United States called upon to engage in possible military action in Iraq.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/150?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-04-30",
+            "latestAction": {
+                "actionDate": "2004-06-28",
+                "text": "Referred to the Subcommittee on the Constitution."
+            },
+            "number": "411",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To express the sense of the Congress regarding the 50th anniversary of the Supreme Court decision in Brown v. Board of Education of Topeka.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/108/hconres/411?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-03-10",
+            "latestAction": {
+                "actionDate": "2004-03-11",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "381",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Supporting the goals and ideals of Tinnitus Awareness Week.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/108/hconres/381?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-02-26",
+            "latestAction": {
+                "actionDate": "2004-03-22",
+                "text": "Referred to the Subcommittee on Financial Institutions and Consumer Credit."
+            },
+            "number": "374",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Expressing the sense of Congress that the Secretary of Defense, Federal banking agencies, the National Credit Union Administration, and the Federal Trade Commission should work to mitigate the financial hardships experienced by members of the reserve component as a result of being called to active duty.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/108/hconres/374?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-07-24",
+            "latestAction": {
+                "actionDate": "2004-07-07",
+                "text": "Received in the Senate and referred to the Committee on the Judiciary."
+            },
+            "number": "257",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Expressing the sense of Congress that the President should posthumously award the Presidential Medal of Freedom to Harry W. Colmery.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/108/hconres/257?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-09-11",
+            "latestAction": {
+                "actionDate": "2002-09-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5371",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To amend the Caribbean Basin Economic Recovery Act relating to certain import-sensitive articles.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5371?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-09-11",
+            "latestAction": {
+                "actionDate": "2002-09-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5369",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To amend the Caribbean Basin Economic Recovery Act by allowing duty-free treatment for certain footwear.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5369?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-09-11",
+            "latestAction": {
+                "actionDate": "2002-09-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5370",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To amend the Caribbean Basin Economic Recovery Act by allowing duty-free treatment for certain footwear.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5370?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-09-11",
+            "latestAction": {
+                "actionDate": "2002-09-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5372",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To amend the Caribbean Basin Economic Recovery Act by allowing duty-free treatment for certain footwear.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5372?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-09-10",
+            "latestAction": {
+                "actionDate": "2002-09-10",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5360",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Hearing Aid Assistance Tax Credit Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5360?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-05-23",
+            "latestAction": {
+                "actionDate": "2002-05-23",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4848",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To amend the Caribbean Basin Economic Recovery Act relating to certain import-sensitive articles.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4848?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-10",
+            "latestAction": {
+                "actionDate": "2002-04-10",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4158",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To amend the Caribbean Basin Economic Recovery Act relating to certain import-sensitive articles.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4158?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-09",
+            "latestAction": {
+                "actionDate": "2002-05-20",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "4119",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 10, United States Code, to authorize a voluntary leave sharing program for members of the Armed Forces.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4119?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-06-12",
+            "latestAction": {
+                "actionDate": "2001-09-18",
+                "text": "Became Public Law No: 107-41."
+            },
+            "number": "2133",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To establish a commission for the purpose of encouraging and providing for the commemoration of the 50th anniversary of the Supreme Court decision in Brown v. Board of Education.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2133?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-04-04",
+            "latestAction": {
+                "actionDate": "2001-04-24",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "1511",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 10, United States Code, to eliminate the requirement that covered beneficiaries under chapter 55 of such title obtain a nonavailability-of-health-care statement with respect to obstetrics and gynecological care related to a pregnancy.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1511?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-20",
+            "latestAction": {
+                "actionDate": "2001-08-13",
+                "text": "See H.R.1836."
+            },
+            "number": "1126",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Family Care Tax Credit Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1126?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-07-11",
+            "latestAction": {
+                "actionDate": "2002-07-11",
+                "text": "Referred to the House Committee on Rules."
+            },
+            "number": "481",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing a sense of the House of Representatives that a standing Committee on Homeland Security should be established.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/107/hres/481?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-09-04",
+            "latestAction": {
+                "actionDate": "2002-09-04",
+                "text": "Referred to the House Committee on Government Reform."
+            },
+            "number": "461",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Expressing the sense of Congress that the President should posthumously award the Presidential Medal of Freedom to Harry W. Colmery.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/hconres/461?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-03-19",
+            "latestAction": {
+                "actionDate": "2002-05-01",
+                "text": "Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "358",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Supporting the goals and ideals of National Better Hearing and Speech Month, and for other purposes.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/hconres/358?format=json"
+        },
+        {
+            "amendmentNumber": "932",
+            "congress": 106,
+            "introducedDate": "2000-06-27",
+            "latestAction": {
+                "actionDate": "2000-06-27",
+                "actionTime": "23:15:07",
+                "text": "On agreeing to the Ryun (KS) amendment (A018) Agreed to by recorded vote: 239 - 187 (Roll no. 340). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/932?format=json"
+        },
+        {
+            "amendmentNumber": "150",
+            "congress": 106,
+            "introducedDate": "1999-06-09",
+            "latestAction": {
+                "actionDate": "1999-06-09",
+                "actionTime": "17:40:13",
+                "text": "On agreeing to the Ryun (KS) amendment (A006) Failed by recorded vote: 159 - 266 (Roll no. 181). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/150?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-03-23",
+            "latestAction": {
+                "actionDate": "2000-05-09",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "4086",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To amend the National Trails System Act to require that property owners be compensated when certain railbanked trails are developed for purposes of public use, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4086?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-16",
+            "latestAction": {
+                "actionDate": "1999-07-07",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "2246",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Medicare Home Health Care Relief Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2246?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-04-15",
+            "latestAction": {
+                "actionDate": "1999-04-15",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1464",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Income Averaging Equity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1464?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-03-25",
+            "latestAction": {
+                "actionDate": "1999-04-13",
+                "text": "Referred to the Subcommittee on Military Procurement."
+            },
+            "number": "1348",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Department of Energy Foreign Visitors Program Moratorium Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1348?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-21",
+            "latestAction": {
+                "actionDate": "2000-06-19",
+                "actionTime": "21:01:44",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "259",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Supporting the goals and ideals of the Olympics.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/106/hres/259?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-09-14",
+            "latestAction": {
+                "actionDate": "1998-09-14",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4564",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Income Averaging Equity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/4564?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-05-14",
+            "latestAction": {
+                "actionDate": "1998-05-14",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "3886",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To prohibit the export of missile equipment and technology to the People's Republic of China.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3886?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-04-27",
+            "latestAction": {
+                "actionDate": "1998-05-08",
+                "text": "Referred to the Subcommittee on Postsecondary Education, Training and Life-Long Learning."
+            },
+            "number": "3733",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Applied Engineering and Technology Center Investment Act of 1998",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3733?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-09-09",
+            "latestAction": {
+                "actionDate": "1997-10-30",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "2438",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To encourage the establishment of appropriate trails on abandoned railroad rights-of-way, while ensuring the protection of certain reversionary property rights.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2438?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-05-14",
+            "latestAction": {
+                "actionDate": "1998-05-14",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "438",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of the House regarding the transfer to the People's Republic of China of technology that can be used in the development of strategic nuclear missiles.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/105/hres/438?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-01-27",
+            "latestAction": {
+                "actionDate": "1998-03-19",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "204",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Honoring the members of the United States Armed Forces who served, and the families of members of the United States Armed Forces who lost their lives or were injured, during the Tet Offensive of the Vietnam War.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/105/hconres/204?format=json"
+        }
+    ]
+}

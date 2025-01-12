@@ -1,0 +1,102 @@
+{
+    "pagination": {
+        "count": 6
+    },
+    "request": {
+        "bioguideId": "h001095",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 118,
+            "introducedDate": "2024-02-15",
+            "latestAction": {
+                "actionDate": "2024-07-23",
+                "text": "Received in the Senate."
+            },
+            "number": "7377",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Royalty Resiliency Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/7377?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-01-11",
+            "latestAction": {
+                "actionDate": "2024-01-11",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "6971",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Mandatory Removal Proceedings Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/6971?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-07-27",
+            "latestAction": {
+                "actionDate": "2023-07-27",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "5005",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Safer Supervision Act of 2023",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/5005?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-06-30",
+            "latestAction": {
+                "actionDate": "2023-06-30",
+                "text": "Referred to the House Committee on Oversight and Accountability."
+            },
+            "number": "571",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Expressing support for the designation of July as \"American Pride Month\".",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/118/hres/571?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-05-15",
+            "latestAction": {
+                "actionDate": "2024-05-06",
+                "text": "Placed on the Union Calendar, Calendar No. 399."
+            },
+            "number": "3325",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Recruit and Retain Act of 2024",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/118/hr/3325?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-03-15",
+            "latestAction": {
+                "actionDate": "2024-03-15",
+                "text": "Referred to the Committee on Natural Resources, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "1082",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Calling upon the International Seabed Authority to adopt regulations allowing the collection of critical minerals from the international seabed area, which will enable America to regain reliable and responsible supply chains, provide high-wage jobs for United States citizens, secure supply chains away from the People's Republic of China's dominance of the critical mineral supply chain, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/118/hres/1082?format=json"
+        }
+    ]
+}

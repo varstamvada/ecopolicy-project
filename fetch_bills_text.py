@@ -5,7 +5,7 @@ from datetime import datetime
 api_key = "TcAsfbl78LnPadowZCoBIL25bFdTArErtcqSKt9J"
 base_url = "https://api.congress.gov/v3/bill"
 
-with open('non-environment.csv', 'r') as csvfile:
+with open('small_All_sponsors_data.csv', 'r') as csvfile:
     reader = csv.DictReader(csvfile)
     # Print out the fieldnames for debugging purposes
     print("CSV Column Names:", reader.fieldnames)

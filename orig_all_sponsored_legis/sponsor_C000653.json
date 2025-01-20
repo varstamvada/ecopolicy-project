@@ -1,0 +1,973 @@
+{
+    "pagination": {
+        "count": 67
+    },
+    "request": {
+        "bioguideId": "c000653",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "424",
+            "congress": 107,
+            "introducedDate": "2002-02-13",
+            "latestAction": {
+                "actionDate": "2002-02-13",
+                "actionTime": "21:24:51",
+                "text": "On agreeing to the Combest amendment (A010) Failed by recorded vote: 191 - 237 (Roll no. 27). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/hamdt/424?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-09-12",
+            "latestAction": {
+                "actionDate": "2002-09-17",
+                "text": "Executive Comment Requested from USDA."
+            },
+            "number": "5376",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To enhance the authorities of the Secretary of Agriculture and the Secretary of the Interior to reduce catastrophic wildfire threats to communities and the environment.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5376?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-07-26",
+            "latestAction": {
+                "actionDate": "2002-05-13",
+                "text": "Became Public Law No: 107-171."
+            },
+            "number": "2646",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Farm Security and Rural Investment Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2646?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-06-19",
+            "latestAction": {
+                "actionDate": "2001-08-13",
+                "text": "Became Public Law No: 107-25."
+            },
+            "number": "2213",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Crop Year 2001 Agricultural Economic Assistance Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2213?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-02-14",
+            "latestAction": {
+                "actionDate": "2001-02-14",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "46",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing amounts for the expenses of the Committee on Agriculture in the One Hundred Seventh Congress.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/107/hres/46?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-05-19",
+            "latestAction": {
+                "actionDate": "2000-06-28",
+                "text": "Hearings Held by Committee on Agriculture."
+            },
+            "number": "4502",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Water Pollution Program Improvement Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4502?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-10-01",
+            "latestAction": {
+                "actionDate": "1999-10-12",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "2991",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To amend the Trade Act of 1974 to provide for periodic revision of retaliation lists or other remedial action implemented under section 306 of such Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2991?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-20",
+            "latestAction": {
+                "actionDate": "2000-06-22",
+                "text": "Became Public Law No: 106-224."
+            },
+            "number": "2559",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Agricultural Risk Protection Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2559?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-30",
+            "latestAction": {
+                "actionDate": "1999-06-30",
+                "text": "Referred to the House Committee on Agriculture."
+            },
+            "number": "2395",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "To amend the Agricultural Market Transition Act to extend through fiscal year 2002 the authority for the advance payment, in full, of the payments required under production flexibility contracts.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2395?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-03-22",
+            "latestAction": {
+                "actionDate": "1999-04-01",
+                "text": "Became Public Law No: 106-7."
+            },
+            "number": "1212",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "To protect producers of agricultural commodities who applied for a Crop Revenue Coverage PLUS supplemental endorsement for the 1999 crop year.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1212?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-03-01",
+            "latestAction": {
+                "actionDate": "1999-03-15",
+                "text": "Became Public Law No: 106-2."
+            },
+            "number": "882",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "To nullify any reservation of funds during fiscal year 1999 for guaranteed loans under the Consolidated Farm and Rural Development Act for qualified beginning farmers or ranchers, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/882?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-11",
+            "latestAction": {
+                "actionDate": "1999-02-11",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "61",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing amounts for the expenses of the Committee on Agriculture in the One Hundred Sixth Congress.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/106/hres/61?format=json"
+        },
+        {
+            "amendmentNumber": "971",
+            "congress": 99,
+            "introducedDate": "1986-07-17",
+            "latestAction": {
+                "actionDate": "1986-07-17",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 161 - 204 (Record Vote No: 228). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/971?format=json"
+        },
+        {
+            "amendmentNumber": "969",
+            "congress": 99,
+            "introducedDate": "1986-07-17",
+            "latestAction": {
+                "actionDate": "1986-07-17",
+                "text": "Amendment Failed of Passage in Committee of Whole by Recorded Vote: 103 - 278 (Record Vote No: 227). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/969?format=json"
+        },
+        {
+            "amendmentNumber": "465",
+            "congress": 99,
+            "introducedDate": "1985-10-03",
+            "latestAction": {
+                "actionDate": "1985-10-03",
+                "text": "Amendment Failed of Passage in Committee of Whole by Voice Vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/99/hamdt/465?format=json"
+        },
+        {
+            "congress": 99,
+            "introducedDate": "1985-05-02",
+            "latestAction": {
+                "actionDate": "1985-05-06",
+                "text": "Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice."
+            },
+            "number": "2326",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "A bill to amend the Legal Services Corporation Act to provide time limits for certain proceedings with respect to denials of financial assistance under such Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/99/hr/2326?format=json"
+        },
+        {
+            "amendmentNumber": "304",
+            "congress": 100,
+            "introducedDate": "1987-07-01",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/100/hamdt/304?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-01-27",
+            "latestAction": {
+                "actionDate": "1988-11-10",
+                "text": "Provisions of Measure Incorporated Into H.R.4333."
+            },
+            "number": "3865",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to permit tax-free sales of diesel fuel for use on a farm or for other off-highway uses.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/3865?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-06-11",
+            "latestAction": {
+                "actionDate": "1988-04-20",
+                "text": "Committee on Agriculture. Ordered to be reported without amendment favorably."
+            },
+            "number": "2663",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "A bill to authorize the establishment by the Secretary of Agriculture of a plant stress and water conservation research laboratory and program at Lubbock, Texas.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/2663?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-02-05",
+            "latestAction": {
+                "actionDate": "1987-02-05",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "1029",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to provide tax credits to producers of domestic crude oil when the removal price is less than the adjusted base price determined for purposes of the windfall profit tax.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/1029?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-01-29",
+            "latestAction": {
+                "actionDate": "1987-12-22",
+                "text": "See H.J.Res.395."
+            },
+            "number": "820",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "A bill to allow States to increase the maximum speed limit to sixty-five miles per hour on rural interstate and four lane highways where the Governor of that State determines that highway safety on that route will not significantly decline.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/100/hr/820?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1988-06-30",
+            "latestAction": {
+                "actionDate": "1988-06-30",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "487",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A resolution expressing the sense of the House of Representatives that Federal laws regarding the taxation of State and local government bonds should not be changed in order to increase Federal revenues.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/100/hres/487?format=json"
+        },
+        {
+            "congress": 100,
+            "introducedDate": "1987-09-29",
+            "latestAction": {
+                "actionDate": "1987-09-29",
+                "text": "Referred to House Committee on Ways and Means."
+            },
+            "number": "276",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A resolution expressing the sense of the House of Representatives that Federal estate and gift taxes should not be changed in order to increase Federal revenues as part of deficit reduction.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/100/hres/276?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1990-04-26",
+            "latestAction": {
+                "actionDate": "1990-05-01",
+                "text": "Referred to the Subcommittee on Conservation Credit and Rural Development."
+            },
+            "number": "4642",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Crop Insurance Improvement Act of 1990",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/4642?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-09-06",
+            "latestAction": {
+                "actionDate": "1989-09-11",
+                "text": "Executive Comment Requested from USDA."
+            },
+            "number": "3216",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Disaster Assistance Improvements Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/3216?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-07-13",
+            "latestAction": {
+                "actionDate": "1989-07-19",
+                "text": "Referred to the Subcommittee on Administrative Law and Governmental Relations."
+            },
+            "number": "2884",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "Legal Services Administration Act of 1989",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/2884?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-28",
+            "latestAction": {
+                "actionDate": "1989-11-08",
+                "text": "See H.R.2567."
+            },
+            "number": "1143",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "To authorize the Secretary of the Interior to construct and test the Lake Meredith Salinity Control Project, New Mexico and Texas, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/1143?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-02",
+            "latestAction": {
+                "actionDate": "1989-11-09",
+                "text": "Unfavorable Executive Comment Received from USDA."
+            },
+            "number": "772",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "To amend the Soil Conservation and Domestic Allotment Act to extend the date for entering into contracts under the Great Plains conservation program.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/772?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-02-02",
+            "latestAction": {
+                "actionDate": "1989-02-16",
+                "text": "Referred to the Subcommittee on Surface Transportation."
+            },
+            "number": "773",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To amend title 23, United States Code, to provide for a maximum speed limit of 65 miles per hour on highways with 4 lanes or more located outside of urbanized areas, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/101/hr/773?format=json"
+        },
+        {
+            "congress": 101,
+            "introducedDate": "1989-01-31",
+            "latestAction": {
+                "actionDate": "1989-01-31",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "39",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Expressing the sense of the Congress regarding the taxation of State and local government bonds.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/101/hconres/39?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-04-09",
+            "latestAction": {
+                "actionDate": "1992-05-01",
+                "text": "Executive Comment Requested from USDA, Commerce, Interior, Army Corps of Engineers, EPA."
+            },
+            "number": "4840",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Wetlands Delineation Fairness Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4840?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-06-12",
+            "latestAction": {
+                "actionDate": "1991-06-17",
+                "text": "Referred to the Subcommittee on Government Information, Justice and Agriculture."
+            },
+            "number": "2625",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Paperwork Reduction in Health Care Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2625?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-02-28",
+            "latestAction": {
+                "actionDate": "1991-03-06",
+                "actionTime": "14:33:00",
+                "text": "Laid on the table. See S.J. Res. 84 for further action."
+            },
+            "number": "158",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Disapproving the action of the District of Columbia Council in approving the Schedule of Heights Amendment Act of 1990.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/102/hjres/158?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-09-17",
+            "latestAction": {
+                "actionDate": "1992-09-18",
+                "actionTime": "10:56:49",
+                "text": "On motion to table the measure Agreed to by the Yeas and Nays: 216 - 150 (Roll no. 403)."
+            },
+            "number": "572",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Directing the Committee on Standards of Official Conduct to conduct an investigation regarding possible unauthorized disclosures of classified information in violation of the Rules of the House of Representatives.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/102/hres/572?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-04-30",
+            "latestAction": {
+                "actionDate": "1991-04-30",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "139",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Expressing the sense of the House of Representatives that Federal laws regarding the taxation of State and local government bonds should not be changed in order to increase Federal revenues.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/102/hres/139?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-10-13",
+            "latestAction": {
+                "actionDate": "1993-11-30",
+                "text": "See H.R.1025."
+            },
+            "number": "3268",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Federal Firearms License Reform Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3268?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-06-28",
+            "latestAction": {
+                "actionDate": "1994-08-01",
+                "text": "Became Public Law No: 103-287."
+            },
+            "number": "2532",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To designate the Federal building and United States courthouse in Lubbock, Texas, as the \"George H. Mahon Federal Building and United States Courthouse\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2532?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-01-05",
+            "latestAction": {
+                "actionDate": "1993-01-19",
+                "text": "Referred to the Subcommittee on Surface Transportation."
+            },
+            "number": "139",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To amend title 23, United States Code, to provide for a maximum speed limit of 65 miles per hour on highways with 4 lanes or more located outside of urbanized areas, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/139?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-01-05",
+            "latestAction": {
+                "actionDate": "1993-02-19",
+                "text": "Referred to the Subcommittee on Legislation and National Security."
+            },
+            "number": "136",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Paperwork Reduction in Health Care Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/136?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-01-05",
+            "latestAction": {
+                "actionDate": "1994-03-23",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "138",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Wetlands Delineation Fairness Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/138?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-01-05",
+            "latestAction": {
+                "actionDate": "1994-07-25",
+                "text": "See H.R.4822."
+            },
+            "number": "137",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Congressional Accountability Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/137?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-01-05",
+            "latestAction": {
+                "actionDate": "1993-02-10",
+                "text": "Referred to the Subcommittee on Civil and Constitutional Rights."
+            },
+            "number": "14",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Proposing an amendment to the Constitution of the United States relating to voluntary prayer in public schools.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/14?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-01-05",
+            "latestAction": {
+                "actionDate": "1993-01-05",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "14",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Expressing the sense of the House of Representatives that Federal laws regarding the taxation of State and local government bonds should not be changed in order to increase Federal revenues.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/103/hres/14?format=json"
+        },
+        {
+            "amendmentNumber": "1368",
+            "congress": 104,
+            "introducedDate": "1996-07-26",
+            "latestAction": {
+                "actionDate": "1996-07-26",
+                "actionTime": "13:15:49",
+                "text": "On agreeing to the Combest amendment (A001) Agreed to without objection. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/1368?format=json"
+        },
+        {
+            "amendmentNumber": "1077",
+            "congress": 104,
+            "introducedDate": "1996-05-22",
+            "latestAction": {
+                "actionDate": "1996-05-22",
+                "actionTime": "13:28:30",
+                "text": "On agreeing to the Combest amendment (A013) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/1077?format=json"
+        },
+        {
+            "amendmentNumber": "1078",
+            "congress": 104,
+            "introducedDate": "1996-05-22",
+            "latestAction": {
+                "actionDate": "1996-05-22",
+                "actionTime": "13:31:25",
+                "text": "On agreeing to the Combest amendment (A014) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/1078?format=json"
+        },
+        {
+            "amendmentNumber": "1074",
+            "congress": 104,
+            "introducedDate": "1996-05-22",
+            "latestAction": {
+                "actionDate": "1996-05-22",
+                "actionTime": "13:08:57",
+                "text": "On agreeing to the Combest amendment (A010) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/1074?format=json"
+        },
+        {
+            "amendmentNumber": "1076",
+            "congress": 104,
+            "introducedDate": "1996-05-22",
+            "latestAction": {
+                "actionDate": "1996-05-22",
+                "actionTime": "13:25:57",
+                "text": "On agreeing to the Combest amendment (A012) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/1076?format=json"
+        },
+        {
+            "amendmentNumber": "1079",
+            "congress": 104,
+            "introducedDate": "1996-05-22",
+            "latestAction": {
+                "actionDate": "1996-05-22",
+                "actionTime": "13:32:28",
+                "text": "On agreeing to the Combest amendment (A015) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/1079?format=json"
+        },
+        {
+            "amendmentNumber": "1067",
+            "congress": 104,
+            "introducedDate": "1996-05-22",
+            "latestAction": {
+                "actionDate": "1996-05-22",
+                "actionTime": "11:33:34",
+                "text": "On agreeing to the Combest amendment (A003) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/1067?format=json"
+        },
+        {
+            "amendmentNumber": "779",
+            "congress": 104,
+            "introducedDate": "1995-09-13",
+            "latestAction": {
+                "actionDate": "1995-09-13",
+                "actionTime": "11:40:05",
+                "text": "On agreeing to the Combest amendment (A001) as modified Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/779?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-07-25",
+            "latestAction": {
+                "actionDate": "1996-07-29",
+                "text": "Received in the Senate and read twice and referred to the Committee on Agriculture."
+            },
+            "number": "3900",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "To amend the Agricultural Market Transition Act to provide greater planting flexibility, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3900?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-04-15",
+            "latestAction": {
+                "actionDate": "1996-07-23",
+                "text": "Placed on the Union Calendar, Calendar No. 365."
+            },
+            "number": "3237",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Intelligence Community Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3237?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-04-17",
+            "latestAction": {
+                "actionDate": "1996-10-11",
+                "text": "Became Public Law No: 104-293."
+            },
+            "number": "3259",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Intelligence Authorization Act for Fiscal Year 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3259?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-04-15",
+            "latestAction": {
+                "actionDate": "1996-04-26",
+                "text": "For Further Action See H.R.3019."
+            },
+            "number": "3236",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "To amend the Consolidated Farm and Rural Development Act to provide a grace period for the prohibition on Consolidated Farm Service Agency (CFSA) lending to delinquent borrowers.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3236?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-03-28",
+            "latestAction": {
+                "actionDate": "1996-04-12",
+                "text": "Referred to the Subcommittee on Railroads."
+            },
+            "number": "3188",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Crude Oil Transportation Fairness Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3188?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-05-17",
+            "latestAction": {
+                "actionDate": "1996-01-06",
+                "text": "Became Public Law No: 104-93."
+            },
+            "number": "1655",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Intelligence Authorization Act for Fiscal Year 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1655?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-05",
+            "latestAction": {
+                "actionDate": "1995-09-07",
+                "text": "See H.R.2274."
+            },
+            "number": "427",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To amend title 23, United States Code, to repeal provisions establishing a national maximum speed limit.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/427?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-05",
+            "latestAction": {
+                "actionDate": "1995-02-06",
+                "text": "Referred to the Subcommittee on Telecommunications and Finance."
+            },
+            "number": "426",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "National Commission on Telemedicine Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/426?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-02-08",
+            "latestAction": {
+                "actionDate": "1995-02-08",
+                "text": "Referred to the House Committee on House Oversight."
+            },
+            "number": "64",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing amounts for the expenses of the Permanent Select Committee on Intelligence in the One Hundred Fourth Congress.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/64?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-05",
+            "latestAction": {
+                "actionDate": "1995-02-21",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "30",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Expressing the sense of the House of Representatives that obstetrician-gynecologists should be designated as primary care providers for women in Federal laws relating to the provision of health care.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/30?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-08-06",
+            "latestAction": {
+                "actionDate": "1998-08-27",
+                "text": "Executive Comment Requested from USDA."
+            },
+            "number": "4417",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Emergency Livestock Disaster Relief Act of 1998",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/4417?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-07-16",
+            "latestAction": {
+                "actionDate": "1998-07-31",
+                "text": "Executive Comment Requested from USDA."
+            },
+            "number": "4246",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Agricultural Credit Improvement Act of 1998",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/4246?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-09-24",
+            "latestAction": {
+                "actionDate": "1998-02-24",
+                "text": "For Further Action See S.1150."
+            },
+            "number": "2534",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Agricultural Research, Extension, and Education Reauthorization Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2534?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-07-31",
+            "latestAction": {
+                "actionDate": "1998-10-31",
+                "text": "Became Public Law No: 105-334."
+            },
+            "number": "2327",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Drive for Teen Employment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2327?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-03-06",
+            "latestAction": {
+                "actionDate": "1997-03-21",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "966",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Improved Access for Telehealth Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/966?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-03-04",
+            "latestAction": {
+                "actionDate": "1997-03-06",
+                "text": "Executive Comment Requested from USDA."
+            },
+            "number": "913",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "To amend the Agricultural Market Transition Act to provide greater planting flexibility.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/913?format=json"
+        }
+    ]
+}

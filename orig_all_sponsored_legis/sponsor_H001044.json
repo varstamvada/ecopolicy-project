@@ -1,0 +1,438 @@
+{
+    "pagination": {
+        "count": 29
+    },
+    "request": {
+        "bioguideId": "h001044",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "738",
+            "congress": 111,
+            "introducedDate": "2010-07-28",
+            "latestAction": {
+                "actionDate": "2010-07-28",
+                "actionTime": "18:09:21",
+                "text": "On agreeing to the Halvorson amendment (A010) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/hamdt/738?format=json"
+        },
+        {
+            "amendmentNumber": "648",
+            "congress": 111,
+            "introducedDate": "2010-05-13",
+            "latestAction": {
+                "actionDate": "2010-05-13",
+                "actionTime": "11:53:32",
+                "text": "On agreeing to the Halvorson amendment (A013) Agreed to by recorded vote: 419 - 0 (Roll no. 268). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/hamdt/648?format=json"
+        },
+        {
+            "amendmentNumber": "563",
+            "congress": 111,
+            "introducedDate": "2010-02-03",
+            "latestAction": {
+                "actionDate": "2010-02-04",
+                "actionTime": "10:49:48",
+                "text": "On agreeing to the Halvorson amendment (A019) Agreed to by recorded vote: 424 - 0 (Roll no. 39). (consideration: CR H559-560; text: CR H559)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/hamdt/563?format=json"
+        },
+        {
+            "amendmentNumber": "507",
+            "congress": 111,
+            "introducedDate": "2009-11-06",
+            "latestAction": {
+                "actionDate": "2009-11-06",
+                "actionTime": "15:11:27",
+                "text": "On agreeing to the Halvorson amendment (A009) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/hamdt/507?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-07-30",
+            "latestAction": {
+                "actionDate": "2010-09-29",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+            },
+            "number": "5993",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Securing America's Veterans Insurance Needs and Goals Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5993?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-07-22",
+            "latestAction": {
+                "actionDate": "2010-07-23",
+                "text": "Referred to the Subcommittee on Economic Opportunity."
+            },
+            "number": "5838",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Homeless Veterans Transitional Housing Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5838?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-03-22",
+            "latestAction": {
+                "actionDate": "2010-04-08",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "4912",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 10, United States Code, to eliminate the required reduction in the amount of combat-related special compensation paid to disabled combat-related uniformed services retirees retired under chapter 61 of such title whose disability is attributable to an injury for which the members were awarded the Purple Heart.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4912?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-01-13",
+            "latestAction": {
+                "actionDate": "2010-01-13",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4443",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "VET Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4443?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-12-15",
+            "latestAction": {
+                "actionDate": "2009-12-15",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4311",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Bonus Depreciation and Enhanced Expensing for Small Businesses Extension Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4311?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-12-11",
+            "latestAction": {
+                "actionDate": "2009-12-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4296",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Mechanical Insulation Installation Incentive Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4296?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-22",
+            "latestAction": {
+                "actionDate": "2009-10-22",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3908",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Families of Disabled Veterans Work Opportunity Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/3908?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-22",
+            "latestAction": {
+                "actionDate": "2009-10-26",
+                "text": "Referred to the Subcommittee on Energy and Environment."
+            },
+            "number": "3909",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Renewable Energy Investment Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/3909?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-06",
+            "latestAction": {
+                "actionDate": "2009-10-21",
+                "text": "Provisions of Measure Incorporated into H.R. 3854."
+            },
+            "number": "3723",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Small Business Credit Expansion and Loan Markets Stabilization Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/3723?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-06-16",
+            "latestAction": {
+                "actionDate": "2009-06-19",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2898",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Wounded Warrior Caregiver Assistance Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2898?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-06-09",
+            "latestAction": {
+                "actionDate": "2009-07-09",
+                "text": "Forwarded by Subcommittee to Full Committee by Voice Vote ."
+            },
+            "number": "2774",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Families of Veterans Financial Security Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2774?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-06-08",
+            "latestAction": {
+                "actionDate": "2009-06-11",
+                "text": "Forwarded by Subcommittee to Full Committee by Voice Vote ."
+            },
+            "number": "2747",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Rural Technology Development and Outreach Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2747?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-05-13",
+            "latestAction": {
+                "actionDate": "2009-05-13",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2396",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Small Business Supporting our Troops Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2396?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-05-04",
+            "latestAction": {
+                "actionDate": "2009-05-05",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2236",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Grieving Families Insurance Protection Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2236?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-28",
+            "latestAction": {
+                "actionDate": "2009-04-28",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2146",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to extend the additional standard deduction for State and local real property taxes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2146?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-03-05",
+            "latestAction": {
+                "actionDate": "2009-07-09",
+                "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote ."
+            },
+            "number": "1335",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 38, United States Code, to prohibit the Secretary of Veterans Affairs from collecting certain copayments from veterans who are catastrophically disabled.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1335?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-03-04",
+            "latestAction": {
+                "actionDate": "2010-04-07",
+                "text": "Became Public Law No: 111-156."
+            },
+            "number": "80",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Recognizing and honoring the Blinded Veterans Association on its 65th anniversary of representing blinded veterans and their families.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/111/hjres/80?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-12-16",
+            "latestAction": {
+                "actionDate": "2009-12-16",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "65",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Disapproving the rule submitted by the Federal Election Commission with respect to travel on private aircraft for Federal candidates.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/111/hjres/65?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-06-17",
+            "latestAction": {
+                "actionDate": "2010-06-17",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "1454",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Supporting the goals and ideals of \"Chiari Malformation Awareness Month\" and \"Chiari Malformation Awareness Day\" in the United States.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/1454?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-01-13",
+            "latestAction": {
+                "actionDate": "2010-01-26",
+                "actionTime": "19:07:13",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "1011",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Recognizing the importance of cervical health and of detecting cervical cancer during its earliest stages and supporting the goals and ideals of Cervical Health Awareness Month.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/1011?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-09-17",
+            "latestAction": {
+                "actionDate": "2009-11-16",
+                "text": "Referred to the Subcommittee on Workforce Protections."
+            },
+            "number": "752",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Recognizing the tragic loss of life that occurred at the Cherry Mine in Cherry, Illinois, on its 100th anniversary and the contributions to worker and mine safety that resulted from this and other disasters.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/752?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-07-24",
+            "latestAction": {
+                "actionDate": "2009-09-15",
+                "actionTime": "13:40:55",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "679",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Supporting the goals and ideals of American Legion Day.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/679?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-06-12",
+            "latestAction": {
+                "actionDate": "2009-07-16",
+                "actionTime": "13:14:34",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "543",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Expressing support for designation of June as \"Home Safety Month\".",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/543?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-30",
+            "latestAction": {
+                "actionDate": "2009-05-04",
+                "text": "Referred to the Subcommittee on Energy and Environment."
+            },
+            "number": "389",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "Encouraging energy efficient and environment-friendly building and facility certification programs to incorporate the use of mechanical insulation as part of their standards and ratings system.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/389?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-05-13",
+            "latestAction": {
+                "actionDate": "2010-05-25",
+                "text": "Received in the Senate and referred to the Committee on the Judiciary."
+            },
+            "number": "278",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Expressing the sense of Congress that a grateful Nation supports and salutes Sons and Daughters in Touch on its 20th Anniversary that is being held on Father's Day, 2010, at the Vietnam Veterans Memorial in Washington, the District of Columbia.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/111/hconres/278?format=json"
+        }
+    ]
+}

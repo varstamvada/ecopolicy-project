@@ -1,0 +1,561 @@
+{
+    "pagination": {
+        "count": 39
+    },
+    "request": {
+        "bioguideId": "c000494",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "350",
+            "congress": 107,
+            "introducedDate": "2001-10-04",
+            "latestAction": {
+                "actionDate": "2001-10-04",
+                "actionTime": "22:59:18",
+                "text": "On agreeing to the Clayton amendment (A032) Agreed to by recorded vote: 235 - 183 (Roll no. 369). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/hamdt/350?format=json"
+        },
+        {
+            "amendmentNumber": "152",
+            "congress": 107,
+            "introducedDate": "2001-07-11",
+            "latestAction": {
+                "actionDate": "2001-07-11",
+                "actionTime": "14:37:35",
+                "text": "By unanimous consent, the Clayton amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/hamdt/152?format=json"
+        },
+        {
+            "amendmentNumber": "143",
+            "congress": 107,
+            "introducedDate": "2001-06-28",
+            "latestAction": {
+                "actionDate": "2001-06-28",
+                "actionTime": "17:25:45",
+                "text": "On agreeing to the Clayton amendment (A011) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/hamdt/143?format=json"
+        },
+        {
+            "amendmentNumber": "138",
+            "congress": 107,
+            "introducedDate": "2001-06-28",
+            "latestAction": {
+                "actionDate": "2001-06-28",
+                "actionTime": "16:14:49",
+                "text": "By unanimous consent, the Clayton amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/hamdt/138?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-07-26",
+            "latestAction": {
+                "actionDate": "2002-08-09",
+                "text": "Referred to the Subcommittee on National Parks, Recreation and Public Lands."
+            },
+            "number": "5274",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Northeastern North Carolina Heritage Area Study Act of 2002 ",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5274?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-06-25",
+            "latestAction": {
+                "actionDate": "2002-11-14",
+                "text": "Referred to the Subcommittee on 21st Century Competitiveness."
+            },
+            "number": "5015",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Rural Self-Sufficiency and Workforce Advancement Act ",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5015?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-07-26",
+            "latestAction": {
+                "actionDate": "2001-08-03",
+                "text": "Executive Comment Requested from USDA."
+            },
+            "number": "2653",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Agricultural Credit Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2653?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-06-07",
+            "latestAction": {
+                "actionDate": "2001-08-10",
+                "text": "Referred to the Subcommittee on 21st Century Competitiveness."
+            },
+            "number": "2102",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Rural Teachers Recruitment Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2102?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-05-17",
+            "latestAction": {
+                "actionDate": "2001-08-10",
+                "text": "Referred to the Subcommittee on Education Reform."
+            },
+            "number": "1893",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "General Equivalency Diploma Reform and Improvement Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1893?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-05-17",
+            "latestAction": {
+                "actionDate": "2001-05-24",
+                "text": "Referred to the Subcommittee on Specialty Crops and Foreign Agriculture Programs."
+            },
+            "number": "1894",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Farmers to Africa and the Caribbean Basin Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1894?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-01",
+            "latestAction": {
+                "actionDate": "2001-04-30",
+                "text": "Referred to the Subcommittee on Employer-Employee Relations."
+            },
+            "number": "820",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "National Employment Dispute Resolution Act of 2001 (NEDRA)",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/820?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-06-18",
+            "latestAction": {
+                "actionDate": "2002-07-23",
+                "text": "Forwarded by Subcommittee to Full Committee."
+            },
+            "number": "421",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Recognizing the importance of inheritance rights of women in Africa.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/hconres/421?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-05-01",
+            "latestAction": {
+                "actionDate": "2002-05-06",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "393",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Expressing the sense of Congress that the Nation should take additional steps to ensure the prevention of teen pregnancy by engaging in measures to educate teenagers as to why they should stop and think about the negative consequences before engaging in premature sexual activity.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/hconres/393?format=json"
+        },
+        {
+            "amendmentNumber": "947",
+            "congress": 106,
+            "introducedDate": "2000-06-29",
+            "latestAction": {
+                "actionDate": "2000-06-29",
+                "actionTime": "17:42:31",
+                "text": "On agreeing to the Clayton amendment (A014) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/947?format=json"
+        },
+        {
+            "amendmentNumber": "936",
+            "congress": 106,
+            "introducedDate": "2000-06-29",
+            "latestAction": {
+                "actionDate": "2000-06-29",
+                "actionTime": "12:26:44",
+                "text": "On agreeing to the Clayton amendment (A003) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/936?format=json"
+        },
+        {
+            "amendmentNumber": "628",
+            "congress": 106,
+            "introducedDate": "2000-03-29",
+            "latestAction": {
+                "actionDate": "2000-03-29",
+                "actionTime": "21:29:12",
+                "text": "By unanimous consent, the Clayton amendment was withdrawn. (text: CR H1565)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/628?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-06-15",
+            "latestAction": {
+                "actionDate": "2000-06-28",
+                "text": "Referred to the Subcommittee on Department Operations, Oversight, Nutrition and Forestry."
+            },
+            "number": "4675",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "USDA Accountability and Equity Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4675?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-06-07",
+            "latestAction": {
+                "actionDate": "2000-07-19",
+                "text": "Referred to the Subcommittee on Employer-Employee Relations."
+            },
+            "number": "4593",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "National Employment Dispute Resolution Act of 2000 (NEDRA)",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4593?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-05-24",
+            "latestAction": {
+                "actionDate": "2000-06-06",
+                "text": "Executive Comment Requested from USDA."
+            },
+            "number": "4535",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "State and Fair Farm Aid Bill",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4535?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-05-04",
+            "latestAction": {
+                "actionDate": "2000-05-09",
+                "text": "Executive Comment Requested from USDA."
+            },
+            "number": "4378",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Farmers for Africa Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4378?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-05-27",
+            "latestAction": {
+                "actionDate": "1999-06-14",
+                "text": "Executive Comment Requested from USDA."
+            },
+            "number": "1983",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Agricultural Credit Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1983?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-05-20",
+            "latestAction": {
+                "actionDate": "1999-06-07",
+                "text": "Referred to the Subcommittee on Immigration and Claims."
+            },
+            "number": "1904",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Abimbola Oyebade-Balogun.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1904?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-04-29",
+            "latestAction": {
+                "actionDate": "1999-05-21",
+                "text": "Referred to the Subcommittee on Postsecondary Education, Training and Life-Long Learning."
+            },
+            "number": "1629",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Rural Teachers Recruitment Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1629?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-06-14",
+            "latestAction": {
+                "actionDate": "1994-07-01",
+                "text": "Referred to the Subcommittee on Housing and Community Development."
+            },
+            "number": "4579",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "Section 515 Rural Housing Reform",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4579?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-03-24",
+            "latestAction": {
+                "actionDate": "1994-07-21",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "4129",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Rural Credit and Development Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4129?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-08-06",
+            "latestAction": {
+                "actionDate": "1993-12-13",
+                "text": "Executive Comment Received from ITC."
+            },
+            "number": "2920",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To suspend until January 1, 1996, the duty on certain textile spinning machines.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2920?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-11-10",
+            "latestAction": {
+                "actionDate": "1994-03-21",
+                "text": "See S.J.Res.171."
+            },
+            "number": "291",
+            "policyArea": {
+                "name": "Families"
+            },
+            "title": "Designating March 20 through March 26, 1994, as \"Small Family Farm Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/291?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-25",
+            "latestAction": {
+                "actionDate": "1993-03-31",
+                "text": "Sponsor introductory remarks on measure. (CR H1744-1745)"
+            },
+            "number": "72",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Expressing the sense of Congress that stimulus package funds appropriated to accelerate the economy should be equitably targeted to economically distressed areas that have not benefited from the current economic recovery.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/103/hconres/72?format=json"
+        },
+        {
+            "amendmentNumber": "587",
+            "congress": 104,
+            "introducedDate": "1995-07-20",
+            "latestAction": {
+                "actionDate": "1995-07-20",
+                "actionTime": "17:54:11",
+                "text": "By unanimous consent, the Clayton amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/587?format=json"
+        },
+        {
+            "amendmentNumber": "24",
+            "congress": 104,
+            "introducedDate": "1995-01-27",
+            "latestAction": {
+                "actionDate": "1995-01-27",
+                "actionTime": "13:39:21",
+                "text": "On agreeing to the Clayton amendments (A015) Failed by recorded vote: 157 - 262 (Roll no. 54). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/24?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-11",
+            "latestAction": {
+                "actionDate": "1996-09-11",
+                "text": "Referred to the House Committee on Appropriations."
+            },
+            "number": "4046",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Emergency Disaster Assistance Supplemental Appropriations Act for Fiscal Year 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/4046?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-06-11",
+            "latestAction": {
+                "actionDate": "1996-06-12",
+                "text": "Sponsor introductory remarks on measure. (CR H6189)"
+            },
+            "number": "183",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Condemning the recent rash of arson against African-American churches across the United States, pledging to assist law enforcement authorities in apprehending the persons responsible for such acts of arson, supporting bipartisan legislation which would facilitate the prosecution of arsonists and create more severe penalties for arson against houses of worship, and encouraging the people of the United States to work in their communities to prevent future acts of arson against African-American churches.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/104/hconres/183?format=json"
+        },
+        {
+            "amendmentNumber": "583",
+            "congress": 105,
+            "introducedDate": "1998-04-29",
+            "latestAction": {
+                "actionDate": "1998-04-29",
+                "actionTime": "22:45:07",
+                "text": "On agreeing to the Clayton amendment (A017) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/583?format=json"
+        },
+        {
+            "amendmentNumber": "266",
+            "congress": 105,
+            "introducedDate": "1997-07-24",
+            "latestAction": {
+                "actionDate": "1997-07-24",
+                "actionTime": "12:21:54",
+                "text": "By unanimous consent, the Clayton amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/266?format=json"
+        },
+        {
+            "amendmentNumber": "293",
+            "congress": 105,
+            "introducedDate": "1997-07-29",
+            "latestAction": {
+                "actionDate": "1997-07-29",
+                "actionTime": "13:31:27",
+                "text": "By unanimous consent, the Clayton amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/293?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-19",
+            "latestAction": {
+                "actionDate": "1998-07-17",
+                "text": "Sponsor introductory remarks on measure. (CR H5848)"
+            },
+            "number": "3513",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Agricultural Credit Restoration Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3513?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-11-04",
+            "latestAction": {
+                "actionDate": "1997-12-17",
+                "text": "Became Public Law No: 105-152."
+            },
+            "number": "2796",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Army Reserve-National Guard Equity Reimbursement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2796?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-09-04",
+            "latestAction": {
+                "actionDate": "1997-09-19",
+                "text": "Referred to the Subcommittee on Early Childhood, Youth and Families."
+            },
+            "number": "2399",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Family Investment Package",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2399?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-07-17",
+            "latestAction": {
+                "actionDate": "1997-10-23",
+                "text": "Committee Hearings Held."
+            },
+            "number": "2185",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "USDA Accountability and Equity Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2185?format=json"
+        }
+    ]
+}

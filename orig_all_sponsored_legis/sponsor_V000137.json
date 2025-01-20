@@ -1,0 +1,723 @@
+{
+    "pagination": {
+        "count": 57
+    },
+    "request": {
+        "bioguideId": "v000137",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 118,
+            "introducedDate": "2024-06-12",
+            "latestAction": {
+                "actionDate": "2024-06-12",
+                "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "4516",
+            "policyArea": {
+                "name": null
+            },
+            "title": "Dismantle DEI Act of 2024",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/4516?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-05-14",
+            "latestAction": {
+                "actionDate": "2024-05-14",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "4333",
+            "policyArea": {
+                "name": null
+            },
+            "title": "Domenic and Ed\u2019s Law",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/4333?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-05-09",
+            "latestAction": {
+                "actionDate": "2024-05-09",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "4295",
+            "policyArea": {
+                "name": null
+            },
+            "title": "Encampments or Endowments Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/4295?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-05-01",
+            "latestAction": {
+                "actionDate": "2024-05-01",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "4232",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "FAUCI Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/4232?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-04-15",
+            "latestAction": {
+                "actionDate": "2024-04-15",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "4122",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Continuous Skilled Nursing Quality Improvement Act of 2024",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/4122?format=json"
+        },
+        {
+            "amendmentNumber": "1094",
+            "congress": 118,
+            "introducedDate": "2023-09-12",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/samdt/1094?format=json"
+        },
+        {
+            "amendmentNumber": "1093",
+            "congress": 118,
+            "introducedDate": "2023-09-11",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/samdt/1093?format=json"
+        },
+        {
+            "amendmentNumber": "976",
+            "congress": 118,
+            "introducedDate": "2023-07-19",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/samdt/976?format=json"
+        },
+        {
+            "amendmentNumber": "975",
+            "congress": 118,
+            "introducedDate": "2023-07-19",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/samdt/975?format=json"
+        },
+        {
+            "amendmentNumber": "974",
+            "congress": 118,
+            "introducedDate": "2023-07-19",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/samdt/974?format=json"
+        },
+        {
+            "amendmentNumber": "973",
+            "congress": 118,
+            "introducedDate": "2023-07-19",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/samdt/973?format=json"
+        },
+        {
+            "amendmentNumber": "857",
+            "congress": 118,
+            "introducedDate": "2023-07-18",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/samdt/857?format=json"
+        },
+        {
+            "amendmentNumber": "856",
+            "congress": 118,
+            "introducedDate": "2023-07-18",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/samdt/856?format=json"
+        },
+        {
+            "amendmentNumber": "855",
+            "congress": 118,
+            "introducedDate": "2023-07-18",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/samdt/855?format=json"
+        },
+        {
+            "amendmentNumber": "854",
+            "congress": 118,
+            "introducedDate": "2023-07-18",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/samdt/854?format=json"
+        },
+        {
+            "amendmentNumber": "94",
+            "congress": 118,
+            "introducedDate": "2023-05-31",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/samdt/94?format=json"
+        },
+        {
+            "amendmentNumber": "1715",
+            "congress": 118,
+            "introducedDate": "2024-03-21",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/samdt/1715?format=json"
+        },
+        {
+            "amendmentNumber": "1714",
+            "congress": 118,
+            "introducedDate": "2024-03-21",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/samdt/1714?format=json"
+        },
+        {
+            "amendmentNumber": "1716",
+            "congress": 118,
+            "introducedDate": "2024-03-21",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/samdt/1716?format=json"
+        },
+        {
+            "amendmentNumber": "1717",
+            "congress": 118,
+            "introducedDate": "2024-03-21",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/samdt/1717?format=json"
+        },
+        {
+            "amendmentNumber": "1700",
+            "congress": 118,
+            "introducedDate": "2024-03-21",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/samdt/1700?format=json"
+        },
+        {
+            "amendmentNumber": "1699",
+            "congress": 118,
+            "introducedDate": "2024-03-21",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/samdt/1699?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-03-21",
+            "latestAction": {
+                "actionDate": "2024-06-18",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 426."
+            },
+            "number": "4045",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "East Palestine Health Impact Monitoring Act of 2024",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/4045?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-03-19",
+            "latestAction": {
+                "actionDate": "2024-03-19",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "3978",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "College Employment Accountability Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/3978?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-12-13",
+            "latestAction": {
+                "actionDate": "2023-12-13",
+                "text": "Read twice and referred to the Committee on Rules and Administration."
+            },
+            "number": "3483",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Consequences for Climate Vandals Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/3483?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-03-14",
+            "latestAction": {
+                "actionDate": "2024-03-14",
+                "text": "Read twice and referred to the Committee on Armed Services."
+            },
+            "number": "3944",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "William S. Knudsen Defense Remobilization Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/3944?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-03-14",
+            "latestAction": {
+                "actionDate": "2024-03-14",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "3945",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "A bill to restrict the Chinese Government from accessing United States capital markets and exchanges if it fails to comply with international laws relating to finance, trade, and commerce.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/3945?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-03-14",
+            "latestAction": {
+                "actionDate": "2024-03-14",
+                "text": "Read twice and referred to the Committee on Foreign Relations."
+            },
+            "number": "3962",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Enhanced End-Use Monitoring Accountability Act of 2024",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/3962?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-12-14",
+            "latestAction": {
+                "actionDate": "2023-12-14",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "3514",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "A bill to amend the Internal Revenue Code of 1986 to increase the excise tax on net investment income of certain private colleges and universities.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/3514?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-12-14",
+            "latestAction": {
+                "actionDate": "2023-12-14",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "3516",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "A bill to impose a fee on certain remittance transfers to fund border security.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/3516?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-12-05",
+            "latestAction": {
+                "actionDate": "2023-12-05",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "3396",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "College Admissions Accountability Act of 2023",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/3396?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-12-13",
+            "latestAction": {
+                "actionDate": "2023-12-13",
+                "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "3507",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A bill to designate the facility of the United States Postal Service located at 12804 Chillicothe Road in Chesterland, Ohio, as the \"Sgt. Wolfgang Kyle Weninger Post Office Building\".",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/3507?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-10-17",
+            "latestAction": {
+                "actionDate": "2023-10-17",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "3048",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Fairness for Stay-at-Home Parents Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/3048?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-10-04",
+            "latestAction": {
+                "actionDate": "2023-10-04",
+                "text": "Read twice and referred to the Committee on Foreign Relations."
+            },
+            "number": "3011",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Passport Sanity Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/3011?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-09-28",
+            "latestAction": {
+                "actionDate": "2023-09-28",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "2962",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Drive American Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/2962?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-09-20",
+            "latestAction": {
+                "actionDate": "2023-09-20",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "2856",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Safeguarding American Education From Foreign Control Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/2856?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-07-27",
+            "latestAction": {
+                "actionDate": "2023-07-27",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "2656",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Timely Departure Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/2656?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-09-07",
+            "latestAction": {
+                "actionDate": "2023-09-07",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "2738",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Freedom to Breathe Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/2738?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-03-12",
+            "latestAction": {
+                "actionDate": "2024-03-12",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "3915",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "No Community Development Block Grants for Sanctuary Cities Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/3915?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-07-26",
+            "latestAction": {
+                "actionDate": "2023-07-26",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "2497",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Bank Failure Prevention Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/2497?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-07-20",
+            "latestAction": {
+                "actionDate": "2023-07-20",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "2403",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Payroll Account Guarantee Act of 2023",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/2403?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-07-12",
+            "latestAction": {
+                "actionDate": "2023-07-12",
+                "text": "Read twice and referred to the Committee on Foreign Relations."
+            },
+            "number": "2255",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "A bill to amend the Foreign Assistance Act of 1961 to clarify the meaning of the term \"aggregate value\" for purposes of the Presidential drawdown authority.",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/2255?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-07-18",
+            "latestAction": {
+                "actionDate": "2023-07-18",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "2335",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Financial Regulatory Accountability Act of 2023",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/2335?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-07-18",
+            "latestAction": {
+                "actionDate": "2023-09-30",
+                "text": "Star Print ordered on the bill."
+            },
+            "number": "2357",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Protect Children\u2019s Innocence Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/2357?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-03-11",
+            "latestAction": {
+                "actionDate": "2024-03-11",
+                "text": "Read twice and referred to the Committee on Foreign Relations."
+            },
+            "number": "3903",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Ukraine Aid Transparency Act of 2024",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/3903?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-05-18",
+            "latestAction": {
+                "actionDate": "2023-05-18",
+                "text": "Read twice and referred to the Committee on Armed Services."
+            },
+            "number": "1670",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "TRICARE Fairness for National Guard and Reserve Retirees Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/1670?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-05-17",
+            "latestAction": {
+                "actionDate": "2023-05-17",
+                "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+            },
+            "number": "1632",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Compressed Gas Cylinder Safety and Oversight Improvements Act of 2023",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/1632?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-05-18",
+            "latestAction": {
+                "actionDate": "2023-05-18",
+                "text": "Referred to the Committee on the Judiciary. (text: CR S1750)"
+            },
+            "number": "218",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "A resolution expressing support for the law enforcement officers of the United States.",
+            "type": "SRES",
+            "url": "https://api.congress.gov/v3/bill/118/sres/218?format=json"
+        },
+        {
+            "amendmentNumber": "1210",
+            "congress": 118,
+            "introducedDate": "2023-09-14",
+            "latestAction": {
+                "actionDate": "2023-10-25",
+                "text": "Amendment SA 1210 agreed to in Senate by Yea-Nay Vote. 59 - 38. Record Vote Number: 266."
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/samdt/1210?format=json"
+        },
+        {
+            "amendmentNumber": "1305",
+            "congress": 118,
+            "introducedDate": "2023-09-29",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/samdt/1305?format=json"
+        },
+        {
+            "amendmentNumber": "1289",
+            "congress": 118,
+            "introducedDate": "2023-09-27",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/samdt/1289?format=json"
+        },
+        {
+            "amendmentNumber": "1125",
+            "congress": 118,
+            "introducedDate": "2023-09-12",
+            "latestAction": null,
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/118/samdt/1125?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-07-19",
+            "latestAction": {
+                "actionDate": "2023-09-05",
+                "text": "Star Print ordered on the bill."
+            },
+            "number": "2374",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "No Obamacare for Illegal Aliens Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/2374?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-01-25",
+            "latestAction": {
+                "actionDate": "2024-01-25",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "3668",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "State Border Security Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/3668?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-01-23",
+            "latestAction": {
+                "actionDate": "2024-01-23",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "3638",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Dependent Controlled Substance Transparency Act",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/3638?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-05-11",
+            "latestAction": {
+                "actionDate": "2023-05-11",
+                "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "26",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "A joint resolution disapproving the action of the District of Columbia Council in approving the Comprehensive Policing and Justice Reform Amendment Act of 2022.",
+            "type": "SJRES",
+            "url": "https://api.congress.gov/v3/bill/118/sjres/26?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-03-30",
+            "latestAction": {
+                "actionDate": "2023-03-30",
+                "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "1109",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "English Language Unity Act of 2023",
+            "type": "S",
+            "url": "https://api.congress.gov/v3/bill/118/s/1109?format=json"
+        }
+    ]
+}

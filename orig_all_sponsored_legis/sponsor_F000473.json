@@ -1,0 +1,42 @@
+{
+    "pagination": {
+        "count": 2
+    },
+    "request": {
+        "bioguideId": "f000473",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 117,
+            "introducedDate": "2022-09-29",
+            "latestAction": {
+                "actionDate": "2022-11-01",
+                "text": "Referred to the Subcommittee on Immigration and Citizenship."
+            },
+            "number": "9050",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Enhancing DHS Drug Seizures Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/9050?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-09-28",
+            "latestAction": {
+                "actionDate": "2022-11-01",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "9001",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Reduce Gun Violence Act of 2022",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/117/hr/9001?format=json"
+        }
+    ]
+}

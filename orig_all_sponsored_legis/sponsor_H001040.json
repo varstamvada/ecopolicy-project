@@ -1,0 +1,520 @@
+{
+    "pagination": {
+        "count": 34
+    },
+    "request": {
+        "bioguideId": "h001040",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "617",
+            "congress": 111,
+            "introducedDate": "2010-04-28",
+            "latestAction": {
+                "actionDate": "2010-04-28",
+                "actionTime": "14:19:03",
+                "text": "On agreeing to the Hare amendment (A016) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/111/hamdt/617?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-09-29",
+            "latestAction": {
+                "actionDate": "2010-11-18",
+                "text": "Referred to the Subcommittee on Workforce Protections."
+            },
+            "number": "6268",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Wage Theft Prevention and Community Partnership Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/6268?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-09-29",
+            "latestAction": {
+                "actionDate": "2010-09-29",
+                "text": "Referred to House Armed Services"
+            },
+            "number": "6262",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Jobs Through Procurement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/6262?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-05-11",
+            "latestAction": {
+                "actionDate": "2010-06-29",
+                "text": "Referred to the Subcommittee on Workforce Protections."
+            },
+            "number": "5270",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Improving Access to Workers' Compensation for Injured Federal Workers Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5270?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-04-15",
+            "latestAction": {
+                "actionDate": "2010-04-15",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5041",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "SEAM Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5041?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-12-11",
+            "latestAction": {
+                "actionDate": "2010-03-29",
+                "text": "Referred to the Subcommittee on Department Operations, Oversight, Nutrition and Forestry."
+            },
+            "number": "4290",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "New Deal for a New Economy Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4290?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-11-16",
+            "latestAction": {
+                "actionDate": "2009-11-16",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4069",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "S Corporation Inventory Contribution Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4069?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-10-06",
+            "latestAction": {
+                "actionDate": "2009-10-07",
+                "text": "Referred to the Subcommittee on Highways and Transit."
+            },
+            "number": "3720",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To direct the Secretary of Transportation to promulgate a rule to improve the daytime and nighttime visibility of agricultural equipment that may be operated on a public road.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/3720?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-07-09",
+            "latestAction": {
+                "actionDate": "2009-07-09",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3151",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Rural Access to Nurse Anesthesia Services Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/3151?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-06-26",
+            "latestAction": {
+                "actionDate": "2009-06-26",
+                "text": "Referred to the House Committee on Education and Labor."
+            },
+            "number": "3078",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Investment in Rural After-School Programs Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/3078?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-05-21",
+            "latestAction": {
+                "actionDate": "2009-10-22",
+                "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education."
+            },
+            "number": "2597",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Positive Behavior for Safe and Effective Schools Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2597?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-05-21",
+            "latestAction": {
+                "actionDate": "2009-10-22",
+                "text": "Forwarded by Subcommittee to Full Committee by Voice Vote ."
+            },
+            "number": "2559",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Help Our Homeless Veterans Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2559?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-27",
+            "latestAction": {
+                "actionDate": "2009-06-04",
+                "text": "Referred to the Subcommittee on Workforce Protections."
+            },
+            "number": "2113",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Corporate Injury, Illness, and Fatality Reporting Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2113?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-03-26",
+            "latestAction": {
+                "actionDate": "2009-05-14",
+                "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education."
+            },
+            "number": "1755",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Rural Early Education Access Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1755?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-03-04",
+            "latestAction": {
+                "actionDate": "2009-07-09",
+                "text": "Forwarded by Subcommittee to Full Committee by Voice Vote ."
+            },
+            "number": "1302",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 38, United States Code, to establish the position of Director of Physician Assistant Services within the office of the Under Secretary of Veterans Affairs for Health.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1302?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-02-11",
+            "latestAction": {
+                "actionDate": "2009-02-11",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "979",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Stop Taxpayer-Offensive Practices Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/979?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-01-14",
+            "latestAction": {
+                "actionDate": "2009-02-11",
+                "text": "Ordered to be Reported by Unanimous Consent."
+            },
+            "number": "516",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To designate the facility of the United States Postal Service located at 2105 East Cook Street in Springfield, Illinois, as the \"Colonel John H. Wilson, Jr. Post Office Building\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/516?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-09-22",
+            "latestAction": {
+                "actionDate": "2010-09-28",
+                "actionTime": "19:05:49",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "1639",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "Recognizing the contributions of the National Waterways Conference on the occasion of its 50th anniversary, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/1639?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-05-18",
+            "latestAction": {
+                "actionDate": "2010-07-27",
+                "actionTime": "16:19:14",
+                "text": "The title of the measure was amended. Agreed to without objection."
+            },
+            "number": "1366",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Recognizing and honoring the freight railroad industry and its employees.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/1366?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-02-22",
+            "latestAction": {
+                "actionDate": "2010-03-22",
+                "text": "Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness."
+            },
+            "number": "1089",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Recognizing the 150th anniversary of Augustana College in Rock Island, Illinois.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/1089?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-07-07",
+            "latestAction": {
+                "actionDate": "2010-07-21",
+                "actionTime": "13:20:28",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "611",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Supporting the goals and ideals of \"Fragile X Awareness Day\".",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/611?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-02-09",
+            "latestAction": {
+                "actionDate": "2009-02-13",
+                "actionTime": "14:41:53",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "139",
+            "policyArea": {
+                "name": "Social Sciences and History"
+            },
+            "title": "Commemorating the life and legacy of President Abraham Lincoln on the bicentennial of his birth.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/139?format=json"
+        },
+        {
+            "amendmentNumber": "566",
+            "congress": 110,
+            "introducedDate": "2007-07-18",
+            "latestAction": {
+                "actionDate": "2007-07-18",
+                "actionTime": "22:38:24",
+                "text": "By unanimous consent, the Hare amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/hamdt/566?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-07-31",
+            "latestAction": {
+                "actionDate": "2008-08-01",
+                "text": "Sponsor introductory remarks on measure. (CR E1677)"
+            },
+            "number": "6733",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Midwest Schools Disaster Recovery Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6733?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-07-08",
+            "latestAction": {
+                "actionDate": "2008-07-10",
+                "text": "Forwarded by Subcommittee to Full Committee by Unanimous Consent ."
+            },
+            "number": "6439",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Mental Health for Heroes' Families Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6439?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-12-13",
+            "latestAction": {
+                "actionDate": "2007-12-13",
+                "text": "Referred to the House Committee on Education and Labor."
+            },
+            "number": "4651",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Improving Access to Workers' Compensation for Injured Federal Workers Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4651?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-10-30",
+            "latestAction": {
+                "actionDate": "2007-11-02",
+                "text": "Referred to the Subcommittee on Courts, the Internet, and Intellectual Property."
+            },
+            "number": "4003",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "To amend title 28, United States Code, to change the composition of the northern and central districts of Illinois.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4003?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-08-03",
+            "latestAction": {
+                "actionDate": "2007-10-17",
+                "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education."
+            },
+            "number": "3407",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Positive Behavior for Effective Schools Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3407?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-07-24",
+            "latestAction": {
+                "actionDate": "2007-08-14",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "3167",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Fair Mental Health Evaluation for Returning Veterans Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3167?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-07-17",
+            "latestAction": {
+                "actionDate": "2007-07-23",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3066",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To permit pass-through payment for reasonable costs of certified registered nurse anesthetist services in critical access hospitals notwithstanding the reclassification of such hospitals as urban hospitals, including hospitals located in \"Lugar counties\", and for on-call and standby costs for such services.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/3066?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-06-20",
+            "latestAction": {
+                "actionDate": "2008-05-21",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+            },
+            "number": "2790",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 38, United States Code, to establish the position of Director of Physician Assistant Services within the office of the Under Secretary of Veterans Affairs for Health.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/2790?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-05-24",
+            "latestAction": {
+                "actionDate": "2007-05-29",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2514",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Assured Funding for Veterans Health Care Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/2514?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-02-12",
+            "latestAction": {
+                "actionDate": "2007-10-25",
+                "text": "Became Public Law No: 110-106."
+            },
+            "number": "995",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To amend Public Law 106-348 to extend the authorization for establishing a memorial in the District of Columbia or its environs to honor veterans who became disabled while serving in the Armed Forces of the United States.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/995?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-01-17",
+            "latestAction": {
+                "actionDate": "2007-03-15",
+                "text": "Became Public Law No: 110-12."
+            },
+            "number": "521",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To designate the facility of the United States Postal Service located at 2633 11th Street in Rock Island, Illinois, as the \"Lane Evans Post Office Building\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/521?format=json"
+        }
+    ]
+}

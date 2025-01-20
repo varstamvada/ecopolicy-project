@@ -1,0 +1,753 @@
+{
+    "pagination": {
+        "count": 50
+    },
+    "request": {
+        "bioguideId": "b001290",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 115,
+            "introducedDate": "2018-12-13",
+            "latestAction": {
+                "actionDate": "2018-12-14",
+                "text": "Referred to the Subcommittee on Aviation."
+            },
+            "number": "7298",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Connect America's Capital Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/7298?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-12-10",
+            "latestAction": {
+                "actionDate": "2018-12-10",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "7229",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Student Rights Act of 2018",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/7229?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-10-30",
+            "latestAction": {
+                "actionDate": "2018-10-30",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "7105",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Brian Tally VA Medical Care and Liability Improvement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/7105?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-10-02",
+            "latestAction": {
+                "actionDate": "2018-10-02",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "1112",
+            "policyArea": {
+                "name": "Arts, Culture, Religion"
+            },
+            "title": "Congratulating Mt. Zion Baptist Church upon the occasion of its 160th anniversary.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/115/hres/1112?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-09-24",
+            "latestAction": {
+                "actionDate": "2018-09-24",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "6862",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Congressional Award Program Reauthorization Act of 2018",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/6862?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-06-22",
+            "latestAction": {
+                "actionDate": "2018-08-06",
+                "text": "Referred to the Subcommittee on Immigration and Border Security."
+            },
+            "number": "6195",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Protect Kids and Parents Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/6195?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-05-24",
+            "latestAction": {
+                "actionDate": "2018-05-30",
+                "text": "Referred to the Subcommittee on Water, Power and Oceans."
+            },
+            "number": "912",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Recognizing the importance of the Chesapeake Bay and supporting the efforts and goals of the Clean the Bay Day.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/115/hres/912?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-05-21",
+            "latestAction": {
+                "actionDate": "2018-06-14",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "5889",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Recognizing Early Childhood Trauma Related to Substance Abuse Act of 2018",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/5889?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-05-17",
+            "latestAction": {
+                "actionDate": "2018-06-05",
+                "text": "Referred to the Subcommittee on the Constitution and Civil Justice."
+            },
+            "number": "903",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Protecting 1st Amendment Rights of Free Speech and Free Exercise while condemning any form of criminal behavior, threats or violence.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/115/hres/903?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-03-23",
+            "latestAction": {
+                "actionDate": "2018-03-30",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "5408",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend the Public Health Service Act to provide for prevention and treatment of substance abuse grants to recovery community organizations, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/5408?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-02-13",
+            "latestAction": {
+                "actionDate": "2018-02-14",
+                "text": "Referred to the Subcommittee on Readiness."
+            },
+            "number": "5000",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Free to Fly Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/5000?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-02-05",
+            "latestAction": {
+                "actionDate": "2018-02-05",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "4928",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "To amend title 28, United States Code, to provide that the United States district court for the District of Columbia shall have exclusive jurisdiction over actions arising under the immigration laws, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4928?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-02-05",
+            "latestAction": {
+                "actionDate": "2018-02-05",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "4927",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "To amend title 28, United States Code, to limit the authority of district courts to provide injunctive relief, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4927?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-11-09",
+            "latestAction": {
+                "actionDate": "2017-12-13",
+                "text": "Referred to the Subcommittee on Immigration and Border Security."
+            },
+            "number": "4340",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "American Labor, Wages, and Sovereignty Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4340?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-10-23",
+            "latestAction": {
+                "actionDate": "2017-11-01",
+                "text": "Referred to the Subcommittee on the Constitution and Civil Justice."
+            },
+            "number": "119",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Proposing a balanced budget amendment to the Constitution of the United States.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/115/hjres/119?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-07-28",
+            "latestAction": {
+                "actionDate": "2017-07-28",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "3529",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "WIC Improvement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/3529?format=json"
+        },
+        {
+            "amendmentNumber": "226",
+            "congress": 115,
+            "introducedDate": "2017-07-26",
+            "latestAction": {
+                "actionDate": "2017-07-26",
+                "actionTime": "19:03:01",
+                "text": "On agreeing to the Brat amendment (A014) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/115/hamdt/226?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-07-12",
+            "latestAction": {
+                "actionDate": "2017-07-12",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3197",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "PUPPERS Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/3197?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-06-08",
+            "latestAction": {
+                "actionDate": "2017-06-08",
+                "text": "Referred to the House Committee on Small Business."
+            },
+            "number": "2835",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "To amend the Small Business Act to waive the guarantee fee for loans of not more than $150,000 provided to veterans and spouses of veterans under the Export Working Capital, International Trade, and Export Express programs.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/2835?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-04-26",
+            "latestAction": {
+                "actionDate": "2017-05-02",
+                "text": "Referred to the Subcommittee on Water, Power and Oceans."
+            },
+            "number": "2157",
+            "policyArea": {
+                "name": "Energy"
+            },
+            "title": "OCEAN Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/2157?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-04-25",
+            "latestAction": {
+                "actionDate": "2017-04-25",
+                "text": "Referred to the Committee on Rules, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "2125",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "BASIC Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/2125?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-03-28",
+            "latestAction": {
+                "actionDate": "2017-03-28",
+                "text": "Referred to the House Committee on Agriculture."
+            },
+            "number": "1752",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Voluntary Checkoff Program Participation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/1752?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-03-28",
+            "latestAction": {
+                "actionDate": "2017-03-28",
+                "text": "Referred to the House Committee on Agriculture."
+            },
+            "number": "1753",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Opportunities for Fairness in Farming Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/1753?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-03-27",
+            "latestAction": {
+                "actionDate": "2017-03-27",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "1729",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Statutes at Large Modernization Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/1729?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-03-17",
+            "latestAction": {
+                "actionDate": "2017-03-17",
+                "text": "Referred to the House Committee on Small Business."
+            },
+            "number": "1597",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Commercial Market Representatives Clarification Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/1597?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-03-10",
+            "latestAction": {
+                "actionDate": "2017-03-10",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "190",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "Recognizing the 50th anniversary of Lake of the Woods Association of Orange County, Virginia.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/115/hres/190?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-02-07",
+            "latestAction": {
+                "actionDate": "2017-02-07",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "937",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Universal Savings Account Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/937?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-01-20",
+            "latestAction": {
+                "actionDate": "2017-02-08",
+                "text": "Referred to the Subcommittee on Immigration and Border Security."
+            },
+            "number": "591",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "USCIS Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/591?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-01-04",
+            "latestAction": {
+                "actionDate": "2017-01-04",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "247",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Health Savings Account Expansion Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/247?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-07-14",
+            "latestAction": {
+                "actionDate": "2016-08-11",
+                "text": "Referred to the Subcommittee on Immigration and Border Security."
+            },
+            "number": "5825",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Illegal Alien Capture Notification Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5825?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-07-14",
+            "latestAction": {
+                "actionDate": "2016-08-11",
+                "text": "Referred to the Subcommittee on Immigration and Border Security."
+            },
+            "number": "5826",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Detain and Deport Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5826?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-07-14",
+            "latestAction": {
+                "actionDate": "2016-08-02",
+                "text": "Referred to the Subcommittee on Counterterrorism and Intelligence."
+            },
+            "number": "5823",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Naming the Enemy Within Homeland Security Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5823?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-07-14",
+            "latestAction": {
+                "actionDate": "2016-08-11",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations."
+            },
+            "number": "5824",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Religious FIRE Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5824?format=json"
+        },
+        {
+            "amendmentNumber": "1317",
+            "congress": 114,
+            "introducedDate": "2016-07-12",
+            "latestAction": {
+                "actionDate": "2016-07-12",
+                "actionTime": "23:26:45",
+                "text": "On agreeing to the Brat amendment (A038) Failed by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/114/hamdt/1317?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-05-25",
+            "latestAction": {
+                "actionDate": "2016-05-25",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5324",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Health Savings Account Expansion Act of 2016",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5324?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-04-27",
+            "latestAction": {
+                "actionDate": "2016-04-27",
+                "text": "Referred to the House Committee on Rules."
+            },
+            "number": "707",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Amending the Rules of the House of Representatives to require the Committee on Appropriations to maintain proposed and historical budget authority and outlays for each category of spending.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/114/hres/707?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-04-21",
+            "latestAction": {
+                "actionDate": "2016-11-16",
+                "text": "Placed on the Union Calendar, Calendar No. 650."
+            },
+            "number": "5032",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To allow certain property in the town of Louisa, Virginia, to be used for purposes related to compliance with water quality standards, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5032?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-04-21",
+            "latestAction": {
+                "actionDate": "2016-04-21",
+                "text": "Referred to the House Committee on Rules."
+            },
+            "number": "698",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Amending the Rules of the House of Representatives to require the Committee on Appropriations to maintain proposed and historical budget authority and outlays for each category of spending.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/114/hres/698?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-03-17",
+            "latestAction": {
+                "actionDate": "2016-04-01",
+                "text": "Referred to the Subcommittee on Immigration and Border Security."
+            },
+            "number": "4791",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "USCIS Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/4791?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-12-18",
+            "latestAction": {
+                "actionDate": "2016-01-05",
+                "text": "Referred to the Subcommittee on Transportation Security."
+            },
+            "number": "4300",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Arm All Pilots Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/4300?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-12-09",
+            "latestAction": {
+                "actionDate": "2015-12-09",
+                "text": "Referred to the House Committee on Small Business."
+            },
+            "number": "4198",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Commercial Market Representatives Clarification Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/4198?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-11-19",
+            "latestAction": {
+                "actionDate": "2015-11-19",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4094",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Universal Savings Account Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/4094?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-11-16",
+            "latestAction": {
+                "actionDate": "2015-11-16",
+                "text": "Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "4006",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Statutes at Large Modernization Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/4006?format=json"
+        },
+        {
+            "amendmentNumber": "656",
+            "congress": 114,
+            "introducedDate": "2015-07-10",
+            "latestAction": {
+                "actionDate": "2015-07-10",
+                "actionTime": "11:08:16",
+                "text": "On agreeing to the Brat amendment (A001) Failed by recorded vote: 141 - 281 (Roll no. 431). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/114/hamdt/656?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-10-22",
+            "latestAction": {
+                "actionDate": "2015-10-22",
+                "text": "Referred to the Committee on Rules, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "3804",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Cost Estimates Reform Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3804?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-09-18",
+            "latestAction": {
+                "actionDate": "2015-09-18",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "3567",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "HMDA Repeal Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3567?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-07-23",
+            "latestAction": {
+                "actionDate": "2015-07-23",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "3199",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To prohibit statutory sanctions relief by the United States with respect to Iran unless the Senate provides its advice and consent to ratification of the Joint Comprehensive Plan of Action.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3199?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-06-09",
+            "latestAction": {
+                "actionDate": "2015-12-18",
+                "text": "Became Public Law No: 114-103."
+            },
+            "number": "2693",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To designate the arboretum at the Hunter Holmes McGuire VA Medical Center in Richmond, Virginia, as the \"Phyllis E. Galanti Arboretum\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/2693?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-05-20",
+            "latestAction": {
+                "actionDate": "2015-06-01",
+                "text": "Referred to the Subcommittee on the Constitution and Civil Justice."
+            },
+            "number": "55",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Proposing a balanced budget amendment to the Constitution of the United States.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/114/hjres/55?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-07-23",
+            "latestAction": {
+                "actionDate": "2015-08-05",
+                "text": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs."
+            },
+            "number": "377",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Recognizing \"National Atomic Veterans Day\" on July 16.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/114/hres/377?format=json"
+        }
+    ]
+}

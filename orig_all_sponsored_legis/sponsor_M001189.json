@@ -1,0 +1,1192 @@
+{
+    "pagination": {
+        "count": 80
+    },
+    "request": {
+        "bioguideId": "m001189",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "658",
+            "congress": 113,
+            "introducedDate": "2014-05-09",
+            "latestAction": {
+                "actionDate": "2014-05-09",
+                "actionTime": "10:44:33",
+                "text": "On agreeing to the Messer amendment (A006) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/658?format=json"
+        },
+        {
+            "amendmentNumber": "21",
+            "congress": 113,
+            "introducedDate": "2013-02-06",
+            "latestAction": {
+                "actionDate": "2013-02-06",
+                "actionTime": "10:35:27",
+                "text": "On agreeing to the Messer amendment (A004) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/21?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-09-16",
+            "latestAction": {
+                "actionDate": "2014-11-17",
+                "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education."
+            },
+            "number": "5477",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Enhancing Educational Opportunities for all Students Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5477?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-05-30",
+            "latestAction": {
+                "actionDate": "2014-05-30",
+                "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "4775",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Safeguarding Classrooms Hurt by ObamaCare's Obligatory Levies",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4775?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-02-05",
+            "latestAction": {
+                "actionDate": "2014-03-05",
+                "text": "Referred to the Subcommittee on Research and Technology."
+            },
+            "number": "4000",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Scholarships for Kids Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4000?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-10-28",
+            "latestAction": {
+                "actionDate": "2013-11-01",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3358",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Fairness for Individuals Using Exchange Websites Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3358?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-06-28",
+            "latestAction": {
+                "actionDate": "2013-06-28",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2577",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Small Business Job Protection Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2577?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-06-19",
+            "latestAction": {
+                "actionDate": "2013-07-23",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2443",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Safeguarding Children Harmed by Obamacare's Onerous Levies Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2443?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-05-13",
+            "latestAction": {
+                "actionDate": "2013-05-23",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "1949",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Improving Postsecondary Education Data for Students Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/1949?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-03-06",
+            "latestAction": {
+                "actionDate": "2013-03-06",
+                "text": "Referred to the House Committee on Appropriations."
+            },
+            "number": "1013",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Discretionary Spending Reduction Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/1013?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-02-13",
+            "latestAction": {
+                "actionDate": "2013-03-07",
+                "text": "Received in the Senate and Read twice and referred to the Committee on the Budget."
+            },
+            "number": "668",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "To amend section 1105(a) of title 31, United States Code, to require that annual budget submissions of the President to Congress provide an estimate of the cost per taxpayer of the deficit, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/668?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-09-26",
+            "latestAction": {
+                "actionDate": "2018-09-26",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "6917",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "REMOVE Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/6917?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-05-18",
+            "latestAction": {
+                "actionDate": "2018-05-18",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "5886",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Illicit Art and Antiquities Trafficking Prevention Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/5886?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-04-05",
+            "latestAction": {
+                "actionDate": "2018-04-05",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "5435",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Funding Americans First Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/5435?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-03-22",
+            "latestAction": {
+                "actionDate": "2018-03-23",
+                "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management."
+            },
+            "number": "5403",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "SWAMP Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/5403?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-03-14",
+            "latestAction": {
+                "actionDate": "2018-04-30",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations."
+            },
+            "number": "5268",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "Safe Schools Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/5268?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-01-22",
+            "latestAction": {
+                "actionDate": "2018-01-22",
+                "text": "Referred to the House Committee on Rules."
+            },
+            "number": "712",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Expressing the sense of the House of Representatives that the Senate should immediately change its rules and end the \"modern\" filibuster.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/115/hres/712?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-01-19",
+            "latestAction": {
+                "actionDate": "2018-01-19",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4862",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Enhancing Educational Opportunities for Home School Students Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4862?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-01-19",
+            "latestAction": {
+                "actionDate": "2018-01-22",
+                "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management."
+            },
+            "number": "4863",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "SWAMP Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4863?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-01-16",
+            "latestAction": {
+                "actionDate": "2018-01-24",
+                "text": "Referred to the Subcommittee on Immigration and Border Security."
+            },
+            "number": "4805",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "No Federal Funding to Benefit Sanctuary Cities Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4805?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-11-30",
+            "latestAction": {
+                "actionDate": "2017-11-30",
+                "text": "Referred to the Committee on House Administration, and in addition to the Committees on Oversight and Government Reform, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "4503",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Empowering Victims of Sexual Misconduct Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4503?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-11-09",
+            "latestAction": {
+                "actionDate": "2017-11-09",
+                "text": "Referred to the Committee on the Budget, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "4361",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Accurate Budgeting Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4361?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-11-08",
+            "latestAction": {
+                "actionDate": "2017-12-13",
+                "text": "Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law."
+            },
+            "number": "4309",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Regulatory Relief Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4309?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-10-25",
+            "latestAction": {
+                "actionDate": "2017-10-25",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "4119",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Student Loan Disclosure Modernization Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4119?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-10-05",
+            "latestAction": {
+                "actionDate": "2017-10-24",
+                "text": "Sponsor introductory remarks on measure. (CR H8131)"
+            },
+            "number": "3982",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Social Security Tax Fairness Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/3982?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-09-14",
+            "latestAction": {
+                "actionDate": "2017-09-14",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "3774",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Reverse Transfer Efficiency Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/3774?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-07-27",
+            "latestAction": {
+                "actionDate": "2017-07-27",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3498",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Extraordinary Measures Transparency Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/3498?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-07-26",
+            "latestAction": {
+                "actionDate": "2017-08-17",
+                "text": "Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law."
+            },
+            "number": "73",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Effectuating the Compact for a Balanced Budget.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/115/hconres/73?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-07-24",
+            "latestAction": {
+                "actionDate": "2017-07-24",
+                "text": "Referred to the Subcommittee on Economic Opportunity."
+            },
+            "number": "3372",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 38, United States Code, to provide for the restoration of entitlement to educational assistance and other relief for veterans affected by school closure or disapproval, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/3372?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-06-29",
+            "latestAction": {
+                "actionDate": "2017-07-26",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "3145",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "ISA Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/3145?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-06-23",
+            "latestAction": {
+                "actionDate": "2018-07-24",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "3045",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Eastern Legacy Extension Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/3045?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-06-15",
+            "latestAction": {
+                "actionDate": "2017-06-15",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2927",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "HIRED Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/2927?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-06-07",
+            "latestAction": {
+                "actionDate": "2017-06-07",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2817",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Child Tax Credit Integrity Preservation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/2817?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-04-20",
+            "latestAction": {
+                "actionDate": "2017-04-25",
+                "text": "Referred to the Subcommittee on Emergency Preparedness, Response and Communications."
+            },
+            "number": "2109",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "National Strategy for School Security Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/2109?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-04-12",
+            "latestAction": {
+                "actionDate": "2017-04-12",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "2090",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Election Integrity Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/2090?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-04-06",
+            "latestAction": {
+                "actionDate": "2017-04-06",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "2055",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Lifetime Income Disclosure Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/2055?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-03-28",
+            "latestAction": {
+                "actionDate": "2017-03-28",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1764",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Fair Treatment of Scholarships and Pell Grants Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/1764?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-03-27",
+            "latestAction": {
+                "actionDate": "2017-04-21",
+                "text": "Referred to the Subcommittee on the Constitution and Civil Justice."
+            },
+            "number": "1742",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Article V Records Transparency Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/1742?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-03-20",
+            "latestAction": {
+                "actionDate": "2017-03-20",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "1637",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "RIGHTS at the CFPB Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/1637?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-03-20",
+            "latestAction": {
+                "actionDate": "2017-10-04",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "1624",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Municipal Finance Support Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/1624?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-03-08",
+            "latestAction": {
+                "actionDate": "2017-03-08",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "1429",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "LEADS Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/1429?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-02-24",
+            "latestAction": {
+                "actionDate": "2017-03-06",
+                "text": "Referred to the Subcommittee on Economic Opportunity."
+            },
+            "number": "1216",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Protecting Veterans From School Closures Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/1216?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-02-21",
+            "latestAction": {
+                "actionDate": "2018-04-11",
+                "text": "Forwarded by Subcommittee to Full Committee by Voice Vote ."
+            },
+            "number": "1206",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Reducing Barriers for Veterans Education Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/1206?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-02-15",
+            "latestAction": {
+                "actionDate": "2017-02-15",
+                "text": "Referred to the Committee on the Budget, and in addition to the Committees on Oversight and Government Reform, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "1065",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Biennial Budgeting and Enhanced Oversight Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/1065?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-02-13",
+            "latestAction": {
+                "actionDate": "2017-02-13",
+                "text": "Referred to the House Committee on the Budget."
+            },
+            "number": "1024",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "To amend section 1105(a) of title 31, United States Code, to require that annual budget submissions of the President to Congress provide an estimate of the cost per taxpayer of the deficit and of the public debt.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/1024?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-01-30",
+            "latestAction": {
+                "actionDate": "2017-02-03",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "39",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Disapproving a rule submitted by the Department of Health and Human Services relating to \"Compliance with Title X Requirements by Project Recipients in Selecting Subrecipients\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/115/hjres/39?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-01-27",
+            "latestAction": {
+                "actionDate": "2017-01-27",
+                "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "716",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Enhancing Educational Opportunities for all Students Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/716?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-01-13",
+            "latestAction": {
+                "actionDate": "2017-01-13",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "561",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Small Business Job Protection Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/561?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-01-13",
+            "latestAction": {
+                "actionDate": "2017-01-13",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "562",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Obamacare Regressive Tax Relief Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/562?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-01-13",
+            "latestAction": {
+                "actionDate": "2017-01-13",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "563",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Unaffordable Care Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/563?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-01-06",
+            "latestAction": {
+                "actionDate": "2017-01-06",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "363",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Child Tax Credit Integrity Preservation Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/363?format=json"
+        },
+        {
+            "amendmentNumber": "3",
+            "congress": 115,
+            "introducedDate": "2017-01-05",
+            "latestAction": {
+                "actionDate": "2017-01-05",
+                "actionTime": "19:14:04",
+                "text": "On agreeing to the Messer amendment (A002) Agreed to by recorded vote: 235 - 185 (Roll no. 12). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/115/hamdt/3?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-12-20",
+            "latestAction": {
+                "actionDate": "2016-12-20",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "108",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Disapproving a rule submitted by the Department of Health and Human Services relating to \"Compliance with Title X Requirements by Project Recipients in Selecting Subrecipients\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/114/hjres/108?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-11-14",
+            "latestAction": {
+                "actionDate": "2016-11-14",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "6300",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Unaffordable Care Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/6300?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-09-28",
+            "latestAction": {
+                "actionDate": "2016-09-29",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "166",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Providing for a conditional adjournment of the House of Representatives.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/114/hconres/166?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-09-13",
+            "latestAction": {
+                "actionDate": "2016-09-13",
+                "text": "Referred to the Subcommittee on Economic Opportunity."
+            },
+            "number": "6003",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Protecting Our Veterans From School Closures Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/6003?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-07-14",
+            "latestAction": {
+                "actionDate": "2016-08-03",
+                "text": "Referred to the Subcommittee on Emergency Preparedness, Response and Communications."
+            },
+            "number": "5867",
+            "policyArea": {
+                "name": "Emergency Management"
+            },
+            "title": "National Strategy for School Security Act of 2016",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5867?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-07-14",
+            "latestAction": {
+                "actionDate": "2016-09-19",
+                "text": "Referred to the Subcommittee on Health, Employment, Labor, and Pensions."
+            },
+            "number": "5805",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Retirement Savings Lost and Found Act of 2016",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5805?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-07-13",
+            "latestAction": {
+                "actionDate": "2016-09-19",
+                "text": "Referred to the Subcommittee on Higher Education and Workforce Training."
+            },
+            "number": "5755",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "LEADS Act of 2016",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5755?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-07-12",
+            "latestAction": {
+                "actionDate": "2016-07-12",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5730",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Fair Treatment of Scholarships Act of 2016",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5730?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-07-11",
+            "latestAction": {
+                "actionDate": "2016-07-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5712",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Obamacare Regressive Tax Relief Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5712?format=json"
+        },
+        {
+            "amendmentNumber": "1258",
+            "congress": 114,
+            "introducedDate": "2016-07-07",
+            "latestAction": {
+                "actionDate": "2016-07-07",
+                "actionTime": "20:24:34",
+                "text": "On agreeing to the Messer amendment (A033) Agreed to by recorded vote: 235 - 179 (Roll no. 389). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/114/hamdt/1258?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-06-16",
+            "latestAction": {
+                "actionDate": "2016-06-16",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "5521",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "RIGHTS at the CFPB Act of 2016",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5521?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-05-23",
+            "latestAction": {
+                "actionDate": "2016-05-23",
+                "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Oversight and Government Reform, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "5306",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Article V Records Transparency Act of 2016",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5306?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-05-18",
+            "latestAction": {
+                "actionDate": "2016-05-18",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "5275",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Prohibiting the Usurpation of Bathroom Laws through Independent Choice School Act (PUBLIC School Act) of 2016",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5275?format=json"
+        },
+        {
+            "amendmentNumber": "939",
+            "congress": 114,
+            "introducedDate": "2016-02-11",
+            "latestAction": {
+                "actionDate": "2016-02-11",
+                "actionTime": "15:33:54",
+                "text": "On agreeing to the Messer amendment (A006) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/114/hamdt/939?format=json"
+        },
+        {
+            "amendmentNumber": "717",
+            "congress": 114,
+            "introducedDate": "2015-10-09",
+            "latestAction": {
+                "actionDate": "2015-10-09",
+                "actionTime": "12:58:35",
+                "text": "On agreeing to the Messer amendment (A005) Agreed to by recorded vote: 414 - 1 (Roll no. 546). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/114/hamdt/717?format=json"
+        },
+        {
+            "amendmentNumber": "718",
+            "congress": 114,
+            "introducedDate": "2015-10-09",
+            "latestAction": {
+                "actionDate": "2015-10-09",
+                "actionTime": "13:02:37",
+                "text": "On agreeing to the Messer amendment (A006) Agreed to by recorded vote: 419 - 0 (Roll no. 547). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/114/hamdt/718?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-10-29",
+            "latestAction": {
+                "actionDate": "2016-12-16",
+                "text": "Placed on the Union Calendar, Calendar No. 689."
+            },
+            "number": "3857",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "To require the Board of Governors of the Federal Reserve System and the Financial Stability Oversight Council to carry out certain requirements under the Financial Stability Act of 2010 before making any new determination under section 113 of such Act, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3857?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-06-24",
+            "latestAction": {
+                "actionDate": "2015-06-24",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2881",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Small Business Job Protection Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/2881?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-05-14",
+            "latestAction": {
+                "actionDate": "2015-11-16",
+                "text": "Referred to the Subcommittee on Health, Employment, Labor, and Pensions."
+            },
+            "number": "2317",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Lifetime Income Disclosure Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/2317?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-05-01",
+            "latestAction": {
+                "actionDate": "2016-02-11",
+                "text": "Committee on Banking, Housing, and Urban Affairs. Hearings held."
+            },
+            "number": "2209",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "To require the appropriate Federal banking agencies to treat certain municipal obligations as level 2A liquid assets, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/2209?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-03-04",
+            "latestAction": {
+                "actionDate": "2015-10-21",
+                "text": "Received in the Senate and Read twice and referred to the Committee on the Budget."
+            },
+            "number": "1315",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "To amend section 1105(a) of title 31, United States Code, to require that annual budget submissions of the President to Congress provide an estimate of the cost per taxpayer of the deficit, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/1315?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-02-05",
+            "latestAction": {
+                "actionDate": "2015-02-05",
+                "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "769",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Safeguarding Classrooms Hurt by ObamaCare's Obligatory Levies",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/769?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-01-27",
+            "latestAction": {
+                "actionDate": "2015-01-27",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "553",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to encourage the use of 529 plans and Coverdell education savings accounts, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/553?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-01-27",
+            "latestAction": {
+                "actionDate": "2015-04-29",
+                "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education."
+            },
+            "number": "554",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Enhancing Educational Opportunities for all Students Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/554?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-06-03",
+            "latestAction": {
+                "actionDate": "2015-06-03",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "294",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Expressing support for the continuation of the Perkins Loan Program.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/114/hres/294?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-01-13",
+            "latestAction": {
+                "actionDate": "2015-01-13",
+                "actionTime": "12:03:36",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "29",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Electing Members to certain standing committees of the House of Representatives.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/114/hres/29?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-04-29",
+            "latestAction": {
+                "actionDate": "2015-05-01",
+                "text": "Referred to the Subcommittee on Commerce, Manufacturing, and Trade."
+            },
+            "number": "2092",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Student Digital Privacy and Parental Rights Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/2092?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-02-12",
+            "latestAction": {
+                "actionDate": "2015-02-12",
+                "text": "Referred to the Committee on House Administration, and in addition to the Committees on the Budget, Oversight and Government Reform, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "948",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Balanced Budget Accountability Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/948?format=json"
+        }
+    ]
+}

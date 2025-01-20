@@ -1,0 +1,786 @@
+{
+    "pagination": {
+        "count": 52
+    },
+    "request": {
+        "bioguideId": "r000281",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "578",
+            "congress": 107,
+            "introducedDate": "2002-07-25",
+            "latestAction": {
+                "actionDate": "2002-07-25",
+                "actionTime": "23:25:47",
+                "text": "By unanimous consent, the Rivers amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/hamdt/578?format=json"
+        },
+        {
+            "amendmentNumber": "500",
+            "congress": 107,
+            "introducedDate": "2002-06-05",
+            "latestAction": {
+                "actionDate": "2002-06-05",
+                "actionTime": "14:50:17",
+                "text": "On agreeing to the Rivers amendment (A001) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/hamdt/500?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-07-25",
+            "latestAction": {
+                "actionDate": "2002-08-07",
+                "text": "Referred to the Subcommittee on Livestock and Horticulture."
+            },
+            "number": "5230",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "SAFER Meat, Poultry, and Food Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5230?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-07-24",
+            "latestAction": {
+                "actionDate": "2002-07-29",
+                "text": "Referred to the Subcommittee on Environment and Hazardous Materials."
+            },
+            "number": "5210",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "National Beverage Producer Responsibility Act of 2002  ",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5210?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-07-11",
+            "latestAction": {
+                "actionDate": "2002-08-09",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "5106",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Alopecia Fairness Expansion Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/5106?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-09",
+            "latestAction": {
+                "actionDate": "2002-04-29",
+                "text": "Referred to the Subcommittee on Capital Markets, Insurance and Government Sponsored Enterprises."
+            },
+            "number": "4084",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Corporate Asset Protection Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4084?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-03-14",
+            "latestAction": {
+                "actionDate": "2002-05-06",
+                "text": "Referred to the Subcommittee on Courts, the Internet, and Intellectual Property."
+            },
+            "number": "3966",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Genomic Science and Technology Innovation Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3966?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-03-14",
+            "latestAction": {
+                "actionDate": "2002-05-06",
+                "text": "Referred to the Subcommittee on Courts, the Internet, and Intellectual Property."
+            },
+            "number": "3967",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Genomic Research and Diagnostic Accessibility Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3967?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-11-08",
+            "latestAction": {
+                "actionDate": "2001-11-27",
+                "text": "Referred to the Subcommittee on Crime."
+            },
+            "number": "3266",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "To amend title 18, United States Code, to prohibit unauthorized trafficking in personal DNA information, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3266?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-05-01",
+            "latestAction": {
+                "actionDate": "2001-05-15",
+                "text": "Referred to the Subcommittee on Environment and Hazardous Materials."
+            },
+            "number": "1667",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "National Beverage Container Reuse and Recycling Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1667?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-07",
+            "latestAction": {
+                "actionDate": "2001-03-07",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "928",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to increase the income limitation applicable to heads of household for purposes of the Hope and Lifetime Learning credits and the interest deduction on education loans.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/928?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-01",
+            "latestAction": {
+                "actionDate": "2001-03-14",
+                "text": "Referred to the Subcommittee on Environment and Hazardous Materials."
+            },
+            "number": "845",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "National Beverage Container Reuse and Recycling Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/845?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-01",
+            "latestAction": {
+                "actionDate": "2001-03-14",
+                "text": "Referred to the Subcommittee on Environment and Hazardous Materials."
+            },
+            "number": "847",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To amend the Toxic Substances Control Act to establish certain requirements regarding the approval of facilities for the disposal of polychlorinated biphenyls, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/847?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-01",
+            "latestAction": {
+                "actionDate": "2001-03-14",
+                "text": "Referred to the Subcommittee on Environment and Hazardous Materials."
+            },
+            "number": "846",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To require the Administrator of the Environmental Protection Agency to prescribe a rule that prohibits the importation for disposal of polychlorinated biphenyls at concentrations of 50 parts per million or greater.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/846?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-02-08",
+            "latestAction": {
+                "actionDate": "2002-07-11",
+                "text": "Sponsor introductory remarks on measure. (CR E1236)"
+            },
+            "number": "547",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend the Public Health Service Act, the Employee Retirement Income Security Act of 1974, and the Internal Revenue Code of 1986 to require that group and individual health insurance coverage and group health plans provide coverage for hair prostheses for individuals with scalp hair loss as a result of alopecia areata.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/547?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-02-06",
+            "latestAction": {
+                "actionDate": "2001-02-06",
+                "text": "Referred to the Committee on International Relations, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "474",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To repeal the War Powers Resolution.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/474?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-02-06",
+            "latestAction": {
+                "actionDate": "2001-02-27",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "473",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To assess the impact of the North American Free Trade Agreement on domestic job loss and the environment, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/473?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-01-31",
+            "latestAction": {
+                "actionDate": "2001-03-15",
+                "text": "Referred to the Subcommittee on Education Reform."
+            },
+            "number": "371",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "To amend the Individuals with Disabilities Education Act relating to the minimum amount of State grants for any fiscal year under part B of that Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/371?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-01-31",
+            "latestAction": {
+                "actionDate": "2001-05-30",
+                "text": "Referred to the Subcommittee on the Civil Service and Agency Organization."
+            },
+            "number": "372",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To prevent Members of Congress from receiving any automatic pay adjustment which might otherwise take effect in 2002.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/372?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-02-06",
+            "latestAction": {
+                "actionDate": "2001-02-06",
+                "text": "Referred to the House Committee on Rules."
+            },
+            "number": "30",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Amending the Rules of the House of Representatives to require that the expenses of special-order speeches be paid from the Members Representational Allowance of the Members making the speeches.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/107/hres/30?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-04-18",
+            "latestAction": {
+                "actionDate": "2002-04-23",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "383",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Commending the NephCure Foundation for its sponsorship of National Kidney Cure Week and encouraging the Secretary of Health and Human Services to make more information available to the public concerning kidney diseases.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/hconres/383?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-06-12",
+            "latestAction": {
+                "actionDate": "2001-06-19",
+                "text": "Referred to the Subcommittee on the Civil Service and Agency Organization."
+            },
+            "number": "158",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Recognizing the city of Ann Arbor, Michigan, and its residents for their dedication to building a community that respects ecological integrity, promotes social well-being, and creates economic vitality.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/107/hconres/158?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-11-10",
+            "latestAction": {
+                "actionDate": "2000-02-08",
+                "text": "Referred to the Subcommittee on Employer-Employee Relations."
+            },
+            "number": "3328",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "To amend the Public Health Service Act, the Employee Retirement Income Security Act of 1974, and the Internal Revenue Code of 1986 to require that group and individual health insurance coverage and group health plans provide coverage for hair prostheses for individuals with scalp hair loss as a result of alopecia areata.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3328?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-09-24",
+            "latestAction": {
+                "actionDate": "1999-09-24",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "2949",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "To amend the Individuals with Disabilities Education Act relating to the minimum amount of State grants for any fiscal year under that Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2949?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-09-23",
+            "latestAction": {
+                "actionDate": "1999-09-23",
+                "text": "Referred to the Committee on International Relations, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "2937",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To repeal the War Powers Resolution.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2937?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-08-02",
+            "latestAction": {
+                "actionDate": "1999-08-27",
+                "text": "Referred to the Subcommittee on Finance and Hazardous Materials."
+            },
+            "number": "2676",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "National Beverage Container Reuse and Recycling Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2676?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-08-02",
+            "latestAction": {
+                "actionDate": "1999-08-27",
+                "text": "Referred to the Subcommittee on Telecommunications, Trade, and Consumer Protection."
+            },
+            "number": "2677",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "To amend the Communications Act of 1934 to require telephone carriers to completely and accurately itemize charges and taxes collected with telephone bills.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2677?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-30",
+            "latestAction": {
+                "actionDate": "1999-07-13",
+                "text": "Referred to the Subcommittee on Finance and Hazardous Materials."
+            },
+            "number": "2408",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To require the Administrator of the Environmental Protection Agency to prescribe a rule that prohibits the importation for disposal of polychlorinated biphenyls at concentrations of 50 parts per million or greater.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2408?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-30",
+            "latestAction": {
+                "actionDate": "1999-07-13",
+                "text": "Referred to the Subcommittee on Finance and Hazardous Materials."
+            },
+            "number": "2407",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To amend the Toxic Substances Control Act to establish certain requirements regarding the approval of facilities for the disposal of polychlorinated biphenyls, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2407?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-24",
+            "latestAction": {
+                "actionDate": "1999-02-25",
+                "text": "Referred to the Subcommittee on Ground Transportation."
+            },
+            "number": "843",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To amend the Transportation Equity Act for the 21st Century to correct a high priority highway project for Ann Arbor, Michigan.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/843?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-09",
+            "latestAction": {
+                "actionDate": "1999-02-19",
+                "text": "Referred to the Subcommittee on Civil Service."
+            },
+            "number": "651",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To prevent Members of Congress from receiving any automatic pay adjustment which might otherwise take effect in 1999.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/651?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-09",
+            "latestAction": {
+                "actionDate": "1999-02-17",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "650",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To assess the impact of the North American Free Trade Agreement on domestic job loss and the environment, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/650?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-09",
+            "latestAction": {
+                "actionDate": "1999-02-25",
+                "text": "Referred to the Subcommittee on Housing and Community Opportunity."
+            },
+            "number": "649",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Real Estate Transaction Privacy Promotion Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/649?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-09",
+            "latestAction": {
+                "actionDate": "1999-02-09",
+                "text": "Referred to the House Committee on Rules."
+            },
+            "number": "47",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Amending the Rules of the House of Representatives to require that the expenses of special-order speeches be paid from the Members Representational Allowance of the Members making such speeches.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/106/hres/47?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-06-13",
+            "latestAction": {
+                "actionDate": "1996-06-13",
+                "text": "Referred to the House Committee on House Oversight."
+            },
+            "number": "3653",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Citizens' Right to Know Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3653?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-05-10",
+            "latestAction": {
+                "actionDate": "1996-05-10",
+                "text": "Referred to the House Committee on Standards of Official Conduct."
+            },
+            "number": "432",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Amending the Code of Official Conduct in the Rules of the House of Representatives to prohibit a Member from soliciting or accepting campaign contributions in the Hall of the House, rooms leading thereto, or the cloakrooms.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/432?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-11-07",
+            "latestAction": {
+                "actionDate": "1995-11-07",
+                "text": "Referred to the House Committee on Standards of Official Conduct."
+            },
+            "number": "255",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To amend the Rules of the House of Representatives to provide that a Member, officer, or employee may not accept a gift or expense reimbursement from any entity which has an interest in actions taken by the Congress.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/255?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-11-09",
+            "latestAction": {
+                "actionDate": "1996-01-03",
+                "text": "Referred to the Subcommittee on Rules and Organization of the House."
+            },
+            "number": "263",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Amending the Rules of the House of Representatives to require that the expenses of special-order speeches be paid from the Members Representational Allowance of the Members making such speeches.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/263?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-08-04",
+            "latestAction": {
+                "actionDate": "1998-08-05",
+                "text": "Referred to the Subcommittee on Housing and Community Opportunity."
+            },
+            "number": "4395",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Real Estate Transaction Privacy Promotion Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/4395?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-07-22",
+            "latestAction": {
+                "actionDate": "1998-08-17",
+                "text": "Referred to the Subcommittee on Telecommunications, Trade, and Consumer Protection."
+            },
+            "number": "4305",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "To amend the Communications Act of 1934 to require telephone carriers to completely and accurately itemize charges and taxes collected with telephone bills.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/4305?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-05-22",
+            "latestAction": {
+                "actionDate": "1998-05-22",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3974",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To waive interest and penalties on failures to properly complete schedule D of Form 1040 for 1997.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3974?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-05-14",
+            "latestAction": {
+                "actionDate": "1998-05-14",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3885",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To waive interest and penalties for failures to file schedule D of Form 1040 with a timely filed return for 1997.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3885?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-24",
+            "latestAction": {
+                "actionDate": "1998-03-30",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "3540",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To assess the impact of the North American Free Trade Agreement on domestic job loss and the environment, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3540?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-09-24",
+            "latestAction": {
+                "actionDate": "1997-09-30",
+                "text": "Referred to the Subcommittee on Civil Service."
+            },
+            "number": "2542",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To prevent Members of Congress from receiving any automatic pay adjustment which might otherwise take effect in 1998.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2542?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-09-08",
+            "latestAction": {
+                "actionDate": "1997-09-08",
+                "text": "Referred to the House Committee on House Oversight."
+            },
+            "number": "2433",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Citizens' Right to Know Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2433?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-06-25",
+            "latestAction": {
+                "actionDate": "1997-07-14",
+                "text": "Referred to the Subcommittee on Domestic and International Monetary Policy."
+            },
+            "number": "2067",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Common Sense Currency Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2067?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-05-21",
+            "latestAction": {
+                "actionDate": "1997-05-29",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "1697",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "To assess the impact of the North American Free Trade Agreement on domestic job loss and the environment, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1697?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-05-13",
+            "latestAction": {
+                "actionDate": "1997-05-21",
+                "text": "Referred to the Subcommittee on Finance and Hazardous Materials."
+            },
+            "number": "1586",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "National Beverage Container Reuse and Recycling Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1586?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-04-17",
+            "latestAction": {
+                "actionDate": "1997-04-29",
+                "text": "Referred to the Subcommittee on Finance and Hazardous Materials."
+            },
+            "number": "1393",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To amend the Toxic Substances Control Act to establish certain requirements regarding the approval of facilities for the disposal of polychlorinated biphenyls, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1393?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-03-13",
+            "latestAction": {
+                "actionDate": "1997-03-21",
+                "text": "Referred to the Subcommittee on Finance and Hazardous Materials."
+            },
+            "number": "1078",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To require the Administrator of the Environmental Protection Agency to prescribe a rule that prohibits the importation for disposal of polychlorinated biphenyls at concentrations of 50 parts per million or greater.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1078?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-02-12",
+            "latestAction": {
+                "actionDate": "1997-02-24",
+                "text": "Referred to the Subcommittee on Water Resources and Environment."
+            },
+            "number": "733",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To direct the Administrator of the Environmental Protection Agency to provide for a review of a decision concerning a construction grant for the Ypsilanti Wastewater Treatment Plant in Washtenaw County, Michigan.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/733?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-03-13",
+            "latestAction": {
+                "actionDate": "1997-03-13",
+                "text": "Referred to the House Committee on Rules."
+            },
+            "number": "97",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Amending the Rules of the House of Representatives to require that the expenses of special-order speeches be paid from the Members Representational Allowance of the Members making such speeches.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/105/hres/97?format=json"
+        }
+    ]
+}

@@ -1,0 +1,1485 @@
+{
+    "pagination": {
+        "count": 100
+    },
+    "request": {
+        "bioguideId": "c001077",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "889",
+            "congress": 113,
+            "introducedDate": "2014-06-18",
+            "latestAction": {
+                "actionDate": "2014-06-18",
+                "actionTime": "18:00:48",
+                "text": "On agreeing to the Coffman amendment (A023) Failed by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/889?format=json"
+        },
+        {
+            "amendmentNumber": "712",
+            "congress": 113,
+            "introducedDate": "2014-05-28",
+            "latestAction": {
+                "actionDate": "2014-05-28",
+                "actionTime": "23:38:47",
+                "text": "On agreeing to the Coffman amendment (A023) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/712?format=json"
+        },
+        {
+            "amendmentNumber": "373",
+            "congress": 113,
+            "introducedDate": "2013-07-23",
+            "latestAction": {
+                "actionDate": "2013-07-23",
+                "actionTime": "22:34:17",
+                "text": "On agreeing to the Coffman amendment (A030) Agreed to by recorded vote: 346 - 79 (Roll no. 390). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/373?format=json"
+        },
+        {
+            "amendmentNumber": "163",
+            "congress": 113,
+            "introducedDate": "2013-06-13",
+            "latestAction": {
+                "actionDate": "2013-06-14",
+                "actionTime": "12:14:53",
+                "text": "On agreeing to the Coffman amendment (A023) Failed by recorded vote: 110 - 313 (Roll no. 235). (consideration: CR H3628-3629)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/163?format=json"
+        },
+        {
+            "amendmentNumber": "145",
+            "congress": 113,
+            "introducedDate": "2013-06-13",
+            "latestAction": {
+                "actionDate": "2013-06-13",
+                "actionTime": "17:48:35",
+                "text": "On agreeing to the Coffman amendment (A005) Failed by recorded vote: 206 - 220 (Roll no. 224). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/145?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-07-31",
+            "latestAction": {
+                "actionDate": "2014-08-01",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "5328",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Guaranteed Health Coverage for Pre-Existing Conditions Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5328?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-07-29",
+            "latestAction": {
+                "actionDate": "2014-09-26",
+                "text": "Referred to the Subcommittee on Immigration and Border Security."
+            },
+            "number": "5237",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "INCLUDE Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5237?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-07-24",
+            "latestAction": {
+                "actionDate": "2014-07-25",
+                "text": "Referred to the Subcommittee on Energy and Power."
+            },
+            "number": "5196",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "USA Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5196?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-07-15",
+            "latestAction": {
+                "actionDate": "2014-07-18",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "5113",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Protecting Seniors' Medicare Choices from Obamacare Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5113?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-03-14",
+            "latestAction": {
+                "actionDate": "2014-06-02",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+            },
+            "number": "4261",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Gulf War Health Research Reform Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4261?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-01-07",
+            "latestAction": {
+                "actionDate": "2014-01-10",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3812",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "No Bailouts for Insurance Industry Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3812?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-11-21",
+            "latestAction": {
+                "actionDate": "2014-09-17",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+            },
+            "number": "3593",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "VA Construction Assistance Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3593?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-09-28",
+            "latestAction": {
+                "actionDate": "2013-09-30",
+                "text": "Became Public Law No: 113-39."
+            },
+            "number": "3210",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Pay Our Military Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3210?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-09-26",
+            "latestAction": {
+                "actionDate": "2013-09-26",
+                "text": "Referred to the House Committee on Armed Services."
+            },
+            "number": "3184",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Audit the Pentagon Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3184?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-07-31",
+            "latestAction": {
+                "actionDate": "2014-12-11",
+                "text": "Reported (Amended) by the Committee on Small Business. H. Rept. 113-662, Part I."
+            },
+            "number": "2882",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Improving Opportunities for Service-Disabled Veteran-Owned Small Businesses Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2882?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-07-11",
+            "latestAction": {
+                "actionDate": "2013-07-11",
+                "text": "Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "2677",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "Sequestration Tied to Member Pay (STOMP) Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2677?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-05-09",
+            "latestAction": {
+                "actionDate": "2013-05-10",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "1912",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Affordable Care Accountability Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/1912?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-04-26",
+            "latestAction": {
+                "actionDate": "2013-06-27",
+                "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote ."
+            },
+            "number": "1792",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Infectious Disease Reporting Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/1792?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-04-09",
+            "latestAction": {
+                "actionDate": "2013-09-30",
+                "text": "Became Public Law No: 113-37."
+            },
+            "number": "1412",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Department of Veterans Affairs Expiring Authorities Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/1412?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-03-25",
+            "latestAction": {
+                "actionDate": "2013-12-20",
+                "text": "Became Public Law No: 113-59."
+            },
+            "number": "1402",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "VA Expiring Authorities Extension Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/1402?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-03-06",
+            "latestAction": {
+                "actionDate": "2013-03-14",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "978",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "National Emergency Selective Service Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/978?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-02-25",
+            "latestAction": {
+                "actionDate": "2013-02-25",
+                "text": "Referred to the House Committee on the Budget."
+            },
+            "number": "804",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Smarter Than Sequester Defense Spending Reduction Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/804?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-01-29",
+            "latestAction": {
+                "actionDate": "2013-02-28",
+                "text": "Referred to the Subcommittee on Immigration And Border Security."
+            },
+            "number": "435",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Military Enlistment Opportunity Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/435?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-01-25",
+            "latestAction": {
+                "actionDate": "2013-01-25",
+                "text": "Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "423",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To amend title 5, United States Code, to provide for the termination of further retirement benefits for Members of Congress, except the right to continue participating in the Thrift Savings Plan, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/423?format=json"
+        },
+        {
+            "amendmentNumber": "1426",
+            "congress": 112,
+            "introducedDate": "2012-07-19",
+            "latestAction": {
+                "actionDate": "2012-07-19",
+                "actionTime": "18:33:42",
+                "text": "On agreeing to the Coffman (CO) amendment (A049) Failed by recorded vote: 123 - 292 (Roll no. 492). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/1426?format=json"
+        },
+        {
+            "amendmentNumber": "1129",
+            "congress": 112,
+            "introducedDate": "2012-05-18",
+            "latestAction": {
+                "actionDate": "2012-05-18",
+                "actionTime": "10:39:08",
+                "text": "On agreeing to the Coffman (CO) amendment (A031) Agreed to by recorded vote: 226 - 196 (Roll no. 284). (consideration: CR H3119)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/1129?format=json"
+        },
+        {
+            "amendmentNumber": "1112",
+            "congress": 112,
+            "introducedDate": "2012-05-17",
+            "latestAction": {
+                "actionDate": "2012-05-18",
+                "actionTime": "09:53:28",
+                "text": "On agreeing to the Coffman (CO) amendment (A014) Failed by recorded vote: 209 - 211 (Roll no. 272). (consideration: CR H3111)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/1112?format=json"
+        },
+        {
+            "amendmentNumber": "417",
+            "congress": 112,
+            "introducedDate": "2011-06-13",
+            "latestAction": {
+                "actionDate": "2011-06-13",
+                "actionTime": "15:59:14",
+                "text": "By unanimous consent, the Coffman (CO) amendment was withdrawn. (consideration: CR H4061)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/417?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-09-25",
+            "latestAction": {
+                "actionDate": "2012-09-25",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "6560",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Local Schools and Infrastructure Improvement Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6560?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-09-11",
+            "latestAction": {
+                "actionDate": "2012-09-21",
+                "text": "Referred to the Subcommittee on Economic Opportunity."
+            },
+            "number": "6372",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veterans Employment Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6372?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-06-27",
+            "latestAction": {
+                "actionDate": "2012-10-01",
+                "text": "Referred to the Subcommittee on Financial Institutions and Consumer Credit."
+            },
+            "number": "6037",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Small Business Lending for Jobs Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6037?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-26",
+            "latestAction": {
+                "actionDate": "2012-07-10",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "4913",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To require designated military command responsibility and accountability for the care, handling, and transportation of the remains of a deceased member of the Army, Navy, Air Force, or Marine Corps who died overseas, from the place of death, through the defense mortuary system, until the remains are accepted by the member's next of kin, in order to ensure that the deceased member is treated with dignity, honor, and respect.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/4913?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-18",
+            "latestAction": {
+                "actionDate": "2012-06-15",
+                "text": "Placed on the Union Calendar, Calendar No. 379."
+            },
+            "number": "4382",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Providing Leasing Certainty for American Energy Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/4382?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-03-19",
+            "latestAction": {
+                "actionDate": "2012-12-21",
+                "text": "Placed on the Union Calendar, Calendar No. 531."
+            },
+            "number": "4206",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Contracting Oversight for Small Business Jobs Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/4206?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-12-15",
+            "latestAction": {
+                "actionDate": "2011-12-15",
+                "text": "Referred to the Committee on House Administration, and in addition to the Committees on Oversight and Government Reform, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "3673",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To prohibit an increase in the compensation of Members of Congress from taking effect unless Congress consents to the increase by concurrent resolution.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3673?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-10-06",
+            "latestAction": {
+                "actionDate": "2011-10-14",
+                "text": "Referred to the Subcommittee on Rural Development, Research, Biotechnology, and Foreign Agriculture."
+            },
+            "number": "3115",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Ensuring the Effective Use of United States Aid to Pakistan Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3115?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-09-14",
+            "latestAction": {
+                "actionDate": "2011-10-03",
+                "text": "Referred to the Subcommittee on Federal Workforce, U.S. Postal Service, and Labor Policy     ."
+            },
+            "number": "2913",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "To amend title 5, United States Code, to provide for the termination of further retirement benefits for Members of Congress, except the right to continue participating in the Thrift Savings Plan.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2913?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-06-24",
+            "latestAction": {
+                "actionDate": "2011-07-06",
+                "text": "Referred to the Subcommittee on Energy and Mineral Resources."
+            },
+            "number": "2375",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "FASTER Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2375?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-06-15",
+            "latestAction": {
+                "actionDate": "2011-06-22",
+                "text": "Referred to the Subcommittee on Energy and Mineral Resources."
+            },
+            "number": "2184",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Rare Earth Policy Task Force and Materials Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2184?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-05-10",
+            "latestAction": {
+                "actionDate": "2011-05-25",
+                "text": "Referred to the Subcommittee on Economic Opportunity."
+            },
+            "number": "1811",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "National Guard Employment Protection Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1811?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-04-06",
+            "latestAction": {
+                "actionDate": "2011-05-06",
+                "text": "Referred to the Subcommittee on Energy and Environment."
+            },
+            "number": "1388",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "RESTART Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1388?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-02-10",
+            "latestAction": {
+                "actionDate": "2011-03-03",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "621",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "National Emergency Selective Service Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/621?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-01-12",
+            "latestAction": {
+                "actionDate": "2011-02-14",
+                "text": "Referred to the Subcommittee on Courts, Commercial and Administrative Law."
+            },
+            "number": "270",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To provide for a 10 percent reduction in pay for Members of Congress, to make Federal civilian employees subject to a period of mandatory unpaid leave, to reduce appropriations for salaries and expenses for offices of the legislative branch during fiscal year 2012, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/270?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-12-15",
+            "latestAction": {
+                "actionDate": "2012-01-06",
+                "text": "Referred to the Subcommittee on the Constitution."
+            },
+            "number": "93",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Proposing an amendment to the Constitution of the United States relating to limits on the number of terms a Member of Congress may serve.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/112/hjres/93?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-12-20",
+            "latestAction": {
+                "actionDate": "2012-02-13",
+                "text": "Referred to the Subcommittee on Terrorism, Nonproliferation, and Trade."
+            },
+            "number": "507",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of the House of Representatives regarding the Government of Antigua and Barbuda and its actions relating to the Stanford Financial Group fraud.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/507?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-10-16",
+            "latestAction": {
+                "actionDate": "2018-10-17",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "7064",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Fair Environmental Trade Agreements Act of 2018",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/7064?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-09-27",
+            "latestAction": {
+                "actionDate": "2018-09-27",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "6926",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Pilot Act of 2018",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/6926?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-09-13",
+            "latestAction": {
+                "actionDate": "2018-09-13",
+                "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "6794",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Immigration Innovation Act of 2018",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/6794?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-09-06",
+            "latestAction": {
+                "actionDate": "2018-09-06",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "6713",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Safe to Tell Act of 2018",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/6713?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-09-04",
+            "latestAction": {
+                "actionDate": "2018-10-09",
+                "text": "Referred to the Subcommittee on Immigration and Border Security."
+            },
+            "number": "6696",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "TPS Extension Act of 2018",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/6696?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-07-26",
+            "latestAction": {
+                "actionDate": "2018-07-26",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "6573",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To require a determination on designation of the Russian Federation as a state sponsor of terrorism.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/6573?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-07-17",
+            "latestAction": {
+                "actionDate": "2018-07-17",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "6393",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "21st Century Internet Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/6393?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-05-15",
+            "latestAction": {
+                "actionDate": "2018-12-21",
+                "text": "Became Public Law No: 115-359."
+            },
+            "number": "5791",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "An act to designate the facility of the United States Postal Service located at 9609 South University Boulevard in Highlands Ranch, Colorado, as the \"Deputy Sheriff Zackari Spurlock Parrish, III, Post Office Building\"",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/5791?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-05-15",
+            "latestAction": {
+                "actionDate": "2018-12-21",
+                "text": "Became Public Law No: 115-360."
+            },
+            "number": "5792",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "An act to designate the facility of the United States Postal Service located at 90 North 4th Avenue in Brighton, Colorado, as the \"Detective Heath McDonald Gumm Post Office\"",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/5792?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-03-07",
+            "latestAction": {
+                "actionDate": "2018-03-07",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "5191",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to establish Alzheimer's Disease research, education, and clinical centers.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/5191?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-01-19",
+            "latestAction": {
+                "actionDate": "2018-01-19",
+                "text": "Referred to the House Committee on Appropriations."
+            },
+            "number": "127",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Pay Our Military Continuing Appropriations Resolution, 2018",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/115/hjres/127?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2018-01-10",
+            "latestAction": {
+                "actionDate": "2018-01-24",
+                "text": "Referred to the Subcommittee on Immigration and Border Security."
+            },
+            "number": "4750",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "TPS Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4750?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-12-13",
+            "latestAction": {
+                "actionDate": "2018-06-14",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+            },
+            "number": "4635",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To direct the Secretary of Veterans Affairs to increase the number of peer-to-peer counselors providing counseling for women veterans, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4635?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-10-24",
+            "latestAction": {
+                "actionDate": "2017-10-24",
+                "text": "Referred to the House Committee on Veterans' Affairs."
+            },
+            "number": "4099",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 38, United States Code, to ensure that children of homeless veterans are included in the calculation of the amounts of certain per diem grants.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/4099?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-10-12",
+            "latestAction": {
+                "actionDate": "2017-10-12",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "118",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Authorization for Use of Military Force Against al-Qaeda, the Taliban, and the Islamic State of Iraq and Syria",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/115/hjres/118?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-09-05",
+            "latestAction": {
+                "actionDate": "2017-09-05",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3673",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Protecting Against Tyranny and Responsible Imports Act (PATRIA) of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/3673?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-07-25",
+            "latestAction": {
+                "actionDate": "2017-07-25",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3379",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "EARN IT Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/3379?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-06-07",
+            "latestAction": {
+                "actionDate": "2017-06-07",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2802",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "First-Time Homebuyer Savings Account Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/2802?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-06-06",
+            "latestAction": {
+                "actionDate": "2017-10-12",
+                "text": "Committee Hearings Held."
+            },
+            "number": "2773",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To authorize the Secretary of Veterans Affairs to sell Pershing Hall.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/2773?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-05-25",
+            "latestAction": {
+                "actionDate": "2017-05-25",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2652",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veteran Overmedication Prevention Act of 2017",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/2652?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-05-19",
+            "latestAction": {
+                "actionDate": "2017-05-19",
+                "text": "Referred to the Subcommittee on Economic Opportunity."
+            },
+            "number": "2549",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "GI Bill Processing Improvement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/2549?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-04-26",
+            "latestAction": {
+                "actionDate": "2018-09-17",
+                "text": "Became Public Law No: 115-240."
+            },
+            "number": "2147",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "An act to require the Secretary of Veterans Affairs to hire additional Veterans Justice Outreach Specialists to provide treatment court services to justice-involved veterans, and for other purposes",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/2147?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-04-06",
+            "latestAction": {
+                "actionDate": "2017-07-25",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+            },
+            "number": "2006",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "VA Procurement Efficiency and Transparency Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/2006?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-03-09",
+            "latestAction": {
+                "actionDate": "2017-03-21",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "1445",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "VREASA",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/1445?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-02-07",
+            "latestAction": {
+                "actionDate": "2017-11-08",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+            },
+            "number": "918",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veteran Urgent Access to Mental Healthcare Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/918?format=json"
+        },
+        {
+            "congress": 115,
+            "introducedDate": "2017-01-12",
+            "latestAction": {
+                "actionDate": "2017-09-05",
+                "text": "Motion to Discharge Committee filed by Mr. Coffman. Petition No: 115-4. (<a href=\"http://clerk.house.gov/115/lrc/pd/petitions/DisPet0004.xml\">Discharge petition</a> text with signatures.)"
+            },
+            "number": "496",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "BRIDGE Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/115/hr/496?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-06-24",
+            "latestAction": {
+                "actionDate": "2016-06-24",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "5575",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "First-Time Homebuyer Savings Account Act of 2016",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5575?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-06-21",
+            "latestAction": {
+                "actionDate": "2016-06-27",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "5548",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To authorize the Secretary of Veterans Affairs to sell Pershing Hall.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5548?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-06-14",
+            "latestAction": {
+                "actionDate": "2016-06-21",
+                "text": "Referred to the Subcommittee on Oversight and Investigations."
+            },
+            "number": "5472",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "VA Procurement Efficiency and Transparency Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5472?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-04-29",
+            "latestAction": {
+                "actionDate": "2016-05-26",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "5149",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 38, United States Code, to provide for the circumstances under which the Secretary of Veterans Affairs shall provide reimbursement for emergency ambulance services.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/5149?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-04-14",
+            "latestAction": {
+                "actionDate": "2016-04-14",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4946",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "EARN IT Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/4946?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-03-16",
+            "latestAction": {
+                "actionDate": "2016-03-18",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4762",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "REGROW Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/4762?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-03-03",
+            "latestAction": {
+                "actionDate": "2016-03-03",
+                "text": "Referred to the House Committee on Veterans' Affairs."
+            },
+            "number": "4684",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veteran Urgent Access to Mental Healthcare Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/4684?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-03-03",
+            "latestAction": {
+                "actionDate": "2016-03-21",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "4683",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Fairness for Veterans Act of 2016",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/4683?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2016-02-10",
+            "latestAction": {
+                "actionDate": "2016-03-04",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "4523",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To repeal the Military Selective Service Act, and thereby terminate the registration requirements of such Act and eliminate civilian local boards, civilian appeal boards, and similar local agencies of the Selective Service System.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/4523?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-12-15",
+            "latestAction": {
+                "actionDate": "2016-01-19",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "4251",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Guard and Reserve Equal Access to Health Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/4251?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-11-05",
+            "latestAction": {
+                "actionDate": "2015-12-03",
+                "text": "Referred to the Subcommittee on Economic Opportunity."
+            },
+            "number": "3945",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Improving Opportunities for Service-Disabled Veteran-Owned Small Businesses Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3945?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-10-07",
+            "latestAction": {
+                "actionDate": "2016-03-04",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "3698",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Military Enlistment Opportunity Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3698?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-03-26",
+            "latestAction": {
+                "actionDate": "2015-04-07",
+                "text": "Referred to the Subcommittee on Oversight and Investigations."
+            },
+            "number": "1681",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "VA Construction, Accountability, and Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/1681?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-03-13",
+            "latestAction": {
+                "actionDate": "2015-03-27",
+                "text": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs."
+            },
+            "number": "1357",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veterans Beneficiary Fraud Enforcement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/1357?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-01-28",
+            "latestAction": {
+                "actionDate": "2015-03-19",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "593",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Aurora VA Hospital Financing and Construction Reform Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/593?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-09-28",
+            "latestAction": {
+                "actionDate": "2015-09-28",
+                "text": "Referred to the House Committee on Appropriations."
+            },
+            "number": "3628",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Pay Our Military Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/3628?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-05-21",
+            "latestAction": {
+                "actionDate": "2015-05-22",
+                "text": "Became Public Law No: 114-19."
+            },
+            "number": "2496",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Construction Authorization and Choice Improvement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/2496?format=json"
+        },
+        {
+            "congress": 114,
+            "introducedDate": "2015-03-13",
+            "latestAction": {
+                "actionDate": "2015-03-19",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "1356",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Women Veterans Access to Quality Care Act of 2015",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/114/hr/1356?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-09-15",
+            "latestAction": {
+                "actionDate": "2010-09-15",
+                "text": "Referred to House Judiciary"
+            },
+            "number": "6134",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To provide for a 10 percent reduction in pay for Members of Congress; to make Federal civilian employees subject to a period of mandatory unpaid leave, and to reduce appropriations for salaries and expenses for offices of the legislative branch, during fiscal year 2011; and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/6134?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-04-20",
+            "latestAction": {
+                "actionDate": "2010-05-06",
+                "text": "Referred to the Subcommittee on Readiness."
+            },
+            "number": "5067",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To prohibit any use of eminent domain authority by the United States to expand the Pinon Canyon Maneuver Site in southeastern Colorado.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5067?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-03-17",
+            "latestAction": {
+                "actionDate": "2010-03-29",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "4866",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "RESTART Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4866?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-06-11",
+            "latestAction": {
+                "actionDate": "2009-06-24",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "2823",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend the Uniformed and Overseas Citizens Absentee Voting Act to enhance and improve certain procedures relating to voting by absent members of the uniformed services, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2823?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-05-19",
+            "latestAction": {
+                "actionDate": "2009-06-12",
+                "text": "Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law."
+            },
+            "number": "2472",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Social Security Number Fraud and Identity Theft Prevention Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2472?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-02",
+            "latestAction": {
+                "actionDate": "2009-04-02",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1908",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "WATER Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1908?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-02",
+            "latestAction": {
+                "actionDate": "2010-03-25",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+            },
+            "number": "1879",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "National Guard Employment Protection Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1879?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-03-11",
+            "latestAction": {
+                "actionDate": "2009-03-16",
+                "text": "Referred to the Subcommittee on National Parks, Forests and Public Lands."
+            },
+            "number": "1435",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "National Trails System Willing Seller Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1435?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-03-02",
+            "latestAction": {
+                "actionDate": "2010-03-02",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "1129",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Expressing the sense of the House that the Secretary of the Treasury should direct the United States Executive Directors to the International Monetary Fund and the World Bank to use the voice and vote of the United States to oppose making any loans to the Government of Antigua and Barbuda until that Government cooperates with the United States and compensates the victims of the Stanford Financial Group fraud.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/1129?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-12-03",
+            "latestAction": {
+                "actionDate": "2009-12-03",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "943",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Expressing the sense of the House of Representatives that the Federal banking regulators should, with respect to well-managed community-based depository institutions, permit appropriate capital forbearance, troubled debt restructuring accounting practices, and other time-tested measures that would allow such institutions to continue to provide for the financial vitality for our Nation's small businesses and family farms.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/943?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-01-26",
+            "latestAction": {
+                "actionDate": "2010-02-18",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "230",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Recognizing the 150th anniversary of the Colorado National Guard.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/111/hconres/230?format=json"
+        }
+    ]
+}

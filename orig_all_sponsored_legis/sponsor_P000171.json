@@ -1,0 +1,104 @@
+{
+    "pagination": {
+        "count": 6
+    },
+    "request": {
+        "bioguideId": "p000171",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 106,
+            "introducedDate": "2000-03-23",
+            "latestAction": {
+                "actionDate": "2000-11-01",
+                "text": "Became Public Law No: 106-409."
+            },
+            "number": "4068",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Religious Workers Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4068?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-07-14",
+            "latestAction": {
+                "actionDate": "1999-11-19",
+                "text": "Read twice and referred to the Committee on Governmental Affairs."
+            },
+            "number": "2513",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To direct the Administrator of General Services to acquire a building located in Terre Haute, Indiana, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2513?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-05-04",
+            "latestAction": {
+                "actionDate": "2000-05-15",
+                "actionTime": "18:38:58",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "491",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Naming a room in the House of Representatives wing of the Capitol in honor of former Representative G.V. \"Sonny\" Montgomery.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/106/hres/491?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-10-01",
+            "latestAction": {
+                "actionDate": "1998-10-08",
+                "text": "Rereferred to the House Committee on Government Reform and Oversight."
+            },
+            "number": "4668",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To designate the facility of the United States Postal Service at 30 North 7th Street in Terre Haute, Indiana, as the \"John T. Myers Federal Building\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/4668?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-04-08",
+            "latestAction": {
+                "actionDate": "1997-10-22",
+                "text": "Referred to the Subcommittee on Postal Service."
+            },
+            "number": "1249",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To redesignate the Federal building located at 107 Federal Building, in Terre Haute, Indiana, as the \"John T. Myers Federal Building\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1249?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-08-01",
+            "latestAction": {
+                "actionDate": "1997-08-01",
+                "actionTime": "09:02:39",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "213",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Designating majority membership on certain standing committees of the House.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/105/hres/213?format=json"
+        }
+    ]
+}

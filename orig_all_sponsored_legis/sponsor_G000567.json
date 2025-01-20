@@ -1,0 +1,633 @@
+{
+    "pagination": {
+        "count": 42
+    },
+    "request": {
+        "bioguideId": "g000567",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "785",
+            "congress": 113,
+            "introducedDate": "2014-06-09",
+            "latestAction": {
+                "actionDate": "2014-06-09",
+                "actionTime": "15:15:30",
+                "text": "On agreeing to the Griffin (AR) amendment (A008) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/785?format=json"
+        },
+        {
+            "amendmentNumber": "417",
+            "congress": 113,
+            "introducedDate": "2013-07-30",
+            "latestAction": {
+                "actionDate": "2013-07-30",
+                "actionTime": "16:13:42",
+                "text": "On agreeing to the Griffin (AR) amendment (A001) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/417?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-09-16",
+            "latestAction": {
+                "actionDate": "2014-09-19",
+                "text": "Referred to the Subcommittee on Energy and Power."
+            },
+            "number": "5483",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Firefighter Equipment Protection Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5483?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-05-13",
+            "latestAction": {
+                "actionDate": "2014-05-13",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4657",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Timber Revitalization and Economic Enhancement Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4657?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-04-01",
+            "latestAction": {
+                "actionDate": "2014-07-15",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "4355",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To designate the facility of the United States Postal Service located at 201 B Street in Perryville, Arkansas, as the \"Harold George Bennett Post Office\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4355?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-04-01",
+            "latestAction": {
+                "actionDate": "2014-04-04",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4354",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Obamacare Taxpayer Bailout Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4354?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-02-05",
+            "latestAction": {
+                "actionDate": "2014-06-20",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "3996",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Save our Military Shopping Benefits Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3996?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-11-19",
+            "latestAction": {
+                "actionDate": "2013-11-22",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3541",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Obamacare Taxpayer Bailout Prevention Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3541?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-10-02",
+            "latestAction": {
+                "actionDate": "2013-10-02",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "3235",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To provide for the compensation of any Federal, State, or local employee furloughed due to a lapse in appropriations which began on or about October 1, 2013.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3235?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-09-25",
+            "latestAction": {
+                "actionDate": "2014-01-22",
+                "text": "Referred to the Subcommittee on Workforce Protections."
+            },
+            "number": "3173",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Children's Consignment Event Recognition Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3173?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-07-22",
+            "latestAction": {
+                "actionDate": "2013-08-29",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "2777",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Stop Pay for Violent Offenders Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2777?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-07-18",
+            "latestAction": {
+                "actionDate": "2013-07-18",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2724",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Mayflower Oil Spill Tax Relief Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2724?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-07-16",
+            "latestAction": {
+                "actionDate": "2013-07-16",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "2694",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Buy Smarter and Save Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2694?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-07-11",
+            "latestAction": {
+                "actionDate": "2013-07-11",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2683",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "IRS Equal Treatment Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2683?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-07-11",
+            "latestAction": {
+                "actionDate": "2013-07-23",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2667",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Authority for Mandate Delay Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2667?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-06-18",
+            "latestAction": {
+                "actionDate": "2013-07-23",
+                "text": "Referred to the Subcommittee on Human Resources."
+            },
+            "number": "2418",
+            "policyArea": {
+                "name": "Social Welfare"
+            },
+            "title": "Control Unlawful Fugitive Felons Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2418?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-06-04",
+            "latestAction": {
+                "actionDate": "2013-08-29",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "2244",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "HEAL Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2244?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-04-24",
+            "latestAction": {
+                "actionDate": "2013-04-24",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "1693",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "To provide an exemption for community banks from the application of Basel III capital standards.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/1693?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-04-17",
+            "latestAction": {
+                "actionDate": "2013-04-26",
+                "text": "Referred to the Subcommittee on Oversight and Investigations."
+            },
+            "number": "1598",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veteran's I.D. Card Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/1598?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-01-23",
+            "latestAction": {
+                "actionDate": "2013-01-24",
+                "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management."
+            },
+            "number": "388",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To designate the United States courthouse located at 300 West Second Street in Little Rock, Arkansas, as the \"Morris Sheppard Arnold United States Courthouse\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/388?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-01-04",
+            "latestAction": {
+                "actionDate": "2013-01-04",
+                "text": "Referred to the Subcommittee on Communications and Technology."
+            },
+            "number": "176",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Stop Taxpayer Funded Cell Phones Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/176?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-01-04",
+            "latestAction": {
+                "actionDate": "2013-04-23",
+                "text": "Referred to the Subcommittee on Health, Employment, Labor, and Pensions."
+            },
+            "number": "175",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Employee Paycheck Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/175?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-01-04",
+            "latestAction": {
+                "actionDate": "2013-01-04",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "177",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Death Tax Repeal Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/177?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-01-04",
+            "latestAction": {
+                "actionDate": "2013-01-04",
+                "text": "Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "178",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "EPIC Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/178?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-01-04",
+            "latestAction": {
+                "actionDate": "2013-02-08",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "179",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Franchise Education for Veterans Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/179?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-02-27",
+            "latestAction": {
+                "actionDate": "2013-02-27",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "87",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of the House of Representatives that the President should suspend the delivery of F-16 fighter aircraft, M1 tanks, and other defense articles and defense services to the Government of Egypt.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/87?format=json"
+        },
+        {
+            "amendmentNumber": "736",
+            "congress": 112,
+            "introducedDate": "2011-07-26",
+            "latestAction": {
+                "actionDate": "2011-07-26",
+                "actionTime": "21:40:39",
+                "text": "On agreeing to the Griffin (AR) amendment (A013) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/736?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-08-02",
+            "latestAction": {
+                "actionDate": "2012-08-02",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "6322",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Employee Paycheck Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6322?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-08-02",
+            "latestAction": {
+                "actionDate": "2012-08-02",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "6279",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Death Tax Repeal Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6279?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-02-17",
+            "latestAction": {
+                "actionDate": "2012-07-31",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 477."
+            },
+            "number": "4078",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Red Tape Reduction and Small Business Job Creation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/4078?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-02-01",
+            "latestAction": {
+                "actionDate": "2012-12-28",
+                "text": "Became Public Law No: 112-221."
+            },
+            "number": "3870",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To designate the facility of the United States Postal Service located at 6083 Highway 36 West in Rose Bud, Arkansas, as the \"Nicky 'Nick' Daniel Bacon Post Office\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3870?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-02-01",
+            "latestAction": {
+                "actionDate": "2013-01-10",
+                "text": "Became Public Law No: 112-246."
+            },
+            "number": "3869",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To designate the facility of the United States Postal Service located at 600 East Capitol Avenue in Little Rock, Arkansas, as the \"Sidney 'Sid' Sanders McMath Post Office Building\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3869?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-11-18",
+            "latestAction": {
+                "actionDate": "2011-11-18",
+                "text": "Referred to the Subcommittee on Communications and Technology."
+            },
+            "number": "3481",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Stop Taxpayer Funded Cell Phones Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3481?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-11-18",
+            "latestAction": {
+                "actionDate": "2011-11-18",
+                "text": "Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "3480",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "EPIC Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3480?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-11-03",
+            "latestAction": {
+                "actionDate": "2011-11-10",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "3350",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veterans Travel Benefits Modernization Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3350?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-11-03",
+            "latestAction": {
+                "actionDate": "2011-12-08",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "3349",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "National Guard and Reserve Equality in Education Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3349?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-11-03",
+            "latestAction": {
+                "actionDate": "2011-12-08",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "3351",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Franchise Education for Veterans Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3351?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-10-13",
+            "latestAction": {
+                "actionDate": "2011-11-02",
+                "text": "Referred to the Subcommittee on Regulatory Affairs, Stimulus Oversight and Government Spending     ."
+            },
+            "number": "3194",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Job Creation and Regulatory Freeze Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3194?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-09-14",
+            "latestAction": {
+                "actionDate": "2011-09-15",
+                "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management."
+            },
+            "number": "2927",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Hometown Artists Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2927?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-07-28",
+            "latestAction": {
+                "actionDate": "2011-09-20",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "2683",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "HEAL Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2683?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-05-26",
+            "latestAction": {
+                "actionDate": "2011-06-03",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2035",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Healthcare Waiver Transparency Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2035?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-03-17",
+            "latestAction": {
+                "actionDate": "2011-06-01",
+                "text": "Referred to the Subcommittee on Courts, Commercial and Administrative Law."
+            },
+            "number": "1181",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Protecting Gun Owners in Bankruptcy Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1181?format=json"
+        }
+    ]
+}

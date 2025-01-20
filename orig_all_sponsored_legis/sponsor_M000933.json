@@ -1,0 +1,4377 @@
+{
+    "pagination": {
+        "count": 300,
+        "next": "https://api.congress.gov/v3/member/M000933/sponsored-legislation?offset=250&limit=250&format=json"
+    },
+    "request": {
+        "bioguideId": "m000933",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "amendmentNumber": "907",
+            "congress": 113,
+            "introducedDate": "2014-06-19",
+            "latestAction": {
+                "actionDate": "2014-06-19",
+                "actionTime": "22:36:50",
+                "text": "On agreeing to the Moran amendment (A041) Failed by recorded vote: 163 - 249 (Roll no. 324). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/907?format=json"
+        },
+        {
+            "amendmentNumber": "738",
+            "congress": 113,
+            "introducedDate": "2014-05-29",
+            "latestAction": {
+                "actionDate": "2014-05-30",
+                "actionTime": "00:09:30",
+                "text": "On agreeing to the Moran amendment (A049) Failed by recorded vote: 169 - 230 (Roll no. 254). (consideration: CR H5005-5006)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/738?format=json"
+        },
+        {
+            "amendmentNumber": "625",
+            "congress": 113,
+            "introducedDate": "2014-04-30",
+            "latestAction": {
+                "actionDate": "2014-04-30",
+                "actionTime": "19:03:07",
+                "text": "On agreeing to the Moran amendment (A008) Failed by recorded vote: 168 - 249 (Roll no. 185). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/625?format=json"
+        },
+        {
+            "amendmentNumber": "365",
+            "congress": 113,
+            "introducedDate": "2013-07-23",
+            "latestAction": {
+                "actionDate": "2013-07-23",
+                "actionTime": "19:03:56",
+                "text": "On agreeing to the Moran amendment (A022) Failed by recorded vote: 175 - 247 (Roll no. 385). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/365?format=json"
+        },
+        {
+            "amendmentNumber": "247",
+            "congress": 113,
+            "introducedDate": "2013-07-09",
+            "latestAction": {
+                "actionDate": "2013-07-09",
+                "actionTime": "18:31:00",
+                "text": "On agreeing to the Moran amendment (A003) Failed by recorded vote: 188 - 226 (Roll no. 312). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/247?format=json"
+        },
+        {
+            "amendmentNumber": "246",
+            "congress": 113,
+            "introducedDate": "2013-07-09",
+            "latestAction": {
+                "actionDate": "2013-07-09",
+                "actionTime": "18:22:29",
+                "text": "On agreeing to the Moran amendment (A002) Failed by recorded vote: 177 - 236 (Roll no. 311). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/246?format=json"
+        },
+        {
+            "amendmentNumber": "116",
+            "congress": 113,
+            "introducedDate": "2013-06-05",
+            "latestAction": {
+                "actionDate": "2013-06-05",
+                "actionTime": "22:36:00",
+                "text": "On agreeing to the Moran amendment (A020) Failed by recorded vote: 165 - 261 (Roll no. 200). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/116?format=json"
+        },
+        {
+            "amendmentNumber": "84",
+            "congress": 113,
+            "introducedDate": "2013-06-04",
+            "latestAction": {
+                "actionDate": "2013-06-04",
+                "actionTime": "19:30:03",
+                "text": "On agreeing to the Moran amendment (A008) Failed by recorded vote: 170 - 254 (Roll no. 190). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/113/hamdt/84?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-11-19",
+            "latestAction": {
+                "actionDate": "2014-11-19",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "5743",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "To establish a commission to identify and examine issues of national concern related to the conduct of intercollegiate athletics, to make recommendations for the resolution of the issues, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5743?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-07-29",
+            "latestAction": {
+                "actionDate": "2014-07-29",
+                "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on Oversight and Government Reform, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "5249",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Rosoboronexport Embargo Act of 2014",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/5249?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-05-09",
+            "latestAction": {
+                "actionDate": "2014-05-10",
+                "text": "Referred to the Subcommittee on Aviation."
+            },
+            "number": "4623",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To direct the Secretary of Transportation to conduct a notice and comment rulemaking before implementing certain policies relating to obstruction evaluation aeronautical studies, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4623?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-04-30",
+            "latestAction": {
+                "actionDate": "2014-05-06",
+                "text": "Referred to the Subcommittee on Livestock, Rural Development, and Credit."
+            },
+            "number": "4525",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "Traveling Exotic Animal Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4525?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-03-05",
+            "latestAction": {
+                "actionDate": "2014-03-07",
+                "text": "Referred to the Subcommittee on Commerce, Manufacturing, and Trade."
+            },
+            "number": "4148",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "Humane Cosmetics Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4148?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2014-02-28",
+            "latestAction": {
+                "actionDate": "2014-02-28",
+                "text": "Referred to the Subcommittee on Highways and Transit."
+            },
+            "number": "4131",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "State and Local Predatory Towing Enforcement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/4131?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-09-30",
+            "latestAction": {
+                "actionDate": "2013-10-07",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 208."
+            },
+            "number": "3223",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal Employee Retroactive Pay Fairness Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/3223?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-07-17",
+            "latestAction": {
+                "actionDate": "2013-07-17",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2716",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to provide for offsetting certain past-due local tax debts against income tax overpayments.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2716?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-06-04",
+            "latestAction": {
+                "actionDate": "2013-08-29",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "2249",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Disabled Military Child Protection Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2249?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-05-23",
+            "latestAction": {
+                "actionDate": "2013-06-04",
+                "text": "Referred to the Subcommittee Indian and Alaska Native Affairs."
+            },
+            "number": "2190",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/2190?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-04-23",
+            "latestAction": {
+                "actionDate": "2013-05-01",
+                "text": "Referred to the Subcommittee on Public Lands and Environmental Regulation."
+            },
+            "number": "1686",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Trash Reduction Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/1686?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-04-11",
+            "latestAction": {
+                "actionDate": "2013-07-08",
+                "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education."
+            },
+            "number": "1509",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Autism Understanding and Training in School Methodologies for Educators Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/1509?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-03-14",
+            "latestAction": {
+                "actionDate": "2013-03-14",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "1195",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "International Conservation Corps Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/1195?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-01-15",
+            "latestAction": {
+                "actionDate": "2013-01-15",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "289",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "VOTE Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/289?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-01-03",
+            "latestAction": {
+                "actionDate": "2013-01-25",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations."
+            },
+            "number": "21",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "NRA Members' Gun Safety Act of 2013",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/113/hr/21?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-05-17",
+            "latestAction": {
+                "actionDate": "2013-06-07",
+                "text": "Referred to the Subcommittee on Middle East and North Africa."
+            },
+            "number": "223",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing the sense of the House of Representatives concerning the ongoing conflict in Syria and the urgent need for the Syrian Opposition Coalition and local coordinating committees in Syria to assume the responsibilities of governance including the establishment of institutions of transitional justice, and to guarantee the rights of all Syria's people, regardless of ethnic or religious affiliation.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/223?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-05-08",
+            "latestAction": {
+                "actionDate": "2013-05-22",
+                "text": "Referred to the Subcommittee on Livestock, Rural Development, and Credit."
+            },
+            "number": "208",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "Expressing opposition to the use of carbon monoxide, carbon dioxide, nitrogen, nitrous oxide, argon, or other gases to euthanize shelter animals and support for State laws that require the use of the more humane euthanasia by injection method.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/208?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-04-26",
+            "latestAction": {
+                "actionDate": "2013-04-26",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "194",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Expressing support for designation of the month of May as Williams Syndrome Awareness Month.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/113/hres/194?format=json"
+        },
+        {
+            "congress": 113,
+            "introducedDate": "2013-03-19",
+            "latestAction": {
+                "actionDate": "2013-03-19",
+                "text": "Referred to the House Committee on Natural Resources."
+            },
+            "number": "27",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Supporting the formation of a bipartisan Presidential Commission to study the establishment of a National Museum of the American People.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/113/hconres/27?format=json"
+        },
+        {
+            "amendmentNumber": "1423",
+            "congress": 112,
+            "introducedDate": "2012-07-19",
+            "latestAction": {
+                "actionDate": "2012-07-19",
+                "actionTime": "18:27:11",
+                "text": "On agreeing to the Moran amendment (A046) Agreed to by recorded vote: 407 - 5 (Roll no. 490). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/1423?format=json"
+        },
+        {
+            "amendmentNumber": "1282",
+            "congress": 112,
+            "introducedDate": "2012-06-08",
+            "latestAction": {
+                "actionDate": "2012-06-08",
+                "actionTime": "11:26:05",
+                "text": "On agreeing to the Moran amendment (A005) Failed by recorded vote: 178 - 229 (Roll no. 374). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/1282?format=json"
+        },
+        {
+            "amendmentNumber": "1175",
+            "congress": 112,
+            "introducedDate": "2012-06-01",
+            "latestAction": {
+                "actionDate": "2012-06-01",
+                "actionTime": "12:17:21",
+                "text": "On agreeing to the Moran amendment (A006) Failed by recorded vote: 152 - 237 (Roll no. 308). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/1175?format=json"
+        },
+        {
+            "amendmentNumber": "753",
+            "congress": 112,
+            "introducedDate": "2011-07-27",
+            "latestAction": {
+                "actionDate": "2011-07-27",
+                "actionTime": "16:38:06",
+                "text": "On agreeing to the Moran amendment (A030) Failed by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/753?format=json"
+        },
+        {
+            "amendmentNumber": "714",
+            "congress": 112,
+            "introducedDate": "2011-07-25",
+            "latestAction": {
+                "actionDate": "2011-07-25",
+                "actionTime": "18:36:40",
+                "text": "On agreeing to the Moran amendment (A002) Failed by recorded vote: 175 - 237 (Roll no. 632). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/714?format=json"
+        },
+        {
+            "amendmentNumber": "712",
+            "congress": 112,
+            "introducedDate": "2011-07-22",
+            "latestAction": {
+                "actionDate": "2011-07-22",
+                "actionTime": "11:05:41",
+                "text": "On agreeing to the Moran amendment (A016) Failed by recorded vote: 179 - 234 (Roll no. 628). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/712?format=json"
+        },
+        {
+            "amendmentNumber": "591",
+            "congress": 112,
+            "introducedDate": "2011-07-11",
+            "latestAction": {
+                "actionDate": "2011-07-12",
+                "actionTime": "14:10:14",
+                "text": "On agreeing to the Moran amendment (A012) Failed by recorded vote: 170 - 250 (Roll no. 540). (consideration: CR H4878-4879)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/591?format=json"
+        },
+        {
+            "amendmentNumber": "43",
+            "congress": 112,
+            "introducedDate": "2011-02-16",
+            "latestAction": {
+                "actionDate": "2011-02-16",
+                "actionTime": "19:06:13",
+                "text": "On agreeing to the Moran amendment (A033) Failed by recorded vote: 73 - 352, 2 Present (Roll no. 62). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/112/hamdt/43?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-12-31",
+            "latestAction": {
+                "actionDate": "2012-12-31",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "6725",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "NRA Members' Gun Safety Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6725?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-12-04",
+            "latestAction": {
+                "actionDate": "2012-12-04",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "6632",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Voting Line Reduction and Online Registration Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6632?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-09-14",
+            "latestAction": {
+                "actionDate": "2012-09-20",
+                "text": "Referred to the Subcommittee on Water and Power."
+            },
+            "number": "6422",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "International Conservation Corps Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6422?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-09-13",
+            "latestAction": {
+                "actionDate": "2012-09-14",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "6402",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Surveillance, Tracking, Observation, and Prevention of Obesity Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6402?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-06-27",
+            "latestAction": {
+                "actionDate": "2012-06-27",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "6042",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Senior Executive Service Reform Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/6042?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-04-27",
+            "latestAction": {
+                "actionDate": "2012-09-26",
+                "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education."
+            },
+            "number": "5195",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Autism Understanding and Training in School Methodologies for Educators Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/5195?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-03-29",
+            "latestAction": {
+                "actionDate": "2012-07-10",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "4329",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Disabled Military Child Protection Act of 2012",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/4329?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-03-06",
+            "latestAction": {
+                "actionDate": "2012-03-09",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4147",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "ChiPACC Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/4147?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-11-03",
+            "latestAction": {
+                "actionDate": "2011-11-29",
+                "text": "Referred to the Subcommittee on Livestock, Dairy, and Poultry."
+            },
+            "number": "3359",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "Traveling Exotic Animal Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3359?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-09-22",
+            "latestAction": {
+                "actionDate": "2011-10-03",
+                "text": "Referred to the Subcommittee on Federal Workforce, U.S. Postal Service, and Labor Policy     ."
+            },
+            "number": "3028",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal Employees Leave Transfer Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/3028?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-07-13",
+            "latestAction": {
+                "actionDate": "2011-07-15",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2521",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Endocrine-Disrupting Chemicals Exposure Elimination Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2521?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-06-23",
+            "latestAction": {
+                "actionDate": "2011-06-24",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2334",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Comprehensive Problem Gambling Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/2334?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-04-15",
+            "latestAction": {
+                "actionDate": "2011-04-22",
+                "text": "Referred to the Subcommittee on National Parks, Forests and Public Lands."
+            },
+            "number": "1628",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Trash Reduction Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1628?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-04-12",
+            "latestAction": {
+                "actionDate": "2011-04-27",
+                "text": "Referred to the Subcommittee on Federal Workforce, U.S. Postal Service, and Labor Policy     ."
+            },
+            "number": "1492",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal Supervisor Training Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1492?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-04-07",
+            "latestAction": {
+                "actionDate": "2011-04-08",
+                "text": "Referred to the Subcommittee on Federal Workforce, U.S. Postal Service, and Labor Policy     ."
+            },
+            "number": "1429",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal Employee Retroactive Pay Fairness Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/1429?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-02-18",
+            "latestAction": {
+                "actionDate": "2012-08-20",
+                "text": "Referred to the Subcommittee on Federal Workforce, U.S. Postal Service, and Labor Policy."
+            },
+            "number": "819",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Government Shutdown Fairness Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/819?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-02-17",
+            "latestAction": {
+                "actionDate": "2011-02-25",
+                "text": "Referred to the Subcommittee Indian and Alaska Native Affairs."
+            },
+            "number": "783",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2011",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/112/hr/783?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-07-19",
+            "latestAction": {
+                "actionDate": "2012-08-13",
+                "text": "Referred to the Subcommittee on Livestock, Dairy, and Poultry."
+            },
+            "number": "736",
+            "policyArea": {
+                "name": "Animals"
+            },
+            "title": "Expressing opposition to the use of carbon monoxide, carbon dioxide, nitrogen, nitrous oxide, argon, or other gases to euthanize shelter animals and support for State laws that require the use of the more humane euthanasia by injection method.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/736?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-05-31",
+            "latestAction": {
+                "actionDate": "2012-06-01",
+                "text": "Referred to the Subcommittee on Energy and Power."
+            },
+            "number": "672",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Expressing the sense of the House of Representatives that the energy, environmental, and foreign policies of the United States should reflect appropriate understanding and sensitivity concerning issues related to climate change, as documented by credible scientific findings and as evidenced by the extreme weather events of recent years.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/672?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2012-05-10",
+            "latestAction": {
+                "actionDate": "2012-05-10",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "655",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Expressing support for the designation of June 7, 2012, as National Hunger Awareness Day.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/655?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-02-10",
+            "latestAction": {
+                "actionDate": "2011-09-01",
+                "text": "Recalled by full committee."
+            },
+            "number": "84",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Commemorating 100 years of natural resource conservation achievements made possible through the vision and leadership of Representative John W. Weeks and the enactment of the Weeks Act in 1911.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/112/hres/84?format=json"
+        },
+        {
+            "congress": 112,
+            "introducedDate": "2011-07-07",
+            "latestAction": {
+                "actionDate": "2011-07-07",
+                "text": "Referred to the House Committee on Natural Resources."
+            },
+            "number": "63",
+            "policyArea": {
+                "name": "Arts, Culture, Religion"
+            },
+            "title": "Supporting the formation of a bipartisan Presidential Commission to study the establishment of a National Museum of the American People.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/112/hconres/63?format=json"
+        },
+        {
+            "amendmentNumber": "610",
+            "congress": 109,
+            "introducedDate": "2005-11-03",
+            "latestAction": {
+                "actionDate": "2005-11-03",
+                "actionTime": "17:31:49",
+                "text": "On agreeing to the Moran (VA) amendment (A004) Failed by recorded vote: 49 - 368 (Roll no. 565). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/610?format=json"
+        },
+        {
+            "amendmentNumber": "292",
+            "congress": 109,
+            "introducedDate": "2005-06-16",
+            "latestAction": {
+                "actionDate": "2005-06-16",
+                "actionTime": "15:17:09",
+                "text": "On agreeing to the Moran (VA) amendment (A045) Failed by recorded vote: 149 - 278 (Roll no. 265). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/292?format=json"
+        },
+        {
+            "amendmentNumber": "47",
+            "congress": 109,
+            "introducedDate": "2005-03-15",
+            "latestAction": {
+                "actionDate": "2005-03-15",
+                "actionTime": "14:02:18",
+                "text": "On agreeing to the Moran (VA) amendment (A004) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/109/hamdt/47?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-09-28",
+            "latestAction": {
+                "actionDate": "2006-10-02",
+                "text": "Referred to the Subcommittee on Commerce, Trade and Consumer Protection."
+            },
+            "number": "6244",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "To amend the Hobby Protection Act to require that imitation Civil War items be clearly marked as copies.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/6244?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-11-10",
+            "latestAction": {
+                "actionDate": "2006-02-06",
+                "text": "Referred to the Subcommittee on Immigration, Border Security, and Claims."
+            },
+            "number": "4304",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "To designate the Republic of Korea as a program country under the visa waiver program established under section 217 of the Immigration and Nationality Act.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/4304?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-07-19",
+            "latestAction": {
+                "actionDate": "2005-07-19",
+                "text": "Referred to the House Committee on Resources."
+            },
+            "number": "3349",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/3349?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-04-20",
+            "latestAction": {
+                "actionDate": "2005-04-20",
+                "text": "Referred to the House Committee on Government Reform."
+            },
+            "number": "1739",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "FERS Redeposit Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1739?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-03-17",
+            "latestAction": {
+                "actionDate": "2005-03-22",
+                "text": "Referred to the Subcommittee on Telecommunications and the Internet."
+            },
+            "number": "1420",
+            "policyArea": {
+                "name": "Science, Technology, Communications"
+            },
+            "title": "Families for ED Advertising Decency Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1420?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-03-16",
+            "latestAction": {
+                "actionDate": "2005-03-17",
+                "text": "Referred to the Subcommittee on Highways, Transit and Pipelines."
+            },
+            "number": "1347",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "End D.C. Regional Traffic Gridlock Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1347?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-03-14",
+            "latestAction": {
+                "actionDate": "2005-06-16",
+                "text": "Ordered to be Reported (Amended) by Voice Vote."
+            },
+            "number": "1283",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To provide that transit pass transportation fringe benefits be made available to all qualified Federal employees in the National Capital Region; to allow passenger carriers which are owned or leased by the Government to be used to transport Government employees between their place of employment and mass transit facilities, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1283?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-03-08",
+            "latestAction": {
+                "actionDate": "2005-03-09",
+                "text": "Referred to the Subcommittee on Highways, Transit and Pipelines."
+            },
+            "number": "1173",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "State and Local Predatory Towing Enforcement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1173?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-03-01",
+            "latestAction": {
+                "actionDate": "2005-03-22",
+                "text": "Referred to the Subcommittee on Commerce, Trade and Consumer Protection."
+            },
+            "number": "1013",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Product Safety Notification and Recall Effectiveness Act of 2005",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/1013?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-02-17",
+            "latestAction": {
+                "actionDate": "2005-03-14",
+                "text": "Referred to the Subcommittee on Immigration, Border Security, and Claims."
+            },
+            "number": "993",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Van Lien Tran, Xuan Mai T. Che, Lien Mai Binh Tran, Kim Hoan Thi Nguyen, and Nam V. Nguyen.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/993?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-02-08",
+            "latestAction": {
+                "actionDate": "2005-03-02",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "654",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "50 Caliber Sniper Rifle Reduction Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/654?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-02-01",
+            "latestAction": {
+                "actionDate": "2005-02-01",
+                "text": "Referred to the House Committee on Government Reform."
+            },
+            "number": "480",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend section 8339(p) of title 5, United States Code, to clarify the method for computing certain annuities under the Civil Service Retirement System which are based on part-time service, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/480?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-01-25",
+            "latestAction": {
+                "actionDate": "2005-02-25",
+                "text": "Referred to the Subcommittee on Energy and Air Quality."
+            },
+            "number": "340",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To amend the Clean Air Act to prohibit stationary sources located in ozone nonattainment areas from purchasing nitrogen oxide emission credits under the Environmental Protection Agency's nitrogen oxide trading program without the consent of the State in which such source is located, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/109/hr/340?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2006-04-06",
+            "latestAction": {
+                "actionDate": "2006-04-06",
+                "text": "Referred to the House Committee on Government Reform."
+            },
+            "number": "770",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Commending Christian Relief Services Charities and its founder Eugene L. Krizek on the organization's 20th anniversary.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/770?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-09-08",
+            "latestAction": {
+                "actionDate": "2005-09-20",
+                "text": "Referred to the Subcommittee on Readiness."
+            },
+            "number": "434",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Recognizing the importance of establishing a national memorial at the Pentagon Reservation to commemorate and mourn the terrorist attack against the Pentagon on September 11, 2001.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/434?format=json"
+        },
+        {
+            "congress": 109,
+            "introducedDate": "2005-04-13",
+            "latestAction": {
+                "actionDate": "2005-04-13",
+                "text": "Referred to the House Committee on Armed Services."
+            },
+            "number": "212",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Honoring military children during \"National Month of the Military Child\".",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/109/hres/212?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-06-14",
+            "latestAction": {
+                "actionDate": "2010-07-21",
+                "text": "Forwarded by Subcommittee to Full Committee by Voice Vote ."
+            },
+            "number": "5522",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal Supervisor Training Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/5522?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-03-25",
+            "latestAction": {
+                "actionDate": "2010-05-25",
+                "text": "Referred to the Subcommittee on Federal Workforce, Post Office, and the District of Columbia."
+            },
+            "number": "4979",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend chapters 83 and 84 of title 5, United States Code, to provide for the indexation of deferred annuities; to provide that a survivor annuity be provided to the widow or widower of a former employee who dies after separating from Government service with title to a deferred annuity under the Civil Service Retirement System but before establishing a valid claim therefor, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4979?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-12-14",
+            "latestAction": {
+                "actionDate": "2009-12-14",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "4301",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Iranian Digital Empowerment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4301?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-12-03",
+            "latestAction": {
+                "actionDate": "2009-12-07",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4190",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Endocrine Disruption Prevention Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4190?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-11-06",
+            "latestAction": {
+                "actionDate": "2010-01-04",
+                "text": "Referred to the Subcommittee on Healthy Families and Communities."
+            },
+            "number": "4053",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Healthy Kids Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/4053?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-06-25",
+            "latestAction": {
+                "actionDate": "2009-06-26",
+                "text": "Sponsor introductory remarks on measure. (CR E1595-1596)"
+            },
+            "number": "3060",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to allow certain local tax debts to be collected through the reduction of Federal tax refunds.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/3060?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-06-19",
+            "latestAction": {
+                "actionDate": "2010-04-27",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "2986",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "National Capital Region Land Conservation Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2986?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-06-19",
+            "latestAction": {
+                "actionDate": "2009-06-19",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "2985",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Ambassador's Fund for Strategic Exchanges Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2985?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-06-16",
+            "latestAction": {
+                "actionDate": "2009-06-17",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "2906",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Comprehensive Problem Gambling Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2906?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-05-19",
+            "latestAction": {
+                "actionDate": "2010-12-18",
+                "text": "Became Public Law No: 111-313."
+            },
+            "number": "2480",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Truth in Fur Labeling Act of 2010",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2480?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-29",
+            "latestAction": {
+                "actionDate": "2009-04-30",
+                "text": "Referred to the Subcommittee on Communications, Technology, and the Internet."
+            },
+            "number": "2175",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Families for ED Advertising Decency Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2175?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-27",
+            "latestAction": {
+                "actionDate": "2009-06-04",
+                "text": "Referred to the Subcommittee on Healthy Families and Communities."
+            },
+            "number": "2102",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "United States Public Service Academy Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2102?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-23",
+            "latestAction": {
+                "actionDate": "2009-04-29",
+                "text": "Referred to the Subcommittee on National Parks, Forests and Public Lands."
+            },
+            "number": "2091",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "Plastic Bag Reduction Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2091?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-04-21",
+            "latestAction": {
+                "actionDate": "2009-04-22",
+                "text": "Referred to the Subcommittee on Highways and Transit."
+            },
+            "number": "2010",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "State and Local Predatory Towing Enforcement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/2010?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-03-19",
+            "latestAction": {
+                "actionDate": "2009-04-27",
+                "text": "Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law."
+            },
+            "number": "1651",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "Access to Justice Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1651?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-03-09",
+            "latestAction": {
+                "actionDate": "2009-06-04",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Indian Affairs."
+            },
+            "number": "1385",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1385?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-03-05",
+            "latestAction": {
+                "actionDate": "2009-03-06",
+                "text": "Referred to the Subcommittee on Energy and Environment."
+            },
+            "number": "1342",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Landfill Greenhouse Gas Reduction Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1342?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-02-25",
+            "latestAction": {
+                "actionDate": "2009-06-26",
+                "text": "Referred to the Subcommittee on Federal Workforce, Post Office, and the District of Columbia."
+            },
+            "number": "1198",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Part-Time Federal Employees Equity Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/1198?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-02-10",
+            "latestAction": {
+                "actionDate": "2009-02-10",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "958",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend title 5, United States Code, to make unused sick leave creditable, for purposes of the Federal Employees' Retirement System, in the same manner as provided for under the Civil Service Retirement System.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/958?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-02-03",
+            "latestAction": {
+                "actionDate": "2009-05-04",
+                "text": "Referred to the Subcommittee on Federal Workforce, Post Office, and the District of Columbia."
+            },
+            "number": "828",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "FERS Redeposit Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/828?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-01-27",
+            "latestAction": {
+                "actionDate": "2009-01-28",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "722",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "ChiPACC Act of 2009",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/111/hr/722?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-09-23",
+            "latestAction": {
+                "actionDate": "2010-09-23",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "1658",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Expressing condolences to the families and friends of the 72 people who died in Mexico while migrating to the United States in search of better lives, and condemning the criminal network responsible for their massacre.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/1658?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-05-26",
+            "latestAction": {
+                "actionDate": "2010-12-08",
+                "actionTime": "14:49:04",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "1402",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Recognizing the 50th anniversary of the National Council for International Visitors, and expressing support for designation of February 16, 2011, as \"Citizen Diplomacy Day\".",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/1402?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-05-11",
+            "latestAction": {
+                "actionDate": "2010-06-18",
+                "text": "Referred to the Subcommittee on Department Operations, Oversight, Nutrition and Forestry."
+            },
+            "number": "1348",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Recognizing the vision of John W. Weeks and his contribution to the conservation effort with the passage of the Weeks Act in 1911, a significant conservation achievement in the history of the United States.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/1348?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-05-05",
+            "latestAction": {
+                "actionDate": "2010-09-29",
+                "actionTime": "16:02:30",
+                "text": "The title of the measure was amended. Agreed to without objection."
+            },
+            "number": "1326",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Calling on the Government of Japan to address the urgent problem of abduction to and retention of United States citizen children in Japan, to work closely with the Government of the United States to return these children to their custodial parent or to the original jurisdiction for a custody determination in the United States, to provide left-behind parents immediate access to their children, and to adopt without delay the 1980 Hague Convention on the Civil Aspects of International Child Abduction.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/1326?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-04-22",
+            "latestAction": {
+                "actionDate": "2010-04-22",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "1298",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Encouraging efforts to reduce the use of paper and plastic bags.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/1298?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-03-16",
+            "latestAction": {
+                "actionDate": "2010-05-11",
+                "actionTime": "14:58:22",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "1187",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Expressing the sense of the House of Representatives with respect to raising public awareness of and helping to prevent attacks against Federal employees while engaged in or on account of the performance of official duties.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/1187?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2010-02-22",
+            "latestAction": {
+                "actionDate": "2010-03-22",
+                "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education."
+            },
+            "number": "1093",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Expressing support for designation of March as \"National Whole Child Month\".",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/1093?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-07-30",
+            "latestAction": {
+                "actionDate": "2009-10-07",
+                "actionTime": "14:03:58",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "701",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To recognize the Dyke Marsh Wildlife Preserve as a unique and precious ecosystem.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/701?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-06-19",
+            "latestAction": {
+                "actionDate": "2009-06-19",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "569",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Supporting the work of citizen diplomacy organizations and encouraging the convening of a Presidential Summit on Global Citizen Diplomacy.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/569?format=json"
+        },
+        {
+            "congress": 111,
+            "introducedDate": "2009-06-04",
+            "latestAction": {
+                "actionDate": "2009-06-04",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "511",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Commending efforts to teach the history of both Israelis and Palestinians to students in Israel and the West Bank in order to foster mutual understanding, respect, and tolerance.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/111/hres/511?format=json"
+        },
+        {
+            "amendmentNumber": "869",
+            "congress": 110,
+            "introducedDate": "2007-10-30",
+            "latestAction": {
+                "actionDate": "2007-10-30",
+                "actionTime": "13:04:55",
+                "text": "On agreeing to the Moran (VA) amendment (A006) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/hamdt/869?format=json"
+        },
+        {
+            "amendmentNumber": "197",
+            "congress": 110,
+            "introducedDate": "2007-05-16",
+            "latestAction": {
+                "actionDate": "2007-05-17",
+                "actionTime": "11:57:38",
+                "text": "On agreeing to the Moran (VA) amendment (A015) Agreed to by recorded vote: 220 - 208 (Roll no. 370). (consideration: CR H5346-5347; text: CR H5346)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/110/hamdt/197?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-12-10",
+            "latestAction": {
+                "actionDate": "2008-12-10",
+                "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "7335",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend title 31, United States Code, to allow certain local tax debt to be collected through the reduction of Federal tax refunds.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/7335?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-09-17",
+            "latestAction": {
+                "actionDate": "2008-09-17",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "6931",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "ChiPACC Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6931?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-09-17",
+            "latestAction": {
+                "actionDate": "2008-09-30",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "6930",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 10, United States Code, to authorize extended benefits for certain autistic dependents of certain retirees.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6930?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-06-05",
+            "latestAction": {
+                "actionDate": "2008-11-19",
+                "text": "Referred to the Subcommittee on Livestock, Dairy, and Poultry."
+            },
+            "number": "6202",
+            "policyArea": {
+                "name": "Agriculture and Food"
+            },
+            "title": "Farm Animals Anti-Cruelty Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6202?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-05-21",
+            "latestAction": {
+                "actionDate": "2008-07-28",
+                "text": "Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law."
+            },
+            "number": "6118",
+            "policyArea": {
+                "name": "Law"
+            },
+            "title": "To amend the charter of the Gold Star Wives of America to remove the restriction on the federally chartered corporation, and directors and officers of the corporation, attempting to influence legislation.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/6118?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-04-29",
+            "latestAction": {
+                "actionDate": "2008-05-12",
+                "text": "Referred to the Subcommittee on Federal Workforce, Post Office, and the District of Columbia."
+            },
+            "number": "5922",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend title 5, United States Code, to provide that a Federal employee may use up to 2 days of sick leave a year in the performance of community service.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/5922?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-03-10",
+            "latestAction": {
+                "actionDate": "2008-03-10",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "5572",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "Helping Communities Act of 2008",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/5572?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-03-10",
+            "latestAction": {
+                "actionDate": "2008-03-13",
+                "text": "Referred to the Subcommittee on Federal Workforce, Post Office, and the District of Columbia."
+            },
+            "number": "5573",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend title 5, United States Code, to provide for a lump-sum payment for certain Federal employees who retire with a substantial amount of unused sick leave for which they would not otherwise receive any compensation or benefit, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/5573?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-11-08",
+            "latestAction": {
+                "actionDate": "2007-11-08",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "4125",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "To amend the Hobby Protection Act to require that imitation Civil War items be clearly marked as copies.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/4125?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-06-19",
+            "latestAction": {
+                "actionDate": "2008-07-24",
+                "text": "Placed on the Union Calendar, Calendar No. 489."
+            },
+            "number": "2780",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend section 8339(p) of title 5, United States Code, to clarify the method for computing certain annuities under the Civil Service Retirement System which are based on part-time service, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/2780?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-05-24",
+            "latestAction": {
+                "actionDate": "2007-06-12",
+                "text": "Referred to the Subcommittee on Federal Workforce, Post Office, and the District of Columbia."
+            },
+            "number": "2533",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "FERS Redeposit Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/2533?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-05-08",
+            "latestAction": {
+                "actionDate": "2007-06-14",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "2219",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Veterans Suicide Prevention Hotline Act of 2007",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/2219?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-03-23",
+            "latestAction": {
+                "actionDate": "2007-06-27",
+                "text": "Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness."
+            },
+            "number": "1671",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Public Service Academy Act of 2007",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/1671?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-03-06",
+            "latestAction": {
+                "actionDate": "2007-04-03",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "1354",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Lane Evans Veterans Health and Benefits Improvement Act of 2007",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/1354?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-03-01",
+            "latestAction": {
+                "actionDate": "2008-09-25",
+                "text": "Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 110-686."
+            },
+            "number": "1294",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2007",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/1294?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-02-07",
+            "latestAction": {
+                "actionDate": "2007-02-20",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "891",
+            "policyArea": {
+                "name": "Foreign Trade and International Finance"
+            },
+            "title": "Dog and Cat Fur Prohibition Enforcement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/110/hr/891?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-07-15",
+            "latestAction": {
+                "actionDate": "2008-07-15",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "1347",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Praising relief efforts by Chinese individuals and nongovernmental organizations to assist victims of the recent earthquake in the People's Republic of China, recognizing the Chinese Government for allowing such efforts to proceed and for allowing open media coverage of the earthquake, and encouraging the Chinese Government to continue this new era of openness.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/1347?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-02-07",
+            "latestAction": {
+                "actionDate": "2008-02-29",
+                "text": "Referred to the Subcommittee on Terrorism, Unconventional Threats and Capabilities."
+            },
+            "number": "968",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Recognizing the 50th anniversary of the Defense Advanced Research Projects Agency.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/968?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-11-08",
+            "latestAction": {
+                "actionDate": "2007-11-13",
+                "actionTime": "17:41:04",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "808",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Commemorating the 50th Anniversary of the Metropolitan Washington Council of Governments.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/808?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-11-09",
+            "latestAction": {
+                "actionDate": "2007-11-09",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "815",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Expressing the sense of the House of Representatives that staff-led tours of the United States Capitol should be preserved.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/815?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-10-17",
+            "latestAction": {
+                "actionDate": "2008-02-01",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "753",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Honoring and thanking the soldiers that served the top secret units for the United States Military Intelligence Service under the project name \"Post Office Box 1142\".",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/753?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-07-25",
+            "latestAction": {
+                "actionDate": "2007-10-29",
+                "actionTime": "19:04:06",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "573",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Recognizing and commending the efforts of the United States public and advocacy groups to raise awareness about and help end the worsening humanitarian crisis and genocide in Darfur, Sudan, and for other purposes.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/573?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-03-29",
+            "latestAction": {
+                "actionDate": "2007-04-24",
+                "actionTime": "15:00:03",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "289",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Expressing the sense of the House of Representatives with respect to raising awareness and encouraging prevention of sexual assault in the United States and supporting the goals and ideals of National Sexual Assault Awareness and Prevention Month.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/289?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-03-23",
+            "latestAction": {
+                "actionDate": "2008-04-08",
+                "actionTime": "14:36:16",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "265",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Honoring military children during \"National Month of the Military Child\".",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/265?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2007-02-12",
+            "latestAction": {
+                "actionDate": "2007-02-12",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "156",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Honoring and thanking John Thomas Caulfield for a life-long professional commitment to public service and for his years of dedicated service on behalf of the United States Capitol Police, the Capitol Police Board, and the Congress.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/110/hres/156?format=json"
+        },
+        {
+            "congress": 110,
+            "introducedDate": "2008-01-29",
+            "latestAction": {
+                "actionDate": "2008-03-06",
+                "text": "Received in the Senate and referred to the Committee on the Judiciary."
+            },
+            "number": "286",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Expressing the sense of Congress that Earl Lloyd should be recognized and honored for breaking the color barrier and becoming the first African American to play in the National Basketball Association League 58 years ago.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/286?format=json"
+        },
+        {
+            "amendmentNumber": "762",
+            "congress": 108,
+            "introducedDate": "2004-09-15",
+            "latestAction": {
+                "actionDate": "2004-09-15",
+                "actionTime": "12:51:35",
+                "text": "On agreeing to the Moran (VA) amendment (A012) Failed by recorded vote: 181 - 223 (Roll no. 456). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/108/hamdt/762?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-09-29",
+            "latestAction": {
+                "actionDate": "2004-09-30",
+                "text": "Sponsor introductory remarks on measure. (CR E1759-1760)"
+            },
+            "number": "5178",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Driver's License Improvement and Security Act of 2004",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/5178?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-09-23",
+            "latestAction": {
+                "actionDate": "2004-10-30",
+                "text": "Became Public Law No: 108-407."
+            },
+            "number": "5133",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To designate the facility of the United States Postal Service located at 11110 Sunset Hills Road in Reston, Virginia, as the \"Martha Pennino Post Office Building\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/5133?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-07-19",
+            "latestAction": {
+                "actionDate": "2004-07-20",
+                "text": "Referred to the Subcommittee on Highways, Transit and Pipelines."
+            },
+            "number": "4860",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To amend title 49, United States Code, to allow States to regulate tow truck operations.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/4860?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-05-05",
+            "latestAction": {
+                "actionDate": "2004-05-20",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "4292",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "50 Caliber Sniper Rifle Reduction Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/4292?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-11-20",
+            "latestAction": {
+                "actionDate": "2003-12-17",
+                "text": "Referred to the Subcommittee on Energy and Air Quality."
+            },
+            "number": "3555",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "To amend the Clean Air Act to prohibit stationary sources located in ozone nonattainment areas from purchasing nitrogen oxide emission credits under the Environmental Protection Agency's nitrogen oxide trading program without the consent of the State in which such source is located, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/3555?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-07-25",
+            "latestAction": {
+                "actionDate": "2003-08-25",
+                "text": "Referred to the Subcommittee on Technology, Information Policy, Intergovernmental Relations and the Census."
+            },
+            "number": "2958",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend title 31, United States Code, to allow certain State and local tax debt to be collected through the reduction of Federal tax refunds.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2958?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-07-24",
+            "latestAction": {
+                "actionDate": "2003-07-25",
+                "text": "Referred to the Subcommittee on Railroads."
+            },
+            "number": "2882",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Metropolitan Washington Regional Transportation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2882?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-07-15",
+            "latestAction": {
+                "actionDate": "2003-07-22",
+                "text": "Referred to the Subcommittee on Civil Service and Agency Organization."
+            },
+            "number": "2748",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "FERS Redeposit Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2748?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-05-21",
+            "latestAction": {
+                "actionDate": "2003-06-02",
+                "text": "Referred to the Subcommittee on Civil Service and Agency Organization."
+            },
+            "number": "2191",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend section 8339(p) of title 5, United States Code, to clarify the method for computing certain annuities under the Civil Service Retirement System which are based on part-time service, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/2191?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-05-01",
+            "latestAction": {
+                "actionDate": "2003-05-07",
+                "text": "Executive Comment Requested from Interior."
+            },
+            "number": "1938",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/1938?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-03-11",
+            "latestAction": {
+                "actionDate": "2003-03-17",
+                "text": "Referred to the Subcommittee on Commerce, Trade and Consumer Protection."
+            },
+            "number": "1197",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Product Safety Notification and Recall Effectiveness Act of 2003",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/1197?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-03-06",
+            "latestAction": {
+                "actionDate": "2004-09-09",
+                "text": "Placed on the Union Calendar, Calendar No. 412."
+            },
+            "number": "1151",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To provide that transit pass transportation fringe benefits be made available to all qualified Federal employees in the National Capital Region; to allow passenger carriers which are owned or leased by the Government to be used to transport Government employees between their place of employment and mass transit facilities, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/108/hr/1151?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2004-03-10",
+            "latestAction": {
+                "actionDate": "2004-10-06",
+                "text": "Placed on the House Calendar, Calendar No. 240."
+            },
+            "number": "556",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Congratulating the United States Geological Survey on its 125th Anniversary.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/108/hres/556?format=json"
+        },
+        {
+            "congress": 108,
+            "introducedDate": "2003-09-04",
+            "latestAction": {
+                "actionDate": "2003-09-05",
+                "text": "Referred to the Subcommittee on Water Resources and Environment."
+            },
+            "number": "272",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "Expressing the sense of the Congress regarding the 75th anniversary of the Water Environment Federation.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/108/hconres/272?format=json"
+        },
+        {
+            "amendmentNumber": "556",
+            "congress": 107,
+            "introducedDate": "2002-07-24",
+            "latestAction": {
+                "actionDate": "2002-07-24",
+                "actionTime": "13:52:38",
+                "text": "On agreeing to the Moran (VA) amendment (A009) Agreed to by recorded vote: 261 - 166 (Roll no. 336). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/hamdt/556?format=json"
+        },
+        {
+            "amendmentNumber": "547",
+            "congress": 107,
+            "introducedDate": "2002-07-18",
+            "latestAction": {
+                "actionDate": "2002-07-18",
+                "actionTime": "15:59:08",
+                "text": "On agreeing to the Moran (VA) amendment (A001) Failed by recorded vote: 206 - 213 (Roll no. 320). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/hamdt/547?format=json"
+        },
+        {
+            "amendmentNumber": "189",
+            "congress": 107,
+            "introducedDate": "2001-07-18",
+            "latestAction": {
+                "actionDate": "2001-07-18",
+                "actionTime": "21:18:32",
+                "text": "On agreeing to the Moran (VA) amendment (A023) Failed by recorded vote: 161 - 268 (Roll no. 244). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/107/hamdt/189?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-05-01",
+            "latestAction": {
+                "actionDate": "2002-05-23",
+                "text": "Referred to the Subcommittee on Research."
+            },
+            "number": "4633",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Driver's License Modernization Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/4633?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2002-01-29",
+            "latestAction": {
+                "actionDate": "2002-02-04",
+                "text": "Referred to the Subcommittee on Commerce, Trade and Consumer Protection."
+            },
+            "number": "3658",
+            "policyArea": {
+                "name": "Commerce"
+            },
+            "title": "Product Safety Notification and Recall Effectiveness Act of 2002",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3658?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-11-28",
+            "latestAction": {
+                "actionDate": "2001-11-29",
+                "text": "Referred to the Subcommittee on Railroads."
+            },
+            "number": "3366",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Metropolitan Washington Regional Transportation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3366?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-11-08",
+            "latestAction": {
+                "actionDate": "2001-11-08",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3261",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to expand the offset against overpayments to include all State and local taxes owed by any person, whether or not a resident of the State seeking the offset, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3261?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-10-04",
+            "latestAction": {
+                "actionDate": "2002-01-28",
+                "text": "Referred to the Subcommittee on Military Installations and Facilities."
+            },
+            "number": "3036",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To authorize the Secretary of Defense to establish a memorial on the Arlington Naval Annex to the victims of the terrorist attack on the Pentagon.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/3036?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-06-27",
+            "latestAction": {
+                "actionDate": "2002-09-25",
+                "text": "Committee Hearings Held."
+            },
+            "number": "2345",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2345?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-05-22",
+            "latestAction": {
+                "actionDate": "2001-06-06",
+                "text": "Referred to the Subcommittee on the Civil Service and Agency Organization."
+            },
+            "number": "1939",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "FERS Redeposit Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1939?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-05-08",
+            "latestAction": {
+                "actionDate": "2001-12-21",
+                "text": "Became Public Law No: 107-92."
+            },
+            "number": "1761",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To designate the facility of the United States Postal Service located at 8588 Richmond Highway in Alexandria, Virginia, as the `Herb Harris Post Office Building'.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1761?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-04-04",
+            "latestAction": {
+                "actionDate": "2001-05-21",
+                "text": "Referred to the Subcommittee on the Civil Service and Agency Organization."
+            },
+            "number": "1496",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To allow credit under the Federal Employees' Retirement System for certain Government service which was performed abroad after December 31, 1988, and before May 24, 1998.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1496?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-03-20",
+            "latestAction": {
+                "actionDate": "2001-03-28",
+                "text": "Executive Comment Requested from DOD."
+            },
+            "number": "1120",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "National Museum of the United States Army Site Act of 2001",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/1120?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-01-03",
+            "latestAction": {
+                "actionDate": "2001-02-13",
+                "text": "Referred to the Subcommittee on the Civil Service and Agency Organization."
+            },
+            "number": "136",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend section 8339(p) of title 5, United States Code, to clarify the method for computing certain annuities under the Civil Service Retirement System which are based (in whole or in part) on part-time service, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/136?format=json"
+        },
+        {
+            "congress": 107,
+            "introducedDate": "2001-01-03",
+            "latestAction": {
+                "actionDate": "2001-02-13",
+                "text": "Referred to the Subcommittee on the Civil Service and Agency Organization."
+            },
+            "number": "135",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To require that the same transit pass transportation fringe benefits that are currently being offered to certain executive branch employees in the National Capital Region be extended to other similarly situated Federal employees.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/107/hr/135?format=json"
+        },
+        {
+            "amendmentNumber": "1037",
+            "congress": 106,
+            "introducedDate": "2000-07-26",
+            "latestAction": {
+                "actionDate": "2000-07-26",
+                "actionTime": "15:53:34",
+                "text": "Mr. Istook raised a point of order against the Moran (VA) amendment (A004). Mr. Istook stated that the amendment sought to amend portions of the bill not yet read for amendment and as such, was not in order. The Chair sustained the point of order. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/1037?format=json"
+        },
+        {
+            "amendmentNumber": "1035",
+            "congress": 106,
+            "introducedDate": "2000-07-26",
+            "latestAction": {
+                "actionDate": "2000-07-26",
+                "actionTime": "15:09:53",
+                "text": "Mr. Istook raised a point of order against the Moran (VA) amendment (A002). Mr. Istook stated that the amendment sought to amend portions of the bill not yet read for amendment and as such, was out of order. The Chair sustained the point of order. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/1035?format=json"
+        },
+        {
+            "amendmentNumber": "584",
+            "congress": 106,
+            "introducedDate": "2000-02-16",
+            "latestAction": {
+                "actionDate": "2000-02-16",
+                "actionTime": "13:00:11",
+                "text": "On agreeing to the Moran (VA) amendment (A002) Agreed to by voice vote. (text: CR H478)"
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/584?format=json"
+        },
+        {
+            "amendmentNumber": "173",
+            "congress": 106,
+            "introducedDate": "1999-06-15",
+            "latestAction": {
+                "actionDate": "1999-06-15",
+                "actionTime": "19:17:10",
+                "text": "On agreeing to the Moran (VA) amendment (A006) Failed by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/173?format=json"
+        },
+        {
+            "amendmentNumber": "81",
+            "congress": 106,
+            "introducedDate": "1999-05-12",
+            "latestAction": {
+                "actionDate": "1999-05-12",
+                "actionTime": "13:14:16",
+                "text": "On agreeing to the Moran (VA) amendment (A002) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/81?format=json"
+        },
+        {
+            "amendmentNumber": "55",
+            "congress": 106,
+            "introducedDate": "1999-05-05",
+            "latestAction": {
+                "actionDate": "1999-05-05",
+                "actionTime": "14:04:14",
+                "text": "On agreeing to the Moran (VA) amendment (A002) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/55?format=json"
+        },
+        {
+            "amendmentNumber": "56",
+            "congress": 106,
+            "introducedDate": "1999-05-05",
+            "latestAction": {
+                "actionDate": "1999-05-05",
+                "actionTime": "16:55:58",
+                "text": "On agreeing to the Moran (VA) amendment (A003) Agreed to by recorded vote: 373 - 47 (Roll no. 111). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/106/hamdt/56?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-10-30",
+            "latestAction": {
+                "actionDate": "2000-11-13",
+                "text": "Referred to the Subcommittee on Civil Service."
+            },
+            "number": "5605",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To require that the same transit pass transportation fringe benefits that are currently being offered to certain executive branch employees in the National Capital Region be extended to other similarly situated Federal employees.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/5605?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-07-27",
+            "latestAction": {
+                "actionDate": "2000-08-11",
+                "text": "Executive Comment Requested from Interior."
+            },
+            "number": "5073",
+            "policyArea": {
+                "name": "Native Americans"
+            },
+            "title": "Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2000",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/5073?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-07-25",
+            "latestAction": {
+                "actionDate": "2000-07-26",
+                "text": "Referred to the Subcommittee on Ground Transportation."
+            },
+            "number": "4955",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To amend title 49, United States Code, to allow States to regulate tow truck operations.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4955?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-07-12",
+            "latestAction": {
+                "actionDate": "2000-11-01",
+                "text": "Became Public Law No: 106-412."
+            },
+            "number": "4835",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "To authorize the exchange of land between the Secretary of the Interior and the Director of Central Intelligence at the George Washington Memorial Parkway in McLean, Virginia, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4835?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "2000-05-25",
+            "latestAction": {
+                "actionDate": "2000-06-06",
+                "text": "Referred to the Subcommittee on Civil Service."
+            },
+            "number": "4569",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend section 8339(p) of title 5, United States Code, to clarify the method for computing certain annuities under the Civil Service Retirement System which are based (in whole or in part) on part-time service, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/4569?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-11-04",
+            "latestAction": {
+                "actionDate": "2000-03-28",
+                "text": "Executive Comment Requested from DOD."
+            },
+            "number": "3228",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To name the building at 8725 John J. Kingman Road, Fort Belvoir, Virginia, as the \"Andrew T. McNamara Building\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/3228?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-08-03",
+            "latestAction": {
+                "actionDate": "1999-08-04",
+                "text": "Referred to the Subcommittee on Ground Transportation."
+            },
+            "number": "2688",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Metropolitan Washington Regional Transportation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/2688?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-05-24",
+            "latestAction": {
+                "actionDate": "1999-06-17",
+                "text": "Referred to the Subcommittee on Military Installations and Facilities."
+            },
+            "number": "1912",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "National Museum of the United States Army Site Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/1912?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-24",
+            "latestAction": {
+                "actionDate": "1999-02-24",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "838",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to allow employers a credit against income tax for information technology training expenses paid or incurred by the employer, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/838?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-02-11",
+            "latestAction": {
+                "actionDate": "1999-03-05",
+                "text": "Referred to the Subcommittee on Postsecondary Education, Training and Life-Long Learning."
+            },
+            "number": "733",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Regional Skills Training Alliances Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/733?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-01-06",
+            "latestAction": {
+                "actionDate": "1999-01-07",
+                "text": "Sponsor introductory remarks on measure. (CR E33-34)"
+            },
+            "number": "204",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to allow employers a credit against income tax for high technology job training expenses.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/204?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-01-06",
+            "latestAction": {
+                "actionDate": "1999-08-04",
+                "text": "Unfavorable Executive Comment Received from DOD."
+            },
+            "number": "205",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Health Care Commitment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/205?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-01-06",
+            "latestAction": {
+                "actionDate": "1999-02-05",
+                "text": "Referred to the Subcommittee on Postsecondary Education, Training and Life-Long Learning."
+            },
+            "number": "203",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "To amend the Job Training Partnership Act to allow certain funds under that Act to be used for payment of incentive bonuses to certain jobs training providers that place large percentages of individuals in occupations for which a high demand exists.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/203?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-01-06",
+            "latestAction": {
+                "actionDate": "1999-01-20",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "199",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Children's Environmental Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/199?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-01-06",
+            "latestAction": {
+                "actionDate": "1999-02-05",
+                "text": "Referred to the Subcommittee on Postsecondary Education, Training and Life-Long Learning."
+            },
+            "number": "200",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Regional Skills Training Alliances Act of 1999",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/200?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-01-06",
+            "latestAction": {
+                "actionDate": "1999-02-05",
+                "text": "Referred to the Subcommittee on Postsecondary Education, Training and Life-Long Learning."
+            },
+            "number": "201",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "To amend the Job Training Partnership Act to establish regional private industry councils for labor market areas that are located in more than one State, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/106/hr/201?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-01-06",
+            "latestAction": {
+                "actionDate": "1999-06-30",
+                "text": "Forwarded by Subcommittee to Full Committee by Voice Vote."
+            },
+            "number": "17",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Concerning the extradition to the United States of Salvadorans.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/106/hres/17?format=json"
+        },
+        {
+            "congress": 106,
+            "introducedDate": "1999-06-15",
+            "latestAction": {
+                "actionDate": "2000-10-04",
+                "text": "Received in the Senate."
+            },
+            "number": "133",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Recognizing the severity of the disease of colon cancer, the preventable nature of the disease, and the need for education in the areas of prevention and early detection, and for other purposes.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/106/hconres/133?format=json"
+        },
+        {
+            "amendmentNumber": "772",
+            "congress": 102,
+            "introducedDate": "1992-07-29",
+            "latestAction": {
+                "actionDate": "1992-07-29",
+                "actionTime": "22:51:36",
+                "text": "On agreeing to the Moran amendment (A011) Agreed to by recorded vote: 238 - 166 (Roll no. 341). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/772?format=json"
+        },
+        {
+            "amendmentNumber": "392",
+            "congress": 102,
+            "introducedDate": "1991-11-04",
+            "latestAction": {
+                "actionDate": "1991-11-04",
+                "actionTime": "18:29:26",
+                "text": "On agreeing to the Moran amendment (A019) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/102/hamdt/392?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-10-05",
+            "latestAction": {
+                "actionDate": "1992-10-08",
+                "text": "Referred to the Subcommittee on Compensation and Employee Benefits."
+            },
+            "number": "6149",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend title 5, United States Code, with respect to the rate of interest on deductions from pay under the Civil Service Retirement System after performing sufficient service to earn the maximum annuity allowable.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/6149?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-06-24",
+            "latestAction": {
+                "actionDate": "1992-06-30",
+                "text": "Referred to the Subcommittee on Census and Population."
+            },
+            "number": "5478",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To require that, in the administration of any benefits program established by or under Federal law which requires the use of data obtained in the most recent decennial census, the 1990 adjusted census data be considered the official data for such census.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5478?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-07-02",
+            "latestAction": {
+                "actionDate": "1992-07-15",
+                "text": "Referred to the Subcommittee on Administrative Law and Governmental Relations."
+            },
+            "number": "5545",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Fiscal Accountability and Impact Reform Act (FAIR Act)",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5545?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-06-24",
+            "latestAction": {
+                "actionDate": "1992-10-23",
+                "text": "Became Public Law No: 102-448."
+            },
+            "number": "5479",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To designate the facility of the United States Postal Service located at 1100 Wythe Street in Alexandria, Virginia, as the \"Helen Day United States Post Office Building\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5479?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-06-24",
+            "latestAction": {
+                "actionDate": "1992-06-26",
+                "text": "Referred to the Subcommittee on Census and Population."
+            },
+            "number": "5477",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend title 13, United States Code, to require that the population characteristics reflected in interim data collected by the Secretary of Commerce between decennial censuses include data relating to urban, rural, below-poverty, and farming populations.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5477?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-05-26",
+            "latestAction": {
+                "actionDate": "1992-06-05",
+                "text": "Referred to the Subcommittee on Transportation and Hazardous Materials."
+            },
+            "number": "5264",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Aboveground Storage Tank Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5264?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-05-26",
+            "latestAction": {
+                "actionDate": "1992-09-18",
+                "text": "Referred to Subcommittee on Courts and Administrative Practice."
+            },
+            "number": "5265",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Terrill W. Ramsey.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/5265?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-03-26",
+            "latestAction": {
+                "actionDate": "1992-05-12",
+                "text": "Referred to the Subcommittee on Civil and Constitutional Rights."
+            },
+            "number": "4599",
+            "policyArea": {
+                "name": "Civil Rights and Liberties, Minority Issues"
+            },
+            "title": "Driver's License Information Protection Act of 1992",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4599?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-03-11",
+            "latestAction": {
+                "actionDate": "1992-04-01",
+                "text": "Referred to the Subcommittee on Housing and Community Development."
+            },
+            "number": "4423",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "Homeowners' Equity Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4423?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-02-19",
+            "latestAction": {
+                "actionDate": "1992-03-18",
+                "text": "Referred to the Subcommittee on Crime and Criminal Justice."
+            },
+            "number": "4270",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Law Enforcement Responsibility Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/4270?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-10-17",
+            "latestAction": {
+                "actionDate": "1991-10-25",
+                "text": "Referred to the Subcommittee on Transportation and Hazardous Materials."
+            },
+            "number": "3582",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Metropolitan Washington Waste Management Study Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/3582?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1991-06-04",
+            "latestAction": {
+                "actionDate": "1992-04-23",
+                "text": "Referred to the Subcommittee on Crime and Criminal Justice."
+            },
+            "number": "2537",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Law Enforcement Responsibility Act of 1991",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/102/hr/2537?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-06-18",
+            "latestAction": {
+                "actionDate": "1992-06-25",
+                "text": "Referred to the Subcommittee on Fiscal Affairs and Health."
+            },
+            "number": "510",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Disapproving the action of the District of Columbia Council in approving the Omnibus Budget Support Temporary Act of 1992.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/102/hjres/510?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-06-03",
+            "latestAction": {
+                "actionDate": "1992-07-14",
+                "text": "Referred to the Subcommittee on Economic and Commercial Law."
+            },
+            "number": "501",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Proposing an amendment to the Constitution of the United States to provide for representation of the District of Columbia in the Congress.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/102/hjres/501?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-02-04",
+            "latestAction": {
+                "actionDate": "1992-04-28",
+                "text": "Became Public Law No: 102-277."
+            },
+            "number": "402",
+            "policyArea": {
+                "name": "Public Lands and Natural Resources"
+            },
+            "title": "Approving the location of a memorial to George Mason.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/102/hjres/402?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-02-27",
+            "latestAction": {
+                "actionDate": "1992-05-11",
+                "text": "Became Public Law No: 102-280."
+            },
+            "number": "430",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To designate May 4, 1992, through May 10, 1992, as \"Public Service Recognition Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/102/hjres/430?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-02-26",
+            "latestAction": {
+                "actionDate": "1992-03-11",
+                "text": "Referred to the Subcommittee on Europe and the Middle East."
+            },
+            "number": "380",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Condemning the forced repatriation of Vietnamese refugees in Hong Kong.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/102/hres/380?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-01-03",
+            "latestAction": {
+                "actionDate": "1992-01-17",
+                "text": "Referred to the Subcommittee on Europe and the Middle East."
+            },
+            "number": "322",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Condemning the treatment of hostages William F. Buckley, Colonel William Higgins, USMC, and Peter Kilburn.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/102/hres/322?format=json"
+        },
+        {
+            "congress": 102,
+            "introducedDate": "1992-05-26",
+            "latestAction": {
+                "actionDate": "1992-06-10",
+                "text": "Referred to the Subcommittee on Human Rights and International Organizations."
+            },
+            "number": "324",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "Expressing the sense of the Congress that women's soccer should be a medal sport at the 1996 centennial Olympic games in Atlanta, Georgia.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/102/hconres/324?format=json"
+        },
+        {
+            "amendmentNumber": "350",
+            "congress": 103,
+            "introducedDate": "1993-10-07",
+            "latestAction": {
+                "actionDate": "1993-10-07",
+                "actionTime": "13:16:36",
+                "text": "On agreeing to the Moran amendment (A008) Failed by recorded vote: 110 - 294 (Roll No. 489). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/103/hamdt/350?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-07-27",
+            "latestAction": {
+                "actionDate": "1994-09-16",
+                "text": "Referred to the Subcommittee on Select Education and Civil Rights."
+            },
+            "number": "4841",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Public Health Improvement Act of 1994",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4841?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-07-13",
+            "latestAction": {
+                "actionDate": "1994-07-13",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4748",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to allow the Internal Revenue Service to prescribe and update a standard mileage rate for the charitable use of a passenger automobile.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4748?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-07-13",
+            "latestAction": {
+                "actionDate": "1994-07-13",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4747",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to allow claims for credits and refunds in certain cases where the statute of limitations is open for the assessment of a deficiency.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4747?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-04-21",
+            "latestAction": {
+                "actionDate": "1994-04-28",
+                "text": "Referred to the Subcommittee on Judiciary and Education."
+            },
+            "number": "4293",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "To require the transfer of the control of the Lorton Correctional Complex to the Bureau of Prisons.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4293?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-03-21",
+            "latestAction": {
+                "actionDate": "1994-03-21",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "4099",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to index the basis of certain assets for purposes of determining gain.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4099?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-03-10",
+            "latestAction": {
+                "actionDate": "1994-06-20",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "4007",
+            "policyArea": {
+                "name": "Water Resources Development"
+            },
+            "title": "To amend the Water Supply Act of 1958 to provide for the funding of capital improvements at the Washington Aqueduct, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/4007?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-10-26",
+            "latestAction": {
+                "actionDate": "1994-04-21",
+                "text": "See H.R.4092."
+            },
+            "number": "3365",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Driver's Privacy Protection Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3365?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-09-29",
+            "latestAction": {
+                "actionDate": "1993-10-12",
+                "text": "Referred to the Subcommittee on Public Buildings and Grounds."
+            },
+            "number": "3181",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To redesignate the J. Edgar Hoover Federal Bureau of Investigation Building located at Ninth and Pennsylvania Avenue, N.W., Washington, D.C., as the Federal Bureau of Investigation Building.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3181?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-09-08",
+            "latestAction": {
+                "actionDate": "1993-09-13",
+                "text": "Executive Comment Requested from DOD."
+            },
+            "number": "3023",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 10, United States Code, to eliminate the disparity between civilian and military retiree cost-of-living adjustments caused by the Omnibus Budget Reconciliation Act 1993.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/3023?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-06-14",
+            "latestAction": {
+                "actionDate": "1994-10-22",
+                "text": "Became Private Law No: 103-7."
+            },
+            "number": "2411",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "For the relief of Leteane Clement Monatsi.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2411?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-06-14",
+            "latestAction": {
+                "actionDate": "1993-11-22",
+                "text": "Text of Measure Incorporated into H.R.2150."
+            },
+            "number": "2412",
+            "policyArea": {
+                "name": "Private Legislation"
+            },
+            "title": "To authorize issuance of a certificate of documentation with appropriate endorsement for the vessel SAILING VESSEL ALEXANDRIA.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2412?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-05-20",
+            "latestAction": {
+                "actionDate": "1993-05-20",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "2227",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to provide that married couples may file a combined return under which each spouse is taxed using the rates applicable to unmarried individuals.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2227?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-05-19",
+            "latestAction": {
+                "actionDate": "1994-02-10",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "2175",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "To amend the Truth in Lending Act to prohibit issuers of credit cards from limiting the ability of governmental agencies to charge fees for honoring credit cards.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/2175?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-16",
+            "latestAction": {
+                "actionDate": "1994-09-14",
+                "text": "Subcommittee Hearings Held."
+            },
+            "number": "1360",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Safe Aboveground Storage Tank Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1360?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-10",
+            "latestAction": {
+                "actionDate": "1994-08-11",
+                "text": "See H.R.4771."
+            },
+            "number": "1295",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "FAIR Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1295?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-03-04",
+            "latestAction": {
+                "actionDate": "1993-03-04",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1230",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to disallow deductions for expenses for advertising tobacco products or alcoholic beverages on television or radio, in newspapers or magazines, or on billboards.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1230?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-02-25",
+            "latestAction": {
+                "actionDate": "1993-07-14",
+                "text": "Referred to the Subcommittee on Crime and Criminal Justice."
+            },
+            "number": "1148",
+            "policyArea": {
+                "name": "Crime and Law Enforcement"
+            },
+            "title": "Law Enforcement Responsibility and Improvement Act of 1993",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/1148?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-02-04",
+            "latestAction": {
+                "actionDate": "1993-02-11",
+                "text": "Referred to the Subcommittee on Civil Service."
+            },
+            "number": "853",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend title 5, United States Code, to provide that career positions in the Senior Executive Service may not be filled, during the period between the date of a presidential election and the next Inauguration Day thereafter, by any current or recently separated political appointee, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/853?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-02-03",
+            "latestAction": {
+                "actionDate": "1993-02-19",
+                "text": "Referred to the Subcommittee on Census, Statistics and Postal Personnel."
+            },
+            "number": "787",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To require that, in the administration of any benefits program established by or under Federal law which requires the use of data obtained in the most recent decennial census, the 1990 adjusted census data be considered the official data for that decennial census.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/103/hr/787?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-04-12",
+            "latestAction": {
+                "actionDate": "1994-04-12",
+                "text": "Referred to the House Committee on Post Office and Civil Service."
+            },
+            "number": "350",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Designating April 1994 as \"National Buy Recycled Materials and Products Month\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/350?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-11-15",
+            "latestAction": {
+                "actionDate": "1993-11-15",
+                "text": "Referred to the House Committee on Post Office and Civil Service."
+            },
+            "number": "293",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To provide for the issuance of a commemorative postage stamp in honor of Captain Francis Gary Powers.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/293?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-02-16",
+            "latestAction": {
+                "actionDate": "1993-02-16",
+                "text": "Referred to the House Committee on Post Office and Civil Service."
+            },
+            "number": "108",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To designate May 3, 1993, through May 9, 1993, as \"Public Service Recognition Week\".",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/103/hjres/108?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-06-16",
+            "latestAction": {
+                "actionDate": "1994-07-19",
+                "text": "Referred to the Subcommittee on Labor-Management Relations."
+            },
+            "number": "256",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Expressing the sense of Congress that any health care reform legislation should preserve the right of bona fide trade and professional associations to continue to offer group health insurance within the framework established to expand comprehensive and affordable health insurance and prevent discriminatory insurance practices.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/103/hconres/256?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1994-03-22",
+            "latestAction": {
+                "actionDate": "1994-04-26",
+                "text": "Referred to the Subcommittee on Health and the Environment."
+            },
+            "number": "229",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Expressing the sense of the Congress that any national comprehensive benefit package that results from health care reform legislation should cover the full range of reproductive health services for women.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/103/hconres/229?format=json"
+        },
+        {
+            "congress": 103,
+            "introducedDate": "1993-01-26",
+            "latestAction": {
+                "actionDate": "1993-02-11",
+                "text": "Referred to the Subcommittee on Europe and the Middle East."
+            },
+            "number": "24",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Concerning the crisis in the former Yugoslavia.",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/103/hconres/24?format=json"
+        },
+        {
+            "amendmentNumber": "823",
+            "congress": 104,
+            "introducedDate": "1995-09-27",
+            "latestAction": {
+                "actionDate": "1995-09-27",
+                "actionTime": "18:36:32",
+                "text": "On agreeing to the Moran amendment (A002) Failed by recorded vote: 195 - 228 (Roll no. 689). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/823?format=json"
+        },
+        {
+            "amendmentNumber": "720",
+            "congress": 104,
+            "introducedDate": "1995-08-03",
+            "latestAction": {
+                "actionDate": "1995-08-03",
+                "actionTime": "12:26:29",
+                "text": "On agreeing to the Moran amendment (A009) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/720?format=json"
+        },
+        {
+            "amendmentNumber": "319",
+            "congress": 104,
+            "introducedDate": "1995-03-23",
+            "latestAction": {
+                "actionDate": "1995-03-23",
+                "actionTime": "13:23:09",
+                "text": "On agreeing to the Moran amendment (A012) Failed by recorded vote: 35 - 395 (Roll no. 262). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/319?format=json"
+        },
+        {
+            "amendmentNumber": "69",
+            "congress": 104,
+            "introducedDate": "1995-01-31",
+            "latestAction": {
+                "actionDate": "1995-01-31",
+                "actionTime": "19:36:39",
+                "text": "On agreeing to the Moran amendment (A058) Failed by recorded vote: 143 - 285 (Roll No. 79). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/69?format=json"
+        },
+        {
+            "amendmentNumber": "49",
+            "congress": 104,
+            "introducedDate": "1995-01-31",
+            "latestAction": {
+                "actionDate": "1995-01-31",
+                "actionTime": "14:02:57",
+                "text": "On agreeing to the Moran amendment (A038) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/49?format=json"
+        },
+        {
+            "amendmentNumber": "139",
+            "congress": 104,
+            "introducedDate": "1995-02-10",
+            "latestAction": {
+                "actionDate": "1995-02-10",
+                "actionTime": "14:37:45",
+                "text": "On agreeing to the Moran amendment (A002) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/139?format=json"
+        },
+        {
+            "amendmentNumber": "81",
+            "congress": 104,
+            "introducedDate": "1995-02-02",
+            "latestAction": {
+                "actionDate": "1995-02-02",
+                "actionTime": "15:42:36",
+                "text": "On agreeing to the Moran amendment (A004) Failed by recorded vote: 119 - 309 (Roll no. 85). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/81?format=json"
+        },
+        {
+            "amendmentNumber": "74",
+            "congress": 104,
+            "introducedDate": "1995-02-01",
+            "latestAction": {
+                "actionDate": "1995-02-01",
+                "actionTime": "15:16:09",
+                "text": "On agreeing to the Moran amendment (A063) Failed by recorded vote: 152 - 278 (Roll no. 82). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/74?format=json"
+        },
+        {
+            "amendmentNumber": "48",
+            "congress": 104,
+            "introducedDate": "1995-01-31",
+            "latestAction": {
+                "actionDate": "1995-01-31",
+                "actionTime": "13:26:30",
+                "text": "On agreeing to the Moran amendment (A037) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/104/hamdt/48?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-06-26",
+            "latestAction": {
+                "actionDate": "1996-07-22",
+                "text": "Executive Comment Requested from DOD."
+            },
+            "number": "3725",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Landmine Removal Assistance Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3725?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-05-23",
+            "latestAction": {
+                "actionDate": "1996-05-30",
+                "text": "Referred to the Subcommittee on Civil Service."
+            },
+            "number": "3532",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal Employment Reduction Assistance Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3532?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-05-16",
+            "latestAction": {
+                "actionDate": "1996-05-21",
+                "text": "Referred to the Subcommittee on Civil Service."
+            },
+            "number": "3483",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federal Personnel Systems Reinvention Act of 1996",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3483?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-05-02",
+            "latestAction": {
+                "actionDate": "1996-05-17",
+                "text": "Referred to the Subcommittee on Housing and Community Opportunity."
+            },
+            "number": "3390",
+            "policyArea": {
+                "name": "Housing and Community Development"
+            },
+            "title": "One Strike You're Out, Part II Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3390?format=json"
+        }
+    ]
+}{
+    "pagination": {
+        "count": 300,
+        "prev": "https://api.congress.gov/v3/member/M000933/sponsored-legislation?offset=0&limit=250&format=json"
+    },
+    "request": {
+        "bioguideId": "m000933",
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "sponsoredLegislation": [
+        {
+            "congress": 104,
+            "introducedDate": "1996-04-24",
+            "latestAction": {
+                "actionDate": "1996-05-10",
+                "text": "Referred to the Subcommittee on Early Childhood, Youth and Families."
+            },
+            "number": "3313",
+            "policyArea": {
+                "name": "Education"
+            },
+            "title": "Goals 2000 Local Autonomy Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3313?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-04-23",
+            "latestAction": {
+                "actionDate": "1996-04-23",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "3294",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Working Children's Human Rights Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3294?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-04-22",
+            "latestAction": {
+                "actionDate": "1996-05-06",
+                "text": "Referred to the Subcommittee on Water Resources and Environment."
+            },
+            "number": "3283",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Aboveground Petroleum Storage Tank Consolidation and Regulatory Improvement Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3283?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-03-20",
+            "latestAction": {
+                "actionDate": "1996-03-25",
+                "text": "Referred to the Subcommittee on Civil Service."
+            },
+            "number": "3129",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend title 5, United States Code, to allow loans under the Thrift Savings Plan to be made for expenses associated with the adoption of a child.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3129?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-03-05",
+            "latestAction": {
+                "actionDate": "1996-03-18",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "3012",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 10, United States Code, to permit covered beneficiaries under the military health care system who are also entitled to medicare to enroll in the Federal Employees Health Benefits program.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/3012?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-02-27",
+            "latestAction": {
+                "actionDate": "1996-02-29",
+                "text": "Referred to the Subcommittee on Civil Service."
+            },
+            "number": "2978",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend chapters 83 and 84 of title 5, United States Code, to provide for measures to preserve the value of deferred annuities over the period of the time between separation from Government service and when payments commence, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2978?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-09-12",
+            "latestAction": {
+                "actionDate": "1995-12-28",
+                "text": "For Further Action See S.965."
+            },
+            "number": "2305",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To designate the United States Courthouse for the Eastern District of Virginia in Alexandria, Virginia, as the \"Albert V. Bryan United States Courthouse\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2305?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-08-02",
+            "latestAction": {
+                "actionDate": "1995-10-02",
+                "text": "Referred to the Subcommittee on Commercial and Administrative Law."
+            },
+            "number": "2170",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Woodrow Wilson Memorial Bridge Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2170?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-08-03",
+            "latestAction": {
+                "actionDate": "1995-08-08",
+                "text": "Referred to the Subcommittee on Civil Service."
+            },
+            "number": "2184",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To amend title 5 of the United States Code to provide for the continuance of pay during lapses in appropriations.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2184?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-07-24",
+            "latestAction": {
+                "actionDate": "1995-07-31",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "2102",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend subchapter II of chapter 73 of title 10, United States Code, to prevent cost-of-living increases in the survivor annuity contributions of uniformed services retirees from becoming effective before related cost-of-living increases in retired pay become payable.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2102?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-07-19",
+            "latestAction": {
+                "actionDate": "1995-07-19",
+                "text": "Referred to the House Committee on Appropriations."
+            },
+            "number": "2069",
+            "policyArea": {
+                "name": "Economics and Public Finance"
+            },
+            "title": "To help avoid the costs and disruptions of agency shutdowns when there is a lapse in appropriations.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2069?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-07-19",
+            "latestAction": {
+                "actionDate": "1996-07-18",
+                "text": "Became Public Law No: 104-161."
+            },
+            "number": "2070",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To provide for the distribution within the United States of the United States Information Agency film entitled \"Fragile Ring of Life\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2070?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-07-13",
+            "latestAction": {
+                "actionDate": "1995-07-17",
+                "text": "Referred to the Subcommittee on Civil Service."
+            },
+            "number": "2033",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "To allow enrollees of the Farm Credit Administration Health Plan to enroll in the Federal Employees Health Benefits Program with a break in coverage.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/2033?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-06-08",
+            "latestAction": {
+                "actionDate": "1995-06-19",
+                "text": "Referred to the Subcommittee on Telecommunications and Finance."
+            },
+            "number": "1807",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Children's Media Protection Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1807?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-05-25",
+            "latestAction": {
+                "actionDate": "1995-06-19",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "1735",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Pediatric Research Initiative Act of 1995",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1735?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-03-08",
+            "latestAction": {
+                "actionDate": "1995-03-24",
+                "text": "Referred to the Subcommittee on Financial Institutions and Consumer Credit."
+            },
+            "number": "1169",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "To amend the Truth in Lending Act to prohibit issuers of credit cards from limiting the ability of Federal, State, and local government agencies to impose fees for honoring credit cards, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1169?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-03-01",
+            "latestAction": {
+                "actionDate": "1995-03-13",
+                "text": "Referred to the Subcommittee on Aviation."
+            },
+            "number": "1101",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To abolish the Board of Review of the Metropolitan Washington Airports Authority, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/1101?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-02-01",
+            "latestAction": {
+                "actionDate": "1995-03-01",
+                "text": "See H.R.1036."
+            },
+            "number": "775",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To abolish the Board of Review of the Metropolitan Washington Airports Authority, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/775?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-17",
+            "latestAction": {
+                "actionDate": "1995-01-17",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "537",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to index the basis of certain assets acquired on or after January 1, 1995, for purposes of determining gain, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/537?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1995-01-04",
+            "latestAction": {
+                "actionDate": "1995-01-23",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "38",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "COLA Equity Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/104/hr/38?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-05-14",
+            "latestAction": {
+                "actionDate": "1996-05-14",
+                "text": "Referred to the House Committee on Standards of Official Conduct."
+            },
+            "number": "433",
+            "policyArea": {
+                "name": "Congress"
+            },
+            "title": "Amending the Rules of the House of Representatives to prohibit a Member, officer, or employee of the House from distributing campaign contributions in the Hall of the House.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/104/hres/433?format=json"
+        },
+        {
+            "congress": 104,
+            "introducedDate": "1996-09-24",
+            "latestAction": {
+                "actionDate": "1996-09-24",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "217",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Concerning human and political rights of the Bosniac people of the Sanjak region of the Federal Republic of Yugoslavia (Serbia/Montenegro).",
+            "type": "HCONRES",
+            "url": "https://api.congress.gov/v3/bill/104/hconres/217?format=json"
+        },
+        {
+            "amendmentNumber": "828",
+            "congress": 105,
+            "introducedDate": "1998-08-04",
+            "latestAction": {
+                "actionDate": "1998-08-04",
+                "actionTime": "16:39:27",
+                "text": "On agreeing to the Moran (VA) amendment (A004) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/828?format=json"
+        },
+        {
+            "amendmentNumber": "870",
+            "congress": 105,
+            "introducedDate": "1998-08-06",
+            "latestAction": {
+                "actionDate": "1998-08-07",
+                "actionTime": "00:15:37",
+                "text": "On agreeing to the Moran (VA) amendment (A008) as modified Failed by recorded vote: 173 - 247 (Roll No. 413). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/870?format=json"
+        },
+        {
+            "amendmentNumber": "863",
+            "congress": 105,
+            "introducedDate": "1998-08-06",
+            "latestAction": {
+                "actionDate": "1998-08-06",
+                "actionTime": "17:21:52",
+                "text": "On agreeing to the Moran (VA) amendment (A001) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/863?format=json"
+        },
+        {
+            "amendmentNumber": "628",
+            "congress": 105,
+            "introducedDate": "1998-05-13",
+            "latestAction": {
+                "actionDate": "1998-05-13",
+                "actionTime": "20:16:22",
+                "text": "On agreeing to the Moran (VA) amendment (A010) Agreed to by voice vote. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/628?format=json"
+        },
+        {
+            "amendmentNumber": "486",
+            "congress": 105,
+            "introducedDate": "1998-02-04",
+            "latestAction": {
+                "actionDate": "1998-02-04",
+                "actionTime": "14:26:11",
+                "text": "Mr. Shuster raised a point of order against the Moran (VA) amendment (A004). Mr. Shuster stated that the content of the amendment was not germane to the bill The Chair sustained the point of order. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/486?format=json"
+        },
+        {
+            "amendmentNumber": "485",
+            "congress": 105,
+            "introducedDate": "1998-02-04",
+            "latestAction": {
+                "actionDate": "1998-02-04",
+                "actionTime": "14:04:23",
+                "text": "Mr. Shuster raised a point of order against the Moran (VA) amendment (A003). Mr. Shuster stated that the amendment was not germane to the bill. The Chair sustained the point of order. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/485?format=json"
+        },
+        {
+            "amendmentNumber": "429",
+            "congress": 105,
+            "introducedDate": "1997-10-09",
+            "latestAction": {
+                "actionDate": "1997-10-09",
+                "actionTime": "16:57:04",
+                "text": "On agreeing to the Moran (VA) amendment (A003) Failed by recorded vote: 197 - 212, 1 Present (Roll no. 512). "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/429?format=json"
+        },
+        {
+            "amendmentNumber": "69",
+            "congress": 105,
+            "introducedDate": "1997-05-07",
+            "latestAction": {
+                "actionDate": "1997-05-07",
+                "actionTime": "13:51:35",
+                "text": "By unanimous consent, the Moran (VA) amendment was withdrawn. "
+            },
+            "type": null,
+            "url": "https://api.congress.gov/v3/amendment/105/hamdt/69?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-08-06",
+            "latestAction": {
+                "actionDate": "1998-08-26",
+                "text": "Referred to the Subcommittee on the Constitution."
+            },
+            "number": "4422",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Federalism Act of 1998",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/4422?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-05-22",
+            "latestAction": {
+                "actionDate": "1998-06-03",
+                "text": "Referred to the Subcommittee on Surface Transportation."
+            },
+            "number": "3971",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Metropolitan Washington Regional Transportation Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3971?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-25",
+            "latestAction": {
+                "actionDate": "1998-04-06",
+                "text": "Referred to the Subcommittee on Surface Transportation."
+            },
+            "number": "3555",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "Driver Record Information Verification System Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3555?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-03-19",
+            "latestAction": {
+                "actionDate": "1998-06-09",
+                "text": "See H.R.2400."
+            },
+            "number": "3525",
+            "policyArea": {
+                "name": "Transportation and Public Works"
+            },
+            "title": "To amend the National Highway System Designation Act of 1995 to specify the number and use of vehicle lanes on any replacement of the Woodrow Wilson Memorial Bridge, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3525?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-02-25",
+            "latestAction": {
+                "actionDate": "1998-03-16",
+                "text": "Referred to the Subcommittee on Postsecondary Education, Training and Life-Long Learning."
+            },
+            "number": "3272",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "To amend the Job Training Partnership Act to allow certain funds under that Act to be used for payment of incentive bonuses to certain job training providers that place large percentages of individuals in occupations for which a high demand exists.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3272?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-02-25",
+            "latestAction": {
+                "actionDate": "1998-02-25",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3274",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to allow employers a credit against income tax for high technology job training expenses.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3274?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-02-25",
+            "latestAction": {
+                "actionDate": "1998-03-16",
+                "text": "Referred to the Subcommittee on Postsecondary Education, Training and Life-Long Learning."
+            },
+            "number": "3271",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "To amend the Job Training Partnership Act to establish regional private industry councils for labor market areas that are located in more than one State, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3271?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-02-25",
+            "latestAction": {
+                "actionDate": "1998-03-05",
+                "text": "Referred to the Subcommittee on Immigration and Claims."
+            },
+            "number": "3273",
+            "policyArea": {
+                "name": "Immigration"
+            },
+            "title": "To treat certain information technology occupations as if the Secretary of Labor had made a determination under section (a)(5)(A) of the Immigration and Nationality Act, to limit such determinations, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3273?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-02-25",
+            "latestAction": {
+                "actionDate": "1998-03-16",
+                "text": "Referred to the Subcommittee on Postsecondary Education, Training and Life-Long Learning."
+            },
+            "number": "3270",
+            "policyArea": {
+                "name": "Labor and Employment"
+            },
+            "title": "Regional Skills Training Alliances Act of 1998",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/3270?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-09-10",
+            "latestAction": {
+                "actionDate": "1997-09-19",
+                "text": "Referred to the Subcommittee on Finance and Hazardous Materials, for a period to be subsequently determined by the Chairman."
+            },
+            "number": "2451",
+            "policyArea": {
+                "name": "Environmental Protection"
+            },
+            "title": "Children's Environmental Protection Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2451?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-07-16",
+            "latestAction": {
+                "actionDate": "1997-07-22",
+                "text": "Referred to the Subcommittee on Telecommunications, Trade, and Consumer Protection, for a period to be subsequently determined by the Chairman."
+            },
+            "number": "2176",
+            "policyArea": {
+                "name": "Sports and Recreation"
+            },
+            "title": "Professional Boxing Corporation Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/2176?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-06-10",
+            "latestAction": {
+                "actionDate": "1997-07-28",
+                "text": "Placed on the House Calendar, Calendar No. 72."
+            },
+            "number": "1851",
+            "policyArea": {
+                "name": "Commemorations"
+            },
+            "title": "To designate the United States courthouse located at 200 South Washington Street in Alexandria, Virginia, as the \"Martin V. B. Bostetter, Jr. United States Courthouse\".",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1851?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-06-03",
+            "latestAction": {
+                "actionDate": "1997-11-10",
+                "text": "Unfavorable Executive Comment Received from DOD."
+            },
+            "number": "1766",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "To amend title 10, United States Code, to establish a demonstration project to evaluate the feasibility of using the Federal Employees Health Benefits program to ensure the availability of adequate health care for Medicare-eligible beneficiaries under the military health care system.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1766?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-04-24",
+            "latestAction": {
+                "actionDate": "1997-05-02",
+                "text": "Referred to the Subcommittee on Health and Environment."
+            },
+            "number": "1451",
+            "policyArea": {
+                "name": "Health"
+            },
+            "title": "Pediatric Research Initiative Act of 1997",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1451?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-04-21",
+            "latestAction": {
+                "actionDate": "1997-04-21",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "1405",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "To amend the Foreign Assistance Act of 1961 to require that information relating to United States policy to establish and encourage an international strategy to reduce violations of the human rights of working children be included in the annual human rights report of the Department of State.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1405?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-03-18",
+            "latestAction": {
+                "actionDate": "1997-03-18",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1112",
+            "policyArea": {
+                "name": "Taxation"
+            },
+            "title": "To amend the Internal Revenue Code of 1986 to provide that the preferential income tax treatment of political organizations shall apply only to principal campaign committees, to provide that a cancellation of a loan to such a committee shall be includible in such committee's taxable income, and for other purposes.",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/1112?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-02-27",
+            "latestAction": {
+                "actionDate": "1997-03-28",
+                "text": "Referred to the Subcommittee on Financial Institutions and Consumer Credit."
+            },
+            "number": "883",
+            "policyArea": {
+                "name": "Finance and Financial Sector"
+            },
+            "title": "Government Credit Card Reform Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/883?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1997-01-07",
+            "latestAction": {
+                "actionDate": "1997-02-03",
+                "text": "Executive Comment Requested from DOD."
+            },
+            "number": "76",
+            "policyArea": {
+                "name": "Armed Forces and National Security"
+            },
+            "title": "Health Care Commitment Act",
+            "type": "HR",
+            "url": "https://api.congress.gov/v3/bill/105/hr/76?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-02-03",
+            "latestAction": {
+                "actionDate": "1998-02-06",
+                "text": "Referred to the Subcommittee on the Constitution."
+            },
+            "number": "108",
+            "policyArea": {
+                "name": "Government Operations and Politics"
+            },
+            "title": "Proposing an amendment to the Constitution of the United States to allow the limitation of contributions and expenditures respecting elections.",
+            "type": "HJRES",
+            "url": "https://api.congress.gov/v3/bill/105/hjres/108?format=json"
+        },
+        {
+            "congress": 105,
+            "introducedDate": "1998-10-02",
+            "latestAction": {
+                "actionDate": "1998-10-02",
+                "text": "Referred to the House Committee on International Relations."
+            },
+            "number": "569",
+            "policyArea": {
+                "name": "International Affairs"
+            },
+            "title": "Concerning the extradition to the United States of Salvadorans.",
+            "type": "HRES",
+            "url": "https://api.congress.gov/v3/bill/105/hres/569?format=json"
+        }
+    ]
+}

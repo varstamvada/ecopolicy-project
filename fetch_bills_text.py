@@ -2,7 +2,7 @@ import csv
 import requests
 from datetime import datetime
 
-api_key = "TcAsfbl78LnPadowZCoBIL25bFdTArErtcqSKt9J"
+api_key = PUT API KEYHERE
 base_url = "https://api.congress.gov/v3/bill"
 
 with open('billsforanalysis.csv', 'r') as csvfile:

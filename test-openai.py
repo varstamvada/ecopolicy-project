@@ -91,7 +91,7 @@ if __name__ == "__main__":
     # Replace these paths and API key as appropriate
     folder_with_bills = "analyzebills"
     output_csv_file = "output_scores.csv"
-    my_api_key = "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"
+    my_api_key = PUTAPIKEYHERE
 
     # Step 1: Extract the text from all BILLS* files
     bills_texts = extract_texts_from_bills(folder_with_bills)

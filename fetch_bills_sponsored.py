@@ -5,7 +5,7 @@ import math
 
 # this replaces the get_sponsored_legis. This is the script that fetches all the bills for members
 
-api_key = 'TcAsfbl78LnPadowZCoBIL25bFdTArErtcqSKt9J'
+api_key = PUTAPIKEYHERE
 limit = 250
 base_url = 'https://api.congress.gov/v3/member/'
 endpoint = 'sponsored-legislation?format=json'
